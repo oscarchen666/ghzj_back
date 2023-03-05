@@ -241,17 +241,20 @@ def yinzhang(pid):
         }
         yzlist.append(info)
     # print(yzlist[:10])
-
     return yzlist
 
+def painting(pid):
+
+    # 根据pid找paintingID
+    yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
+    ppid = yzdf[yzdf["pid"]==int(pid)]["paintingID"].values[0]
+    # print(ppid)
+    fullpath = "../home/jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}.jpg".format(ppid=ppid)
+    img = return_img_stream(fullpath)
+    return img
 
 if __name__ == '__main__':
-    # print(lianxian("894","趙孟頫"))
-    # ciyun("894")
-    # print(gaoliang("894","書畫","Thing"))
-    # print(gaoliang("894","周密","PersonName"))
-    # auinfoscore("894")
-    yinzhang("894")
+    painting("894")
 
 
     

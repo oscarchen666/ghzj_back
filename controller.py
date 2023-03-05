@@ -93,6 +93,13 @@ def getauthorlist(pid):
         result = authorlist(pid)
         return R.ok(result)
     return R.erro2()
+
+@app.route("getpainting/<pid>",methods=['GET'])
+def getpainting(pid):
+    # 获取画作图像
+    result = painting(pid)
+    return R.ok(result)
+
  
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=28081, debug = True)
