@@ -99,6 +99,15 @@ def authorlist(pid):
             result[sentence["author"]]["总数"]=result[sentence["author"]]["本幅"]+1
         else:
             result[sentence["author"]]={"本幅":1,"总数":1}
+
+    # 查询朝代和cid
+    for au in result:
+        sql = "select c_personid,c_dy from BIOG_MAIN where c_name_chn = '"+au+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+au+"')" 
+        out = select("latest.db",sql)
+        if out:
+            result[au]["朝代"]=out[0]["c_dy"]
+            result[au]["cid"]=out[0]["c_personid"]
+
     with open(save_path,"w",encoding="UTF8") as f:
         json.dump(result, f,indent=2, ensure_ascii=False)
     return result
@@ -189,7 +198,8 @@ def auinfoscore(pid):
     with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
         alist = json.load(f)
     for author in alist:
-        sql ="select c_name_chn,c_personid,c_birthyear,c_deathyear from BIOG_MAIN where c_name_chn='"+author+"'or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+author+"')"
+        if "cid" not in alist[author]:continue
+        sql ="select c_name_chn,c_personid,c_birthyear,c_deathyear from BIOG_MAIN where c_personid = '"+str(alist[author]["cid"])+"'"
         out = select("latest.db",sql)
         if out: # 搜不到的人就不管了
             cinfo={

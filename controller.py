@@ -1,4 +1,4 @@
-from flask import Flask,request,url_for, redirect
+from flask import Flask,url_for, redirect
 import json
 import os
 
@@ -93,7 +93,6 @@ def getauthorlist(pid):
         result = authorlist(pid)
         return R.ok(result)
     return R.erro2()
-    
  
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=28081, debug = True)
