@@ -1,0 +1,495 @@
+{
+  "filefroms": "13941.json",
+  "sentences": [
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "蘇軾",
+          "cid": 3767,
+          "name": "蘇軾"
+        }
+      ],
+      "sentence": "蘇軾東坡。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "蔡肇",
+          "cid": 1648,
+          "name": "蔡肇"
+        }
+      ],
+      "sentence": "蔡肇天啟。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李之儀",
+          "cid": 3484,
+          "name": "李之儀"
+        }
+      ],
+      "sentence": "李之儀端叔。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "晉卿",
+          "cid": 1014,
+          "name": "李仲偃"
+        }
+      ],
+      "sentence": "王詵晉卿。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "秦觀",
+          "cid": 3043,
+          "name": "秦觀"
+        }
+      ],
+      "sentence": "秦觀少游。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "碧虛",
+          "cid": 113349,
+          "name": "釋道光"
+        }
+      ],
+      "sentence": "道士陳碧虛。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李公麟",
+          "cid": 19865,
+          "name": "李公麟"
+        }
+      ],
+      "sentence": "李公麟伯時。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "子由",
+          "cid": 1493,
+          "name": "蘇轍"
+        }
+      ],
+      "sentence": "蘇轍子由。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "文潛",
+          "cid": 12354,
+          "name": "張耒"
+        }
+      ],
+      "sentence": "張耒文潛。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "黃庭堅",
+          "cid": 7111,
+          "name": "黃庭堅"
+        }
+      ],
+      "sentence": "黃庭堅魯直。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "晁補之",
+          "cid": 13,
+          "name": "晁補之"
+        }
+      ],
+      "sentence": "晁補之无咎。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "鄭靖",
+          "cid": 535896,
+          "name": "鄭靖"
+        }
+      ],
+      "sentence": "鄭靖老。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "元章",
+          "cid": 72229,
+          "name": "元章"
+        }
+      ],
+      "sentence": "米芾元章。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王欽臣",
+          "cid": 1767,
+          "name": "王欽臣"
+        }
+      ],
+      "sentence": "王欽臣仲至。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "劉涇",
+          "cid": 10660,
+          "name": "劉涇"
+        }
+      ],
+      "sentence": "劉涇巨濟。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "大師",
+          "cid": 138846,
+          "name": "段師"
+        }
+      ],
+      "sentence": "僧曇秀圓通大師。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "宋人"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "衣衫"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "蕉石"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "故紙"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 68,
+          "span": "乾隆丁未"
+        },
+        {
+          "type": "Time",
+          "start": 69,
+          "end": 76,
+          "span": "西元一七八七年"
+        }
+      ],
+      "sentence": "公麟然否實公麟。古筆知誠出宋人。跋語奚妨去其贋。長圖益足尚斯真。衣衫如篆渾唐法。蕉石生神異李皴。名欵設惟徵故紙。是為求劍刻舟倫。乾隆丁未（西元一七八七年）清和上澣御題。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": "null",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丁未"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七八七年"
+        }
+      ],
+      "sentence": "乾隆丁未（西元一七八七年）清和上澣御題。",
+      "author": "清高宗"
+    },
+    {
+      "authorcid": 57321,
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "右卷"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "石渠"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "李公麟",
+          "cid": 19865,
+          "name": "李公麟"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 18,
+          "span": "西園勝會圖"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 37,
+          "span": "公麟"
+        },
+        {
+          "type": "Person",
+          "start": 46,
+          "end": 48,
+          "span": "公麟"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 57,
+          "span": "翰臣",
+          "cid": 57935,
+          "name": "龍啟瑞"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾"
+        },
+        {
+          "type": "Person",
+          "start": 121,
+          "end": 123,
+          "span": "人物"
+        },
+        {
+          "type": "Thing",
+          "start": 123,
+          "end": 125,
+          "span": "衣褶"
+        },
+        {
+          "type": "Person",
+          "start": 133,
+          "end": 135,
+          "span": "公麟"
+        },
+        {
+          "type": "Person",
+          "start": 149,
+          "end": 152,
+          "span": "宋名家"
+        },
+        {
+          "type": "Person",
+          "start": 172,
+          "end": 174,
+          "span": "何人"
+        },
+        {
+          "type": "PersonName",
+          "start": 186,
+          "end": 188,
+          "span": "六人",
+          "cid": 531029,
+          "name": "杜彥卿"
+        },
+        {
+          "type": "PersonName",
+          "start": 196,
+          "end": 198,
+          "span": "端叔",
+          "cid": 76778,
+          "name": "楊詩南"
+        },
+        {
+          "type": "PersonName",
+          "start": 199,
+          "end": 202,
+          "span": "李公擇",
+          "cid": 40291,
+          "name": "李公擇"
+        },
+        {
+          "type": "Person",
+          "start": 203,
+          "end": 206,
+          "span": "僧曇秀"
+        },
+        {
+          "type": "Person",
+          "start": 207,
+          "end": 209,
+          "span": "道潛"
+        },
+        {
+          "type": "Person",
+          "start": 214,
+          "end": 216,
+          "span": "東坡"
+        },
+        {
+          "type": "PersonName",
+          "start": 219,
+          "end": 221,
+          "span": "王銑",
+          "cid": 69399,
+          "name": "王銑"
+        },
+        {
+          "type": "Person",
+          "start": 270,
+          "end": 272,
+          "span": "宋人"
+        },
+        {
+          "type": "Person",
+          "start": 288,
+          "end": 290,
+          "span": "諸人"
+        },
+        {
+          "type": "PersonName",
+          "start": 318,
+          "end": 320,
+          "span": "董誥",
+          "cid": 57321,
+          "name": "董誥"
+        }
+      ],
+      "sentence": "右卷續入石渠。舊題為李公麟西園勝會圖。幾暇重加披覽。見其佈景古茂。雖用公麟之事。而畫法則全異公麟蹊徑。因命内廷翰臣等。以米芾西園雅集圖記校之。其人數位置皆合。惟第二第三叚敘次前後不同。盖文章畫趣各適其適。固自無妨也。至用筆蒼秀雄渾。生動開張。人物衣褶有古篆籀遺意。與公麟所畫用筆不類。雖幀中無款自屬宋名家手筆。正不藉假託龍眠以增聲價耳。幀後不知何人捨記而别作識語。且記中十六人僅止十一。又訛李端叔為李公擇。僧曇秀為道潛。甚至兩見東坡。三見王銑。又訛詵作侁。舛謬蕪雜之處。不值一噱。盖陋者偶得是卷。妄為綴識。不自知其蛇足也。爰命截去題跋。改題宋人西園雅集圖籖。以存真面。既於圖中諸人親書其名。並識如右。乾隆丁未（西元一七八七年）清和月。臣董誥奉勅敬書。",
+      "author": "董誥"
+    },
+    {
+      "authorcid": 57321,
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丁未"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一七八七年）清和月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "董誥",
+          "cid": 57321,
+          "name": "董誥"
+        }
+      ],
+      "sentence": "乾隆丁未（西元一七八七年）清和月。臣董誥奉敕敬書。",
+      "author": "董誥"
+    }
+  ]
+}
