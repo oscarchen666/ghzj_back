@@ -7,6 +7,7 @@ import opencc
 from ner.getresulthc import infer,JsonEncoder
 from ner.dealsent import getsentences,predealh
 from ner.findperson import searchfen,select
+from imgtool import return_img_stream
 from assoc.cbdb_dao import CBDBDAO
 
 def ner_search(pid):
