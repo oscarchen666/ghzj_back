@@ -1,4 +1,4 @@
-from flask import Flask,url_for, redirect
+from flask import Flask,url_for, redirect,request
 from flask_cors import CORS, cross_origin
 import json
 import os
@@ -112,6 +112,16 @@ def getpainting(pid):
     # 获取画作图像
     result = painting(pid)
     return R.ok(result)
+
+@app.route("/getcoor",methods=['GET',"POST"])
+@cross_origin(allow_headers="*")
+def getcoor():
+    x=request.args.get("x")
+    y=request.args.get("y")
+    if x in range(0,9000) and y in range(0,1000):
+        result = coor(x,y)
+        return R.ok(result)
+    return R.erro2()
 
  
 if __name__ == '__main__':

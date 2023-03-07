@@ -253,8 +253,13 @@ def painting(pid):
     img = return_img_stream(fullpath)
     return img
 
+def coor(x,y):
+    with open("reverse.json","r")as f:
+        data=json.load(f)
+    return data[int(x)][int(y)]
+
 if __name__ == '__main__':
-    painting("894")
+    coor(1,2)
 
 
     
