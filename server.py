@@ -249,7 +249,7 @@ def painting(pid):
     yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
     ppid = yzdf[yzdf["pid"]==int(pid)]["paintingID"].values[0]
     # print(ppid)
-    fullpath = "../home/jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}.jpg".format(ppid=ppid)
+    fullpath = "~/../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}.jpg".format(ppid=ppid)
     img = return_img_stream(fullpath)
     return img
 

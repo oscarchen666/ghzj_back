@@ -1,4 +1,5 @@
 from flask import Flask,url_for, redirect
+from flask_cors import CORS, cross_origin
 import json
 import os
 
@@ -10,12 +11,15 @@ from RestData import R
 
 app = Flask("ghzj_backend")
 app.config['JSON_AS_ASCII'] = False
+CORS(app)
  
 @app.route('/')
+@cross_origin(allow_headers="*")
 def hello():
     return "<p>Hello, World!</p>"
 
 @app.route('/resultner/<pid>', methods=['GET'])
+@cross_origin(allow_headers="*")
 def resultner(pid):
     # 根据画作id直接取生成好的ner结果
     # pid = request.args.get("pid")
@@ -28,6 +32,7 @@ def resultner(pid):
     return redirect(url_for('newner',pid=pid))
 
 @app.route('/newner/<pid>', methods=['GET'])
+@cross_origin(allow_headers="*")
 def newner(pid):
     # 根据画作id生成ner结果
     # pid = request.args.get("pid")
@@ -38,6 +43,7 @@ def newner(pid):
     return R.erro2()
 
 @app.route('/getciyun/<pid>', methods=['GET'])
+@cross_origin(allow_headers="*")
 def getciyun(pid):
     # 词云数据
     resultnerfile = "nerresult/"+pid+".json"
@@ -47,6 +53,7 @@ def getciyun(pid):
     return R.erro2()
 
 @app.route('/getlines/<pid>/<name>', methods=['GET'])
+@cross_origin(allow_headers="*")
 def getlines(pid,name):
     #作者和词云、图像连线数据
     resultnerfile = "nerresult/"+pid+".json"
@@ -56,6 +63,7 @@ def getlines(pid,name):
     return R.erro2()
 
 @app.route('/getgaoliang/<pid>/<name>/<type>', methods=['GET','POST'])
+@cross_origin(allow_headers="*")
 def getgaoliang(pid,name,type):
     # 词云和题跋之间高亮关联
     resultnerfile = "nerresult/"+pid+".json"
@@ -65,12 +73,14 @@ def getgaoliang(pid,name,type):
     return R.erro2()
 
 @app.route("/getAssocData/<name>", methods=['GET'])
+@cross_origin(allow_headers="*")
 # @cross_origin(allow_headers="*")
 def getAssocData(name):
     result = assocdata(name)
     return R.ok(result)
 
 @app.route("/getauinfoscore/<pid>", methods=['GET'])
+@cross_origin(allow_headers="*")
 def getauinfoscore(pid):
     # 作者生卒年和得分
     resultnerfile = "authorinfo/"+pid+".json"
@@ -80,12 +90,14 @@ def getauinfoscore(pid):
     return R.erro2()
 
 @app.route("/getyinzhanglist/<pid>", methods=['GET'])
+@cross_origin(allow_headers="*")
 def getyinzhanglist(pid):
     # 印章列表
     result = yinzhang(pid)
     return R.ok(result)
 
 @app.route("/getauthorlist/<pid>", methods=['GET'])
+@cross_origin(allow_headers="*")
 def getauthorlist(pid):
     # 印章题跋作者列表
     resultnerfile = "nerresult/"+pid+".json"
@@ -94,7 +106,8 @@ def getauthorlist(pid):
         return R.ok(result)
     return R.erro2()
 
-@app.route("getpainting/<pid>",methods=['GET'])
+@app.route("/getpainting/<pid>",methods=['GET'])
+@cross_origin(allow_headers="*")
 def getpainting(pid):
     # 获取画作图像
     result = painting(pid)
