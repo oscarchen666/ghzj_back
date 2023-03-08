@@ -1,7 +1,4 @@
-# from flask import Flask
-# from flask import render_template
- 
-# app = Flask(__name__)
+import os
 
 def return_img_stream(img_local_path):
     """
@@ -17,14 +14,9 @@ def return_img_stream(img_local_path):
         img_stream = base64.b64encode(img_stream).decode()
     return img_stream
 
-# @app.route('/')
-# def hello_world():
-#     img_path = '../1.jpg'
-#     img_stream = return_img_stream(img_path)
-#     return render_template('index.html',
-#                            img_stream=img_stream)
- 
- 
-# if __name__ == '__main__':
-#     app.run(debug=True, port=8080)
+def imgexists(fullpath):
+    # 图片找不到时用空白图替代
+    if os.path.exists(fullpath):
+        return return_img_stream(fullpath)
+    return return_img_stream("暂缺.png")
 

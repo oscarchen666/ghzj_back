@@ -7,7 +7,7 @@ import opencc
 from ner.getresulthc import infer,JsonEncoder
 from ner.dealsent import getsentences,predealh
 from ner.findperson import searchfen,select
-from imgtool import return_img_stream
+from imgtool import return_img_stream,imgexists
 from assoc.cbdb_dao import CBDBDAO
 
 def ner_search(pid):
@@ -226,34 +226,34 @@ def yinzhang(pid):
     for i in range(len(df_this)):
         info = {
             "印章截图文件名":df_this["yinzhang_img"].values[i], 
-            "印章截图":return_img_stream(jtpath.format(pid=df_this["yinzhang_img"].values[i])),
+            "印章截图":imgexists(jtpath.format(pid=df_this["yinzhang_img"].values[i])),
             "top1":{
                 "印章匹配文件名":df_this["top1"].values[i], 
-                "印章匹配图":return_img_stream(pppath.format(pid = df_this["top1"].values[i])),
+                "印章匹配图":imgexists(pppath.format(pid = df_this["top1"].values[i])),
                 "印章作者":df_this["top1_作者"].values[i],
                 "印章内容":df_this["top1_印章内容"].values[i],
             },
             "top2":{
                 "印章匹配文件名":df_this["top2"].values[i],
-                "印章匹配图":return_img_stream(pppath.format(pid = df_this["top2"].values[i])),
+                "印章匹配图":imgexists(pppath.format(pid = df_this["top2"].values[i])),
                 "印章作者":df_this["top2_作者"].values[i],
                 "印章内容":df_this["top2_印章内容"].values[i],
             },
             "top3":{
                 "印章匹配文件名":df_this["top3"].values[i],
-                "印章匹配图":return_img_stream(pppath.format(pid = df_this["top3"].values[i])),
+                "印章匹配图":imgexists(pppath.format(pid = df_this["top3"].values[i])),
                 "印章作者":df_this["top3_作者"].values[i],
                 "印章内容":df_this["top3_印章内容"].values[i],
             },
             "top4":{
                 "印章匹配文件名":df_this["top4"].values[i],
-                "印章匹配图":return_img_stream(pppath.format(pid = df_this["top4"].values[i])),
+                "印章匹配图":imgexists(pppath.format(pid = df_this["top4"].values[i])),
                 "印章作者":df_this["top4_作者"].values[i],
                 "印章内容":df_this["top4_印章内容"].values[i],
             },
             "top5":{
                 "印章匹配文件名":df_this["top5"].values[i],
-                "印章匹配图":return_img_stream(pppath.format(pid = df_this["top5"].values[i])),
+                "印章匹配图":imgexists(pppath.format(pid = df_this["top5"].values[i])),
                 "印章作者":df_this["top5_作者"].values[i],
                 "印章内容":df_this["top5_印章内容"].values[i],
             }
@@ -269,7 +269,7 @@ def painting(pid):
     ppid = yzdf[yzdf["pid"]==int(pid)]["paintingID"].values[0]
     # print(ppid)
     fullpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}.jpg".format(ppid=ppid)
-    img = return_img_stream(fullpath)
+    img = imgexists(fullpath)
     return img
 
 def coor(x,y):
