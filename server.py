@@ -137,7 +137,7 @@ def authorlist(pid):
         sql = "select c_personid,c_dy from BIOG_MAIN where c_name_chn = '"+au+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+au+"')" 
         out = select("latest.db",sql)
         if out:
-            result[au]["朝代"]=id2dy[str(out[0]["c_dy"])]
+            result[au]["朝代"]=str(out[0]["c_dy"])
             result[au]["cid"]=out[0]["c_personid"]
         else:
             result[au]["朝代"]="unkonw"
@@ -256,8 +256,9 @@ def yinzhang(pid):
     yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
 
     df_this = yzdf[yzdf["pid"]==int(pid)]
-    yzlist=[]
-
+    yzaulist=list(set(df_this["top1_作者"].values))
+    yzlist={yzau:[]for yzau in yzaulist}
+    
     for i in range(len(df_this)):
         info = {
             "印章截图地址":df_this["yinzhang_img"].values[i],
@@ -287,7 +288,7 @@ def yinzhang(pid):
                 "印章内容":df_this["top5_印章内容"].values[i],
             }
         }
-        yzlist.append(info)
+        yzlist[df_this["top1_作者"].values[i]].append(info)
     # print(yzlist[:10])
     return yzlist
 
@@ -319,7 +320,7 @@ def coor(x,y):
     return data[x][y]
 
 if __name__ == '__main__':
-    print(authorlist("894"))
+    yinzhang("894")
 
 
     
