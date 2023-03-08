@@ -71,13 +71,32 @@ def ciyun(pid):
     }
     return cyres
 
+def aullistbydy(oldres):
+    # 把作者列表转为按朝代分类
+    dylist=list(set([oldres[au]["朝代"] for au in oldres]))
+    newres={
+        "dylist":dylist,
+        "aulist":{dy:[] for dy in dylist}
+    }
+    for au in oldres:
+        info={
+            "姓名":au,
+            "本幅": int(oldres[au]["本幅"]),
+            "总数": int(oldres[au]["总数"]),
+            "cid":str(oldres[au]["cid"]),
+            "作者": oldres[au]["作者"]
+        }
+        newres["aulist"][oldres[au]["朝代"]].append(info)
+    return newres
+    
+
 def authorlist(pid):
     # 印章作者列表
     save_path = "authorinfo/"+pid+".json"
     if os.path.exists(save_path):
         with open(save_path,"r",encoding="UTF8")as f:
             result = json.load(f)
-        return result
+        return aullistbydy(result)
     cc = opencc.OpenCC("s2t")
     yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
     audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
@@ -88,7 +107,8 @@ def authorlist(pid):
         result[cc.convert(au).split("（")[0].replace("·","")]={   
             # 需要将人名转为繁体，去掉()和·
             "本幅":int(alist.count(au)),
-            "总数":int(audf[audf["top1_作者"]==au]["鉴藏画作数量"].values[0])
+            "总数":int(audf[audf["top1_作者"]==au]["鉴藏画作数量"].values[0]),
+            "作者":"no"
             }
     # 题跋作者
     with open("nerresult/"+pid+".json","r",encoding="UTF8")as f:
@@ -99,19 +119,36 @@ def authorlist(pid):
             result[sentence["author"]]["本幅"]=result[sentence["author"]]["本幅"]+1
             result[sentence["author"]]["总数"]=result[sentence["author"]]["本幅"]+1
         else:
-            result[sentence["author"]]={"本幅":1,"总数":1}
+            result[sentence["author"]]={"本幅":1,"总数":1,"作者":"no"}
 
+    # 画作作者
+    hzdf=pd.read_excel("authorinfo/pid_author.xlsx").fillna(value="佚名")
+    hzau=cc.convert(hzdf[hzdf["ID"]==int(pid)]["作者"].values[0])
+    if hzau not in result:
+        result[hzau]={"本幅": 0,"总数": 0,"作者":"yes"}
+    else:
+        result[hzau]["作者"]="yes"
     # 查询朝代和cid
+    with open("authorinfo/id2dy.json","r",encoding="UTF8")as f:
+        id2dy=json.load(f)
+        # 朝代代码转文字
     for au in result:
+        
         sql = "select c_personid,c_dy from BIOG_MAIN where c_name_chn = '"+au+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+au+"')" 
         out = select("latest.db",sql)
         if out:
-            result[au]["朝代"]=out[0]["c_dy"]
+            result[au]["朝代"]=id2dy[str(out[0]["c_dy"])]
             result[au]["cid"]=out[0]["c_personid"]
+        else:
+            result[au]["朝代"]="unkonw"
+            result[au]["cid"]="unkonw"
 
     with open(save_path,"w",encoding="UTF8") as f:
         json.dump(result, f,indent=2, ensure_ascii=False)
-    return result
+        
+    # 按朝代归类
+
+    return aullistbydy(result)
 
 def lianxian(pid,name):
     # 作者和词云、图像连线
@@ -282,7 +319,7 @@ def coor(x,y):
     return data[x][y]
 
 if __name__ == '__main__':
-    coor(1,2)
+    print(authorlist("894"))
 
 
     
