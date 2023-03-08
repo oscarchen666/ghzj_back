@@ -584,12 +584,10 @@
           "span": "五朝"
         },
         {
-          "type": "PersonName",
+          "type": "Person",
           "start": 25,
           "end": 26,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀"
+          "span": "人"
         },
         {
           "type": "PersonName",

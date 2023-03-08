@@ -116,9 +116,9 @@ def getpainting(pid):
 @app.route("/getcoor",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
 def getcoor():
-    x=request.args.get("x")
-    y=request.args.get("y")
-    if x in range(0,9000) and y in range(0,1000):
+    x=int(request.args.get("x"))
+    y=int(request.args.get("y"))
+    if (x in range(0,9000)) and (y in range(0,1000)):
         result = coor(x,y)
         return R.ok(result)
     return R.erro2()
