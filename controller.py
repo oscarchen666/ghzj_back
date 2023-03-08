@@ -106,13 +106,6 @@ def getauthorlist(pid):
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getpainting/<pid>",methods=['GET'])
-@cross_origin(allow_headers="*")
-def getpainting(pid):
-    # 获取画作图像
-    result = painting(pid)
-    return R.ok(result)
-
 @app.route("/getcoor",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
 def getcoor():
@@ -120,6 +113,16 @@ def getcoor():
     y=int(request.args.get("y"))
     if (x in range(0,9000)) and (y in range(0,1000)):
         result = coor(x,y)
+        return R.ok(result)
+    return R.erro2()
+
+@app.route("/getimg",methods=['GET',"POST"])
+@cross_origin(allow_headers="*")
+def getimg():
+    imgid = request.args.get("imgid")
+    imgtype = request.args.get("imgtype")
+    if imgtype in ["截图","匹配","画作"]:
+        result = image(imgid,imgtype)
         return R.ok(result)
     return R.erro2()
 

@@ -18,5 +18,7 @@ def imgexists(fullpath):
     # 图片找不到时用空白图替代
     if os.path.exists(fullpath):
         return return_img_stream(fullpath)
+    
+    # return "这里是图片"
     return return_img_stream("暂缺.png")
 
