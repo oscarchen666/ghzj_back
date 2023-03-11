@@ -121,10 +121,16 @@ def getcoor():
 def getimg():
     imgid = request.args.get("imgid")
     imgtype = request.args.get("imgtype")
-    if imgtype in ["截图","匹配","画作"]:
+    if imgtype in ["截图","匹配","画作","画心"]:
         result = image(imgid,imgtype)
         return R.ok(result)
     return R.erro2()
+
+@app.route("/gethuaxin/<pid>",methods=['GET'])
+@cross_origin(allow_headers="*")
+def gethuaxin(pid):
+    result=huaxininfo(pid)
+    return R.ok(result)
 
  
 if __name__ == '__main__':

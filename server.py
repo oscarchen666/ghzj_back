@@ -306,9 +306,11 @@ def image(imgid,imgtype):
     # 印章截图地址和印章匹配图地址
     jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{imgid}.png"
     pppath = "../../../jiaailing/data/ChinesePainting/seals/{imgid}.png"
+    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{imgid}.png"
     if imgtype=="截图" :fullpath = jtpath.format(imgid=imgid)
     elif imgtype=="匹配":fullpath = pppath.format(imgid=imgid)
     elif imgtype=="画作":fullpath = painting(imgid)
+    elif imgtype=="画心":fullpath = hxpath.format(imgid=imgid)
     print(fullpath)
     img = imgexists(fullpath)
     return img
@@ -320,10 +322,26 @@ def coor(x,y):
     return data[x][y]
 
 def huaxininfo(pid):
-    pass
+    hxdf = pd.read_excel("data/画心.xlsx")
+    hxdf=hxdf[hxdf["ID"]==int(pid)]
+    xshzid=hxdf["相似画作_ID"].values[0].split(",")
+    xsimg=hxdf["相似画作图"].values[0].split(",")
+    auname=hxdf["作者"].values[0].split(",")
+    hzname=hxdf["品名"].values[0].split(",")
+    result = []
+    for i in range(len(xshzid)):
+        info={
+            "相似画作id":xshzid[i],
+            "相似画作图":xsimg[i],
+            "作者":auname[i],
+            "画作名":hzname[i]
+        }
+        result.append(info)
+    return result
+    
 
 if __name__ == '__main__':
-    yinzhang("894")
+    print(huaxininfo("894"))
 
 
     
