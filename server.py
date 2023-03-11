@@ -292,24 +292,20 @@ def yinzhang(pid):
     # print(yzlist[:10])
     return yzlist
 
-def painting(pid):
-    # 返回画作原图
-    # 根据pid找paintingID
-    yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
-    ppid = yzdf[yzdf["pid"]==int(pid)]["paintingID"].values[0]
-    # print(ppid)
-    fullpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}.jpg".format(ppid=ppid)
-    return fullpath
-
 def image(imgid,imgtype):
     # 返回对应的图
     # 印章截图地址和印章匹配图地址
-    jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{imgid}.png"
-    pppath = "../../../jiaailing/data/ChinesePainting/seals/{imgid}.png"
-    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{imgid}.png"
+    jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{imgid}"
+    pppath = "../../../jiaailing/data/ChinesePainting/seals/{imgid}"
+    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{imgid}"
+    hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}"
     if imgtype=="截图" :fullpath = jtpath.format(imgid=imgid)
     elif imgtype=="匹配":fullpath = pppath.format(imgid=imgid)
-    elif imgtype=="画作":fullpath = painting(imgid)
+    elif imgtype=="画作":
+        # 根据pid找paintingID
+        yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
+        ppid = yzdf[yzdf["pid"]==int(imgid)]["paintingID"].values[0]
+        fullpath = hzpath.format(ppid=ppid)
     elif imgtype=="画心":fullpath = hxpath.format(imgid=imgid)
     print(fullpath)
     img = imgexists(fullpath)
