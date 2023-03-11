@@ -20,5 +20,5 @@ def imgexists(fullpath):
         return return_img_stream(fullpath)
     
     # return "这里是图片"
-    return return_img_stream("暂缺.png")
+    return return_img_stream("data/暂缺.png")
 

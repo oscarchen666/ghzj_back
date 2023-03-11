@@ -135,7 +135,7 @@ def authorlist(pid):
     for au in result:
         
         sql = "select c_personid,c_dy from BIOG_MAIN where c_name_chn = '"+au+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+au+"')" 
-        out = select("latest.db",sql)
+        out = select("data/latest.db",sql)
         if out:
             result[au]["朝代"]=str(out[0]["c_dy"])
             result[au]["cid"]=out[0]["c_personid"]
@@ -193,7 +193,7 @@ def gaoliang(pid,name,type):
 
 def assocdata(name):
     # 国画大数据的关系图谱
-    data_csv = pd.read_csv(r'data.csv')
+    data_csv = pd.read_csv(r'data/data.csv')
     row = data_csv[data_csv['authorNameTC'] == name]
 
     if len(row) == 0 or math.isnan(row['cid']) == True:
@@ -205,7 +205,7 @@ def assocdata(name):
         }
     
     id = int(row['cid'])
-    cbdb_dao = CBDBDAO('latest.db', use_cache=True)
+    cbdb_dao = CBDBDAO('data/latest.db', use_cache=True)
     cbdb_dao.getCBDBID(id)
     # 一度亲属关系和有直接事件联系的人，这群人互相之间关联的事件
     events = cbdb_dao.get_all_assoc_data()
@@ -238,7 +238,7 @@ def auinfoscore(pid):
     for author in alist:
         if "cid" not in alist[author]:continue
         sql ="select c_name_chn,c_personid,c_birthyear,c_deathyear from BIOG_MAIN where c_personid = '"+str(alist[author]["cid"])+"'"
-        out = select("latest.db",sql)
+        out = select("data/latest.db",sql)
         if out: # 搜不到的人就不管了
             cinfo={
                 "cid":out[0]["c_personid"],
@@ -315,9 +315,12 @@ def image(imgid,imgtype):
 
 
 def coor(x,y):
-    with open("reverse.json","r")as f:
+    with open("data/reverse.json","r")as f:
         data=json.load(f)
     return data[x][y]
+
+def huaxininfo(pid):
+    pass
 
 if __name__ == '__main__':
     yinzhang("894")

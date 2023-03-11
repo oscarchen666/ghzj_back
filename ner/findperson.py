@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 from ner.getresulthc import infer,JsonEncoder
 from ner.dealsent import getsentences,predealh
-dbpath = "latest.db"
+dbpath = "data/latest.db"
 
 def dict_factory(cursor, row):
     d = {}

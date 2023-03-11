@@ -34,7 +34,7 @@ class CBDBDAO(SqliteDAO):
       self.person_name2ids[cc.convert(row['c_name_chn'])] = row['c_personid']
       self.cbdbid2name[row['c_personid']] = cc.convert(row['c_name_chn'])
 
-    self.peopleId = peopleId;
+    self.peopleId = peopleId
 
   def get_all_kin_data(self):
     cc = OpenCC('t2s')
