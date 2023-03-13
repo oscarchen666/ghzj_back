@@ -117,7 +117,7 @@ def authorlist(pid):
         if sentence["author"] =="清高宗":sentence["author"]="愛新覺羅弘曆"
         if sentence["author"] in result:
             result[sentence["author"]]["本幅"]=result[sentence["author"]]["本幅"]+1
-            result[sentence["author"]]["总数"]=result[sentence["author"]]["本幅"]+1
+            result[sentence["author"]]["总数"]=result[sentence["author"]]["总数"]+1
         else:
             result[sentence["author"]]={"本幅":1,"总数":1,"作者":"no"}
 
@@ -325,6 +325,7 @@ def huaxininfo(pid):
     auname=hxdf["作者"].values[0].split(",")
     hzname=hxdf["品名"].values[0].split(",")
     result = []
+    
     for i in range(len(xshzid)):
         info={
             "相似画作id":xshzid[i],
@@ -337,7 +338,7 @@ def huaxininfo(pid):
     
 
 if __name__ == '__main__':
-    print(huaxininfo("894"))
+    authorlist("894")
 
 
     
