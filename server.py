@@ -154,6 +154,7 @@ def lianxian(pid,name):
     # 作者和词云、图像连线
     # 和词云连线
     cylines = []
+    if name=="愛新覺羅弘曆": name="清高宗"
     with open("nerresult/"+pid+".json","r",encoding="UTF8")as f:
         tbdata = json.load(f)
     for sentence in tbdata["sentences"]:
