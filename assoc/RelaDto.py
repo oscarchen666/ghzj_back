@@ -83,7 +83,7 @@ class RelaDto():
         kinlist=[{"人1id":out["c_personid"],"人2id":out["c_kin_id"],
                "关系":out["c_kinrel_chn"],"关系类型":"亲缘",
                "年份":None,"地点":None}for out in outs]
-        print(kinlist)
+        # print(kinlist)
         return kinlist
     
     def select_assoc(self,cidlist):
@@ -107,7 +107,7 @@ class RelaDto():
                     "关系类型":self.id2rela[str(out["c_assoc_code"])]["关系类型"],
                     "年份":out["c_assoc_year"],"地点":addr}
             assoclist.append(assoc)
-        print(assoclist)
+        # print(assoclist)
         return assoclist
     
     def select_one_person(self,cid):
@@ -127,9 +127,10 @@ class RelaDto():
         # 获取列表人物之间关系
         kinlist = self.select_kin(cidlist)
         assoclist = self.select_assoc(cidlist)
-        alllist = kinlist.extend(assoclist)
+        kinlist.extend(assoclist)
+        # print(len(kinlist))
         result = {
-            "关系列表":alllist,
+            "关系列表":kinlist,
             "人物列表":tmpid2info
         }
         return result

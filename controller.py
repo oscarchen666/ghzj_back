@@ -75,8 +75,14 @@ def getgaoliang(pid,name,type):
 @app.route("/getAssocData/<name>", methods=['GET'])
 @cross_origin(allow_headers="*")
 # @cross_origin(allow_headers="*")
-def getAssocData(name):
-    result = assocdata(name)
+def getAssocData(name):#弃用
+    return R.ok("弃用")
+
+@app.route("/getpersonnet", methods=['GET'])
+@cross_origin(allow_headers="*")
+def getpersonnet():
+    cid = int(request.args.get("cid"))
+    result = personnet(cid)
     return R.ok(result)
 
 @app.route("/getauinfoscore/<pid>", methods=['GET'])

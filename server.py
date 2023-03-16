@@ -338,17 +338,12 @@ def huaxininfo(pid):
         result.append(info)
     return result
     
-def personinfo(cidlist):
-
-    cidlist=[17690,10183,17689]
-    reladto.save_id2info(reladto.getid2info(cidlist))
-    cidlist = [cid for cid in reladto.id2info]
-    reladto.save_id2info(reladto.getid2info([17690,10815]))
-    print(reladto.id2info)
-    print(reladto.sample_id2info([17690]))
+def personnet(cid):
+    result= reladto.select_one_person(cid)
+    return result
 
 if __name__ == '__main__':
-    personinfo("yes")
+    personnet("17690")
 
 
     
