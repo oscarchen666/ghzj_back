@@ -1,4 +1,31 @@
 import os
+import sqlite3
+import json
+import numpy as np
+
+class JsonEncoder(json.JSONEncoder):
+    # 用于处理写json文件格式问题
+    def default(self, obj):
+        if isinstance(obj, (np.integer, np.floating, np.bool_)):
+            return obj.item()
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        else:
+            return super(JsonEncoder, self).default(obj)
+
+def dict_factory(cursor, row):
+    d = {}
+    for idx, col in enumerate(cursor.description):
+        d[col[0]] = row[idx]
+    return d
+
+def select(dbpath,sql_str):
+    con = sqlite3.connect(dbpath) #打开数据库
+    con.row_factory = dict_factory
+    c = con.cursor()
+    c.execute(sql_str)
+    output = c.fetchall()
+    return output
 
 def return_img_stream(img_local_path):
     """
@@ -24,3 +51,5 @@ def imgexists(fullpath):
     # return "这里是图片"
     return {"note":"暂缺.png","streamimg":return_img_stream("data/暂缺.png")}
 
+if __name__ == '__main__':
+    print("yes")

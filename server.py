@@ -4,14 +4,15 @@ import math
 import pandas as pd
 import opencc
 
-from ner.getresulthc import infer,JsonEncoder
-from ner.dealsent import getsentences,predealh
-from ner.findperson import searchfen,select
-from imgtool import return_img_stream,imgexists
+from tool import imgexists,select,JsonEncoder
 from assoc.cbdb_dao import CBDBDAO
+from assoc.RelaDto import reladto
 
 def ner_search(pid):
     # ner生成并搜索    
+    from ner.getresulthc import infer
+    from ner.dealsent import getsentences,predealh
+    from ner.findperson import searchfen
     # 写ner生成部分的代码时考虑批量处理，所以放在一个列表里
     filefroms = [pid+".json"]
     ss,author = getsentences("orig/"+pid+".json")
@@ -337,9 +338,17 @@ def huaxininfo(pid):
         result.append(info)
     return result
     
+def personinfo(cidlist):
+
+    cidlist=[17690,10183,17689]
+    reladto.save_id2info(reladto.getid2info(cidlist))
+    cidlist = [cid for cid in reladto.id2info]
+    reladto.save_id2info(reladto.getid2info([17690,10815]))
+    print(reladto.id2info)
+    print(reladto.sample_id2info([17690]))
 
 if __name__ == '__main__':
-    authorlist("894")
+    personinfo("yes")
 
 
     

@@ -352,8 +352,8 @@
           "start": 17,
           "end": 19,
           "span": "文敏",
-          "cid": 339931,
-          "name": "文敏"
+          "cid": 17690,
+          "name": "趙孟頫"
         },
         {
           "type": "Thing",
@@ -636,12 +636,10 @@
       "authorcid": 35003,
       "output": [
         {
-          "type": "PersonName",
+          "type": "Location",
           "start": 0,
           "end": 2,
-          "span": "吳興",
-          "cid": 209571,
-          "name": "吳興"
+          "span": "吳興"
         },
         {
           "type": "Person",
@@ -1191,11 +1189,11 @@
       "output": [
         {
           "type": "PersonName",
-          "start": 7,
-          "end": 9,
-          "span": "敏公",
-          "cid": 56951,
-          "name": "郝惟訥"
+          "start": 6,
+          "end": 8,
+          "span": "文敏",
+          "cid": 17690,
+          "name": "趙孟頫"
         },
         {
           "type": "Thing",
@@ -1466,12 +1464,10 @@
           "span": "畫卷"
         },
         {
-          "type": "PersonName",
+          "type": "Location",
           "start": 181,
           "end": 183,
-          "span": "吳興",
-          "cid": 209571,
-          "name": "吳興"
+          "span": "吳興"
         },
         {
           "type": "Location",
@@ -1542,12 +1538,10 @@
       "authorcid": "null",
       "output": [
         {
-          "type": "PersonName",
+          "type": "Location",
           "start": 0,
           "end": 2,
-          "span": "吳興",
-          "cid": 209571,
-          "name": "吳興"
+          "span": "吳興"
         },
         {
           "type": "Thing",
