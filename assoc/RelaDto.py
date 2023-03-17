@@ -8,7 +8,8 @@ class RelaDto():
         # 已经查询到信息的人物列表，长期存储
         with open("data/id2info.json","r",encoding="UTF8")as f:
             self.id2info = json.load(f) 
-        self.tmpid2info = {} # 临时人物列表
+        self.tmplist = {} # 临时人物列表
+        self.tmppid = -1 # 临时记录画作
         # 关系id转关系名和类别
         with open ("data/id2rela.json","r",encoding="UTF8")as f:
             self.id2rela = json.load(f)

@@ -340,18 +340,28 @@ def personnet(cid):
     result= reladto.select_one_person(cid)
     return result
 
-def auinfo(pid):
-    # 根据画作取所有作者的详细信息
-    with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
-        aulist = json.load(f)
+def auinfo(pid,cname2id):
+    # 根据画作取所有人物的详细信息，支持新增人物
     cidlist=[]
     name2id = {}
+    aulist={}
+    if pid!=reladto.tmppid:
+        # 默认读取作者列表
+        with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
+            aulist = json.load(f)
+    else:
+        # 临时存储的人物列表，可能包括上次请求手动添加的人物
+        aulist = reladto.tmplist 
+    aulist.update(cname2id)  
     for au in aulist:
         # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
         name2id[au]=aulist[au]["cid"]
         if aulist[au]["cid"]!="unknow":
             cidlist.append(aulist[au]["cid"])
-
+    # 存储当前pid和人物列表
+    reladto.tmppid=pid
+    reladto.tmplist=aulist
+    
     # print(cidlist)
     tmpid2info=reladto.getid2info(cidlist)
     reladto.save_id2info(tmpid2info)
@@ -369,7 +379,20 @@ def auinfo(pid):
     return result
 
 def trytry():
-    print(reladto.select_office(["35003"]))
+    # 增加人物列表，进行人物信息查询并更新
+    with open("authorinfo/-1.json","r",encoding="UTF8")as f:
+        aulist = json.load(f)
+    cidlist=[]
+    name2id = {}
+    aulist.update({"张三":{"cid":123}})
+    for au in aulist:
+        # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
+        name2id[au]=aulist[au]["cid"]
+        if aulist[au]["cid"]!="unknow":
+            cidlist.append(aulist[au]["cid"])
+    print(cidlist)
+
+    
 
 if __name__ == '__main__':
     trytry()

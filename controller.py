@@ -138,9 +138,19 @@ def getpersonnet():
 def getauinfo():
     # 查询画作作者列表之间的关系以及人物信息
     pid=request.args.get("pid")
+    addnames=request.args.get("addnames").split(",")
+    addcids=request.args.get("addcids").split(",")
+    
     if os.path.exists("authorinfo/"+pid+".json"):
         # 得有作者列表
-        result=auinfo(pid)
+        cname2id = {}
+        # 新增人物列表预处理
+        for addname,addcid in zip(addnames,addcids):
+            if addcid!="unknow":
+                cname2id[addname]={"cid":int(addcid)}
+            else:
+                cname2id[addname]={"cid":"unknow"}
+        result=auinfo(pid,cname2id)
         return R.ok(result)
     return R.erro2()
 
