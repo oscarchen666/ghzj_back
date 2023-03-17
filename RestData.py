@@ -37,6 +37,6 @@ class R(object):
         return jsonify(result)
     
     @staticmethod
-    def erro2(code = 511,msg = "参数缺失或有误"):
+    def erro2(code = 511,msg = "参数有误或缺少对应文件"):
         result = {"code":code,"msg":msg}
         return jsonify(result)

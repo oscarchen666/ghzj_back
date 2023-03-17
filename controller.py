@@ -52,6 +52,16 @@ def getciyun(pid):
         return R.ok(result)
     return R.erro2()
 
+@app.route("/getauthorlist/<pid>", methods=['GET'])
+@cross_origin(allow_headers="*")
+def getauthorlist(pid):
+    # 印章题跋作者列表
+    resultnerfile = "nerresult/"+pid+".json"
+    if os.path.exists(resultnerfile):
+        result = authorlist(pid)
+        return R.ok(result)
+    return R.erro2()
+
 @app.route('/getlines/<pid>/<name>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def getlines(pid,name):
@@ -72,19 +82,6 @@ def getgaoliang(pid,name,type):
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getAssocData/<name>", methods=['GET'])
-@cross_origin(allow_headers="*")
-# @cross_origin(allow_headers="*")
-def getAssocData(name):#弃用
-    return R.ok("弃用")
-
-@app.route("/getpersonnet", methods=['GET'])
-@cross_origin(allow_headers="*")
-def getpersonnet():
-    cid = int(request.args.get("cid"))
-    result = personnet(cid)
-    return R.ok(result)
-
 @app.route("/getauinfoscore/<pid>", methods=['GET'])
 @cross_origin(allow_headers="*")
 def getauinfoscore(pid):
@@ -102,13 +99,13 @@ def getyinzhanglist(pid):
     result = yinzhang(pid)
     return R.ok(result)
 
-@app.route("/getauthorlist/<pid>", methods=['GET'])
+@app.route("/getimg",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
-def getauthorlist(pid):
-    # 印章题跋作者列表
-    resultnerfile = "nerresult/"+pid+".json"
-    if os.path.exists(resultnerfile):
-        result = authorlist(pid)
+def getimg():
+    imgid = request.args.get("imgid")
+    imgtype = request.args.get("imgtype")
+    if imgtype in ["截图","匹配","画作","画心"]:
+        result = image(imgid,imgtype)
         return R.ok(result)
     return R.erro2()
 
@@ -122,21 +119,30 @@ def getcoor():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getimg",methods=['GET',"POST"])
-@cross_origin(allow_headers="*")
-def getimg():
-    imgid = request.args.get("imgid")
-    imgtype = request.args.get("imgtype")
-    if imgtype in ["截图","匹配","画作","画心"]:
-        result = image(imgid,imgtype)
-        return R.ok(result)
-    return R.erro2()
-
 @app.route("/gethuaxin/<pid>",methods=['GET'])
 @cross_origin(allow_headers="*")
 def gethuaxin(pid):
     result=huaxininfo(pid)
     return R.ok(result)
+
+@app.route("/getpersonnet", methods=['GET'])
+@cross_origin(allow_headers="*")
+def getpersonnet():
+    # 查询和该人物相关的关系图谱
+    cid = int(request.args.get("cid"))
+    result = personnet(cid)
+    return R.ok(result)
+
+@app.route("/getauinfo",methods=['GET'])
+@cross_origin(allow_headers="*")
+def getauinfo():
+    # 查询画作作者列表之间的关系以及人物信息
+    pid=request.args.get("pid")
+    if os.path.exists("authorinfo/"+pid+".json"):
+        # 得有作者列表
+        result=auinfo(pid)
+        return R.ok(result)
+    return R.erro2()
 
  
 if __name__ == '__main__':

@@ -90,7 +90,6 @@ def aullistbydy(oldres):
         newres["aulist"][oldres[au]["朝代"]].append(info)
     return newres
     
-
 def authorlist(pid):
     # 印章作者列表
     save_path = "authorinfo/"+pid+".json"
@@ -141,8 +140,8 @@ def authorlist(pid):
             result[au]["朝代"]=str(out[0]["c_dy"])
             result[au]["cid"]=out[0]["c_personid"]
         else:
-            result[au]["朝代"]="unkonw"
-            result[au]["cid"]="unkonw"
+            result[au]["朝代"]="unknow"
+            result[au]["cid"]="unknow"
 
     with open(save_path,"w",encoding="UTF8") as f:
         json.dump(result, f,indent=2, ensure_ascii=False)
@@ -192,9 +191,8 @@ def gaoliang(pid,name,type):
     result = {"name":name,"gllist":gllist}
     return result
 
-
 def assocdata(name):
-    # 国画大数据的关系图谱
+    # 国画大数据的关系图,已经弃用
     data_csv = pd.read_csv(r'data/data.csv')
     row = data_csv[data_csv['authorNameTC'] == name]
 
@@ -313,7 +311,6 @@ def image(imgid,imgtype):
     img = imgexists(fullpath)
     return img
 
-
 def coor(x,y):
     with open("data/reverse.json","r")as f:
         data=json.load(f)
@@ -339,11 +336,43 @@ def huaxininfo(pid):
     return result
     
 def personnet(cid):
+    # 查询和该人物相关的关系图谱
     result= reladto.select_one_person(cid)
     return result
 
+def auinfo(pid):
+    # 根据画作取所有作者的详细信息
+    with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
+        aulist = json.load(f)
+    cidlist=[]
+    name2id = {}
+    for au in aulist:
+        # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
+        name2id[au]=aulist[au]["cid"]
+        if aulist[au]["cid"]!="unknow":
+            cidlist.append(aulist[au]["cid"])
+
+    # print(cidlist)
+    tmpid2info=reladto.getid2info(cidlist)
+    reladto.save_id2info(tmpid2info)
+    kinlist=reladto.select_kin(cidlist)
+    assoclist=reladto.select_assoc(cidlist)
+    officelist = reladto.select_office(cidlist)
+    kinlist.extend(assoclist)
+    kinlist.extend(officelist)
+    result ={
+        "关系列表":kinlist,
+        "人物信息":tmpid2info,
+        "人物列表":name2id
+    }
+
+    return result
+
+def trytry():
+    print(reladto.select_office(["35003"]))
+
 if __name__ == '__main__':
-    personnet("17690")
+    trytry()
 
 
     

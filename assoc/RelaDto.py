@@ -1,10 +1,11 @@
 from tool import select
 import json
 class RelaDto():
+    # 该类用于查询人物信息以及人物关系
     def __init__(self,path="data/latest.db"):
         self.dbpath = path
         self.id2info ={}
-        # 已经查询到的人物列表，长期存储
+        # 已经查询到信息的人物列表，长期存储
         with open("data/id2info.json","r",encoding="UTF8")as f:
             self.id2info = json.load(f) 
         self.tmpid2info = {} # 临时人物列表
@@ -59,8 +60,9 @@ class RelaDto():
                     where status_data.c_status_code=status_codes.c_status_code\
                     and c_personid = {}".format(cid)
             outs3 = select(self.dbpath,sql)
-            shlist="none"
+            shlist=None # 避免没有社会区分报错
             if outs3: shlist = [out3["c_status_desc_chn"]for out3 in outs3]
+
             info={
                 "姓名":out["c_name_chn"],
                 "生年":out["c_birthyear"],
@@ -82,7 +84,7 @@ class RelaDto():
         outs = select(self.dbpath,sql)
         kinlist=[{"人1id":out["c_personid"],"人2id":out["c_kin_id"],
                "关系":out["c_kinrel_chn"],"关系类型":"亲缘",
-               "年份":None,"地点":None}for out in outs]
+               "起始年":None,"结束年":None,"地点":None}for out in outs]
         # print(kinlist)
         return kinlist
     
@@ -105,11 +107,40 @@ class RelaDto():
             assoc = {"人1id":out["c_personid"],"人2id":out["c_assoc_id"],
                     "关系":self.id2rela[str(out["c_assoc_code"])]["关系描述"],
                     "关系类型":self.id2rela[str(out["c_assoc_code"])]["关系类型"],
-                    "年份":out["c_assoc_year"],"地点":addr}
+                    "起始年":out["c_assoc_year"],"结束年":None,"地点":addr}
             assoclist.append(assoc)
         # print(assoclist)
         return assoclist
-    
+
+    def select_office(self,cidlist):
+        # 任官事件作为和自己的政治关系
+        sql = "select c_personid,c_office_id,c_posting_id,c_firstyear,c_lastyear\
+                from POSTED_TO_OFFICE_DATA \
+                where c_personid in {}".format(
+                tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
+        outs = select(self.dbpath,sql)
+        officelist=[]
+        # print(outs)
+        for out in outs:
+            #查一下地名
+            sql = "select c_name_chn from POSTED_TO_ADDR_DATA,addr_codes\
+                where POSTED_TO_ADDR_DATA.c_addr_id=addr_codes.c_addr_id\
+                and c_posting_id = {}".format(out["c_posting_id"])
+            out1 = select(self.dbpath,sql)
+            addr = None
+            if out1: addr=out1[0]["c_name_chn"]
+            # 查一下官职名
+            sql = "select c_office_chn from office_codes\
+                where c_office_id = {}".format(out["c_office_id"])
+            out2 = select(self.dbpath,sql)
+            officename= None
+            if out2: officename = out2[0]["c_office_chn"]
+            office={"人1id":out["c_personid"],"人2id":out["c_personid"],
+                    "关系":"任职"+officename,"关系类型":"政治",
+                    "起始年":out["c_firstyear"],"结束年":out["c_lastyear"],"地点":addr}
+            officelist.append(office)
+        return officelist
+
     def select_one_person(self,cid):
         # 获取某人的关系网
         cidlist=[cid]# 人物列表加入主角
@@ -127,7 +158,9 @@ class RelaDto():
         # 获取列表人物之间关系
         kinlist = self.select_kin(cidlist)
         assoclist = self.select_assoc(cidlist)
+        officelist = self.select_office(cidlist)
         kinlist.extend(assoclist)
+        kinlist.extend(officelist)
         # print(len(kinlist))
         result = {
             "关系列表":kinlist,
