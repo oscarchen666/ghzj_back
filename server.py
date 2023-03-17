@@ -345,8 +345,8 @@ def auinfo(pid,cname2id):
     cidlist=[]
     name2id = {}
     aulist={}
-    if pid!=reladto.tmppid:
-        # 默认读取作者列表
+    if pid!=reladto.tmppid or not cname2id:
+        # 切换画作或者无新增人员但请求时，默认读取作者列表并清空存储信息
         with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
             aulist = json.load(f)
     else:
@@ -364,7 +364,8 @@ def auinfo(pid,cname2id):
     
     # print(cidlist)
     tmpid2info=reladto.getid2info(cidlist)
-    reladto.save_id2info(tmpid2info)
+    reladto.save_id2info(tmpid2info)#存储新增的id2info，下次不用再查
+    # 三种关系查询：亲缘、关系、任官
     kinlist=reladto.select_kin(cidlist)
     assoclist=reladto.select_assoc(cidlist)
     officelist = reladto.select_office(cidlist)
@@ -375,7 +376,7 @@ def auinfo(pid,cname2id):
         "人物信息":tmpid2info,
         "人物列表":name2id
     }
-
+    # print(len(name2id))
     return result
 
 def trytry():

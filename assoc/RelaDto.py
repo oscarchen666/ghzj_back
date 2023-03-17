@@ -20,15 +20,6 @@ class RelaDto():
         with open("data/id2info.json","w",encoding="UTF8")as f:
             json.dump(self.id2info,f,indent=2, ensure_ascii=False)
 
-    def sample_id2info(self,cidlist):
-        # 抽取相关的人物信息
-        tmpid2info = {}
-        for cid in self.id2info:
-            if cid in cidlist:
-                tmpid2info[cid]=self.id2info[cid]
-
-        return tmpid2info
-
     def getid2info(self,cidlist):
         # 获取人物列表的cid-信息对
         tmpid2info={}

@@ -141,15 +141,18 @@ def getauinfo():
     addnames=request.args.get("addnames").split(",")
     addcids=request.args.get("addcids").split(",")
     
-    if os.path.exists("authorinfo/"+pid+".json"):
+    if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
         # 得有作者列表
         cname2id = {}
         # 新增人物列表预处理
+        print(addnames)
+
         for addname,addcid in zip(addnames,addcids):
-            if addcid!="unknow":
-                cname2id[addname]={"cid":int(addcid)}
-            else:
+            if addcid=="unknow":
                 cname2id[addname]={"cid":"unknow"}
+            elif addcid=="":break    
+            else:
+                cname2id[addname]={"cid":int(addcid)}
         result=auinfo(pid,cname2id)
         return R.ok(result)
     return R.erro2()
