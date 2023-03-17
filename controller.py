@@ -133,10 +133,10 @@ def getpersonnet():
     result = personnet(cid)
     return R.ok(result)
 
-@app.route("/getauinfo",methods=['GET'])
+@app.route("/getpersonmatrix",methods=['GET'])
 @cross_origin(allow_headers="*")
-def getauinfo():
-    # 查询画作作者列表之间的关系以及人物信息
+def getpersonmatrix():
+    # 查询人物列表之间的关系以及人物信息
     pid=request.args.get("pid")
     addnames=request.args.get("addnames").split(",")
     addcids=request.args.get("addcids").split(",")
@@ -145,15 +145,13 @@ def getauinfo():
         # 得有作者列表
         cname2id = {}
         # 新增人物列表预处理
-        print(addnames)
-
         for addname,addcid in zip(addnames,addcids):
             if addcid=="unknow":
                 cname2id[addname]={"cid":"unknow"}
             elif addcid=="":break    
             else:
                 cname2id[addname]={"cid":int(addcid)}
-        result=auinfo(pid,cname2id)
+        result=personmatrix(pid,cname2id)
         return R.ok(result)
     return R.erro2()
 

@@ -156,7 +156,7 @@ class RelaDto():
         # print(len(kinlist))
         result = {
             "关系列表":kinlist,
-            "人物列表":tmpid2info
+            "人物信息":tmpid2info
         }
         return result
 

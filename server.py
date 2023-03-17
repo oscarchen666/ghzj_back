@@ -340,7 +340,7 @@ def personnet(cid):
     result= reladto.select_one_person(cid)
     return result
 
-def auinfo(pid,cname2id):
+def personmatrix(pid,cname2id):
     # 根据画作取所有人物的详细信息，支持新增人物
     cidlist=[]
     name2id = {}
