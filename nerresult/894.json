@@ -31,13 +31,19 @@
           "span": "山川"
         },
         {
+          "type": "Location",
+          "start": 29,
+          "end": 32,
+          "span": "華不注"
+        },
+        {
           "type": "Person",
           "start": 38,
           "end": 40,
           "span": "左氏"
         },
         {
-          "type": "Thing",
+          "type": "Location",
           "start": 64,
           "end": 66,
           "span": "鵲山"
@@ -172,6 +178,12 @@
           "start": 29,
           "end": 31,
           "span": "天花"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 40,
+          "span": "華不注"
         }
       ],
       "sentence": "駐輦曽城暢遠眸。華不（平）翠注不曽流。何年金母臨蓬海。兩朶天花此處留。右咏華不注。",
@@ -274,7 +286,7 @@
           "span": "雨"
         },
         {
-          "type": "Thing",
+          "type": "Location",
           "start": 18,
           "end": 20,
           "span": "鵲山"
@@ -286,7 +298,7 @@
           "span": "靈鵲"
         },
         {
-          "type": "Thing",
+          "type": "Location",
           "start": 34,
           "end": 36,
           "span": "鵲山"
@@ -1384,7 +1396,7 @@
       "authorcid": "null",
       "output": [
         {
-          "type": "Thing",
+          "type": "Location",
           "start": 0,
           "end": 4,
           "span": "鵲華二山"
@@ -1438,6 +1450,12 @@
           "start": 98,
           "end": 100,
           "span": "山頂"
+        },
+        {
+          "type": "Location",
+          "start": 105,
+          "end": 108,
+          "span": "華不注"
         },
         {
           "type": "Location",
@@ -1556,7 +1574,7 @@
           "span": "二山"
         },
         {
-          "type": "Thing",
+          "type": "Location",
           "start": 52,
           "end": 56,
           "span": "鵲華二山"

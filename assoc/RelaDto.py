@@ -8,8 +8,10 @@ class RelaDto():
         # 已经查询到信息的人物列表，长期存储
         with open("data/id2info.json","r",encoding="UTF8")as f:
             self.id2info = json.load(f) 
-        self.tmplist = {} # 临时人物列表
-        self.tmppid = -1 # 临时记录画作
+        self.tmplist_matrix = {} # 临时人物列表
+        self.tmplist_socre = {}
+        self.tmppid_matrix = -1 # 临时记录画作id
+        self.tmppid_score = -1
         # 关系id转关系名和类别
         with open ("data/id2rela.json","r",encoding="UTF8")as f:
             self.id2rela = json.load(f)
@@ -64,6 +66,7 @@ class RelaDto():
                 "社会区分":shlist
             }
             tmpid2info[cid]=info
+        self.save_id2info(tmpid2info)#存储新增的id2info，下次不用再查
         return tmpid2info
     
     def select_kin(self,cidlist):
@@ -159,6 +162,66 @@ class RelaDto():
             "人物信息":tmpid2info
         }
         return result
+
+    def count_rela(self,cidlist):
+        # 结果列表
+        personinfos={cid:{"相关画作":{},"相关社交":{},"相关文学":{},
+                          "相关政治":{},"相关亲缘":{},"相关其他":{},
+                          "全部关系数量":{"画作":0,"社交":0,"文学":0,"政治":0,"亲缘":0,"其他":0},
+                          "全部关系年份":{"画作":{},"社交":{},"文学":{},"政治":{},"亲缘":{},"其他":{}}}
+                     for cid in cidlist}
+        #个人生卒年
+        id2info = self.getid2info(cidlist)
+        for cid in id2info:
+            personinfos[cid]["生年"]=id2info[cid]["生年"]
+            personinfos[cid]["卒年"]=id2info[cid]["卒年"]
+        # 统计人物在列表之间的的六种关系
+        kinlist = self.select_kin(cidlist)
+        assoclist = self.select_assoc(cidlist)
+        officelist = self.select_office(cidlist)
+        kinlist.extend(assoclist)
+        kinlist.extend(officelist)
+        
+        for rela in kinlist:
+            if rela["人1id"]==rela["人2id"]:continue # 和自己的关系无需连线
+            if rela["人2id"] not in personinfos[rela["人1id"]]["相关"+rela["关系类型"]]:
+                personinfos[rela["人1id"]]["相关"+rela["关系类型"]][rela["人2id"]]=[rela]
+            else:
+                personinfos[rela["人1id"]]["相关"+rela["关系类型"]][rela["人2id"]].append(rela)
+        
+        # 每个人物的全部关系,只统计年份
+        for cid in cidlist:
+            # 亲缘，无年份
+            sql = "select * from kin_data where c_personid={}".format(cid)
+            outs = select(self.dbpath,sql)
+            for out in outs:
+                personinfos[cid]["全部关系数量"]["亲缘"]+=1
+            # 任官关系
+            sql ="select c_firstyear from POSTED_TO_OFFICE_DATA \
+                where c_personid={}".format(cid)
+            outs = select(self.dbpath,sql)
+            for out in outs:
+                personinfos[cid]["全部关系数量"]["政治"]+=1
+                if out["c_firstyear"]in[None,0,-1]:continue # 没有时间的不用记录时间
+                if out["c_firstyear"] in personinfos[cid]["全部关系年份"]["政治"]:
+                    personinfos[cid]["全部关系年份"]["政治"][out["c_firstyear"]]+=1
+                else:
+                    personinfos[cid]["全部关系年份"]["政治"][out["c_firstyear"]]=1
+            # 标准关系
+            sql = "select c_assoc_code,c_assoc_year from assoc_data \
+                where c_personid={}".format(cid)
+            outs = select(self.dbpath,sql)
+            for out in outs:
+                relatype = self.id2rela[str(out["c_assoc_code"])]["关系类型"]
+                personinfos[cid]["全部关系数量"][relatype]+=1
+                if out["c_assoc_year"]in[None,0,-1]:continue# 没有时间的不用记录时间
+                if out["c_assoc_year"] in personinfos[cid]["全部关系年份"]["政治"]:
+                    personinfos[cid]["全部关系年份"]["政治"][out["c_assoc_year"]]+=1
+                else:
+                    personinfos[cid]["全部关系年份"]["政治"][out["c_assoc_year"]]=1
+
+
+        return personinfos
 
 
 reladto=RelaDto()

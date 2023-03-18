@@ -231,12 +231,13 @@ def assocdata(name):
     }
 
 def auinfoscore(pid):
-    # 获取人的生卒年和评价得分
+    # 获取人的生卒年和评价得分等信息
     result= {}
     with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
         alist = json.load(f)
+    
     for author in alist:
-        if "cid" not in alist[author]:continue
+        if alist[author]["cid"]=="unknow":continue
         sql ="select c_name_chn,c_personid,c_birthyear,c_deathyear from BIOG_MAIN where c_personid = '"+str(alist[author]["cid"])+"'"
         out = select("data/latest.db",sql)
         if out: # 搜不到的人就不管了
@@ -341,30 +342,32 @@ def personnet(cid):
     return result
 
 def personmatrix(pid,cname2id):
-    # 根据画作取所有人物的详细信息，支持新增人物
+    # 根据画作取所有人物的详细信息形成矩阵，支持新增人物
     cidlist=[]
     name2id = {}
     aulist={}
-    if pid!=reladto.tmppid or not cname2id:
+    if pid!=reladto.tmppid_matrix or not cname2id:
         # 切换画作或者无新增人员但请求时，默认读取作者列表并清空存储信息
         with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
             aulist = json.load(f)
+        aulist = {au:aulist[au]["cid"]for au in aulist}
     else:
         # 临时存储的人物列表，可能包括上次请求手动添加的人物
-        aulist = reladto.tmplist 
+        aulist = reladto.tmplist_matrix 
     aulist.update(cname2id)  
     for au in aulist:
         # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
-        name2id[au]=aulist[au]["cid"]
-        if aulist[au]["cid"]!="unknow":
-            cidlist.append(aulist[au]["cid"])
+        name2id[au]=aulist[au]
+        if aulist[au]!="unknow":
+            cidlist.append(aulist[au])
     # 存储当前pid和人物列表
-    reladto.tmppid=pid
-    reladto.tmplist=aulist
+    reladto.tmppid_matrix=pid
+    reladto.tmplist_matrix=aulist
+    # print(aulist)
     
-    # print(cidlist)
+    # 查询人物信息
     tmpid2info=reladto.getid2info(cidlist)
-    reladto.save_id2info(tmpid2info)#存储新增的id2info，下次不用再查
+    
     # 三种关系查询：亲缘、关系、任官
     kinlist=reladto.select_kin(cidlist)
     assoclist=reladto.select_assoc(cidlist)
@@ -378,6 +381,39 @@ def personmatrix(pid,cname2id):
     }
     # print(len(name2id))
     return result
+
+
+def personscore(pid,cname2id):
+    # 根据画作取所有人物的详细信息形成得分，支持新增人物
+    cidlist=[]
+    name2id = {}
+    aulist={}
+    if pid!=reladto.tmppid_score or not cname2id:
+        # 切换画作或者无新增人员但请求时，默认读取作者列表并清空存储信息
+        with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
+            aulist = json.load(f)
+        aulist = {au:aulist[au]["cid"]for au in aulist}
+    else:
+        # 临时存储的人物列表，可能包括上次请求手动添加的人物
+        aulist = reladto.tmplist_socre
+    aulist.update(cname2id) 
+    for au in aulist:
+        # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
+        name2id[au]=aulist[au]
+        if aulist[au]!="unknow":
+            cidlist.append(aulist[au])
+    # 存储当前pid和人物列表
+    reladto.tmppid_score=pid
+    reladto.tmplist_socre=aulist
+
+    relares = reladto.count_rela(cidlist)
+    result = {
+        "人物关系信息":relares,
+        "人物列表":name2id
+    }
+
+    return result
+
 
 def trytry():
     # 增加人物列表，进行人物信息查询并更新
@@ -396,7 +432,7 @@ def trytry():
     
 
 if __name__ == '__main__':
-    trytry()
+    personscore("894",{})
 
 
     

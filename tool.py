@@ -51,5 +51,16 @@ def imgexists(fullpath):
     # return "这里是图片"
     return {"note":"暂缺.png","streamimg":return_img_stream("data/暂缺.png")}
 
+def makecname2id(addnames,addcids):
+    # 新增人物列表预处理
+    cname2id = {}
+    for addname,addcid in zip(addnames,addcids):
+        if addcid=="unknow":
+            cname2id[addname]="unknow"
+        elif addcid=="":break    
+        else:
+            cname2id[addname]=int(addcid)
+    return cname2id
+
 if __name__ == '__main__':
     print("yes")

@@ -5,6 +5,7 @@ import os
 
 from server import *
 from RestData import R
+from tool import makecname2id
 # from ner.getresulthc import infer,JsonEncoder
 # from ner.dealsent import getsentences,predealh
 # from ner.findperson import searchfen
@@ -142,19 +143,26 @@ def getpersonmatrix():
     addcids=request.args.get("addcids").split(",")
     
     if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
-        # 得有作者列表
-        cname2id = {}
-        # 新增人物列表预处理
-        for addname,addcid in zip(addnames,addcids):
-            if addcid=="unknow":
-                cname2id[addname]={"cid":"unknow"}
-            elif addcid=="":break    
-            else:
-                cname2id[addname]={"cid":int(addcid)}
+        # 得有作者列表并且参数长度一致
+        cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
         result=personmatrix(pid,cname2id)
         return R.ok(result)
     return R.erro2()
 
+@app.route("/getpersonscore", methods=["GET"])
+@cross_origin(allow_headers="*")
+def getpersonscore():
+    # 查询人物关系计算得分
+    pid=request.args.get("pid")
+    addnames=request.args.get("addnames").split(",")
+    addcids=request.args.get("addcids").split(",")
+
+    if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
+        # 得有作者列表并且参数长度一致
+        cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
+        result=personscore(pid,cname2id)
+        return R.ok(result)
+    return R.erro2()
  
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=28081, debug = True)
