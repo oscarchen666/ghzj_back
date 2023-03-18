@@ -318,6 +318,7 @@ def coor(x,y):
     return data[x][y]
 
 def huaxininfo(pid):
+    # 获取画心数据
     hxdf = pd.read_excel("data/画心.xlsx")
     hxdf=hxdf[hxdf["ID"]==int(pid)]
     xshzid=hxdf["相似画作_ID"].values[0].split(",")
@@ -325,12 +326,28 @@ def huaxininfo(pid):
     auname=hxdf["作者"].values[0].split(",")
     hzname=hxdf["品名"].values[0].split(",")
     result = []
-    
+    cc = opencc.OpenCC("s2t")
     for i in range(len(xshzid)):
+        # 作者生卒年
+        au = cc.convert(auname[i])
+        sql = "select c_personid,c_birthyear,c_deathyear \
+                from biog_main where c_name_chn = '{}'".format(au)
+        out = select("data/latest.db",sql)
+        if out:
+            cid = out[0]["c_personid"]
+            birday = out[0]["c_birthyear"]
+            deaday = out[0]["c_deathyear"]
+        else:
+            cid="unknown"
+            birday=None
+            deaday=None
         info={
             "相似画作id":xshzid[i],
             "相似画作图":xsimg[i],
-            "作者":auname[i],
+            "作者":au,
+            "cid":cid,
+            "作者生年":birday,
+            "作者卒年":deaday,
             "画作名":hzname[i]
         }
         result.append(info)
