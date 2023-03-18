@@ -2,9 +2,8 @@ import json
 import os
 import math
 import pandas as pd
-import opencc
 
-from tool import imgexists,select,JsonEncoder
+from tool import imgexists,select,delauname,JsonEncoder,cc
 from assoc.cbdb_dao import CBDBDAO
 from assoc.RelaDto import reladto
 
@@ -97,14 +96,14 @@ def authorlist(pid):
         with open(save_path,"r",encoding="UTF8")as f:
             result = json.load(f)
         return aullistbydy(result)
-    cc = opencc.OpenCC("s2t")
+    
     yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
     audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
     alist = list(yzdf[yzdf["pid"]==int(pid)]["top1_作者"].values)
     result = {}
     aulist = list(set(alist))
     for au in aulist:
-        result[cc.convert(au).split("（")[0].replace("·","")]={   
+        result[delauname(au)]={   
             # 需要将人名转为繁体，去掉()和·
             "本幅":int(alist.count(au)),
             "总数":int(audf[audf["top1_作者"]==au]["鉴藏画作数量"].values[0]),
@@ -114,7 +113,7 @@ def authorlist(pid):
     with open("nerresult/"+pid+".json","r",encoding="UTF8")as f:
         data = json.load(f)
     for sentence in data["sentences"]:
-        if sentence["author"] =="清高宗":sentence["author"]="愛新覺羅弘曆"
+        sentence["author"]=delauname(sentence["author"])
         if sentence["author"] in result:
             result[sentence["author"]]["本幅"]=result[sentence["author"]]["本幅"]+1
             result[sentence["author"]]["总数"]=result[sentence["author"]]["总数"]+1
@@ -258,38 +257,38 @@ def yinzhang(pid):
 
     df_this = yzdf[yzdf["pid"]==int(pid)]
     yzaulist=list(set(df_this["top1_作者"].values))
-    yzlist={yzau:[]for yzau in yzaulist}
+    yzlist={delauname(yzau):[]for yzau in yzaulist}
     
     for i in range(len(df_this)):
         info = {
             "印章截图地址":df_this["yinzhang_img"].values[i],
             "top1":{
                 "印章匹配图地址":df_this["top1"].values[i],
-                "印章作者":df_this["top1_作者"].values[i],
+                "印章作者":delauname(df_this["top1_作者"].values[i]),
                 "印章内容":df_this["top1_印章内容"].values[i],
             },
             "top2":{
                 "印章匹配图地址":df_this["top2"].values[i],
-                "印章作者":df_this["top2_作者"].values[i],
+                "印章作者":delauname(df_this["top2_作者"].values[i]),
                 "印章内容":df_this["top2_印章内容"].values[i],
             },
             "top3":{
                 "印章匹配图地址":df_this["top3"].values[i],
-                "印章作者":df_this["top3_作者"].values[i],
+                "印章作者":delauname(df_this["top3_作者"].values[i]),
                 "印章内容":df_this["top3_印章内容"].values[i],
             },
             "top4":{
                 "印章匹配图地址":df_this["top4"].values[i],
-                "印章作者":df_this["top4_作者"].values[i],
+                "印章作者":delauname(df_this["top4_作者"].values[i]),
                 "印章内容":df_this["top4_印章内容"].values[i],
             },
             "top5":{
                 "印章匹配图地址": df_this["top5"].values[i],
-                "印章作者":df_this["top5_作者"].values[i],
+                "印章作者":delauname(df_this["top5_作者"].values[i]),
                 "印章内容":df_this["top5_印章内容"].values[i],
             }
         }
-        yzlist[df_this["top1_作者"].values[i]].append(info)
+        yzlist[delauname(df_this["top1_作者"].values[i])].append(info)
     # print(yzlist[:10])
     return yzlist
 
@@ -326,7 +325,6 @@ def huaxininfo(pid):
     auname=hxdf["作者"].values[0].split(",")
     hzname=hxdf["品名"].values[0].split(",")
     result = []
-    cc = opencc.OpenCC("s2t")
     for i in range(len(xshzid)):
         # 作者生卒年
         au = cc.convert(auname[i])

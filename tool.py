@@ -2,6 +2,8 @@ import os
 import sqlite3
 import json
 import numpy as np
+import opencc
+cc = opencc.OpenCC("s2t")
 
 class JsonEncoder(json.JSONEncoder):
     # 用于处理写json文件格式问题
@@ -61,6 +63,15 @@ def makecname2id(addnames,addcids):
         else:
             cname2id[addname]=int(addcid)
     return cname2id
+
+def delauname(oldname):
+    # 预处理作者人名
+    
+    # 需要将人名转为繁体，去掉()和·
+    newname= cc.convert(oldname).split("（")[0].replace("·","")
+    if newname=="清高宗":newname="愛新覺羅弘曆"
+    if newname=="愛新覺羅溥儀":newname="(愛新覺羅)溥儀"
+    return newname
 
 if __name__ == '__main__':
     print("yes")
