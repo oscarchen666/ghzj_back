@@ -175,6 +175,17 @@ class RelaDto():
         for cid in id2info:
             personinfos[cid]["生年"]=id2info[cid]["生年"]
             personinfos[cid]["卒年"]=id2info[cid]["卒年"]
+        # 查询收藏家  'c_status_code': 收藏家184 鑒賞家143 藏書家144
+        sql = "select c_personid from status_data where c_status_code in (184,143,144) \
+                and c_personid in {}".format(
+                tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
+        outs= select(self.dbpath,sql)
+        # print(len(outs))
+        if outs:
+            for out in outs:
+                personinfos[out["c_personid"]]["鉴藏家"]=1
+        # 查询任官
+        
         # 统计人物在列表之间的的六种关系
         kinlist = self.select_kin(cidlist)
         assoclist = self.select_assoc(cidlist)

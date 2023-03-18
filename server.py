@@ -265,27 +265,27 @@ def yinzhang(pid):
             "top1":{
                 "印章匹配图地址":df_this["top1"].values[i],
                 "印章作者":delauname(df_this["top1_作者"].values[i]),
-                "印章内容":df_this["top1_印章内容"].values[i],
+                "印章内容":str(df_this["top1_印章内容"].values[i]),
             },
             "top2":{
                 "印章匹配图地址":df_this["top2"].values[i],
                 "印章作者":delauname(df_this["top2_作者"].values[i]),
-                "印章内容":df_this["top2_印章内容"].values[i],
+                "印章内容":str(df_this["top2_印章内容"].values[i]),
             },
             "top3":{
                 "印章匹配图地址":df_this["top3"].values[i],
                 "印章作者":delauname(df_this["top3_作者"].values[i]),
-                "印章内容":df_this["top3_印章内容"].values[i],
+                "印章内容":str(df_this["top3_印章内容"].values[i]),
             },
             "top4":{
                 "印章匹配图地址":df_this["top4"].values[i],
                 "印章作者":delauname(df_this["top4_作者"].values[i]),
-                "印章内容":df_this["top4_印章内容"].values[i],
+                "印章内容":str(df_this["top4_印章内容"].values[i]),
             },
             "top5":{
                 "印章匹配图地址": df_this["top5"].values[i],
                 "印章作者":delauname(df_this["top5_作者"].values[i]),
-                "印章内容":df_this["top5_印章内容"].values[i],
+                "印章内容":str(df_this["top5_印章内容"].values[i]),
             }
         }
         yzlist[delauname(df_this["top1_作者"].values[i])].append(info)
@@ -406,8 +406,8 @@ def personscore(pid,cname2id):
     if pid!=reladto.tmppid_score or not cname2id:
         # 切换画作或者无新增人员但请求时，默认读取作者列表并清空存储信息
         with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
-            aulist = json.load(f)
-        aulist = {au:aulist[au]["cid"]for au in aulist}
+            orinaulist = json.load(f)
+        aulist = {au:orinaulist[au]["cid"]for au in orinaulist}
     else:
         # 临时存储的人物列表，可能包括上次请求手动添加的人物
         aulist = reladto.tmplist_socre
@@ -420,8 +420,9 @@ def personscore(pid,cname2id):
     # 存储当前pid和人物列表
     reladto.tmppid_score=pid
     reladto.tmplist_socre=aulist
-
-    relares = reladto.count_rela(cidlist)
+    # 查询人物信息和关系
+    relares = reladto.count_rela(cidlist)     
+        
     result = {
         "人物关系信息":relares,
         "人物列表":name2id
@@ -431,23 +432,20 @@ def personscore(pid,cname2id):
 
 
 def trytry():
-    # 增加人物列表，进行人物信息查询并更新
-    with open("authorinfo/-1.json","r",encoding="UTF8")as f:
-        aulist = json.load(f)
-    cidlist=[]
-    name2id = {}
-    aulist.update({"张三":{"cid":123}})
-    for au in aulist:
-        # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
-        name2id[au]=aulist[au]["cid"]
-        if aulist[au]["cid"]!="unknow":
-            cidlist.append(aulist[au]["cid"])
-    print(cidlist)
+    # 收藏家184 鑒賞家143 藏書家144
+    sql = "select c_status_desc_chn from STATUS_codeS where c_status_desc_chn like '%官員%'"
+    # sql = "select c_status_code,c_status_desc_chn from STATUS_codeS where c_status_desc_chn like '%家%'"
+    # sql = "select c_name_chn from status_data,biog_main where c_status_code in (184,143,144)\
+    #     and status_data.c_personid = biog_main.c_personid"
+    outs=(select("data/latest.db",sql))
+    print(len(outs))
+    for out in outs:
+        print(out)
 
     
 
 if __name__ == '__main__':
-    personscore("894",{})
+    trytry()
 
 
     
