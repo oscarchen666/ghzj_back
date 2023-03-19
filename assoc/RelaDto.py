@@ -3,6 +3,11 @@ import json
 import pandas as pd
 import opencc
 cc = opencc.OpenCC("t2s")
+
+# 如果你很不幸需要修改这部分代码，我的建议是重写一遍，这部分写的又臭又长，我自己都不想看
+# 相比而言cbdb还是好懂的。不如看看相关联的json和xlsx文件，可能还有点用
+# 因为这部分就是别人写的我也看不下去干脆自己重写了。
+
 class RelaDto():
     # 该类用于查询人物信息以及人物关系
     def __init__(self,path="data/latest.db"):
@@ -208,14 +213,15 @@ class RelaDto():
         #个人生卒年
         id2info = self.getid2info(cidlist)
         for cid in id2info:
-            
+            personinfos[cid]["姓名"]=id2info[cid]["姓名"]
             personinfos[cid]["生年"]=id2info[cid]["生年"]
             personinfos[cid]["卒年"]=id2info[cid]["卒年"]
             personinfos[cid]["分数"]["鉴藏家"]=id2info[cid]["身份(鉴藏家、文人、官员)"][0]
             personinfos[cid]["分数"]["文人"]=id2info[cid]["身份(鉴藏家、文人、官员)"][1]
             personinfos[cid]["分数"]["最高官职"]=id2info[cid]["身份(鉴藏家、文人、官员)"][2]
             if gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].any():
-                personinfos[cid]["分数"]["古籍讨论"]=int(gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].values[0])
+                personinfos[cid]["分数"]["古籍讨论"]=int(
+                    gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].values[0])
             if id2info[cid]["姓名"] in hpinfo["画派成员"]:
                 personinfos[cid]["分数"]["画派得分"]=1
             
