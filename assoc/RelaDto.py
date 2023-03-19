@@ -1,13 +1,16 @@
 from tool import select
 import json
+import pandas as pd
+import opencc
+cc = opencc.OpenCC("t2s")
 class RelaDto():
     # 该类用于查询人物信息以及人物关系
     def __init__(self,path="data/latest.db"):
         self.dbpath = path
-        self.id2info ={}
         # 已经查询到信息的人物列表，长期存储
         with open("data/id2info.json","r",encoding="UTF8")as f:
             self.id2info = json.load(f) 
+        f.close()
         self.tmplist_matrix = {} # 临时人物列表
         self.tmplist_socre = {}
         self.tmppid_matrix = -1 # 临时记录画作id
@@ -19,6 +22,7 @@ class RelaDto():
     def save_id2info(self,tmpid2info):
         # 存储新的人物信息
         self.id2info.update(tmpid2info)
+        # for id in self.id2info:print(id)
         with open("data/id2info.json","w",encoding="UTF8")as f:
             json.dump(self.id2info,f,indent=2, ensure_ascii=False)
 
@@ -30,7 +34,8 @@ class RelaDto():
             if cid in self.id2info:
                 tmpid2info[cid]=self.id2info[cid]
                 cidlist.remove(cid)
-
+        with open("data/官职品级2.json","r",encoding="UTF8")as f:
+            gzpj=json.load(f)
         sql = "select c_personid,c_name_chn,c_birthyear,c_deathyear,c_index_addr_id\
               from biog_main where c_personid in {}"
         sql=sql.format(tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
@@ -50,20 +55,46 @@ class RelaDto():
                 jg=outs2[0]["c_name_chn"]
             else: jg=None
             # 社会区分
-            sql = "select c_status_desc_chn from status_data,status_codes\
+            sql = "select status_codes.c_status_code,c_status_desc_chn from status_data,status_codes\
                     where status_data.c_status_code=status_codes.c_status_code\
                     and c_personid = {}".format(cid)
             outs3 = select(self.dbpath,sql)
             shlist=None # 避免没有社会区分报错
-            if outs3: shlist = [out3["c_status_desc_chn"]for out3 in outs3]
-
+            if outs3: 
+                shlist = [out3["c_status_desc_chn"]for out3 in outs3]
+                shidlist = [out3["c_status_code"]for out3 in outs3]
+            # 查询收藏家  'c_status_code': 收藏家184 鑒賞家143 藏書家144
+            jcj=0
+            if any(elem in [184,143,144] for elem in shidlist):
+                jcj=1
+            # 查询文人 165文人 9书法家 71畫家 114诗人 210小说家 235词人
+            wr=0
+            if any(elem in [9,71,114,165,201,253] for elem in shidlist):
+                wr=1
+            # 查询任官级别
+            sql = "select c_personid,c_office_chn \
+                    from POSTED_TO_OFFICE_DATA ,OFFICE_CODES \
+                    where POSTED_TO_OFFICE_DATA.c_office_id = OFFICE_CODES.c_office_id\
+                    and c_personid = {}".format(cid)
+            outs5= select(self.dbpath,sql)
+            highest_office=0
+            for out5 in outs5:
+                office_chn=cc.convert(out5["c_office_chn"])
+                if office_chn in gzpj:
+                    highest_office=max(highest_office,gzpj[office_chn]["得分"])
+            # 皇帝单独处理,皇帝的社会分区是26,但是这个分区不全面
+            if 26 in shidlist:
+                highest_office=20
+            if out["c_name_chn"] in ["愛新覺羅弘曆","愛新覺羅顒琰","(愛新覺羅)溥儀"]:
+                highest_office=20
             info={
                 "姓名":out["c_name_chn"],
                 "生年":out["c_birthyear"],
                 "卒年":out["c_deathyear"],
                 "别名":bmlist,
                 "籍贯":jg,
-                "社会区分":shlist
+                "社会区分":shlist,
+                "身份(鉴藏家、文人、官员)":[jcj,wr,highest_office]
             }
             tmpid2info[cid]=info
         self.save_id2info(tmpid2info)#存储新增的id2info，下次不用再查
@@ -165,27 +196,29 @@ class RelaDto():
 
     def count_rela(self,cidlist):
         # 结果列表
-        personinfos={cid:{"相关画作":{},"相关社交":{},"相关文学":{},
-                          "相关政治":{},"相关亲缘":{},"相关其他":{},
-                          "全部关系数量":{"画作":0,"社交":0,"文学":0,"政治":0,"亲缘":0,"其他":0},
-                          "全部关系年份":{"画作":{},"社交":{},"文学":{},"政治":{},"亲缘":{},"其他":{}}}
+        personinfos={cid:{"分数":{"古籍讨论":0,"画派":0},
+                        "相关画作":{},"相关社交":{},"相关文学":{},
+                        "相关政治":{},"相关亲缘":{},"相关其他":{},
+                        "全部关系数量":{"画作":0,"社交":0,"文学":0,"政治":0,"亲缘":0,"其他":0},
+                        "全部关系年份":{"画作":{},"社交":{},"文学":{},"政治":{},"亲缘":{},"其他":{}}}
                      for cid in cidlist}
+        gjdf=pd.read_excel("data/古籍讨论度.xlsx")
+        with open("data/画派信息.json","r",encoding="UTF8")as f:
+            hpinfo=json.load(f)
         #个人生卒年
         id2info = self.getid2info(cidlist)
         for cid in id2info:
+            
             personinfos[cid]["生年"]=id2info[cid]["生年"]
             personinfos[cid]["卒年"]=id2info[cid]["卒年"]
-        # 查询收藏家  'c_status_code': 收藏家184 鑒賞家143 藏書家144
-        sql = "select c_personid from status_data where c_status_code in (184,143,144) \
-                and c_personid in {}".format(
-                tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
-        outs= select(self.dbpath,sql)
-        # print(len(outs))
-        if outs:
-            for out in outs:
-                personinfos[out["c_personid"]]["鉴藏家"]=1
-        # 查询任官
-        
+            personinfos[cid]["分数"]["鉴藏家"]=id2info[cid]["身份(鉴藏家、文人、官员)"][0]
+            personinfos[cid]["分数"]["文人"]=id2info[cid]["身份(鉴藏家、文人、官员)"][1]
+            personinfos[cid]["分数"]["最高官职"]=id2info[cid]["身份(鉴藏家、文人、官员)"][2]
+            if gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].any():
+                personinfos[cid]["分数"]["古籍讨论"]=int(gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].values[0])
+            if id2info[cid]["姓名"] in hpinfo["画派成员"]:
+                personinfos[cid]["分数"]["画派得分"]=1
+            
         # 统计人物在列表之间的的六种关系
         kinlist = self.select_kin(cidlist)
         assoclist = self.select_assoc(cidlist)
@@ -205,8 +238,7 @@ class RelaDto():
             # 亲缘，无年份
             sql = "select * from kin_data where c_personid={}".format(cid)
             outs = select(self.dbpath,sql)
-            for out in outs:
-                personinfos[cid]["全部关系数量"]["亲缘"]+=1
+            personinfos[cid]["全部关系数量"]["亲缘"]+=len(outs)
             # 任官关系
             sql ="select c_firstyear from POSTED_TO_OFFICE_DATA \
                 where c_personid={}".format(cid)

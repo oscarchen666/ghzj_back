@@ -2,6 +2,7 @@ import json
 import os
 import math
 import pandas as pd
+import math
 
 from tool import imgexists,select,delauname,JsonEncoder,cc
 from assoc.cbdb_dao import CBDBDAO
@@ -421,7 +422,13 @@ def personscore(pid,cname2id):
     reladto.tmppid_score=pid
     reladto.tmplist_socre=aulist
     # 查询人物信息和关系
-    relares = reladto.count_rela(cidlist)     
+    relares = reladto.count_rela(cidlist)
+    for cid in relares:
+        ss = relares[cid]["分数"]
+        s1 = ss["画派"]*15
+        s2 = int(4*math.log(ss["古籍讨论"]+1))
+        s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
+        relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         
     result = {
         "人物关系信息":relares,
@@ -432,15 +439,13 @@ def personscore(pid,cname2id):
 
 
 def trytry():
-    # 收藏家184 鑒賞家143 藏書家144
-    sql = "select c_status_desc_chn from STATUS_codeS where c_status_desc_chn like '%官員%'"
-    # sql = "select c_status_code,c_status_desc_chn from STATUS_codeS where c_status_desc_chn like '%家%'"
-    # sql = "select c_name_chn from status_data,biog_main where c_status_code in (184,143,144)\
-    #     and status_data.c_personid = biog_main.c_personid"
-    outs=(select("data/latest.db",sql))
-    print(len(outs))
+    sql = "select c_status_code,c_personid from status_data\
+            where c_status_code=26 "
+    outs = select("data/latest.db",sql)
     for out in outs:
-        print(out)
+        cid=out["c_personid"]
+        sql="select c_name_chn from biog_main where c_personid = {}".format(cid)
+        print(select("data/latest.db",sql))
 
     
 
