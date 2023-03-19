@@ -75,6 +75,7 @@ def searchfen(data):
     for sentence in data["sentences"]:
         newout={}
         sent=[]
+        if sentence["author"]=="清高宗":sentence["author"]="愛新覺羅弘曆"
         dysql = "select c_personid ,c_dy from BIOG_MAIN where c_name_chn= '"+sentence["author"]+"'"
         output=select(dbpath,dysql)
         if len(output)!=0:

@@ -2,7 +2,7 @@
   "filefroms": "13941.json",
   "sentences": [
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -14,10 +14,10 @@
         }
       ],
       "sentence": "蘇軾東坡。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -29,10 +29,10 @@
         }
       ],
       "sentence": "蔡肇天啟。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -44,25 +44,25 @@
         }
       ],
       "sentence": "李之儀端叔。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
           "start": 2,
           "end": 4,
           "span": "晉卿",
-          "cid": 1014,
-          "name": "李仲偃"
+          "cid": 59056,
+          "name": "李光地"
         }
       ],
       "sentence": "王詵晉卿。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -74,10 +74,10 @@
         }
       ],
       "sentence": "秦觀少游。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -89,10 +89,10 @@
         }
       ],
       "sentence": "道士陳碧虛。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -104,10 +104,10 @@
         }
       ],
       "sentence": "李公麟伯時。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -119,40 +119,40 @@
         }
       ],
       "sentence": "蘇轍子由。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
           "start": 2,
           "end": 4,
           "span": "文潛",
-          "cid": 12354,
-          "name": "張耒"
+          "cid": 89733,
+          "name": "韓泳"
         }
       ],
       "sentence": "張耒文潛。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
           "start": 0,
           "end": 3,
           "span": "黃庭堅",
-          "cid": 7111,
+          "cid": 522739,
           "name": "黃庭堅"
         }
       ],
       "sentence": "黃庭堅魯直。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -164,10 +164,10 @@
         }
       ],
       "sentence": "晁補之无咎。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -179,10 +179,10 @@
         }
       ],
       "sentence": "鄭靖老。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -194,10 +194,10 @@
         }
       ],
       "sentence": "米芾元章。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -209,10 +209,10 @@
         }
       ],
       "sentence": "王欽臣仲至。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -224,10 +224,10 @@
         }
       ],
       "sentence": "劉涇巨濟。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "PersonName",
@@ -239,10 +239,10 @@
         }
       ],
       "sentence": "僧曇秀圓通大師。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "Person",
@@ -282,10 +282,10 @@
         }
       ],
       "sentence": "公麟然否實公麟。古筆知誠出宋人。跋語奚妨去其贋。長圖益足尚斯真。衣衫如篆渾唐法。蕉石生神異李皴。名欵設惟徵故紙。是為求劍刻舟倫。乾隆丁未（西元一七八七年）清和上澣御題。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
       "output": [
         {
           "type": "Time",
@@ -301,7 +301,7 @@
         }
       ],
       "sentence": "乾隆丁未（西元一七八七年）清和上澣御題。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
       "authorcid": 57321,
