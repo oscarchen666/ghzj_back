@@ -85,6 +85,7 @@ def aullistbydy(oldres):
             "本幅": int(oldres[au]["本幅"]),
             "总数": int(oldres[au]["总数"]),
             "cid":str(oldres[au]["cid"]),
+            "aid":oldres[au]["aid"],
             "作者": oldres[au]["作者"]
         }
         newres["aulist"][oldres[au]["朝代"]].append(info)
@@ -307,7 +308,7 @@ def huaxininfo(pid):
             birday = out[0]["c_birthyear"]
             deaday = out[0]["c_deathyear"]
         else:
-            cid="unknown"
+            cid="unknow"
             birday=None
             deaday=None
         info={
@@ -415,16 +416,11 @@ def personscore(pid,cname2id):
 
 
 def trytry():
-    sql="select c_dy,c_dynasty_chn from dynasties"
-    outs = select("",sql)
-    res={out["c_dy"]:out["c_dynasty_chn"]for out in outs}
-    with open("data/dynasties.json", "w",encoding="utf8") as f:
-        json.dump(res,f,indent=2,ensure_ascii=False)
-    
+    word="翰林钱傅"
 
 if __name__ == '__main__':
 
-    authorlist("894")
+    trytry()
 
 
     

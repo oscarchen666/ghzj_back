@@ -3,6 +3,7 @@
   "sentences": [
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -10,7 +11,8 @@
           "end": 2,
           "span": "蘇軾",
           "cid": 3767,
-          "name": "蘇軾"
+          "name": "蘇軾",
+          "aid": "A003555"
         }
       ],
       "sentence": "蘇軾東坡。",
@@ -18,6 +20,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -25,7 +28,8 @@
           "end": 2,
           "span": "蔡肇",
           "cid": 1648,
-          "name": "蔡肇"
+          "name": "蔡肇",
+          "aid": "unknow"
         }
       ],
       "sentence": "蔡肇天啟。",
@@ -33,6 +37,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -40,7 +45,8 @@
           "end": 3,
           "span": "李之儀",
           "cid": 3484,
-          "name": "李之儀"
+          "name": "李之儀",
+          "aid": "unknow"
         }
       ],
       "sentence": "李之儀端叔。",
@@ -48,14 +54,16 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
-          "start": 2,
+          "start": 0,
           "end": 4,
-          "span": "晉卿",
-          "cid": 59056,
-          "name": "李光地"
+          "span": "王詵晉卿",
+          "cid": "unknow",
+          "name": "王詵",
+          "aid": "A021999"
         }
       ],
       "sentence": "王詵晉卿。",
@@ -63,6 +71,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -70,7 +79,8 @@
           "end": 2,
           "span": "秦觀",
           "cid": 3043,
-          "name": "秦觀"
+          "name": "秦觀",
+          "aid": "A003973"
         }
       ],
       "sentence": "秦觀少游。",
@@ -78,6 +88,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -85,7 +96,8 @@
           "end": 5,
           "span": "碧虛",
           "cid": 113349,
-          "name": "釋道光"
+          "name": "釋道光",
+          "aid": "unknow"
         }
       ],
       "sentence": "道士陳碧虛。",
@@ -93,6 +105,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -100,7 +113,8 @@
           "end": 3,
           "span": "李公麟",
           "cid": 19865,
-          "name": "李公麟"
+          "name": "李公麟",
+          "aid": "unknow"
         }
       ],
       "sentence": "李公麟伯時。",
@@ -108,14 +122,16 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "子由",
+          "start": 0,
+          "end": 2,
+          "span": "蘇轍",
           "cid": 1493,
-          "name": "蘇轍"
+          "name": "蘇轍",
+          "aid": "unknow"
         }
       ],
       "sentence": "蘇轍子由。",
@@ -123,6 +139,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -130,7 +147,8 @@
           "end": 4,
           "span": "文潛",
           "cid": 89733,
-          "name": "韓泳"
+          "name": "韓泳",
+          "aid": "unknow"
         }
       ],
       "sentence": "張耒文潛。",
@@ -138,6 +156,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -145,7 +164,8 @@
           "end": 3,
           "span": "黃庭堅",
           "cid": 522739,
-          "name": "黃庭堅"
+          "name": "黃庭堅",
+          "aid": "A008471"
         }
       ],
       "sentence": "黃庭堅魯直。",
@@ -153,6 +173,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -160,7 +181,8 @@
           "end": 3,
           "span": "晁補之",
           "cid": 13,
-          "name": "晁補之"
+          "name": "晁補之",
+          "aid": "A008918"
         }
       ],
       "sentence": "晁補之无咎。",
@@ -168,6 +190,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -175,7 +198,8 @@
           "end": 2,
           "span": "鄭靖",
           "cid": 535896,
-          "name": "鄭靖"
+          "name": "鄭靖",
+          "aid": "unknow"
         }
       ],
       "sentence": "鄭靖老。",
@@ -183,6 +207,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -190,7 +215,8 @@
           "end": 4,
           "span": "元章",
           "cid": 72229,
-          "name": "元章"
+          "name": "元章",
+          "aid": "unknow"
         }
       ],
       "sentence": "米芾元章。",
@@ -198,6 +224,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -205,7 +232,8 @@
           "end": 3,
           "span": "王欽臣",
           "cid": 1767,
-          "name": "王欽臣"
+          "name": "王欽臣",
+          "aid": "unknow"
         }
       ],
       "sentence": "王欽臣仲至。",
@@ -213,6 +241,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
@@ -220,7 +249,8 @@
           "end": 2,
           "span": "劉涇",
           "cid": 10660,
-          "name": "劉涇"
+          "name": "劉涇",
+          "aid": "unknow"
         }
       ],
       "sentence": "劉涇巨濟。",
@@ -228,14 +258,16 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
-          "start": 5,
+          "start": 3,
           "end": 7,
-          "span": "大師",
-          "cid": 138846,
-          "name": "段師"
+          "span": "圓通大師",
+          "cid": "unknow",
+          "name": "鐵舟德濟",
+          "aid": "A001967"
         }
       ],
       "sentence": "僧曇秀圓通大師。",
@@ -243,6 +275,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Person",
@@ -286,6 +319,7 @@
     },
     {
       "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
@@ -305,6 +339,7 @@
     },
     {
       "authorcid": 57321,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
@@ -324,7 +359,8 @@
           "end": 13,
           "span": "李公麟",
           "cid": 19865,
-          "name": "李公麟"
+          "name": "李公麟",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -333,16 +369,22 @@
           "span": "西園勝會圖"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 35,
           "end": 37,
-          "span": "公麟"
+          "span": "公麟",
+          "cid": "unknow",
+          "name": "李伯時",
+          "aid": "A011507"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 46,
           "end": 48,
-          "span": "公麟"
+          "span": "公麟",
+          "cid": "unknow",
+          "name": "李伯時",
+          "aid": "A011507"
         },
         {
           "type": "PersonName",
@@ -350,7 +392,8 @@
           "end": 57,
           "span": "翰臣",
           "cid": 57935,
-          "name": "龍啟瑞"
+          "name": "龍啟瑞",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -358,7 +401,8 @@
           "end": 62,
           "span": "米芾",
           "cid": 3676,
-          "name": "米芾"
+          "name": "米芾",
+          "aid": "A004610"
         },
         {
           "type": "Person",
@@ -373,10 +417,13 @@
           "span": "衣褶"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 133,
           "end": 135,
-          "span": "公麟"
+          "span": "公麟",
+          "cid": "unknow",
+          "name": "李伯時",
+          "aid": "A011507"
         },
         {
           "type": "Person",
@@ -396,7 +443,8 @@
           "end": 188,
           "span": "六人",
           "cid": 531029,
-          "name": "杜彥卿"
+          "name": "杜彥卿",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -404,7 +452,8 @@
           "end": 198,
           "span": "端叔",
           "cid": 76778,
-          "name": "楊詩南"
+          "name": "楊詩南",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -412,25 +461,35 @@
           "end": 202,
           "span": "李公擇",
           "cid": 40291,
-          "name": "李公擇"
+          "name": "李公擇",
+          "aid": "A017808"
         },
         {
-          "type": "Person",
-          "start": 203,
+          "type": "PersonName",
+          "start": 204,
           "end": 206,
-          "span": "僧曇秀"
+          "span": "曇秀",
+          "cid": "unknow",
+          "name": "法芝",
+          "aid": "A001778"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 207,
           "end": 209,
-          "span": "道潛"
+          "span": "道潛",
+          "cid": "unknow",
+          "name": "道潛",
+          "aid": "A004546"
         },
         {
-          "type": "Person",
-          "start": 214,
-          "end": 216,
-          "span": "東坡"
+          "type": "PersonName",
+          "start": 212,
+          "end": 214,
+          "span": "蘇軾",
+          "cid": 3767,
+          "name": "蘇軾",
+          "aid": "A003555"
         },
         {
           "type": "PersonName",
@@ -438,7 +497,8 @@
           "end": 221,
           "span": "王銑",
           "cid": 69399,
-          "name": "王銑"
+          "name": "王銑",
+          "aid": "unknow"
         },
         {
           "type": "Person",
@@ -458,7 +518,8 @@
           "end": 320,
           "span": "董誥",
           "cid": 57321,
-          "name": "董誥"
+          "name": "董誥",
+          "aid": "unknow"
         }
       ],
       "sentence": "右卷續入石渠。舊題為李公麟西園勝會圖。幾暇重加披覽。見其佈景古茂。雖用公麟之事。而畫法則全異公麟蹊徑。因命内廷翰臣等。以米芾西園雅集圖記校之。其人數位置皆合。惟第二第三叚敘次前後不同。盖文章畫趣各適其適。固自無妨也。至用筆蒼秀雄渾。生動開張。人物衣褶有古篆籀遺意。與公麟所畫用筆不類。雖幀中無款自屬宋名家手筆。正不藉假託龍眠以增聲價耳。幀後不知何人捨記而别作識語。且記中十六人僅止十一。又訛李端叔為李公擇。僧曇秀為道潛。甚至兩見東坡。三見王銑。又訛詵作侁。舛謬蕪雜之處。不值一噱。盖陋者偶得是卷。妄為綴識。不自知其蛇足也。爰命截去題跋。改題宋人西園雅集圖籖。以存真面。既於圖中諸人親書其名。並識如右。乾隆丁未（西元一七八七年）清和月。臣董誥奉勅敬書。",
@@ -466,6 +527,7 @@
     },
     {
       "authorcid": 57321,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
@@ -485,7 +547,8 @@
           "end": 20,
           "span": "董誥",
           "cid": 57321,
-          "name": "董誥"
+          "name": "董誥",
+          "aid": "unknow"
         }
       ],
       "sentence": "乾隆丁未（西元一七八七年）清和月。臣董誥奉敕敬書。",

@@ -27,9 +27,10 @@ def dict_factory(cursor, row):
         d[col[0]] = row[idx]
     return d
 
-con = sqlite3.connect(dbpath) #打开数据库
-con.row_factory = dict_factory
+
 def select(dbpath,sql_str):
+    con = sqlite3.connect(dbpath) #打开数据库
+    con.row_factory = dict_factory
     c = con.cursor()
     c.execute(sql_str)
     output = c.fetchall()

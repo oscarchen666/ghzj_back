@@ -1,7 +1,7 @@
 import hanlp
 import pandas as pd
 import sqlite3
-from tool import select,JsonEncoder
+from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo
 from ner.getresulthc import infer
 from ner.dealsent import getsentences,predealh
 dbpath = "data/latest.db"
@@ -18,8 +18,12 @@ def mytok(word):
 
 def findperson(info,dy):
     # 查询人名或别名
-    sql_str ="select c_personid,c_name_chn,c_dy from BIOG_MAIN where c_name_chn = '"+info["span"]+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+info["span"]+"')"
+    sql_str ="select c_personid,c_name_chn,c_dy from BIOG_MAIN \
+        where c_name_chn = '"+info["span"]+"' \
+        or c_personid in (select c_personid from ALTNAME_DATA \
+            where c_alt_name_chn=  '"+info["span"]+"')"
     output = select(dbpath,sql_str)
+    # 查询aid，查不到为0
 
     if len(output)!=0:
         # 默认第一个结果，如果后续有同朝代的结果优先取同朝代的
@@ -31,13 +35,20 @@ def findperson(info,dy):
                 info["cid"] = out["c_personid"]
                 info["name"] = out["c_name_chn"]
                 break
-    
+    elif info["span"] in ddbc_name2aid:#cbdb查不到但是ddbc查的到
+        aid = ddbc_name2aid[info["span"]][0]
+        info["type"] = "PersonName"
+        info["cid"] = "unknow"
+        info["name"] = ddbc_personinfo[aid]["name"]
     else: #如果整体人名查找不到，尝试分词后查找
         fens = mytok(info["span"])
         # print(fens)
         start = info["start"]
         for word, begin, end in fens: # 会保存分词后的最后一个查询成功词
-            sql_str1 ="select c_personid,c_name_chn,c_dy from BIOG_MAIN where c_name_chn = '"+word+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+word+"')"
+            sql_str1 ="select c_personid,c_name_chn,c_dy from BIOG_MAIN \
+                where c_name_chn = '"+word+"' or c_personid in \
+                (select c_personid from ALTNAME_DATA \
+                where c_alt_name_chn=  '"+word+"')"
             output1=select(dbpath,sql_str1)
             if len(output1)!=0:#需要修改span范围和文本并记录cid和name
                 info["type"] = "PersonName"
@@ -51,7 +62,18 @@ def findperson(info,dy):
                         info["cid"] = out["c_personid"]
                         info["name"] = out["c_name_chn"]
                         break
-            
+            elif word in ddbc_name2aid:#cbdb查不到但是ddbc查的到
+                aid = ddbc_name2aid[word][0]
+                info["type"] = "PersonName"
+                info["span"] = word
+                info["start"] = start+begin
+                info["end"] = start+end
+                info["cid"] = "unknow"
+                info["name"] = ddbc_personinfo[aid]["name"]
+    if info["type"] == "PersonName":
+        if info["span"] in ddbc_name2aid:#ddbc中取第一个
+            info["aid"] =ddbc_name2aid[info["span"]][0]
+        else:info["aid"] ="unknow"        
     return info
 
 def searchfen(data):
@@ -62,7 +84,7 @@ def searchfen(data):
     for sentence in data["sentences"]:
         newout={}
         sent=[]
-        if sentence["author"]=="清高宗":sentence["author"]="愛新覺羅弘曆"
+        sentence["author"]=delauname(sentence["author"])
         dysql = "select c_personid ,c_dy from BIOG_MAIN where c_name_chn= '{}'".format(sentence["author"])
         output=select(dbpath,dysql)
         if len(output)!=0:
@@ -70,7 +92,10 @@ def searchfen(data):
             newout["authorcid"] = output[0]["c_personid"]
         else:
             dy=-1
-            newout["authorcid"] = "null"
+            newout["authorcid"] = "unknow"
+        # 查询aid，查不到为0
+        aid = ddbc_name2aid[sentence["author"]][0] if sentence["author"] in ddbc_name2aid else "unknow"
+        newout["authoraid"]=aid
         for info in sentence["output"]:
             if info["type"]=='Person':
                 info = findperson(info,dy)

@@ -3,6 +3,7 @@
   "sentences": [
     {
       "authorcid": 17690,
+      "authoraid": "A004030",
       "output": [
         {
           "type": "PersonName",
@@ -10,7 +11,8 @@
           "end": 2,
           "span": "公謹",
           "cid": 10183,
-          "name": "周密"
+          "name": "周密",
+          "aid": "A016943"
         },
         {
           "type": "Person",
@@ -72,14 +74,16 @@
           "end": 100,
           "span": "趙孟頫",
           "cid": 17690,
-          "name": "趙孟頫"
+          "name": "趙孟頫",
+          "aid": "A004030"
         }
       ],
       "sentence": "公謹父。齊人也。余通守齊州。罷官來歸。為公謹說齊之山川。獨華不注最知名。見於左氏。而其狀又峻峭特立。有足奇者。乃為作此圖。其東則鵲山也。命之曰鵲華秋色云。元貞元年（西元一二九五年）十有二月。吳興趙孟頫製。",
       "author": "趙孟頫"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Thing",
@@ -137,10 +141,11 @@
         }
       ],
       "sentence": "此卷久貯內府。已載入石渠寶笈。戊辰（西元一七四八年）春東巡齊州。則東華西鵲。蒼秀潑眼。宛若披圖。因驛致是卷相印。題長句以紀其事。己巳（西元一七四九年）嘉平幾餘重展。追念前遊。怦怦有觸。因再成長篇。書之卷尾以志歲月而敘其緣起如此。三希堂御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Thing",
@@ -150,10 +155,11 @@
         }
       ],
       "sentence": "三希堂御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Location",
@@ -162,10 +168,13 @@
           "span": "輦曽城"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 21,
           "end": 23,
-          "span": "金母"
+          "span": "金母",
+          "cid": "unknow",
+          "name": "金母",
+          "aid": "A013539"
         },
         {
           "type": "Location",
@@ -187,10 +196,11 @@
         }
       ],
       "sentence": "駐輦曽城暢遠眸。華不（平）翠注不曽流。何年金母臨蓬海。兩朶天花此處留。右咏華不注。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Thing",
@@ -264,20 +274,23 @@
           "end": 127,
           "span": "吳道子",
           "cid": 43849,
-          "name": "吳道子"
+          "name": "吳道子",
+          "aid": "A009049"
         }
       ],
       "sentence": "昔覽天水是圖時。不信名山能竝美。今登濟城望兩山。初謂何人解圖此。因命郵致封章便。真蹟擕來聊比似。始信筆靈合地靈。當前印證得神髓。兩朶天花繡墅巔。一隻靈鵲銀河涘。是時春煙遠郭收。栁隄窣綠花村紫。天光澹靄水揉藍。西鵲東華鏡空裏。留待今題信有神。不數嘉陵吳道子。御題。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [],
       "sentence": "御題。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Thing",
@@ -311,10 +324,11 @@
         }
       ],
       "sentence": "澹煙疎雨凑清明。罨畫峰姿别有情。若把鵲山擬靈鵲。翩躚勢亦兩相争。右咏鵲山。乾隆戊辰（西元一七四八年）春日御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
@@ -336,10 +350,11 @@
         }
       ],
       "sentence": "乾隆戊辰（西元一七四八年）春日御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Time",
@@ -365,7 +380,8 @@
           "end": 19,
           "span": "文敏",
           "cid": 17690,
-          "name": "趙孟頫"
+          "name": "文敏",
+          "aid": "A004030"
         },
         {
           "type": "Thing",
@@ -379,7 +395,8 @@
           "end": 48,
           "span": "晦伯",
           "cid": 60004,
-          "name": "李日宣"
+          "name": "李日宣",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -411,7 +428,8 @@
           "end": 81,
           "span": "晦伯",
           "cid": 60004,
-          "name": "李日宣"
+          "name": "李日宣",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -437,6 +455,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Time",
@@ -450,6 +469,7 @@
     },
     {
       "authorcid": 28399,
+      "authoraid": "A015812",
       "output": [
         {
           "type": "Thing",
@@ -469,7 +489,8 @@
           "end": 32,
           "span": "趙承旨",
           "cid": 17690,
-          "name": "趙孟頫"
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Thing",
@@ -489,7 +510,8 @@
           "end": 93,
           "span": "蘭亭",
           "cid": 63778,
-          "name": "韓鑅"
+          "name": "韓鑅",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -497,7 +519,8 @@
           "end": 96,
           "span": "摩詰",
           "cid": 32174,
-          "name": "王維"
+          "name": "王維",
+          "aid": "unknow"
         },
         {
           "type": "Person",
@@ -517,7 +540,8 @@
           "end": 138,
           "span": "楊載",
           "cid": 28399,
-          "name": "楊載"
+          "name": "楊載",
+          "aid": "A015812"
         },
         {
           "type": "PersonName",
@@ -525,7 +549,8 @@
           "end": 142,
           "span": "君錫",
           "cid": 102469,
-          "name": "吳晉卿"
+          "name": "吳晉卿",
+          "aid": "unknow"
         },
         {
           "type": "Location",
@@ -539,6 +564,7 @@
     },
     {
       "authorcid": 28399,
+      "authoraid": "A015812",
       "output": [
         {
           "type": "Time",
@@ -558,7 +584,8 @@
           "end": 15,
           "span": "楊載",
           "cid": 28399,
-          "name": "楊載"
+          "name": "楊載",
+          "aid": "A015812"
         },
         {
           "type": "PersonName",
@@ -566,28 +593,34 @@
           "end": 19,
           "span": "君錫",
           "cid": 102469,
-          "name": "吳晉卿"
+          "name": "吳晉卿",
+          "aid": "unknow"
         }
       ],
       "sentence": "大德丁酉孟春望後三日。浦城楊載題于君錫之崇古齋。",
       "author": "楊載"
     },
     {
-      "authorcid": "null",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
           "start": 2,
           "end": 4,
           "span": "子昂",
-          "cid": 2058,
-          "name": "葉顒"
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 9,
           "end": 11,
-          "span": "畫師"
+          "span": "畫師",
+          "cid": "unknow",
+          "name": "皎然",
+          "aid": "A008833"
         },
         {
           "type": "Time",
@@ -596,10 +629,13 @@
           "span": "五朝"
         },
         {
-          "type": "Person",
+          "type": "PersonName",
           "start": 25,
           "end": 26,
-          "span": "人"
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -607,7 +643,8 @@
           "end": 61,
           "span": "仲弘",
           "cid": 28399,
-          "name": "楊載"
+          "name": "楊載",
+          "aid": "A032652"
         },
         {
           "type": "Time",
@@ -623,10 +660,11 @@
         }
       ],
       "sentence": "趙公子昂。書法晉。畫師唐。為一代之冠。榮際於五朝。人得其片楮。亦誇以為榮者。非貴其名而以其實也。今觀此卷。殊勝於別作。仲弘所謂公之得意者信矣。致和二年四月一日。臨江范杼德機題。",
-      "author": "范杼"
+      "author": "範杼"
     },
     {
-      "authorcid": "null",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
@@ -642,16 +680,20 @@
         }
       ],
       "sentence": "致和二年四月一日。臨江范杼德機題。",
-      "author": "范杼"
+      "author": "範杼"
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
-          "type": "Location",
+          "type": "PersonName",
           "start": 0,
           "end": 2,
-          "span": "吳興"
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
         },
         {
           "type": "Person",
@@ -695,7 +737,8 @@
           "end": 72,
           "span": "昌公",
           "cid": 54996,
-          "name": "方以智"
+          "name": "方以智",
+          "aid": "unknow"
         }
       ],
       "sentence": "吳興此圖。兼右丞北苑二家畫法。有唐人之緻。去其纖。有北宋之雄。去其獷。故曰師法捨短。亦如書家以肖似古人不能變體為書奴也。萬曆三十三年。曬畫武昌公廨題。其昌。",
@@ -703,6 +746,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Time",
@@ -716,7 +760,8 @@
           "end": 12,
           "span": "昌公",
           "cid": 54996,
-          "name": "方以智"
+          "name": "方以智",
+          "aid": "unknow"
         }
       ],
       "sentence": "萬曆三十三年。曬畫武昌公廨題。其昌。",
@@ -724,6 +769,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Time",
@@ -743,7 +789,8 @@
           "end": 12,
           "span": "惠生",
           "cid": 55178,
-          "name": "莊受祺"
+          "name": "莊受祺",
+          "aid": "A045003"
         },
         {
           "type": "Location",
@@ -757,7 +804,8 @@
           "end": 26,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "崇禎二年。歲在己巳。惠生攜至金閶舟中。獲再觀。董其昌。",
@@ -765,6 +813,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Time",
@@ -784,7 +833,8 @@
           "end": 12,
           "span": "惠生",
           "cid": 55178,
-          "name": "莊受祺"
+          "name": "莊受祺",
+          "aid": "A045003"
         },
         {
           "type": "Location",
@@ -798,7 +848,8 @@
           "end": 26,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "崇禎二年。歲在己巳。惠生攜至金閶舟中。獲再觀。董其昌。",
@@ -806,6 +857,7 @@
     },
     {
       "authorcid": 133126,
+      "authoraid": "A008288",
       "output": [
         {
           "type": "PersonName",
@@ -813,7 +865,8 @@
           "end": 3,
           "span": "興公",
           "cid": 129964,
-          "name": "徐𤊹"
+          "name": "徐𤊹",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -833,7 +886,8 @@
           "end": 45,
           "span": "王謝",
           "cid": 118116,
-          "name": "王謝"
+          "name": "王謝",
+          "aid": "unknow"
         },
         {
           "type": "Person",
@@ -859,15 +913,17 @@
           "end": 94,
           "span": "虞集",
           "cid": 10801,
-          "name": "虞集"
+          "name": "虞集",
+          "aid": "A008211"
         },
         {
           "type": "PersonName",
-          "start": 100,
+          "start": 99,
           "end": 102,
-          "span": "靖公",
-          "cid": 83508,
-          "name": "周亮節"
+          "span": "文靖公",
+          "cid": "unknow",
+          "name": "嚴訥",
+          "aid": "A008133"
         },
         {
           "type": "PersonName",
@@ -875,7 +931,8 @@
           "end": 106,
           "span": "雪翁",
           "cid": 130198,
-          "name": "郭節"
+          "name": "郭節",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -889,7 +946,8 @@
           "end": 124,
           "span": "尚賓",
           "cid": 66580,
-          "name": "黃觀"
+          "name": "黃觀",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -903,7 +961,8 @@
           "end": 149,
           "span": "尚賓",
           "cid": 66580,
-          "name": "黃觀"
+          "name": "黃觀",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
@@ -911,7 +970,8 @@
           "end": 154,
           "span": "古君子",
           "cid": 67339,
-          "name": "王文"
+          "name": "王文",
+          "aid": "unknow"
         },
         {
           "type": "Time",
@@ -925,7 +985,8 @@
           "end": 171,
           "span": "錢溥",
           "cid": 133126,
-          "name": "錢溥"
+          "name": "錢溥",
+          "aid": "A008288"
         }
       ],
       "sentence": "吳興公蚤歲戲墨。深得物外山水筆意。雖一木一石。種種異於人者。且風尚古俊。脫去凡近。政如王謝子弟。倒冠岸幘。與天下公子鬥舉止也。百世後可為一代規式。士大夫當共寶秘之。至正甲申十有二月朔。虞集謹識。昔虞文靖公題松雪翁畫圖。簡約精妙。可謂兩絕。友人徐尚賓見而愛之。求余錄入鵲華秋色圖內。以足其美。噫。尚賓其好古君子乎。正統十一年丙寅八月望。翰林錢溥謹題。",
@@ -933,6 +994,7 @@
     },
     {
       "authorcid": 133126,
+      "authoraid": "A008288",
       "output": [
         {
           "type": "Time",
@@ -946,7 +1008,8 @@
           "end": 15,
           "span": "錢溥",
           "cid": 133126,
-          "name": "錢溥"
+          "name": "錢溥",
+          "aid": "A008288"
         }
       ],
       "sentence": "正統十一年丙寅八月望。翰林錢溥謹題。",
@@ -954,6 +1017,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "PersonName",
@@ -961,7 +1025,8 @@
           "end": 11,
           "span": "弁陽老人",
           "cid": 10183,
-          "name": "周密"
+          "name": "周密",
+          "aid": "A016943"
         },
         {
           "type": "PersonName",
@@ -969,7 +1034,8 @@
           "end": 19,
           "span": "孫子",
           "cid": 162993,
-          "name": "孫子"
+          "name": "孫子",
+          "aid": "A002889"
         },
         {
           "type": "Location",
@@ -983,7 +1049,8 @@
           "end": 37,
           "span": "野人",
           "cid": 78598,
-          "name": "吳嘉紀"
+          "name": "吳嘉紀",
+          "aid": "unknow"
         },
         {
           "type": "Location",
@@ -994,10 +1061,11 @@
         {
           "type": "PersonName",
           "start": 43,
-          "end": 45,
-          "span": "平原",
-          "cid": 399594,
-          "name": "平原"
+          "end": 46,
+          "span": "平原君",
+          "cid": "unknow",
+          "name": "趙勝",
+          "aid": "A023030"
         },
         {
           "type": "Person",
@@ -1023,7 +1091,8 @@
           "end": 91,
           "span": "張伯雨",
           "cid": 561353,
-          "name": "張伯雨"
+          "name": "張伯雨",
+          "aid": "A003994"
         },
         {
           "type": "PersonName",
@@ -1031,7 +1100,8 @@
           "end": 98,
           "span": "惠生",
           "cid": 55178,
-          "name": "莊受祺"
+          "name": "莊受祺",
+          "aid": "A045003"
         },
         {
           "type": "PersonName",
@@ -1039,7 +1109,8 @@
           "end": 107,
           "span": "楊范",
           "cid": 167816,
-          "name": "楊范"
+          "name": "楊范",
+          "aid": "unknow"
         },
         {
           "type": "Time",
@@ -1053,7 +1124,8 @@
           "end": 126,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "鵲華秋色圖詩。弁陽老人公謹父。周之孫子猶懷土。南來寄食弁山陽。夢作齊東野人語。濟南別駕平原君。為貌家山入囊楮。鵲華秋色翠可食。耕稼陶漁在其下。吳儂白頭不歸去。不如掩卷聽春雨。右張伯雨詩集所載。惠生屬予再錄。以續楊范二詩人之筆。歲在庚午夏五十三日。董其昌識。",
@@ -1061,6 +1133,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "PersonName",
@@ -1068,7 +1141,8 @@
           "end": 4,
           "span": "張伯雨",
           "cid": 561353,
-          "name": "張伯雨"
+          "name": "張伯雨",
+          "aid": "A003994"
         },
         {
           "type": "PersonName",
@@ -1076,7 +1150,8 @@
           "end": 11,
           "span": "惠生",
           "cid": 55178,
-          "name": "莊受祺"
+          "name": "莊受祺",
+          "aid": "A045003"
         },
         {
           "type": "PersonName",
@@ -1084,7 +1159,8 @@
           "end": 20,
           "span": "楊范",
           "cid": 167816,
-          "name": "楊范"
+          "name": "楊范",
+          "aid": "unknow"
         },
         {
           "type": "Time",
@@ -1098,7 +1174,8 @@
           "end": 39,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "右張伯雨詩集所載。惠生屬予再錄。以續楊范二詩人之筆。歲在庚午夏五十三日。董其昌識。",
@@ -1106,6 +1183,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "PersonName",
@@ -1113,7 +1191,8 @@
           "end": 4,
           "span": "弁陽老人",
           "cid": 10183,
-          "name": "周密"
+          "name": "周密",
+          "aid": "A016943"
         },
         {
           "type": "Time",
@@ -1123,11 +1202,12 @@
         },
         {
           "type": "PersonName",
-          "start": 24,
+          "start": 23,
           "end": 26,
-          "span": "秋壑",
-          "cid": 10374,
-          "name": "賈似道"
+          "span": "賈秋壑",
+          "cid": "unknow",
+          "name": "賈似道",
+          "aid": "A008217"
         },
         {
           "type": "Thing",
@@ -1146,8 +1226,9 @@
           "start": 42,
           "end": 44,
           "span": "子昂",
-          "cid": 2058,
-          "name": "葉顒"
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "PersonName",
@@ -1155,7 +1236,8 @@
           "end": 59,
           "span": "錢舜舉",
           "cid": 429657,
-          "name": "錢舜舉"
+          "name": "錢舜舉",
+          "aid": "unknow"
         },
         {
           "type": "Person",
@@ -1175,7 +1257,8 @@
           "end": 90,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "弁陽老人。在晚宋時以博雅名。其煙雲過眼錄。皆在賈秋壑收藏諸珍圖名畫中鑒定。入勝國初。子昂從之。得見聞唐宋風流。與錢舜舉同稱耆舊。蓋書畫學必有師友淵源。湖州一派。真畫學所宗也。董其昌重題。",
@@ -1183,6 +1266,7 @@
     },
     {
       "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "PersonName",
@@ -1190,7 +1274,8 @@
           "end": 3,
           "span": "董其昌",
           "cid": 35003,
-          "name": "董其昌"
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
       "sentence": "董其昌重題",
@@ -1198,14 +1283,16 @@
     },
     {
       "authorcid": 352236,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
           "start": 6,
           "end": 8,
           "span": "文敏",
-          "cid": 17690,
-          "name": "趙孟頫"
+          "cid": 17096,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Thing",
@@ -1249,7 +1336,8 @@
           "end": 75,
           "span": "吳景運",
           "cid": 352236,
-          "name": "吳景運"
+          "name": "吳景運",
+          "aid": "unknow"
         }
       ],
       "sentence": "向見董宗伯臨文敏公鵲華秋色圖。已嘆賞不置。今獲觀此卷。更覺一辭莫贊。乃知書畫一致。知之而不能為之。為之而不能名之也。壬寅秋八月謹識於南山閣。荊溪吳景運。",
@@ -1257,6 +1345,7 @@
     },
     {
       "authorcid": 352236,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Location",
@@ -1270,7 +1359,8 @@
           "end": 5,
           "span": "吳景運",
           "cid": 352236,
-          "name": "吳景運"
+          "name": "吳景運",
+          "aid": "unknow"
         }
       ],
       "sentence": "荊溪吳景運",
@@ -1278,6 +1368,7 @@
     },
     {
       "authorcid": 34911,
+      "authoraid": "A042739",
       "output": [
         {
           "type": "Person",
@@ -1327,7 +1418,8 @@
           "end": 93,
           "span": "張先",
           "cid": 13742,
-          "name": "張先"
+          "name": "張先",
+          "aid": "unknow"
         },
         {
           "type": "Location",
@@ -1359,7 +1451,8 @@
           "end": 123,
           "span": "曹溶",
           "cid": 34911,
-          "name": "曹溶"
+          "name": "曹溶",
+          "aid": "A042739"
         },
         {
           "type": "Location",
@@ -1373,6 +1466,7 @@
     },
     {
       "authorcid": 34911,
+      "authoraid": "A042739",
       "output": [
         {
           "type": "PersonName",
@@ -1380,7 +1474,8 @@
           "end": 2,
           "span": "曹溶",
           "cid": 34911,
-          "name": "曹溶"
+          "name": "曹溶",
+          "aid": "A042739"
         },
         {
           "type": "Location",
@@ -1393,7 +1488,8 @@
       "author": "曹溶"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Location",
@@ -1407,7 +1503,8 @@
           "end": 21,
           "span": "趙孟頫",
           "cid": 17690,
-          "name": "趙孟頫"
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Time",
@@ -1482,10 +1579,13 @@
           "span": "畫卷"
         },
         {
-          "type": "Location",
+          "type": "PersonName",
           "start": 181,
           "end": 183,
-          "span": "吳興"
+          "span": "吳興",
+          "cid": 471041,
+          "name": "吳興",
+          "aid": "unknow"
         },
         {
           "type": "Location",
@@ -1519,10 +1619,11 @@
         }
       ],
       "sentence": "鵲華二山按輿志諸書所載夙稱名勝。向得趙孟頫是圖。珍為秘寶。每一展覽輒神為嚮往。然僅於卷中得其彷彿。意猶少之。今年二月東巡狩。謁闕里。祀岱宗。禮成旋蹕濟陽。周覽城堞。望東北隅諸山。詢之守土大吏。乃知山頂高且銳者為華不注。迤西頂平以厚者為鵲山。向固未知之也。因命郵報從京齎吳興畫卷以來。兩相證合。風景無殊。而一時目舒意愜。較之曩者臥遊。奚啻倍蓯天假之緣。豈偶然哉。但吳興自記云東為鵲山。今考誌乘叅以目覩。知其在華西。豈一時筆誤歟。故書近作鵲華二詩各於其山之側。並識於此云。戊辰（西元一七四八年）清明日御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
@@ -1550,16 +1651,20 @@
         }
       ],
       "sentence": "戊辰（西元一七四八年）清明日御筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": "null",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "Location",
+          "type": "PersonName",
           "start": 0,
           "end": 2,
-          "span": "吳興"
+          "span": "吳興",
+          "cid": 471041,
+          "name": "吳興",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
@@ -1593,7 +1698,7 @@
         }
       ],
       "sentence": "吳興此卷先已編入石渠寶笈。其時因未歷二山勝概。不及一語識之。今圖與景會。瞭然於心目之間。既為別白考證。而鵲華二山與所由名橋者。又各分題絕句竝畫卷中。是宣志其顛。末標以歲月。庶便他日覽觀焉。清明後三日再筆。",
-      "author": "清高宗"
+      "author": "愛新覺羅弘曆"
     }
   ]
 }
