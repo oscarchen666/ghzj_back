@@ -4,6 +4,12 @@ import json
 import numpy as np
 import opencc
 cc = opencc.OpenCC("s2t")
+with open("data/ddbc/ddbc_name2aid.json","r",encoding="utf8") as f:
+    ddbc_name2aid = json.load(f)
+with open("data/ddbc/ddbc_person_info.json","r",encoding="utf8") as f:
+    ddbc_personinfo = json.load(f)
+dbpath="data/latest.db"
+
 
 class JsonEncoder(json.JSONEncoder):
     # 用于处理写json文件格式问题
@@ -21,9 +27,9 @@ def dict_factory(cursor, row):
         d[col[0]] = row[idx]
     return d
 
+con = sqlite3.connect(dbpath) #打开数据库
+con.row_factory = dict_factory
 def select(dbpath,sql_str):
-    con = sqlite3.connect(dbpath) #打开数据库
-    con.row_factory = dict_factory
     c = con.cursor()
     c.execute(sql_str)
     output = c.fetchall()

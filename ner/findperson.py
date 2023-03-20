@@ -1,23 +1,10 @@
 import hanlp
 import pandas as pd
 import sqlite3
-from ner.getresulthc import infer,JsonEncoder
+from tool import select,JsonEncoder
+from ner.getresulthc import infer
 from ner.dealsent import getsentences,predealh
 dbpath = "data/latest.db"
-
-def dict_factory(cursor, row):
-    d = {}
-    for idx, col in enumerate(cursor.description):
-        d[col[0]] = row[idx]
-    return d
-
-def select(dbpath,sql_str):
-    con = sqlite3.connect(dbpath) #打开数据库
-    con.row_factory = dict_factory
-    c = con.cursor()
-    c.execute(sql_str)
-    output = c.fetchall()
-    return output
 
 def mytok(word):
     # 滑窗分词
@@ -76,7 +63,7 @@ def searchfen(data):
         newout={}
         sent=[]
         if sentence["author"]=="清高宗":sentence["author"]="愛新覺羅弘曆"
-        dysql = "select c_personid ,c_dy from BIOG_MAIN where c_name_chn= '"+sentence["author"]+"'"
+        dysql = "select c_personid ,c_dy from BIOG_MAIN where c_name_chn= '{}'".format(sentence["author"])
         output=select(dbpath,dysql)
         if len(output)!=0:
             dy=output[0]["c_dy"]

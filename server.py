@@ -5,7 +5,7 @@ import pandas as pd
 import math
 
 from data.datadeal import *
-from tool import imgexists,select,delauname,JsonEncoder,cc
+from tool import imgexists,select,delauname,JsonEncoder,cc,ddbc_name2aid,ddbc_personinfo
 from assoc.RelaDto import reladto
 
 def ner_search(pid):
@@ -129,19 +129,28 @@ def authorlist(pid):
     else:
         result[hzau]["作者"]="yes"
     # 查询朝代和cid
-    with open("authorinfo/id2dy.json","r",encoding="UTF8")as f:
-        id2dy=json.load(f)
+    with open("data/dynasties.json", "r",encoding="utf8") as f:
+        dyid2name=json.load(f)
         # 朝代代码转文字
     for au in result:
         
-        sql = "select c_personid,c_dy from BIOG_MAIN where c_name_chn = '"+au+"' or c_personid in (select c_personid from ALTNAME_DATA where c_alt_name_chn=  '"+au+"')" 
+        sql = "select c_personid,c_dy from BIOG_MAIN \
+            where c_name_chn = '{}' or \
+            c_personid in (select c_personid from ALTNAME_DATA \
+                where c_alt_name_chn=  '{}')" .format(au,au)
         out = select("data/latest.db",sql)
+
+        result[au]["aid"]="unknow"
+        result[au]["cid"]="unknow"
+        result[au]["朝代"]="unknow"
+        if au in ddbc_name2aid:#ddbc数据库
+            aid=ddbc_name2aid[au][0]
+            result[au]["aid"]=aid
+            result[au]["朝代"]=ddbc_personinfo[aid]["dynasty"][0]
         if out:
-            result[au]["朝代"]=str(out[0]["c_dy"])
+            result[au]["朝代"]=dyid2name[str(out[0]["c_dy"])]
             result[au]["cid"]=out[0]["c_personid"]
-        else:
-            result[au]["朝代"]="unknow"
-            result[au]["cid"]="unknow"
+            
 
     with open(save_path,"w",encoding="UTF8") as f:
         json.dump(result, f,indent=2, ensure_ascii=False)
@@ -406,11 +415,16 @@ def personscore(pid,cname2id):
 
 
 def trytry():
-    huapai()
+    sql="select c_dy,c_dynasty_chn from dynasties"
+    outs = select("",sql)
+    res={out["c_dy"]:out["c_dynasty_chn"]for out in outs}
+    with open("data/dynasties.json", "w",encoding="utf8") as f:
+        json.dump(res,f,indent=2,ensure_ascii=False)
     
 
 if __name__ == '__main__':
-    trytry()
+
+    authorlist("894")
 
 
     

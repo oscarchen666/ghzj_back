@@ -12,10 +12,6 @@ class RelaDto():
     # 该类用于查询人物信息以及人物关系
     def __init__(self,path="data/latest.db"):
         self.dbpath = path
-        # 已经查询到信息的人物列表，长期存储
-        with open("data/id2info.json","r",encoding="UTF8")as f:
-            self.id2info = json.load(f) 
-        f.close()
         self.tmplist_matrix = {} # 临时人物列表
         self.tmplist_socre = {}
         self.tmppid_matrix = -1 # 临时记录画作id
@@ -24,21 +20,10 @@ class RelaDto():
         with open ("data/id2rela.json","r",encoding="UTF8")as f:
             self.id2rela = json.load(f)
 
-    def save_id2info(self,tmpid2info):
-        # 存储新的人物信息
-        self.id2info.update(tmpid2info)
-        # for id in self.id2info:print(id)
-        with open("data/id2info.json","w",encoding="UTF8")as f:
-            json.dump(self.id2info,f,indent=2, ensure_ascii=False)
-
     def getid2info(self,cidlist):
         # 获取人物列表的cid-信息对
         tmpid2info={}
-        for cid in cidlist:
-            # 如果已经存储了人物信息就直接调用
-            if cid in self.id2info:
-                tmpid2info[cid]=self.id2info[cid]
-                cidlist.remove(cid)
+
         with open("data/官职品级2.json","r",encoding="UTF8")as f:
             gzpj=json.load(f)
         sql = "select c_personid,c_name_chn,c_birthyear,c_deathyear,c_index_addr_id\
@@ -102,7 +87,6 @@ class RelaDto():
                 "身份(鉴藏家、文人、官员)":[jcj,wr,highest_office]
             }
             tmpid2info[cid]=info
-        self.save_id2info(tmpid2info)#存储新增的id2info，下次不用再查
         return tmpid2info
     
     def select_kin(self,cidlist):
