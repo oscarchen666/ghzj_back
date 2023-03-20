@@ -4,8 +4,8 @@ import math
 import pandas as pd
 import math
 
+from data.datadeal import *
 from tool import imgexists,select,delauname,JsonEncoder,cc
-from assoc.cbdb_dao import CBDBDAO
 from assoc.RelaDto import reladto
 
 def ner_search(pid):
@@ -190,45 +190,6 @@ def gaoliang(pid,name,type):
                     gllist.append({"senid":i,"start":span["start"],"end":span["end"]})
     result = {"name":name,"gllist":gllist}
     return result
-
-def assocdata(name):
-    # 国画大数据的关系图,已经弃用
-    data_csv = pd.read_csv(r'data/data.csv')
-    row = data_csv[data_csv['authorNameTC'] == name]
-
-    if len(row) == 0 or math.isnan(row['cid']) == True:
-        return  {
-            'id':'',
-            'id2name': {},
-            'events':[],
-            'id2painter': {}
-        }
-    
-    id = int(row['cid'])
-    cbdb_dao = CBDBDAO('data/latest.db', use_cache=True)
-    cbdb_dao.getCBDBID(id)
-    # 一度亲属关系和有直接事件联系的人，这群人互相之间关联的事件
-    events = cbdb_dao.get_all_assoc_data()
-
-    # 有画作信息的画家
-    painter = {int(r['cid']): [r['山水'],r['人物'],r['花鸟']] 
-    for i,r in data_csv.iterrows() 
-    if math.isnan(r['cid']) == False
-    }
-    # cbdb认为是画家的人
-    painterList = cbdb_dao.get_all_painter()
-
-    id2painter = {key: painter[key] for key in cbdb_dao.cbdbid2name if key in painter}
-    for id in painterList:
-        if id not in id2painter:
-            id2painter[id] = []
-
-    return {
-        'id':id,
-        'id2name': cbdb_dao.cbdbid2name,
-        'events':events,
-        'id2painter': id2painter
-    }
 
 def auinfoscore(pid):
     # 获取人的生卒年和评价得分等信息
@@ -431,8 +392,8 @@ def personscore(pid,cname2id):
         auname=relares[cid]["姓名"]
         if auname not in hzjc:
             hzjc[auname]={"鉴藏": 0,"被鉴藏": 0,"画作数": 0}
-        s1 = ss["画派"]*10+ round(math.log(hzjc[auname]["鉴藏"]+1) + math.log(hzjc[auname]["被鉴藏"]+1) + 5*math.log(hzjc[auname]["画作数"]+1))
-        s2 = round(4*math.log(ss["古籍讨论"]+1))
+        s1 = ss["画派"]+ round(math.log(hzjc[auname]["鉴藏"]+1) + math.log(hzjc[auname]["被鉴藏"]+1) + 5*math.log(hzjc[auname]["画作数"]+1))
+        s2 = round(3.5*math.log(ss["古籍讨论"]+1))
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         
@@ -445,14 +406,7 @@ def personscore(pid,cname2id):
 
 
 def trytry():
-    sql = "select c_status_code,c_personid from status_data\
-            where c_status_code=26 "
-    outs = select("data/latest.db",sql)
-    for out in outs:
-        cid=out["c_personid"]
-        sql="select c_name_chn from biog_main where c_personid = {}".format(cid)
-        print(select("data/latest.db",sql))
-
+    huapai()
     
 
 if __name__ == '__main__':

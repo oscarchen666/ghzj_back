@@ -222,8 +222,8 @@ class RelaDto():
             if gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].any():
                 personinfos[cid]["分数"]["古籍讨论"]=int(
                     gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].values[0])
-            if id2info[cid]["姓名"] in hpinfo["画派成员"]:
-                personinfos[cid]["分数"]["画派得分"]=1
+            if id2info[cid]["姓名"] in hpinfo:
+                personinfos[cid]["分数"]["画派得分"]=hpinfo[id2info[cid]["姓名"]]
             
         # 统计人物在列表之间的的六种关系
         kinlist = self.select_kin(cidlist)
