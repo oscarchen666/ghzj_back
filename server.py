@@ -48,7 +48,7 @@ def ciyun(pid):
                     plist[span["span"]]=plist[span["span"]]+1
                 else:
                     plist[span["span"]]=1
-            elif span["type"]=="Location":
+            elif span["type"]=="Location" or span["type"]=="LocationName":
                 if span["span"]in llist:
                     llist[span["span"]]=llist[span["span"]]+1
                 else:
@@ -164,7 +164,6 @@ def lianxian(pid,name):
     # 作者和词云、图像连线
     # 和词云连线
     cylines = []
-    if name=="愛新覺羅弘曆": name="清高宗"
     with open("nerresult/"+pid+".json","r",encoding="UTF8")as f:
         tbdata = json.load(f)
     for sentence in tbdata["sentences"]:
