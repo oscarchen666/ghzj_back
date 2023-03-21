@@ -19,6 +19,8 @@ class RelaDto():
         # 关系id转关系名和类别
         with open ("data/id2rela.json","r",encoding="UTF8")as f:
             self.id2rela = json.load(f)
+        with open ("data/dynasties.json","r",encoding="UTF8")as f:
+            self.id2dy = json.load(f)
 
     def getid2info(self,cidlist):
         # 获取人物列表的cid-信息对
@@ -26,7 +28,7 @@ class RelaDto():
 
         with open("data/官职品级2.json","r",encoding="UTF8")as f:
             gzpj=json.load(f)
-        sql = "select c_personid,c_name_chn,c_birthyear,c_deathyear,c_index_addr_id\
+        sql = "select c_personid,c_name_chn,c_birthyear,c_deathyear,c_index_addr_id,c_dy\
               from biog_main where c_personid in {}"
         sql=sql.format(tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
         outs = select(self.dbpath,sql)
@@ -44,6 +46,8 @@ class RelaDto():
                 outs2 = select(self.dbpath,sql)
                 jg=outs2[0]["c_name_chn"]
             else: jg=None
+            # 朝代
+            dynasty=self.id2dy[str(out["c_dy"])]
             # 社会区分
             sql = "select status_codes.c_status_code,c_status_desc_chn from status_data,status_codes\
                     where status_data.c_status_code=status_codes.c_status_code\
@@ -83,6 +87,7 @@ class RelaDto():
                 "卒年":out["c_deathyear"],
                 "别名":bmlist,
                 "籍贯":jg,
+                "朝代":dynasty,
                 "社会区分":shlist,
                 "身份(鉴藏家、文人、官员)":[jcj,wr,highest_office]
             }

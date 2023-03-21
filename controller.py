@@ -163,6 +163,17 @@ def getpersonscore():
         result=personscore(pid,cname2id)
         return R.ok(result)
     return R.erro2()
+
+@app.route("/getonepernameinfo", methods=["GET"])
+@cross_origin(allow_headers="*")
+def getonepernameinfo():
+    # 用名字查询可能的人物
+    name=request.args.get("name")
+    stype=request.args.get("stype")
+    if len(name)>1 and stype in["cid","aid"]:
+        result = onepernameinfo(name,stype)
+        return R.ok(result)
+    return R.erro2()
  
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=28081, debug = True)

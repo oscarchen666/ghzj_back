@@ -369,7 +369,6 @@ def personmatrix(pid,cname2id):
     # print(len(name2id))
     return result
 
-
 def personscore(pid,cname2id):
     # 根据画作取所有人物的详细信息形成得分，支持新增人物
     cidlist=[]
@@ -414,13 +413,49 @@ def personscore(pid,cname2id):
 
     return result
 
+def onepernameinfo(personname,stype="cid"):
+    res = []
+    if stype == "cid":
+        cidlist=[]
+        sql_str ="select c_personid from BIOG_MAIN \
+            where c_name_chn like '%{}%' or c_personid in\
+            (select c_personid from ALTNAME_DATA \
+            where c_alt_name_chn like '%{}%')".format(personname,personname)
+        output = select("",sql_str)
+        if not output: return res
+        for out in output:
+            cidlist.append(out["c_personid"])
+        tmpid2info = reladto.getid2info(cidlist)
+        for cid in cidlist:
+            res.append({"id":cid,
+                "name":tmpid2info[cid]["姓名"],
+                "birth":tmpid2info[cid]["生年"],
+                "death":tmpid2info[cid]["卒年"],
+                "altname":tmpid2info[cid]["别名"],
+                "place":tmpid2info[cid]["籍贯"],
+                "dynasty":tmpid2info[cid]["朝代"]})
+    elif stype == "aid":
+        if personname not in ddbc_name2aid:return res
+        aidlist=ddbc_name2aid[personname]
+        for aid in aidlist:
+            info = ddbc_personinfo[aid]
+            res.append({"id":aid,
+                "name":info["name"],
+                "birth":info["birth"][:5],
+                "death":info["death"][:5],
+                "altname":info["altname"],
+                "place":info["place"],
+                "dynasty":info["dynasty"][0]})
+    return res
+    print(res)
+
 
 def trytry():
     word="翰林钱傅"
 
 if __name__ == '__main__':
 
-    trytry()
+    onepernameinfo("xx",stype="cid")
 
 
     

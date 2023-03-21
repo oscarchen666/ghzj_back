@@ -8,7 +8,7 @@ with open("data/ddbc/ddbc_name2aid.json","r",encoding="utf8") as f:
     ddbc_name2aid = json.load(f)
 with open("data/ddbc/ddbc_person_info.json","r",encoding="utf8") as f:
     ddbc_personinfo = json.load(f)
-dbpath="data/latest.db"
+dbpath1="data/latest.db"
 
 
 class JsonEncoder(json.JSONEncoder):
@@ -29,7 +29,7 @@ def dict_factory(cursor, row):
 
 
 def select(dbpath,sql_str):
-    con = sqlite3.connect(dbpath) #打开数据库
+    con = sqlite3.connect(dbpath1) #打开数据库
     con.row_factory = dict_factory
     c = con.cursor()
     c.execute(sql_str)
