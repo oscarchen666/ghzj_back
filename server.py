@@ -415,6 +415,7 @@ def personscore(pid,cname2id):
 
 def onepernameinfo(personname,stype="cid"):
     res = []
+    personname=delauname(personname)
     if stype == "cid":
         cidlist=[]
         sql_str ="select c_personid from BIOG_MAIN \
