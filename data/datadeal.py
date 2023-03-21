@@ -1,7 +1,7 @@
 # 部分数据处理函数
 import pandas as pd
 import json
-from tool import cc
+# from tool import cc
 
 def huapai():
     # 画派.xlsx-画派信息.json
@@ -54,3 +54,4 @@ def gzpj():
     # 打印修改后的data
     with open("data/官职品级2.json", "w",encoding="UTF8") as f:
         json.dump(data,f,indent=2,ensure_ascii=False)
+

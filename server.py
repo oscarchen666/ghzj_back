@@ -5,7 +5,7 @@ import pandas as pd
 import math
 
 from data.datadeal import *
-from tool import imgexists,select,delauname,JsonEncoder,cc,ddbc_name2aid,ddbc_personinfo
+from tool import *
 from assoc.RelaDto import reladto
 
 def ner_search(pid):
@@ -361,10 +361,12 @@ def personmatrix(pid,cname2id):
     officelist = reladto.select_office(cidlist)
     kinlist.extend(assoclist)
     kinlist.extend(officelist)
+    newname2id = sort_name2id(name2id)
     result ={
         "关系列表":kinlist,
         "人物信息":tmpid2info,
-        "人物列表":name2id
+        "人物列表":name2id,
+        "排序人物列表":newname2id
     }
     # print(len(name2id))
     return result
@@ -413,15 +415,16 @@ def personscore(pid,cname2id):
 
     return result
 
-def onepernameinfo(personname,stype="cid"):
+def onepernameinfo(name,stype="cperson"):
+    # 模糊查询名字
     res = []
-    personname=delauname(personname)
-    if stype == "cid":
+    name=delauname(name)
+    if stype == "cperson":
         cidlist=[]
         sql_str ="select c_personid from BIOG_MAIN \
             where c_name_chn like '%{}%' or c_personid in\
             (select c_personid from ALTNAME_DATA \
-            where c_alt_name_chn like '%{}%')".format(personname,personname)
+            where c_alt_name_chn like '%{}%')".format(name,name)
         output = select("",sql_str)
         if not output: return res
         for out in output:
@@ -435,10 +438,10 @@ def onepernameinfo(personname,stype="cid"):
                 "altname":tmpid2info[cid]["别名"],
                 "place":tmpid2info[cid]["籍贯"],
                 "dynasty":tmpid2info[cid]["朝代"]})
-    elif stype == "aid":
+    elif stype == "aperson":
         aidlist = []
         for ddbc_name in ddbc_name2aid:
-            if personname in ddbc_name:
+            if name in ddbc_name:
                 aidlist.extend(ddbc_name2aid[ddbc_name])
         print(len(aidlist))
         if not aidlist:return res
@@ -452,16 +455,47 @@ def onepernameinfo(personname,stype="cid"):
                 "altname":info["altname"],
                 "place":info["place"],
                 "dynasty":info["dynasty"][0]})
+    elif stype== "cplace":
+        sql="select c_addr_id,c_name_chn,belongs1_Name,belongs2_Name,belongs3_Name,belongs4_Name\
+              from ADDRESSES where c_name_chn like '%{}%'".format(name)
+        outs= select("",sql)
+        if not outs: return res
+        for out in outs:
+            p4= out["belongs4_Name"]+"-" if out["belongs4_Name"] else ""
+            p3= out["belongs3_Name"]+"-" if out["belongs3_Name"] else ""
+            p2= out["belongs2_Name"]+"-" if out["belongs2_Name"] else ""
+            p1= out["belongs1_Name"] if out["belongs1_Name"] else ""
+            place= p4+p3+p2+p1
+            res.append({"id":out["c_addr_id"],"placename":out["c_name_chn"],
+                        "location":place})
+
+    elif stype == "aplace":
+        places = ddbc_place[ddbc_place["地名"].str.contains(name, na=False)]
+        for plid,plname,pllo in zip(places["id"],places["地名"],places["所在位置"]):
+            if pd.isna(pllo) :pllo="unknow"
+            res.append({"id":plid,"placename":plname,"location":pllo})
+    
     return res
     # print(res)
 
 
 def trytry():
-    word="翰林钱傅"
+    # place="鵲山"
+    name="山陰"
+    sql="select c_addr_id,c_name_chn,belongs1_Name,belongs2_Name,belongs3_Name,belongs4_Name\
+              from ADDRESSES where c_name_chn like '%{}%'".format(name)
+    outs= select("",sql)
+    for out in outs:
+        p4= out["belongs4_Name"]+"-" if out["belongs4_Name"] else ""
+        p3= out["belongs3_Name"]+"-" if out["belongs3_Name"] else ""
+        p2= out["belongs2_Name"]+"-" if out["belongs2_Name"] else ""
+        p1= out["belongs1_Name"] if out["belongs1_Name"] else ""
+        place= p4+p3+p2+p1
+        print(out)
 
 if __name__ == '__main__':
-
-    print(onepernameinfo("孟頫",stype="aid"))
+    trytry()
+    # print(onepernameinfo("孟頫",stype="aid"))
 
 
     
