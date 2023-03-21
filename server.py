@@ -436,8 +436,13 @@ def onepernameinfo(personname,stype="cid"):
                 "place":tmpid2info[cid]["籍贯"],
                 "dynasty":tmpid2info[cid]["朝代"]})
     elif stype == "aid":
-        if personname not in ddbc_name2aid:return res
-        aidlist=ddbc_name2aid[personname]
+        aidlist = []
+        for ddbc_name in ddbc_name2aid:
+            if personname in ddbc_name:
+                aidlist.extend(ddbc_name2aid[ddbc_name])
+        print(len(aidlist))
+        if not aidlist:return res
+        # aidlist=ddbc_name2aid[personname]
         for aid in aidlist:
             info = ddbc_personinfo[aid]
             res.append({"id":aid,
@@ -448,7 +453,7 @@ def onepernameinfo(personname,stype="cid"):
                 "place":info["place"],
                 "dynasty":info["dynasty"][0]})
     return res
-    print(res)
+    # print(res)
 
 
 def trytry():
@@ -456,7 +461,7 @@ def trytry():
 
 if __name__ == '__main__':
 
-    onepernameinfo("xx",stype="cid")
+    print(onepernameinfo("孟頫",stype="aid"))
 
 
     
