@@ -21,16 +21,12 @@
           "span": "齊人"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 11,
           "end": 13,
-          "span": "齊州"
-        },
-        {
-          "type": "Thing",
-          "start": 25,
-          "end": 27,
-          "span": "山川"
+          "span": "齊州",
+          "aid": "PL000000000083",
+          "cid": 101056
         },
         {
           "type": "Location",
@@ -39,16 +35,23 @@
           "span": "華不注"
         },
         {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "山川"
+        },
+        {
           "type": "Person",
           "start": 38,
           "end": 40,
           "span": "左氏"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 64,
           "end": 66,
-          "span": "鵲山"
+          "span": "鵲山",
+          "aid": "PL000000001846"
         },
         {
           "type": "Time",
@@ -63,10 +66,12 @@
           "span": "西元一二九五年）十有二月"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 95,
           "end": 97,
-          "span": "吳興"
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
         },
         {
           "type": "PersonName",
@@ -116,10 +121,12 @@
           "span": "西元一七四八年"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 29,
           "end": 31,
-          "span": "齊州"
+          "span": "齊州",
+          "aid": "PL000000000083",
+          "cid": 101056
         },
         {
           "type": "Time",
@@ -299,10 +306,11 @@
           "span": "雨"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 18,
           "end": 20,
-          "span": "鵲山"
+          "span": "鵲山",
+          "aid": "PL000000001846"
         },
         {
           "type": "Thing",
@@ -311,10 +319,11 @@
           "span": "靈鵲"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 34,
           "end": 36,
-          "span": "鵲山"
+          "span": "鵲山",
+          "aid": "PL000000001846"
         },
         {
           "type": "Time",
@@ -369,10 +378,11 @@
           "span": "此圖"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 10,
           "end": 12,
-          "span": "嘉興"
+          "span": "嘉興",
+          "cid": 18288
         },
         {
           "type": "PersonName",
@@ -505,13 +515,10 @@
           "span": "評者"
         },
         {
-          "type": "PersonName",
+          "type": "Thing",
           "start": 91,
           "end": 93,
-          "span": "蘭亭",
-          "cid": 63778,
-          "name": "韓鑅",
-          "aid": "unknow"
+          "span": "蘭亭"
         },
         {
           "type": "PersonName",
@@ -629,13 +636,10 @@
           "span": "五朝"
         },
         {
-          "type": "PersonName",
+          "type": "Person",
           "start": 25,
           "end": 26,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
+          "span": "人"
         },
         {
           "type": "PersonName",
@@ -793,10 +797,11 @@
           "aid": "A045003"
         },
         {
-          "type": "Location",
-          "start": 14,
+          "type": "LocationName",
+          "start": 15,
           "end": 18,
-          "span": "金閶舟中"
+          "span": "閶舟中",
+          "aid": "PL000000009940"
         },
         {
           "type": "PersonName",
@@ -837,10 +842,11 @@
           "aid": "A045003"
         },
         {
-          "type": "Location",
-          "start": 14,
+          "type": "LocationName",
+          "start": 15,
           "end": 18,
-          "span": "金閶舟中"
+          "span": "閶舟中",
+          "aid": "PL000000009940"
         },
         {
           "type": "PersonName",
@@ -1038,10 +1044,12 @@
           "aid": "A002889"
         },
         {
-          "type": "Location",
-          "start": 27,
+          "type": "LocationName",
+          "start": 28,
           "end": 30,
-          "span": "弁山陽"
+          "span": "山陽",
+          "aid": "PL000000012944",
+          "cid": 17581
         },
         {
           "type": "PersonName",
@@ -1053,10 +1061,11 @@
           "aid": "unknow"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 39,
           "end": 41,
-          "span": "濟南"
+          "span": "濟南",
+          "cid": 4840
         },
         {
           "type": "PersonName",
@@ -1246,10 +1255,11 @@
           "span": "師友"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 75,
           "end": 77,
-          "span": "湖州"
+          "span": "湖州",
+          "cid": 5352
         },
         {
           "type": "PersonName",
@@ -1319,16 +1329,20 @@
           "span": "壬寅秋八月"
         },
         {
-          "type": "Location",
-          "start": 66,
+          "type": "LocationName",
+          "start": 67,
           "end": 69,
-          "span": "南山閣"
+          "span": "山閣",
+          "aid": "PL000000009496",
+          "cid": 303601
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 70,
           "end": 72,
-          "span": "荊溪"
+          "span": "荊溪",
+          "aid": "PL000000009435",
+          "cid": 7537
         },
         {
           "type": "PersonName",
@@ -1348,10 +1362,12 @@
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 0,
           "end": 2,
-          "span": "荊溪"
+          "span": "荊溪",
+          "aid": "PL000000009435",
+          "cid": 7537
         },
         {
           "type": "PersonName",
@@ -1401,16 +1417,19 @@
           "span": "煙雲"
         },
         {
-          "type": "Location",
-          "start": 82,
+          "type": "LocationName",
+          "start": 83,
           "end": 86,
-          "span": "金沙舊家"
+          "span": "沙舊家",
+          "aid": "PL000000013893",
+          "cid": 2765
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 89,
           "end": 91,
-          "span": "膠州"
+          "span": "膠州",
+          "cid": 17115
         },
         {
           "type": "PersonName",
@@ -1455,10 +1474,11 @@
           "aid": "A042739"
         },
         {
-          "type": "Location",
-          "start": 125,
+          "type": "LocationName",
+          "start": 126,
           "end": 129,
-          "span": "雙溪舟中"
+          "span": "溪舟中",
+          "aid": "PL000000011752"
         }
       ],
       "sentence": "世人解重元末四家。不解推尊松雪。絕不足怪。不過胸中無書耳。余見松雪畫至夥。絢爛天真。各極其致。此為公謹作圖。用筆尤遒古。殆以公謹精鑒別。有意分煙雲過眼中一位耶。卷藏金沙舊家。今歸膠州張先三。鵲華兩山有靈。故使主人涉江數千里。攫取此卷還其鄉也。曹溶題於雙溪舟中。",
@@ -1478,10 +1498,11 @@
           "aid": "A042739"
         },
         {
-          "type": "Location",
-          "start": 4,
+          "type": "LocationName",
+          "start": 5,
           "end": 8,
-          "span": "雙溪舟中"
+          "span": "溪舟中",
+          "aid": "PL000000011752"
         }
       ],
       "sentence": "曹溶題於雙溪舟中",
@@ -1519,16 +1540,19 @@
           "span": "闕里"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 74,
           "end": 76,
-          "span": "濟陽"
+          "span": "濟陽",
+          "cid": 17141
         },
         {
-          "type": "Location",
-          "start": 83,
+          "type": "LocationName",
+          "start": 84,
           "end": 86,
-          "span": "東北隅"
+          "span": "北隅",
+          "aid": "PL000000058508",
+          "cid": 3483
         },
         {
           "type": "Thing",
@@ -1561,10 +1585,11 @@
           "span": "迤西頂"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 117,
           "end": 119,
-          "span": "鵲山"
+          "span": "鵲山",
+          "aid": "PL000000001846"
         },
         {
           "type": "Thing",
@@ -1588,10 +1613,11 @@
           "aid": "unknow"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 188,
           "end": 190,
-          "span": "鵲山"
+          "span": "鵲山",
+          "aid": "PL000000001846"
         },
         {
           "type": "Location",

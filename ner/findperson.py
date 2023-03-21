@@ -1,7 +1,7 @@
 import hanlp
 import pandas as pd
 import sqlite3
-from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo
+from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo,ddbc_place
 from ner.getresulthc import infer
 from ner.dealsent import getsentences,predealh
 dbpath = "data/latest.db"
@@ -76,6 +76,40 @@ def findperson(info,dy):
         else:info["aid"] ="unknow"        
     return info
 
+def findlocation(info):
+    ddbc_place
+    places = ddbc_place[ddbc_place["地名"]==info["span"]]
+    if len(places)>0:
+        info["type"] = "LocationName"
+        info["aid"] = places["id"].values[0]
+    sql="select c_addr_id,c_name_chn\
+            from ADDRESSES where c_name_chn like '%{}%'".format(info["span"])
+    outs= select("",sql)
+    if outs:
+        info["type"] = "LocationName"
+        info["cid"] = outs[0]["c_addr_id"]
+    if info["type"] != "LocationName":
+        # 直接查不到，分词查
+        fens= mytok(info["span"])
+        start = info["start"]
+        for word, begin, end in fens:
+            places = ddbc_place[ddbc_place["地名"]==word]
+            if len(places)>0:
+                info["type"] = "LocationName"
+                info["aid"] = places["id"].values[0]
+            sql="select c_addr_id,c_name_chn\
+                    from ADDRESSES where c_name_chn like '%{}%'".format(word)
+            outs= select("",sql)
+            if outs:
+                info["type"] = "LocationName"
+                info["cid"] = outs[0]["c_addr_id"]
+            if info["type"] == "LocationName":#匹配到了，修改
+                info["span"] = word
+                info["start"] = start+begin
+                info["end"] = start+end
+    return info
+    print(info)
+
 def searchfen(data):
 
     new_data = {}
@@ -99,7 +133,8 @@ def searchfen(data):
         for info in sentence["output"]:
             if info["type"]=='Person':
                 info = findperson(info,dy)
-
+            if info["type"]=="Location":
+                info = findlocation(info)
             sent.append(info)
         
         newout["output"] = sent

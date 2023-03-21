@@ -348,10 +348,11 @@
           "span": "右卷"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 4,
           "end": 6,
-          "span": "石渠"
+          "span": "石渠",
+          "cid": 2236
         },
         {
           "type": "PersonName",
@@ -484,10 +485,10 @@
         },
         {
           "type": "PersonName",
-          "start": 212,
-          "end": 214,
-          "span": "蘇軾",
-          "cid": 3767,
+          "start": 214,
+          "end": 216,
+          "span": "東坡",
+          "cid": "unknow",
           "name": "蘇軾",
           "aid": "A003555"
         },

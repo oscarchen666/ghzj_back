@@ -2,6 +2,8 @@
   "filefroms": "8.json",
   "sentences": [
     {
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
@@ -22,13 +24,15 @@
           "span": "羲之"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 34,
           "end": 36,
-          "span": "雲林"
+          "span": "雲林",
+          "cid": 20654
         }
       ],
-      "sentence": "乾隆丙寅（西元一七四六年）新正幾暇。因觀羲之快雪時晴。愛此側理。輙寫雲林大意。"
+      "sentence": "乾隆丙寅（西元一七四六年）新正幾暇。因觀羲之快雪時晴。愛此側理。輙寫雲林大意。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

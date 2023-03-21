@@ -480,18 +480,14 @@ def onepernameinfo(name,stype="cperson"):
 
 
 def trytry():
-    # place="鵲山"
-    name="山陰"
-    sql="select c_addr_id,c_name_chn,belongs1_Name,belongs2_Name,belongs3_Name,belongs4_Name\
-              from ADDRESSES where c_name_chn like '%{}%'".format(name)
-    outs= select("",sql)
-    for out in outs:
-        p4= out["belongs4_Name"]+"-" if out["belongs4_Name"] else ""
-        p3= out["belongs3_Name"]+"-" if out["belongs3_Name"] else ""
-        p2= out["belongs2_Name"]+"-" if out["belongs2_Name"] else ""
-        p1= out["belongs1_Name"] if out["belongs1_Name"] else ""
-        place= p4+p3+p2+p1
-        print(out)
+    from ner.findperson import findlocation
+    info={
+          "end": 14, 
+          "span": "華不注", 
+          "start": 11, 
+          "type": "Location"
+        }
+    print(findlocation(info))
 
 if __name__ == '__main__':
     trytry()
