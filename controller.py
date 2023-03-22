@@ -164,14 +164,14 @@ def getpersonscore():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getonepernameinfo", methods=["GET"])
+@app.route("/getonestringinfo", methods=["GET"])
 @cross_origin(allow_headers="*")
-def getonepernameinfo():
+def getonestringinfo():
     # 用名字查询可能的人物
     name=request.args.get("name")
     stype=request.args.get("stype")
-    if len(name)>1 and stype in["cperson","aperson","cplace","aplace"]:
-        result = onepernameinfo(name,stype)
+    if len(name)>1 and stype in["cperson","aperson","cplace","aplace","time"]:
+        result = onestringinfo(name,stype)
         return R.ok(result)
     return R.erro2()
  

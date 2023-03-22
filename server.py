@@ -414,7 +414,7 @@ def personscore(pid,cname2id):
 
     return result
 
-def onepernameinfo(name,stype="cperson"):
+def onestringinfo(name,stype="cperson"):
     # 模糊查询名字
     res = []
     name=delauname(name)
@@ -473,23 +473,21 @@ def onepernameinfo(name,stype="cperson"):
         for plid,plname,pllo in zip(places["id"],places["地名"],places["所在位置"]):
             if pd.isna(pllo) :pllo="unknow"
             res.append({"id":plid,"placename":plname,"location":pllo})
-    
+    elif stype == "time":
+        res = dealyearstring(name)
     return res
     # print(res)
 
 
 def trytry():
-    from ner.findperson import findlocation
-    info={
-          "end": 14, 
-          "span": "華不注", 
-          "start": 11, 
-          "type": "Location"
-        }
-    print(findlocation(info))
+    sql = "select c_dynasty_chn,c_nianhao_chn,c_firstyear from nian_hao"
+    outs =select("",sql)
+    for out in outs[20:40]:
+        print(out)
+    
 
 if __name__ == '__main__':
-    trytry()
+    print(trytry())
     # print(onepernameinfo("孟頫",stype="aid"))
 
 
