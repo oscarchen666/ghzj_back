@@ -266,18 +266,18 @@ def yinzhang(pid):
 def image(imgid,imgtype):
     # 返回对应的图
     # 印章截图地址和印章匹配图地址
-    jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{imgid}"
-    pppath = "../../../jiaailing/data/ChinesePainting/seals/{imgid}"
-    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{imgid}"
-    hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{ppid}"
-    if imgtype=="截图" :fullpath = jtpath.format(imgid=imgid)
-    elif imgtype=="匹配":fullpath = pppath.format(imgid=imgid)
+    jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{}"
+    pppath = "../../../jiaailing/data/ChinesePainting/seals/{}"
+    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{}"
+    hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
+    if imgtype=="截图" :fullpath = jtpath.format(imgid)
+    elif imgtype=="匹配":fullpath = pppath.format(imgid)
     elif imgtype=="画作":
         # 根据pid找paintingID
         yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
         ppid = yzdf[yzdf["pid"]==int(imgid)]["paintingID"].values[0]
-        fullpath = hzpath.format(ppid=ppid)
-    elif imgtype=="画心":fullpath = hxpath.format(imgid=imgid)
+        fullpath = hzpath.format(ppid)
+    elif imgtype=="画心":fullpath = hxpath.format(imgid)
     print(fullpath)
     img = imgexists(fullpath)
     return img
@@ -289,12 +289,13 @@ def coor(x,y):
 
 def huaxininfo(pid):
     # 获取画心数据
-    hxdf = pd.read_excel("data/画心.xlsx")
+    hxdf = pd.read_excel("data/画心相似.xlsx")
     hxdf=hxdf[hxdf["ID"]==int(pid)]
-    xshzid=hxdf["相似画作_ID"].values[0].split(",")
-    xsimg=hxdf["相似画作图"].values[0].split(",")
-    auname=hxdf["作者"].values[0].split(",")
-    hzname=hxdf["品名"].values[0].split(",")
+    xshzid=hxdf["相似画作_ID"].values[0].split(";")
+    xsimg=hxdf["相似画作图"].values[0].split(";")
+    auname=hxdf["作者"].values[0].split(";")
+    hzname=hxdf["品名"].values[0].split(";")
+    xsscore=hxdf["分数"].values[0].split(";")
     result = []
     for i in range(len(xshzid)):
         # 作者生卒年
@@ -317,7 +318,42 @@ def huaxininfo(pid):
             "cid":cid,
             "作者生年":birday,
             "作者卒年":deaday,
-            "画作名":hzname[i]
+            "画作名":cc.convert(hzname[i]),
+            "相似度":xsscore[i],
+            "相似类型":"画心相似"
+        }
+        result.append(info)
+    wbdf = pd.read_excel("data/文本相似.xlsx")
+    wbdf = wbdf[wbdf["ID"]==int(pid)]
+    xshzid=wbdf["画作id"].values[0].split(";")
+    xsimg=wbdf["画作链接"].values[0].split(";")
+    auname=wbdf["画作作者"].values[0].split(";")
+    hzname=wbdf["画作品名"].values[0].split(";")
+    xsscore=wbdf["相似画作分数"].values[0].split(";")
+    for i in range(len(xshzid)):
+        # 作者生卒年
+        au = cc.convert(auname[i])
+        sql = "select c_personid,c_birthyear,c_deathyear \
+                from biog_main where c_name_chn = '{}'".format(au)
+        out = select("data/latest.db",sql)
+        if out:
+            cid = out[0]["c_personid"]
+            birday = out[0]["c_birthyear"]
+            deaday = out[0]["c_deathyear"]
+        else:
+            cid="unknow"
+            birday=None
+            deaday=None
+        info={
+            "相似画作id":xshzid[i],
+            "相似画作图":xsimg[i],
+            "作者":au,
+            "cid":cid,
+            "作者生年":birday,
+            "作者卒年":deaday,
+            "画作名":cc.convert(hzname[i]),
+            "相似度":xsscore[i],
+            "相似类型":"文本相似"
         }
         result.append(info)
     return result
@@ -487,7 +523,8 @@ def trytry():
     
 
 if __name__ == '__main__':
-    print(trytry())
+    print(huaxininfo("894"))
+    # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))
 
 
