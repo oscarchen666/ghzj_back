@@ -21,6 +21,8 @@ class RelaDto():
             self.id2rela = json.load(f)
         with open ("data/dynasties.json","r",encoding="UTF8")as f:
             self.id2dy = json.load(f)
+        painterlist=pd.read_excel("data/painter.xlsx")
+        self.painterlist=painterlist["authorNameTC"].to_list()
 
     def getid2info(self,cidlist):
         # 获取人物列表的cid-信息对
@@ -28,6 +30,7 @@ class RelaDto():
 
         with open("data/官职品级2.json","r",encoding="UTF8")as f:
             gzpj=json.load(f)
+        
         sql = "select c_personid,c_name_chn,c_birthyear,c_deathyear,c_index_addr_id,c_dy\
               from biog_main where c_personid in {}"
         sql=sql.format(tuple(cidlist) if len(cidlist) > 1 else "({})".format(cidlist[0]))
@@ -66,7 +69,8 @@ class RelaDto():
             if any(elem in [9,71,114,165,201,253] for elem in shidlist):
                 wr=1
             hj = False
-            if 71 in shidlist:
+            # 社会分区有画家或者整理的画家列表中有这人，判断为画家
+            if 71 in shidlist or out["c_name_chn"] in self.painterlist:
                 hj=True
             # 查询任官级别
             sql = "select c_personid,c_office_chn \

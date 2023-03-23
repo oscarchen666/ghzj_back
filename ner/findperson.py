@@ -159,7 +159,7 @@ if __name__ == '__main__':
         ss,author = getsentences("orig/"+file)
         authors.append(author)
         forisents.append(ss)
-        dealsents.append(predealh(ss))
+        dealsents.append(predealh(ss,limit=512))
     results = infer(forisents,dealsents,filefroms,authors)
 
     new_data = searchfen(results[0])
