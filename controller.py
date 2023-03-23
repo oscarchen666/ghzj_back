@@ -174,6 +174,17 @@ def getonestringinfo():
         result = onestringinfo(name,stype)
         return R.ok(result)
     return R.erro2()
+
+@app.route("/getcid2name", methods=["GET"])
+@cross_origin(allow_headers="*")
+def getcid2name():
+    # cid查询人名
+    cid=request.args.get("cid")
+    result = cid2name(cid)
+    if result:
+        return R.ok(result)
+    return R.erro2()
+
  
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=28081, debug = True)

@@ -516,6 +516,11 @@ def onestringinfo(name,stype="cperson"):
     return res
     # print(res)
 
+def cid2name(cid):
+    sql="select c_name_chn from biog_main where c_personid = {}".format(cid)
+    out=select("",sql)
+    return out[0]["c_name_chn"]
+
 
 def trytry():
     sql = "select c_dynasty_chn,c_nianhao_chn,c_firstyear from nian_hao"
