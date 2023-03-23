@@ -65,6 +65,9 @@ class RelaDto():
             wr=0
             if any(elem in [9,71,114,165,201,253] for elem in shidlist):
                 wr=1
+            hj = False
+            if 71 in shidlist:
+                hj=True
             # 查询任官级别
             sql = "select c_personid,c_office_chn \
                     from POSTED_TO_OFFICE_DATA ,OFFICE_CODES \
@@ -89,6 +92,7 @@ class RelaDto():
                 "籍贯":jg,
                 "朝代":dynasty,
                 "社会区分":shlist,
+                "画家":hj,
                 "身份(鉴藏家、文人、官员)":[jcj,wr,highest_office]
             }
             tmpid2info[cid]=info
