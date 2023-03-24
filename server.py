@@ -433,23 +433,26 @@ def personscore(pid,cname2id):
     # 读取画作鉴藏统计
     with open("data/画作鉴藏统计3.json","r",encoding="UTF8")as f:
         hzjc=json.load(f)
+    neres={}
     for cid in relares:
         ss = relares[cid]["分数"]
         auname=relares[cid]["姓名"]
         if auname not in hzjc:
             hzjc[auname]={"鉴藏清朝": 0,"鉴藏非清": 0,"被鉴藏": 0,"画作数": 0}
-        # 鉴藏清朝画作0.3倍权重
+        # 鉴藏清朝画作0.4倍权重
         s1 = ss["画派"]+ round(math.log(hzjc[auname]["鉴藏非清"]+0.4*hzjc[auname]["鉴藏清朝"]+1)+  
                              math.log(hzjc[auname]["被鉴藏"]+1) + 5*math.log(hzjc[auname]["画作数"]+1))
         s2 = round(3.5*math.log(ss["古籍讨论"]+1))
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
-        
+        neres[cid]={}
+        neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        neres[cid]["姓名"]=auname
     result = {
         "人物关系信息":relares,
         "人物列表":name2id
     }
-
+    return neres
     return result
 
 def onestringinfo(name,stype="cperson"):
@@ -523,14 +526,15 @@ def cid2name(cid):
 
 
 def trytry():
-    sql = "select c_dynasty_chn,c_nianhao_chn,c_firstyear from nian_hao"
+    sql = " select c_addr_id,c_name_chn,c_alt_names\
+            from ADDR_CODES where c_alt_names!=''"
     outs =select("",sql)
-    for out in outs[20:40]:
+    for out in outs[:10]:
         print(out)
     
 
 if __name__ == '__main__':
-    print(huaxininfo("894"))
+    trytry()
     # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))
 

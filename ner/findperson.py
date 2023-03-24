@@ -83,7 +83,7 @@ def findlocation(info):
         info["type"] = "LocationName"
         info["aid"] = places["id"].values[0]
     sql="select c_addr_id,c_name_chn\
-            from ADDRESSES where c_name_chn like '%{}%'".format(info["span"])
+            from ADDRESSES where c_name_chn '{}'".format(info["span"])
     outs= select("",sql)
     if outs:
         info["type"] = "LocationName"
@@ -98,7 +98,7 @@ def findlocation(info):
                 info["type"] = "LocationName"
                 info["aid"] = places["id"].values[0]
             sql="select c_addr_id,c_name_chn\
-                    from ADDRESSES where c_name_chn like '%{}%'".format(word)
+                    from ADDRESSES where c_name_chn = '{}'".format(word)
             outs= select("",sql)
             if outs:
                 info["type"] = "LocationName"
