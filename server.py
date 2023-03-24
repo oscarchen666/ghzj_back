@@ -452,7 +452,7 @@ def personscore(pid,cname2id):
         "人物关系信息":relares,
         "人物列表":name2id
     }
-    return neres
+    # return neres
     return result
 
 def onestringinfo(name,stype="cperson"):
