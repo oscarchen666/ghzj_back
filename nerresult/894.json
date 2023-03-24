@@ -691,13 +691,12 @@
       "authoraid": "A004662",
       "output": [
         {
-          "type": "PersonName",
+          "type": "LocationName",
           "start": 0,
           "end": 2,
           "span": "吳興",
-          "cid": 209571,
-          "name": "吳興",
-          "aid": "unknow"
+          "aid": "PL000000012949",
+          "cid": 9754
         },
         {
           "type": "Person",
@@ -1604,13 +1603,12 @@
           "span": "畫卷"
         },
         {
-          "type": "PersonName",
+          "type": "LocationName",
           "start": 181,
           "end": 183,
           "span": "吳興",
-          "cid": 471041,
-          "name": "吳興",
-          "aid": "unknow"
+          "aid": "PL000000012949",
+          "cid": 9754
         },
         {
           "type": "LocationName",
@@ -1684,13 +1682,12 @@
       "authoraid": "A006727",
       "output": [
         {
-          "type": "PersonName",
+          "type": "LocationName",
           "start": 0,
           "end": 2,
           "span": "吳興",
-          "cid": 471041,
-          "name": "吳興",
-          "aid": "unknow"
+          "aid": "PL000000012949",
+          "cid": 9754
         },
         {
           "type": "Thing",
