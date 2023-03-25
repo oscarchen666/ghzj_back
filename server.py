@@ -530,9 +530,9 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    sql = " select count(*) from assoc_data where c_personid = 10183"
+    sql = " select c_addr_id,c_name_chn from addr_codes"
     outs =select("",sql)
-    print(outs)
+    print(len(outs))
     for out in outs[:10]:
         print(out)
     

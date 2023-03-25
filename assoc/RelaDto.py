@@ -158,6 +158,7 @@ class RelaDto():
             out1 = select(self.dbpath,sql)
             addr = None
             if out1: addr=out1[0]["c_name_chn"]
+            if addr=="[未詳]":addr=None
             # 查一下官职名
             sql = "select c_office_chn from office_codes\
                 where c_office_id = {}".format(out["c_office_id"])
@@ -194,14 +195,13 @@ class RelaDto():
         def cmp(s1, s2):
             res1=0
             res2=0
-            if s1["人1id"]==int(cid):    res1 += 10
-            if s2["人2id"]==int(cid):    res2 += 10
+            if s1["人1id"]==int(cid) or s1["人2id"]==int(cid):res1 += 10
+            if s2["人1id"]==int(cid) or s2["人2id"]==int(cid):res2+=10
             if s1["地点"]!=None : res1 += 1
             if s2["地点"]!=None : res2 += 1
-            if res2 > res1:return -1
-            elif res2 == res1:return 0
-            else:return 1
-        # kinlist =sorted(kinlist,key=cmp_to_key(cmp))
+            return res2-res1
+
+        kinlist =sorted(kinlist,key=cmp_to_key(cmp))
         # print(len(kinlist))
         result = {
             "关系列表":kinlist,
