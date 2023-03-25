@@ -101,14 +101,20 @@ def authorlist(pid):
     
     yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
     audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
+    with open("data/画作鉴藏统计4.json","r",encoding="UTF8") as f:
+        jcdata = json.load(f)
     alist = list(yzdf[yzdf["pid"]==int(pid)]["top1_作者"].values)
     result = {}
     aulist = list(set(alist))
     for au in aulist:
-        result[delauname(au)]={   
+        newau = delauname(au)
+        if newau in jcdata:
+            jczs = jcdata[newau]["印章清朝"]+jcdata[newau]["印章非清"]+jcdata[newau]["题跋清朝"]+jcdata[newau]["题跋非清"]
+        else: jczs = int(alist.count(au))
+        result[newau]={   
             # 需要将人名转为繁体，去掉()和·
             "本幅":int(alist.count(au)),
-            "总数":int(audf[audf["top1_作者"]==au]["鉴藏画作数量"].values[0]),
+            "总数":jczs,
             "作者":"no"
             }
     # 题跋作者
@@ -118,7 +124,7 @@ def authorlist(pid):
         sentence["author"]=delauname(sentence["author"])
         if sentence["author"] in result:
             result[sentence["author"]]["本幅"]=result[sentence["author"]]["本幅"]+1
-            result[sentence["author"]]["总数"]=result[sentence["author"]]["总数"]+1
+            # result[sentence["author"]]["总数"]=result[sentence["author"]]["总数"]+1
         else:
             result[sentence["author"]]={"本幅":1,"总数":1,"作者":"no"}
 
@@ -411,10 +417,10 @@ def personscore(pid,cname2id):
     cidlist=[]
     name2id = {}
     aulist={}
+    with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
+        orinaulist = json.load(f)
     if pid!=reladto.tmppid_score or not cname2id:
         # 切换画作或者无新增人员但请求时，默认读取作者列表并清空存储信息
-        with open("authorinfo/"+pid+".json","r",encoding="UTF8")as f:
-            orinaulist = json.load(f)
         aulist = {au:orinaulist[au]["cid"]for au in orinaulist}
     else:
         # 临时存储的人物列表，可能包括上次请求手动添加的人物
@@ -450,9 +456,17 @@ def personscore(pid,cname2id):
         relares[cid]["印章题跋数"]={
             "印章":hzjc[auname]["印章非清"]+hzjc[auname]["印章清朝"],
             "题跋":hzjc[auname]["题跋非清"]+hzjc[auname]["题跋清朝"]}
-        neres[cid]={}
-        neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
-        neres[cid]["姓名"]=auname
+        # 从作者列表存储信息中读取部分数据
+        relares[cid]["题跋印章总数"]=jcfq+jcq
+        if auname in orinaulist:
+            relares[cid]["作者"]=orinaulist[auname]["作者"]
+            relares[cid]["题跋印章本幅"]=orinaulist[auname]["本幅"]
+        else:
+            relares[cid]["作者"]="no"
+            relares[cid]["题跋印章本幅"]=0
+        # neres[cid]={}
+        # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        # neres[cid]["姓名"]=auname
     result = {
         "人物关系信息":relares,
         "人物列表":name2id
@@ -535,9 +549,11 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    sql = " select c_addr_id,c_name_chn from addr_codes"
+    sql = " select c_office_trans from OFFICE_CODES where c_office_chn ='路同知'"
     outs =select("",sql)
     print(len(outs))
+    # ress=[out["c_status_desc"]for out in outs]
+    # print(ress)
     for out in outs[:10]:
         print(out)
     
