@@ -549,7 +549,7 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    sql = " select c_office_trans from OFFICE_CODES where c_office_chn ='路同知'"
+    sql = " select c_name from addr_CODES where c_name_chn ='濟南路'"
     outs =select("",sql)
     print(len(outs))
     # ress=[out["c_status_desc"]for out in outs]
