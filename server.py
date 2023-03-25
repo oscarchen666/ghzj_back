@@ -431,20 +431,25 @@ def personscore(pid,cname2id):
     # 查询人物信息和关系
     relares = reladto.count_rela(cidlist)
     # 读取画作鉴藏统计
-    with open("data/画作鉴藏统计3.json","r",encoding="UTF8")as f:
+    with open("data/画作鉴藏统计4.json","r",encoding="UTF8")as f:
         hzjc=json.load(f)
     neres={}
     for cid in relares:
         ss = relares[cid]["分数"]
         auname=relares[cid]["姓名"]
         if auname not in hzjc:
-            hzjc[auname]={"鉴藏清朝": 0,"鉴藏非清": 0,"被鉴藏": 0,"画作数": 0}
+            hzjc[auname]={"印章清朝": 0,"印章非清": 0,"题跋清朝": 0,"题跋非清": 1,"被鉴藏": 0,"画作数": 0}
+        jcfq=hzjc[auname]["印章非清"]+hzjc[auname]["题跋非清"]
+        jcq=hzjc[auname]["印章清朝"]+hzjc[auname]["题跋清朝"]
         # 鉴藏清朝画作0.4倍权重
-        s1 = ss["画派"]+ round(math.log(hzjc[auname]["鉴藏非清"]+0.4*hzjc[auname]["鉴藏清朝"]+1)+  
-                             math.log(hzjc[auname]["被鉴藏"]+1) + 5*math.log(hzjc[auname]["画作数"]+1))
+        s1 = ss["画派"]+ round(math.log(jcfq+0.4*jcq+1)+math.log(hzjc[auname]["被鉴藏"]+1) 
+                            + 5*math.log(hzjc[auname]["画作数"]+1))
         s2 = round(3.5*math.log(ss["古籍讨论"]+1))
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        relares[cid]["印章题跋数"]={
+            "印章":hzjc[auname]["印章非清"]+hzjc[auname]["印章清朝"],
+            "题跋":hzjc[auname]["题跋非清"]+hzjc[auname]["题跋清朝"]}
         neres[cid]={}
         neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         neres[cid]["姓名"]=auname
