@@ -29,6 +29,15 @@
           "cid": 101056
         },
         {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "公謹",
+          "cid": 10183,
+          "name": "周密",
+          "aid": "A016943"
+        },
+        {
           "type": "Location",
           "start": 29,
           "end": 32,
@@ -691,12 +700,13 @@
       "authoraid": "A004662",
       "output": [
         {
-          "type": "LocationName",
+          "type": "PersonName",
           "start": 0,
           "end": 2,
           "span": "吳興",
-          "aid": "PL000000012949",
-          "cid": 9754
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Person",
@@ -866,12 +876,12 @@
       "output": [
         {
           "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "興公",
-          "cid": 129964,
-          "name": "徐𤊹",
-          "aid": "unknow"
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Thing",
@@ -1603,12 +1613,13 @@
           "span": "畫卷"
         },
         {
-          "type": "LocationName",
+          "type": "PersonName",
           "start": 181,
           "end": 183,
           "span": "吳興",
-          "aid": "PL000000012949",
-          "cid": 9754
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "LocationName",
@@ -1682,12 +1693,13 @@
       "authoraid": "A006727",
       "output": [
         {
-          "type": "LocationName",
+          "type": "PersonName",
           "start": 0,
           "end": 2,
           "span": "吳興",
-          "aid": "PL000000012949",
-          "cid": 9754
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
         },
         {
           "type": "Thing",

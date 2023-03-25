@@ -471,8 +471,11 @@ def onestringinfo(name,stype="cperson"):
             cidlist.append(out["c_personid"])
         tmpid2info = reladto.getid2info(cidlist)
         for cid in cidlist:
+            sql = " select count(*) from assoc_data where c_personid = {}".format(cid)
+            assoc_count=select("",sql)[0]["count(*)"]
             res.append({"id":cid,
                 "name":tmpid2info[cid]["姓名"],
+                "assoc_count":assoc_count,
                 "birth":tmpid2info[cid]["生年"],
                 "death":tmpid2info[cid]["卒年"],
                 "altname":tmpid2info[cid]["别名"],
@@ -501,13 +504,15 @@ def onestringinfo(name,stype="cperson"):
         outs= select("",sql)
         if not outs: return res
         for out in outs:
+            sql = "select c_alt_names from ADDR_CODES where c_addr_id = {}".format(out["c_addr_id"])
+            altout=select("",sql)[0]
             p4= out["belongs4_Name"]+"-" if out["belongs4_Name"] else ""
             p3= out["belongs3_Name"]+"-" if out["belongs3_Name"] else ""
             p2= out["belongs2_Name"]+"-" if out["belongs2_Name"] else ""
             p1= out["belongs1_Name"] if out["belongs1_Name"] else ""
             place= p4+p3+p2+p1
             res.append({"id":out["c_addr_id"],"placename":out["c_name_chn"],
-                        "location":place})
+                        "location":place,"altname":altout["c_alt_names"]})
 
     elif stype == "aplace":
         places = ddbc_place[ddbc_place["地名"].str.contains(name, na=False)]
@@ -524,11 +529,10 @@ def cid2name(cid):
     out=select("",sql)
     return out[0]["c_name_chn"]
 
-
 def trytry():
-    sql = " select c_addr_id,c_name_chn,c_alt_names\
-            from ADDR_CODES where c_alt_names!=''"
+    sql = " select count(*) from assoc_data where c_personid = 10183"
     outs =select("",sql)
+    print(outs)
     for out in outs[:10]:
         print(out)
     

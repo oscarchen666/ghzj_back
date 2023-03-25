@@ -2,6 +2,7 @@ from tool import select
 import json
 import pandas as pd
 import opencc
+from functools import cmp_to_key
 cc = opencc.OpenCC("t2s")
 
 # 如果你很不幸需要修改这部分代码，我的建议是重写一遍，这部分写的又臭又长，我自己都不想看
@@ -189,6 +190,18 @@ class RelaDto():
         officelist = self.select_office(cidlist)
         kinlist.extend(assoclist)
         kinlist.extend(officelist)
+        # 关系排序
+        def cmp(s1, s2):
+            res1=0
+            res2=0
+            if s1["人1id"]==int(cid):    res1 += 10
+            if s2["人2id"]==int(cid):    res2 += 10
+            if s1["地点"]!=None : res1 += 1
+            if s2["地点"]!=None : res2 += 1
+            if res2 > res1:return -1
+            elif res2 == res1:return 0
+            else:return 1
+        # kinlist =sorted(kinlist,key=cmp_to_key(cmp))
         # print(len(kinlist))
         result = {
             "关系列表":kinlist,
