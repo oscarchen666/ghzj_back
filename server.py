@@ -452,7 +452,7 @@ def personscore(pid,cname2id):
         # 鉴藏清朝画作0.4倍权重
         s1 = ss["画派"]+ round(math.log(jcfq+0.4*jcq+1)+math.log(hzjc[auname]["被鉴藏"]+1) 
                             + 5*math.log(hzjc[auname]["画作数"]+1))
-        s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),30)
+        s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),35)
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         max_score=max(max_score,s1+s2+s3)
         min_score=min(min_score,s1+s2+s3)
