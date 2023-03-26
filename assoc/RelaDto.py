@@ -67,7 +67,7 @@ class RelaDto():
                 jcj=1
             # 查询文人 165文人 9书法家 71畫家 114诗人 210小说家 235词人
             wr=0
-            if any(elem in [9,71,114,165,201,253] for elem in shidlist):
+            if any(elem in [9,71,114,165,210,235] for elem in shidlist):
                 wr=1
             hj = False
             # 社会分区有画家或者整理的画家列表中有这人，判断为画家
