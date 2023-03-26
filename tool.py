@@ -82,6 +82,7 @@ def delauname(oldname):
     newname= cc.convert(oldname).split("（")[0].replace("·","")
     if newname=="清高宗":newname="愛新覺羅弘曆"
     if newname=="愛新覺羅溥儀":newname="(愛新覺羅)溥儀"
+    if newname=="孫克弘":newname="孫克宏"
     return newname
 
 

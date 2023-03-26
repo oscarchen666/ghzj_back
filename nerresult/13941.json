@@ -61,7 +61,7 @@
           "start": 0,
           "end": 4,
           "span": "王詵晉卿",
-          "cid": "unknow",
+          "cid": 7376,
           "name": "王詵",
           "aid": "A021999"
         }
@@ -143,11 +143,11 @@
       "output": [
         {
           "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "文潛",
-          "cid": 89733,
-          "name": "韓泳",
+          "start": 0,
+          "end": 2,
+          "span": "張耒",
+          "cid": 12354,
+          "name": "張耒",
           "aid": "unknow"
         }
       ],
@@ -211,11 +211,11 @@
       "output": [
         {
           "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "元章",
-          "cid": 72229,
-          "name": "元章",
+          "start": 0,
+          "end": 2,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
           "aid": "unknow"
         }
       ],
