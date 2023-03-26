@@ -440,6 +440,8 @@ def personscore(pid,cname2id):
     with open("data/画作鉴藏统计5.json","r",encoding="UTF8")as f:
         hzjc=json.load(f)
     neres={}
+    max_score=0
+    min_score=100
     for cid in relares:
         ss = relares[cid]["分数"]
         auname=relares[cid]["姓名"]
@@ -452,7 +454,9 @@ def personscore(pid,cname2id):
                             + 5*math.log(hzjc[auname]["画作数"]+1))
         s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),30)
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
-        relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        max_score=max(max_score,s1+s2+s3)
+        min_score=min(min_score,s1+s2+s3)
+        relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3}
         relares[cid]["印章题跋数"]={
             "印章":hzjc[auname]["印章非清"]+hzjc[auname]["印章清朝"],
             "题跋":hzjc[auname]["题跋非清"]+hzjc[auname]["题跋清朝"]}
@@ -469,7 +473,9 @@ def personscore(pid,cname2id):
         neres[cid]["姓名"]=auname
     result = {
         "人物关系信息":relares,
-        "人物列表":name2id
+        "人物列表":name2id,
+        "最高得分":max_score,
+        "最低得分":min_score
     }
     # return neres
     return result
