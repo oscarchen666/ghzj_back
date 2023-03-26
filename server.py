@@ -100,7 +100,6 @@ def authorlist(pid):
         return aullistbydy(result)
     
     yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
-    # audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
     with open("data/画作鉴藏统计5.json","r",encoding="UTF8") as f:
         jcdata = json.load(f)
     alist = list(yzdf[yzdf["pid"]==int(pid)]["top1_作者"].values)
@@ -451,7 +450,7 @@ def personscore(pid,cname2id):
         # 鉴藏清朝画作0.4倍权重
         s1 = ss["画派"]+ round(math.log(jcfq+0.4*jcq+1)+math.log(hzjc[auname]["被鉴藏"]+1) 
                             + 5*math.log(hzjc[auname]["画作数"]+1))
-        s2 = round(3.5*math.log(ss["古籍讨论"]+1))
+        s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),30)
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         relares[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         relares[cid]["印章题跋数"]={
@@ -465,9 +464,9 @@ def personscore(pid,cname2id):
         else:
             relares[cid]["作者"]="no"
             relares[cid]["题跋印章本幅"]=0
-        # neres[cid]={}
-        # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
-        # neres[cid]["姓名"]=auname
+        neres[cid]={}
+        neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        neres[cid]["姓名"]=auname
     result = {
         "人物关系信息":relares,
         "人物列表":name2id

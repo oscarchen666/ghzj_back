@@ -90,7 +90,7 @@ class RelaDto():
             if out["c_name_chn"] in ["愛新覺羅弘曆","愛新覺羅顒琰","(愛新覺羅)溥儀"]:
                 highest_office=20
             if out["c_name_chn"]=="納蘭性德":
-                highest_office=10
+                highest_office=12
                 jcj=1
             info={
                 "姓名":out["c_name_chn"],
