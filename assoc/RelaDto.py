@@ -58,6 +58,7 @@ class RelaDto():
                     and c_personid = {}".format(cid)
             outs3 = select(self.dbpath,sql)
             shlist=None # 避免没有社会区分报错
+            shidlist=[]
             if outs3: 
                 shlist = [out3["c_status_desc_chn"]for out3 in outs3]
                 shidlist = [out3["c_status_code"]for out3 in outs3]
