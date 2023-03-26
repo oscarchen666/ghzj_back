@@ -100,8 +100,8 @@ def authorlist(pid):
         return aullistbydy(result)
     
     yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
-    audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
-    with open("data/画作鉴藏统计4.json","r",encoding="UTF8") as f:
+    # audf = pd.read_excel("authorinfo/人物的鉴藏画作个数.xlsx")
+    with open("data/画作鉴藏统计5.json","r",encoding="UTF8") as f:
         jcdata = json.load(f)
     alist = list(yzdf[yzdf["pid"]==int(pid)]["top1_作者"].values)
     result = {}
@@ -110,6 +110,7 @@ def authorlist(pid):
         newau = delauname(au)
         if newau in jcdata:
             jczs = jcdata[newau]["印章清朝"]+jcdata[newau]["印章非清"]+jcdata[newau]["题跋清朝"]+jcdata[newau]["题跋非清"]
+            # print(newau,jczs)
         else: jczs = int(alist.count(au))
         result[newau]={   
             # 需要将人名转为繁体，去掉()和·
@@ -437,7 +438,7 @@ def personscore(pid,cname2id):
     # 查询人物信息和关系
     relares = reladto.count_rela(cidlist)
     # 读取画作鉴藏统计
-    with open("data/画作鉴藏统计4.json","r",encoding="UTF8")as f:
+    with open("data/画作鉴藏统计5.json","r",encoding="UTF8")as f:
         hzjc=json.load(f)
     neres={}
     for cid in relares:
