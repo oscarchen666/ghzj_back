@@ -479,7 +479,7 @@ def personscore(pid,cname2id):
         "最高得分":max_score,
         "最低得分":min_score
     }
-    return neres
+    # return neres
     return result
 
 def onestringinfo(name,stype="cperson"):
