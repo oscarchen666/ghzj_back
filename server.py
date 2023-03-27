@@ -471,7 +471,7 @@ def personscore(pid,cname2id):
         # neres[cid]={}
         # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         # neres[cid]["姓名"]=auname
-        neres[auname]=s1+s2+s3
+        neres[auname]=(relares[cid]["生年"],relares[cid]["卒年"])
     result = {
         "人物关系信息":relares,
         "人物列表":name2id,
@@ -556,7 +556,9 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    sql = " select c_name from addr_CODES where c_name_chn ='濟南路'"
+    # c_birthyear,c_fl_earliest_year,c_deathyear,c_fl_latest_year
+    sql = " select * \
+        from BIOG_main where c_personid =7376"
     outs =select("",sql)
     print(len(outs))
     # ress=[out["c_status_desc"]for out in outs]

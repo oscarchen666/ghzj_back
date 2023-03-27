@@ -95,9 +95,9 @@
           "start": 3,
           "end": 5,
           "span": "碧虛",
-          "cid": 113349,
-          "name": "釋道光",
-          "aid": "unknow"
+          "cid": "unknow",
+          "name": "陳景元",
+          "aid": "A015898"
         }
       ],
       "sentence": "道士陳碧虛。",
@@ -263,11 +263,11 @@
         {
           "type": "PersonName",
           "start": 3,
-          "end": 7,
-          "span": "圓通大師",
-          "cid": "unknow",
-          "name": "鐵舟德濟",
-          "aid": "A001967"
+          "end": 5,
+          "span": "圓通",
+          "cid": 40425,
+          "name": "釋懷賢",
+          "aid": "A014477"
         }
       ],
       "sentence": "僧曇秀圓通大師。",
