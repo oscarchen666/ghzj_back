@@ -59,8 +59,8 @@
         {
           "type": "PersonName",
           "start": 0,
-          "end": 4,
-          "span": "王詵晉卿",
+          "end": 2,
+          "span": "王詵",
           "cid": 7376,
           "name": "王詵",
           "aid": "A021999"
@@ -163,7 +163,7 @@
           "start": 0,
           "end": 3,
           "span": "黃庭堅",
-          "cid": 522739,
+          "cid": 7111,
           "name": "黃庭堅",
           "aid": "A008471"
         }

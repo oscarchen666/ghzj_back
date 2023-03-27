@@ -430,7 +430,7 @@ def personscore(pid,cname2id):
         # 人名列表包括所有作者，但是cbdb查不到的人不会有关系数据和个人信息
         name2id[au]=aulist[au]
         if aulist[au]!="unknow":
-            cidlist.append(aulist[au])
+            cidlist.append(aulist[au]) 
     # 存储当前pid和人物列表
     reladto.tmppid_score=pid
     reladto.tmplist_socre=aulist
@@ -472,14 +472,14 @@ def personscore(pid,cname2id):
         # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
         # neres[cid]["分数"]=s1+s2+s3
         # neres[cid]["姓名"]=auname
-        # neres[cid]["生卒"]=(relares[cid]["生年"],relares[cid]["卒年"])
+        neres[auname]=(relares[cid]["生年"],relares[cid]["卒年"])
     result = {
         "人物关系信息":relares,
         "人物列表":name2id,
         "最高得分":max_score,
         "最低得分":min_score
     }
-    # return neres
+    return neres
     return result
 
 def onestringinfo(name,stype="cperson"):
