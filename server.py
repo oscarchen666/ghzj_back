@@ -470,8 +470,9 @@ def personscore(pid,cname2id):
             relares[cid]["题跋印章本幅"]=0
         # neres[cid]={}
         # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        # neres[cid]["分数"]=s1+s2+s3
         # neres[cid]["姓名"]=auname
-        neres[auname]=(relares[cid]["生年"],relares[cid]["卒年"])
+        # neres[cid]["生卒"]=(relares[cid]["生年"],relares[cid]["卒年"])
     result = {
         "人物关系信息":relares,
         "人物列表":name2id,

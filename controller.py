@@ -156,7 +156,6 @@ def getpersonscore():
     pid=request.args.get("pid")
     addnames=request.args.get("addnames").split(",")
     addcids=request.args.get("addcids").split(",")
-
     if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
         # 得有作者列表并且参数长度一致
         cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
