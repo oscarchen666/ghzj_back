@@ -51,7 +51,8 @@ class RelaDto():
                 jg=outs2[0]["c_name_chn"]
             else: jg=None
             # 朝代
-            dynasty=self.id2dy[str(out["c_dy"])]
+            if not out["c_dy"]:dynasty="unknow"
+            else:dynasty=self.id2dy[str(out["c_dy"])]
             # 社会区分
             sql = "select status_codes.c_status_code,c_status_desc_chn from status_data,status_codes\
                     where status_data.c_status_code=status_codes.c_status_code\
@@ -138,9 +139,15 @@ class RelaDto():
                 #查询地点
                 sql = "select c_name_chn from addr_codes where c_addr_id={}".format(out["c_addr_id"])
                 addr = select(self.dbpath,sql)[0]["c_name_chn"]
+            if str(out["c_assoc_code"]) in self.id2rela:
+                gxms = self.id2rela[str(out["c_assoc_code"])]["关系描述"]
+                gxlx = self.id2rela[str(out["c_assoc_code"])]["关系类型"]
+            else:
+                gxms = "未知"
+                gxlx = "其他"
             assoc = {"人1id":out["c_personid"],"人2id":out["c_assoc_id"],
-                    "关系":self.id2rela[str(out["c_assoc_code"])]["关系描述"],
-                    "关系类型":self.id2rela[str(out["c_assoc_code"])]["关系类型"],
+                    "关系":gxms,
+                    "关系类型":gxlx,
                     "起始年":out["c_assoc_year"],"结束年":None,"地点":addr}
             assoclist.append(assoc)
         # print(assoclist)
