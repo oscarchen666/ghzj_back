@@ -452,7 +452,7 @@ def personscore(pid,cname2id):
         # 鉴藏清朝画作0.4倍权重
         s1 = ss["画派"]+ round(math.log(jcfq+0.4*jcq+1)+math.log(hzjc[auname]["被鉴藏"]+1) 
                             + 5*math.log(hzjc[auname]["画作数"]+1))
-        s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),35)
+        s2 = min(round(3.5*math.log(ss["古籍讨论"]+1)),36)
         s3 = ss["文人"]*10+ss["鉴藏家"]*10+ss["最高官职"]
         max_score=max(max_score,s1+s2+s3)
         min_score=min(min_score,s1+s2+s3)
@@ -468,16 +468,17 @@ def personscore(pid,cname2id):
         else:
             relares[cid]["作者"]="no"
             relares[cid]["题跋印章本幅"]=0
-        neres[cid]={}
-        neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
-        neres[cid]["姓名"]=auname
+        # neres[cid]={}
+        # neres[cid]["分数"]={"画作相关":s1,"讨论度":s2,"身份":s3} 
+        # neres[cid]["姓名"]=auname
+        neres[auname]=s1+s2+s3
     result = {
         "人物关系信息":relares,
         "人物列表":name2id,
         "最高得分":max_score,
         "最低得分":min_score
     }
-    # return neres
+    return neres
     return result
 
 def onestringinfo(name,stype="cperson"):

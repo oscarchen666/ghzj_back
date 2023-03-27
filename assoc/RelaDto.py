@@ -57,11 +57,12 @@ class RelaDto():
                     where status_data.c_status_code=status_codes.c_status_code\
                     and c_personid = {}".format(cid)
             outs3 = select(self.dbpath,sql)
-            shlist=None # 避免没有社会区分报错
+            shlist=None#避免没有社会分区报错
             shidlist=[]
             if outs3: 
                 shlist = [out3["c_status_desc_chn"]for out3 in outs3]
                 shidlist = [out3["c_status_code"]for out3 in outs3]
+                
             # 查询收藏家  'c_status_code': 收藏家184 鑒賞家143 藏書家144
             jcj=0
             if any(elem in [184,143,144] for elem in shidlist):
