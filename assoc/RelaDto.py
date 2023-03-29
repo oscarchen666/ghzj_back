@@ -286,10 +286,10 @@ class RelaDto():
                 relatype = self.id2rela[str(out["c_assoc_code"])]["关系类型"]
                 personinfos[cid]["全部关系数量"][relatype]+=1
                 if out["c_assoc_year"]in[None,0,-1]:continue# 没有时间的不用记录时间
-                if out["c_assoc_year"] in personinfos[cid]["全部关系年份"]["政治"]:
-                    personinfos[cid]["全部关系年份"]["政治"][out["c_assoc_year"]]+=1
+                if out["c_assoc_year"] in personinfos[cid]["全部关系年份"][relatype]:
+                    personinfos[cid]["全部关系年份"][relatype][out["c_assoc_year"]]+=1
                 else:
-                    personinfos[cid]["全部关系年份"]["政治"][out["c_assoc_year"]]=1
+                    personinfos[cid]["全部关系年份"][relatype][out["c_assoc_year"]]=1
 
 
         return personinfos
