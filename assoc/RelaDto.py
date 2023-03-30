@@ -76,7 +76,7 @@ class RelaDto():
             # 社会分区有画家或者整理的画家列表中有这人，判断为画家
             if 71 in shidlist or out["c_name_chn"] in self.painterlist:
                 hj=True
-                wr=1
+                # wr=1
             # if out["c_name_chn"]=="黃公望":print(shlist,shidlist)
             # 查询任官级别
             sql = "select c_personid,c_office_chn \
@@ -101,6 +101,9 @@ class RelaDto():
             if out["c_name_chn"]=="詹景鳳":
                 out["c_birthyear"]=1532
                 out["c_deathyear"]=1602
+            if out["c_name_chn"]=="黃公望":
+                wr=1
+                shlist="畫家"
             info={
                 "姓名":out["c_name_chn"],
                 "生年":out["c_birthyear"],
