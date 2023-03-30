@@ -40,7 +40,7 @@ def ciyun(pid):
     wlist={}
     authorlist=[]
     for sentence in data["sentences"]:
-        if sentence["author"] =="清高宗":sentence["author"]="愛新覺羅弘曆"
+        sentence["author"] = delauname(sentence["author"])
         authorlist.append(sentence["author"])
         for span in sentence["output"]:
             if span["type"]=="PersonName": #人名直接使用题跋里的名字，无论原名别名
@@ -558,8 +558,8 @@ def cid2name(cid):
 
 def trytry():
     # c_birthyear,c_fl_earliest_year,c_deathyear,c_fl_latest_year
-    sql = " select * \
-        from BIOG_main where c_personid =7376"
+    sql = "select c_status_code from status_data\
+                    where  c_personid = 109158"
     outs =select("",sql)
     print(len(outs))
     # ress=[out["c_status_desc"]for out in outs]
