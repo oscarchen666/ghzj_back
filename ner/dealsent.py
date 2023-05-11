@@ -1,5 +1,9 @@
 import json
+'''
+用于预处理题跋。读取文件得到句子列表，长句进行拆分
+'''
 def predeal(sentences,limit=126):
+    # 废弃的一个函数
     newsens=[]
     for sen in sentences:
         if len(sen)<=limit:
@@ -22,6 +26,7 @@ def predeal(sentences,limit=126):
     return newsens
     
 def getsentences(filename):
+    # 读取文件中的句子
     sentences = []
     authors=[]
     with open(filename, "r",encoding="utf8") as f:
@@ -36,6 +41,7 @@ def getsentences(filename):
     return sentences,authors
 
 def huachuang(onesentence,limit=8):
+    # 滑窗分句
     chailist = onesentence.split("。")[:-1]
     newlist = []
     # now = 0
@@ -51,10 +57,11 @@ def huachuang(onesentence,limit=8):
     return newlist
         
 def predealh(sentences,limit=126):
+    # limit是分句的句长上限，超过limit长度的句子会被拆分。不超过的句子返回为空
     dealsents = []
     for sentence in sentences:
         if len(sentence)<=limit:
-            dealsents.append([])
+            dealsents.append([])#返回空
         else:
             # print(len(sentence))
             newlist= huachuang(sentence,limit)
