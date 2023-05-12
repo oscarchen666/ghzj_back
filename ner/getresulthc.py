@@ -1,8 +1,8 @@
 from tqdm import tqdm
 import time
 import numpy as np
-# from ner.dealsent import * # 单独运行该文件时，注释掉该句，改用下面这句
-from dealsent import *
+from ner.dealsent import * # 单独运行该文件时，注释掉该句，改用下面这句
+# from dealsent import *
 from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
 

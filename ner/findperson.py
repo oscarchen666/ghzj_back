@@ -1,10 +1,18 @@
-import hanlp
+# import hanlp
 import pandas as pd
-import sqlite3
+# import sqlite3
 from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo,ddbc_place
-from ner.getresulthc import infer
+from ner.getresulthc import infer #单独运行该文件时注释掉这两行,换下两行
 from ner.dealsent import getsentences,predealh
+# from getresulthc import infer
+# from dealsent import getsentences,predealh
 dbpath = "data/latest.db"
+
+'''
+对实体识别的时间地点人物进行矫正
+目前只能指定按orig/里的格式输入
+如果要别的方式如果再联系我再改吧
+'''
 
 def mytok(word):
     # 滑窗分词
@@ -155,15 +163,16 @@ if __name__ == '__main__':
     # filefroms = ["1035.json"]
     filefroms = ["6.json"]
     # filefroms = ["23.json"]
+    # 提取文件
     for file in filefroms:
         ss,author = getsentences("orig/"+file)
         authors.append(author)
         forisents.append(ss)
-        dealsents.append(predealh(ss,limit=512))
+        dealsents.append(predealh(ss,limit=512))#分句上限，不能超过512，超过模型就炸了
+    # 模型推断
     results = infer(forisents,dealsents,filefroms,authors)
-
+    # print(results)
     new_data = searchfen(results[0])
-
     with open("nerresult/6.json","w",encoding="UTF8")as f:
         json.dump(new_data, f,indent=2, ensure_ascii=False,cls=JsonEncoder)
 
