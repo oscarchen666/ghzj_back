@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
     # 单文件预处理
     # filefroms = ["1035.json"]
-    filefroms = ["6.json"]
+    filefroms = ["14393.json"]
     # filefroms = ["23.json"]
     for file in filefroms:
         ss,author = getsentences("orig/"+file)

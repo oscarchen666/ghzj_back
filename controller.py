@@ -43,6 +43,13 @@ def newner(pid):
         return R.ok(data["sentences"])
     return R.erro2()
 
+@app.route('/getpaintinglist', methods=['GET'])
+@cross_origin(allow_headers="*")
+def getpaintinglist():
+    # 获取全部画作列表（画作名+pid）
+    plist = paintinglist()
+    return R.ok(plist)
+
 @app.route('/getciyun/<pid>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def getciyun(pid):

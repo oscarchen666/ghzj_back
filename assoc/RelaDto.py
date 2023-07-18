@@ -238,7 +238,7 @@ class RelaDto():
                         "全部关系数量":{"画作":0,"社交":0,"文学":0,"政治":0,"亲缘":0,"其他":0},
                         "全部关系年份":{"画作":{},"社交":{},"文学":{},"政治":{},"亲缘":{},"其他":{}}}
                      for cid in cidlist}
-        gjdf=pd.read_excel("data/古籍讨论度.xlsx")
+        gjdf=pd.read_excel("data/古籍讨论度new.xlsx")
         with open("data/画派信息.json","r",encoding="UTF8")as f:
             hpinfo=json.load(f)
         #个人生卒年
@@ -253,6 +253,7 @@ class RelaDto():
             if gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].any():
                 personinfos[cid]["分数"]["古籍讨论"]=int(
                     gjdf[gjdf["题跋人"]==id2info[cid]["姓名"]]["古籍出现次数"].values[0])
+            # else: print(id2info[cid]["姓名"])
             if id2info[cid]["姓名"] in hpinfo:
                 personinfos[cid]["分数"]["画派得分"]=hpinfo[id2info[cid]["姓名"]]
             

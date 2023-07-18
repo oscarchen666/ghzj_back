@@ -30,6 +30,18 @@ def ner_search(pid):
         data = json.load(f)
     return data
 
+def paintinglist():
+    # 获取全部画作列表
+    df = pd.read_excel("data\paintinglist.xlsx")
+    plist = []
+    for index,row in df.iterrows():
+        plist.append({
+            "paintingname":row["品名"],
+            "pid":row["pid"]
+        })
+    return plist
+
+
 def ciyun(pid):
     # 通过ner结果得到词云数据和印章作者
     with open("nerresult/"+pid+".json","r",encoding="UTF8")as f:
@@ -561,47 +573,10 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    df = pd.read_excel("data\印章题跋人200.xlsx")
-    namelist = []
-    count=0
-    for index, row in df.iterrows():
-        if row["数据库里是否有该长图 "]==0:
-            count+=1
-            continue
-        namelist += row["全部人"].split(",")
-        if count>=200:
-            break
-    namelist = list(set(namelist))
-    print(len(namelist))
-    cbdbnamelist = []
-    haveyear=0
-    for name in namelist:
-        sql = f"select c_personid,c_birthyear,c_deathyear from Biog_main\
-                    where  c_name_chn = '{name}'"
-        outs =select("",sql)
-        if outs:
-            cbdbnamelist.append({"name":name,
-                                 "cid":outs[0]["c_personid"],
-                                 "birth":outs[0]["c_birthyear"],
-                                 "death":outs[0]["c_deathyear"]})
-            if outs[0]["c_birthyear"] or outs[0]["c_deathyear"]:
-                haveyear+=1
-        else:continue
-
-    print(len(cbdbnamelist))
-    print(haveyear)
-    dfout=pd.read_excel("data\古籍讨论度.xlsx")
-    oldlist=dfout["印章题跋人"].tolist()
-    for people in cbdbnamelist:
-        if people["name"] in oldlist:
-            continue
-        yearyear=0
-        if people["birth"] or people["death"]:
-            yearyear=1
-        row={"印章题跋人":people["name"],
-             "是否有生卒年":yearyear}
-        dfout.loc[len(dfout)] = row 
-    dfout.to_excel('data\古籍讨论度new.xlsx', index=False)      
+    sql = "select * from biog_main where c_name_chn = '盧鴻'"
+    out=select("",sql)
+    print(out)
+          
     
 
 if __name__ == '__main__':

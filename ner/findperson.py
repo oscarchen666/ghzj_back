@@ -91,7 +91,7 @@ def findlocation(info):
         info["type"] = "LocationName"
         info["aid"] = places["id"].values[0]
     sql="select c_addr_id,c_name_chn\
-            from ADDRESSES where c_name_chn '{}'".format(info["span"])
+            from ADDRESSES where c_name_chn='{}'".format(info["span"])
     outs= select("",sql)
     if outs:
         info["type"] = "LocationName"
@@ -161,7 +161,7 @@ if __name__ == '__main__':
 
     # 单文件预处理
     # filefroms = ["1035.json"]
-    filefroms = ["6.json"]
+    filefroms = ["14393.json"]
     # filefroms = ["23.json"]
     # 提取文件
     for file in filefroms:
