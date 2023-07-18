@@ -5,7 +5,7 @@
 
 建议使用conda环境
 ```
-conda create -n ghzj_back python==3.7
+conda create -n ghzj_back python==3.7.1
 conda activate ghzj_back
 pip install -r requirements.txt
 ```

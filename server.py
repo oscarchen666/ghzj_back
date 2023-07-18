@@ -272,10 +272,14 @@ def yinzhang(pid):
 def image(imgid,imgtype):
     # 返回对应的图
     # 印章截图地址和印章匹配图地址
-    jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{}"
-    pppath = "../../../jiaailing/data/ChinesePainting/seals/{}"
-    hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{}"
-    hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
+    # jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{}"
+    # pppath = "../../../jiaailing/data/ChinesePainting/seals/{}"
+    # hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{}"
+    # hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
+    jtpath = "../../data/ChinesePainting/yinzhang/{}"
+    pppath = "../../data/ChinesePainting/seals/{}"
+    hxpath = "../../data/ChinesePainting/seals_sslib_qiepian/{}"
+    hzpath = "../../data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
     if imgtype=="截图" :fullpath = jtpath.format(imgid)
     elif imgtype=="匹配":fullpath = pppath.format(imgid)
     elif imgtype=="画作":
@@ -557,15 +561,47 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    # c_birthyear,c_fl_earliest_year,c_deathyear,c_fl_latest_year
-    sql = "select c_status_code from status_data\
-                    where  c_personid = 109158"
-    outs =select("",sql)
-    print(len(outs))
-    # ress=[out["c_status_desc"]for out in outs]
-    # print(ress)
-    for out in outs[:10]:
-        print(out)
+    df = pd.read_excel("data\印章题跋人200.xlsx")
+    namelist = []
+    count=0
+    for index, row in df.iterrows():
+        if row["数据库里是否有该长图 "]==0:
+            count+=1
+            continue
+        namelist += row["全部人"].split(",")
+        if count>=200:
+            break
+    namelist = list(set(namelist))
+    print(len(namelist))
+    cbdbnamelist = []
+    haveyear=0
+    for name in namelist:
+        sql = f"select c_personid,c_birthyear,c_deathyear from Biog_main\
+                    where  c_name_chn = '{name}'"
+        outs =select("",sql)
+        if outs:
+            cbdbnamelist.append({"name":name,
+                                 "cid":outs[0]["c_personid"],
+                                 "birth":outs[0]["c_birthyear"],
+                                 "death":outs[0]["c_deathyear"]})
+            if outs[0]["c_birthyear"] or outs[0]["c_deathyear"]:
+                haveyear+=1
+        else:continue
+
+    print(len(cbdbnamelist))
+    print(haveyear)
+    dfout=pd.read_excel("data\古籍讨论度.xlsx")
+    oldlist=dfout["印章题跋人"].tolist()
+    for people in cbdbnamelist:
+        if people["name"] in oldlist:
+            continue
+        yearyear=0
+        if people["birth"] or people["death"]:
+            yearyear=1
+        row={"印章题跋人":people["name"],
+             "是否有生卒年":yearyear}
+        dfout.loc[len(dfout)] = row 
+    dfout.to_excel('data\古籍讨论度new.xlsx', index=False)      
     
 
 if __name__ == '__main__':
