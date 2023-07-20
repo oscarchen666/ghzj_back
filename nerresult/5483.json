@@ -1,0 +1,1108 @@
+{
+  "filefroms": "5483.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖庚子"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一五四○年"
+        },
+        {
+          "type": "Time",
+          "start": 14,
+          "end": 20,
+          "span": "八月十又八日"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "南衡",
+          "cid": 68475,
+          "name": "童漢臣",
+          "aid": "A044390"
+        },
+        {
+          "type": "LocationName",
+          "start": 27,
+          "end": 29,
+          "span": "草堂",
+          "aid": "PL000000011645"
+        }
+      ],
+      "sentence": "嘉靖庚子（西元一五四○年）龝八月十又八日，南衡侍御過訪草堂。寫此奉贈。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "南樓"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "飛絮"
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "江城",
+          "aid": "PL000000026401",
+          "cid": 10406
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "斜陽"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 34,
+          "span": "風燕燕"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "千樹"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "鳥口"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "南風"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 74,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 80,
+          "span": "鶯"
+        },
+        {
+          "type": "LocationName",
+          "start": 86,
+          "end": 89,
+          "span": "桐山館",
+          "aid": "PL000000034390"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 95,
+          "span": "白葛道衣"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 105,
+          "span": "雲鐺"
+        }
+      ],
+      "sentence": "春盡二首。南樓三月盡。飛絮滿江城。野色烟中斷。斜陽雨外明。繞簷風燕燕。千樹煖口賏鳥口賏鳥。歲有傷春感。兼玆白髮生。南風一夕至。吹散麥秋寒。花落春愁盡。鶯啼午夢殘。碧桐山館靜。白葛道衣寬。飯罷催新汲。雲鐺試月團。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "夏日"
+        },
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "雨後"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "踈桐"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 15,
+          "span": "南風積草"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 22,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 33,
+          "span": "翠浪茶甌"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "玄雲"
+        }
+      ],
+      "sentence": "夏日雨後。西日踈桐轉。南風積草香。陡蒸還醞雨。晚霽卻生涼。翠浪茶甌煖。玄雲研沼光。隨緣消永夏。不厭靜中忙。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "南樓"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 8,
+          "span": "岸幘南樓上"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "斜陽"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "碧雲"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "黃葉"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "西風"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 39,
+          "span": "鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "山"
+        }
+      ],
+      "sentence": "南樓。岸幘南樓上。斜陽送晚晴。碧雲千里目。黃葉四簷聲。短髟丐西風急。浮生過鳥輕。有懷吟不就。山繞闔閭城。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "急雨"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 8,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "手"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "紈扇"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "匡床"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "星河"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "木葉"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 54,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "流螢"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "短牆"
+        }
+      ],
+      "sentence": "夜涼。急雨初收風滿堂。手拋紈扇撫匡床。起看夜色星河爛。何處秋聲木葉涼。偪口老懷欣暑近。蕭條病眼厭更長。月斜人定空庭寂。時有流螢度短牆。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "日月"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "枯桐"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "井床"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "玄禽"
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 33,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "白苧"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "微波"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 45,
+          "span": "芙蓉"
+        },
+        {
+          "type": "Location",
+          "start": 68,
+          "end": 70,
+          "span": "鄰牆"
+        }
+      ],
+      "sentence": "立秋再疊前韻。驚心日月去堂堂。又見枯桐下井床。社後玄禽辭故壘。江南白苧詠新涼。微波激渚芙蓉泠。疏響穿林絡緯長。最是清碪關節侯。隨風次第起鄰牆。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "七夕"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "女牛"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "果陳瓜"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "老我"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "天孫",
+          "cid": 560333,
+          "name": "董元",
+          "aid": "A019220"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 40,
+          "span": "星"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "月"
+        },
+        {
+          "type": "Location",
+          "start": 51,
+          "end": 53,
+          "span": "海上"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 55,
+          "span": "仙槎",
+          "cid": 57725,
+          "name": "何淩漢",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 65,
+          "span": "君"
+        }
+      ],
+      "sentence": "七夕。似聞今夕女牛并。設果陳瓜待巧成。老我此生日抱拙。天孫何事卻多情。通宵脈脈星相望。遙漢盈盈月自明。海上仙槎今不至。憑誰西蜀問君平。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "八月十四夜"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "月"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 13,
+          "span": "中秋夜"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "幽人"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 20,
+          "span": "月"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 34,
+          "span": "明日"
+        },
+        {
+          "type": "Location",
+          "start": 66,
+          "end": 68,
+          "span": "庭前"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 71,
+          "span": "桂樹枝"
+        }
+      ],
+      "sentence": "八月十四夜對月。月近中秋夜有暉。幽人戀月臥遲遲。及時光景寧頃滿。明日陰晴不可期。清影一簾金瑣碎。涼聲何處玉參差。酒闌無限懷人意。都在庭前桂樹枝。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 3,
+          "span": "十五夜"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "銀漢"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 21,
+          "span": "小樓東"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "朗月"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 31,
+          "span": "誰"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 37,
+          "span": "庾公"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 42,
+          "span": "酒金波"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 45,
+          "span": "桂樹"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 50,
+          "span": "捲簾清露"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 53,
+          "span": "梧桐"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "碧雲"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 59,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "東欄"
+        }
+      ],
+      "sentence": "十五夜再賦。銀漢無聲夜正中。十分秋色小樓東。空瞻朗月思玄度。誰有高懷繼庾公。把酒金波浮桂樹。捲簾清露滴梧桐。碧雲千里人何處。惆悵東欄一笛風。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Location",
+          "start": 1,
+          "end": 3,
+          "span": "虎丘"
+        },
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 8,
+          "span": "祠前"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "樹"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 16,
+          "span": "公臺下"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 17,
+          "span": "石"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "池中"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 41,
+          "span": "羽泉茶"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 45,
+          "span": "草"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 49,
+          "span": "鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 64,
+          "span": "翠壁苔花"
+        }
+      ],
+      "sentence": "登虎丘。短薄祠前樹鬱蟠。生公臺下石孱顏。千年精氣池中劍。一壑風烟寺裡山。井冽羽泉茶可試。草荒支礀鶴空還。不知清遠詩何處。翠壁苔花細雨班。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "碧瓦"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 24,
+          "span": "蓮宇"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "古藤"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "紫屋"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 44,
+          "span": "方外"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "老僧",
+          "cid": "unknow",
+          "name": "老僧",
+          "aid": "A019453"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 65,
+          "span": "佛前燈"
+        }
+      ],
+      "sentence": "入門連嶺翠崚山層。別徑穿雲次第登。碧瓦參差蓮宇靜。古藤陰翳紫屋崩。眼中歷歷悲塵劫。方外悠悠愧老僧。十載同遊半零落。長明惟有佛前燈。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "西玄",
+          "cid": 67749,
+          "name": "馬汝驥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "雲樹"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 18,
+          "span": "馬"
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 31,
+          "span": "周南"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "山水"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "湖海"
+        },
+        {
+          "type": "LocationName",
+          "start": 62,
+          "end": 65,
+          "span": "洲苑外",
+          "cid": 4594,
+          "aid": "PL000000009873"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 68,
+          "span": "樓"
+        }
+      ],
+      "sentence": "寄馬西玄。依依雲樹秣陵秋。頗憶平生馬少游。白下聲華空藉甚。周南山水尚淹留。風塵變幻多新夢。湖海雕零幾舊遊。白首離愁何處寫。長洲苑外獨登樓。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 7,
+          "span": "綠蘿軒"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "山亭"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "綠蘿"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "淵明",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "A012564"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "落花"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 49,
+          "span": "青團扇"
+        },
+        {
+          "type": "LocationName",
+          "start": 52,
+          "end": 54,
+          "span": "林中",
+          "aid": "PL000000012829"
+        },
+        {
+          "type": "LocationName",
+          "start": 60,
+          "end": 62,
+          "span": "長安",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "清風"
+        }
+      ],
+      "sentence": "次韻崦西綠蘿軒即事。名園深寂類山阿。旋起山亭蔭綠蘿。窓倚淵明堪自傲。逕開求仲許相過。落花風外青團扇。脩竹林中白苧歌。為問長安逐飛鞚。清風一榻較誰多。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "烟蘿"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "禽魚"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "車馬"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "竹枝"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "落花"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "風雨"
+        }
+      ],
+      "sentence": "學士林亭帶曲阿。分明域市隔烟蘿。趣深自得禽魚樂。心遠不聞車馬過。解帶靜看調鶴舞。倚琴聊和竹枝歌（上三字點去）濯纓歌。落花滿地濃陰寂。知是曉來風雨多。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張石",
+          "cid": 141290,
+          "name": "張石",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 16,
+          "span": "官柳陰"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "穠絮"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "湘簾"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 26,
+          "span": "燕"
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 31,
+          "span": "園林"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "花枝"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "村巷"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 40,
+          "span": "蠶"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "柘葉"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "涼風"
+        }
+      ],
+      "sentence": "次韻張石磐寄示三詩。春歸。官柳陰穠絮不飛。湘簾乍捲燕來歸。園林蠭靜花枝瘦。村巷蠶眠柘葉稀。一榻涼風輸靖節。滿窓列岫憶元暉。人生別有千年在。不恨時情與願違。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 31,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 33,
+          "span": "槐"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "花"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "別院"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "鳥"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "故人"
+        },
+        {
+          "type": "Metric",
+          "start": 51,
+          "end": 53,
+          "span": "七尺"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "瑤琴"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 58,
+          "span": "酒"
+        }
+      ],
+      "sentence": "睡起。年來卻事謝平塵。睡起惟應筆研親。簾影流風蒼竹健。庭陰過雨綠槐新。花開別院空啼鳥。夢破閒窗失故人。七尺瑤琴一樽酒。白頭無負故園春。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "秋水"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "蟋蟀"
+        },
+        {
+          "type": "LocationName",
+          "start": 44,
+          "end": 47,
+          "span": "蓉江上",
+          "aid": "PL000000056964",
+          "cid": 16085
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "知己"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "雙魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 76,
+          "span": "南衡",
+          "cid": 68475,
+          "name": "童漢臣",
+          "aid": "A044390"
+        }
+      ],
+      "sentence": "夜坐。解脫時情逸思饒。夜聞秋水漏迢迢。壯心寂寞罏灰冷。塵慮沖融□魂消。蟋蟀堦前寒氣早。芙蓉江上美人遙。白頭無地酬知己。恰有雙魚托暮潮。近作數首。書似南衡先生請教。徵明頓首上。",
+      "author": "文徵明"
+    }
+  ]
+}

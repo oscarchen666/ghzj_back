@@ -1,0 +1,1837 @@
+{
+  "filefroms": "14100.json",
+  "sentences": [
+    {
+      "authorcid": 1366,
+      "authoraid": "A023298",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "紹興乙卯"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 18,
+          "span": "西元一一三五年）初夏十九日"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 22,
+          "span": "溧陽",
+          "cid": 4545
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "苕川"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "振叔",
+          "cid": 45422,
+          "name": "許德之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 35,
+          "end": 36,
+          "span": "家"
+        },
+        {
+          "type": "Person",
+          "start": 46,
+          "end": 48,
+          "span": "世人"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 92,
+          "span": "畫家者"
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 144,
+          "span": "米"
+        },
+        {
+          "type": "Thing",
+          "start": 150,
+          "end": 152,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 155,
+          "end": 156,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "紹興乙卯（西元一一三五年）初夏十九日。自溧陽來遊苕川。忽見此卷於李振叔家。實余兒戲得意作也。世人知余喜畫。競欲得之。甚少有曉余所以為畫者。非具頂門上慧眼者。不足以識。不可以古今畫家者流畫求之。老境於世海中。一毛髮事。泊然無著染。每靜室僧趺。忘懷萬慮。與碧虛寥廓。同其流蕩。焚生事折腰為米。大非得已。此卷慎勿與人。",
+      "author": "米友仁"
+    },
+    {
+      "authorcid": 44877,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "元章",
+          "cid": 5,
+          "name": "查籥",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "鍾王",
+          "cid": "unknow",
+          "name": "愛新覺羅奕詥",
+          "aid": "A043389"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "伯玉",
+          "cid": 100,
+          "name": "陳琰",
+          "aid": "A033363"
+        },
+        {
+          "type": "Time",
+          "start": 59,
+          "end": 66,
+          "span": "紹興壬午中冬晦"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 68,
+          "span": "平",
+          "cid": 34838,
+          "name": "湯準",
+          "aid": "A018860"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "純父",
+          "cid": 1179,
+          "name": "劉珵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "元章早年。涉學既多。晚迺則法鍾王。此元祐初作也。風神蕭散。所謂天成者。非世間墨工槧人之可髣髴。伯玉出以相示。因書其後。紹興壬午中冬晦。平丘曾覿純父。",
+      "author": "曾覿"
+    },
+    {
+      "authorcid": 44877,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "紹興壬午中冬晦"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "平丘"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "純父",
+          "cid": 1179,
+          "name": "劉珵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "紹興壬午中冬晦。平丘曾覿純父。",
+      "author": "曾覿"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "雲山煙樹"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 15,
+          "span": "南宮鶻突圖"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 34,
+          "span": "米老"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "此圖"
+        },
+        {
+          "type": "Location",
+          "start": 39,
+          "end": 41,
+          "span": "苕川"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "振叔",
+          "cid": 45422,
+          "name": "許德之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 47,
+          "end": 51,
+          "span": "嚴尚書府"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 55,
+          "span": "宮保",
+          "cid": 34013,
+          "name": "畢沅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 63,
+          "end": 64,
+          "span": "李",
+          "cid": 113107,
+          "name": "釋可授",
+          "aid": "A012099"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "宮保",
+          "cid": 34013,
+          "name": "畢沅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 75,
+          "span": "外孫",
+          "cid": 23035,
+          "name": "田興宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 95,
+          "end": 101,
+          "span": "弘治癸亥九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 106,
+          "end": 108,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "雲山煙樹總模糊。此是南宮鶻突圖。自笑頂門無慧眼。臨窗墨蹟澹如無。米老此圖初藏於苕川李振叔。後入嚴尚書府。今宮保閔公得之。蓋嚴與李同郡。而宮保為尚書外孫。流傳有自。而收蓄得所。此老亦無所恨矣。弘治癸亥九月既望。長洲吳寬書。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "弘治癸亥九月"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "弘治癸亥九月既望。長洲吳寬書。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "元暉",
+          "cid": 390330,
+          "name": "元暉",
+          "aid": "A003129"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 11,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 26,
+          "span": "宋時"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 38,
+          "span": "吾"
+        },
+        {
+          "type": "LocationName",
+          "start": 39,
+          "end": 41,
+          "span": "北苑",
+          "aid": "PL000000042100"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 57,
+          "span": "曾氏",
+          "cid": 5136,
+          "name": "曾氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "元章",
+          "cid": 72229,
+          "name": "元章",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 69,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "米元暉畫。自負出王右丞之上。觀其晚年墨戲。真淘洗宋時院體。而以造化為師。蓋吾家北苑之嫡冢也。此卷亦其得意筆。後曾氏跋以為元章。誤矣。董其昌題。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "董其昌題",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "周翰",
+          "cid": 43099,
+          "name": "周翰",
+          "aid": "A018672"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 8,
+          "span": "大父公"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "米卷"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 14,
+          "span": "予"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 25,
+          "span": "雲山煙樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 63,
+          "span": "周翰",
+          "cid": 43099,
+          "name": "周翰",
+          "aid": "A018672"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 67,
+          "span": "元暉",
+          "cid": 390330,
+          "name": "元暉",
+          "aid": "A003129"
+        },
+        {
+          "type": "Person",
+          "start": 78,
+          "end": 81,
+          "span": "好事者"
+        },
+        {
+          "type": "PersonName",
+          "start": 91,
+          "end": 95,
+          "span": "匏菴先生",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "元章",
+          "cid": 72229,
+          "name": "元章",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 124,
+          "end": 126,
+          "span": "蔡肇",
+          "cid": 1648,
+          "name": "蔡肇",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 142,
+          "end": 144,
+          "span": "四十"
+        },
+        {
+          "type": "Time",
+          "start": 148,
+          "end": 152,
+          "span": "紹興乙卯"
+        },
+        {
+          "type": "Metric",
+          "start": 153,
+          "end": 157,
+          "span": "三十□年"
+        },
+        {
+          "type": "PersonName",
+          "start": 159,
+          "end": 161,
+          "span": "元暉",
+          "cid": 390330,
+          "name": "元暉",
+          "aid": "A003129"
+        },
+        {
+          "type": "PersonName",
+          "start": 202,
+          "end": 204,
+          "span": "匏翁",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 251,
+          "end": 253,
+          "span": "周翰",
+          "cid": 43099,
+          "name": "周翰",
+          "aid": "A018672"
+        },
+        {
+          "type": "Time",
+          "start": 258,
+          "end": 266,
+          "span": "戊戌秋七月十二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 267,
+          "end": 269,
+          "span": "孟堅",
+          "cid": 397123,
+          "name": "孟堅",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "曹周翰出示大父公所藏米卷。予雖不知畫。觀其雲山煙樹。走筆而成。縈紆蓊鬱之致。超然脫去蹊徑。知為真蹟無疑也。展卷至後題。輒語周翰。此元暉筆耳。曾跋蓋元章他書。好事者裝池時。誤綴其後。吳匏菴先生未暇深考。因定以為元章。予既憑筆蹟。臆斷其非。又按本傳。及蔡肇所撰墓志卒之歲。為□□□□其年僅四十有九。距紹興乙卯凡三十□年矣。元暉壽至八十餘。與所云老境者。適相合。夫筆墨之辨。世已不能知。獨恃歲月可據。而乃失之於匏翁。則題識可弗慎歟。或曰此題似非出於吳。予謂吳本不工書。字畫真雁貝。安可知。而跋語則未必偽作。周翰試更攷之。戊戌秋七月十二日婁孟堅題。",
+      "author": "婁孟堅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "戊戌秋七月十二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "孟堅",
+          "cid": 397123,
+          "name": "孟堅",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "戊戌秋七月十二日婁孟堅題。",
+      "author": "婁孟堅"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "山雨山雲"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 12,
+          "span": "溪前溪後"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "人家"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 20,
+          "span": "江鄉湖曲"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "樹靄林煙"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "米家"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "煙水"
+        },
+        {
+          "type": "Location",
+          "start": 40,
+          "end": 42,
+          "span": "京口"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "雲山"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 52,
+          "span": "細雨斜風"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 57,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "艇子"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "漁簑"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 68,
+          "span": "康熙庚午"
+        },
+        {
+          "type": "Time",
+          "start": 69,
+          "end": 76,
+          "span": "秋八月廿又六日"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 79,
+          "span": "冷雨"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 86,
+          "span": "木瓜"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 107,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        }
+      ],
+      "sentence": "山雨山雲斷又遮。溪前溪後幾人家。江鄉湖曲多相似。樹靄林煙認米家。瀟湘煙水渺無波。京口雲山曉暮多。細雨斜風無限好。誰將艇子著漁簑。康熙庚午。秋八月廿又六日。冷雨復晴。新得木瓜作供。洗研試小華墨。題此。抱公瓦翁高士奇。",
+      "author": "高士奇"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        }
+      ],
+      "sentence": "抱公瓦翁高士奇",
+      "author": "高士奇"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "嚴尚",
+          "cid": 395861,
+          "name": "嚴尚",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "震直"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "子敏",
+          "cid": 64803,
+          "name": "陳憲曾",
+          "aid": "A019391"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 23,
+          "span": "元時人"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 27,
+          "span": "洪武初"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 32,
+          "span": "工部尚書"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "印章"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "宮保",
+          "cid": 34013,
+          "name": "畢沅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 56,
+          "span": "朝英",
+          "cid": 89486,
+          "name": "董秉忠",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 57,
+          "end": 62,
+          "span": "明天順進士"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 68,
+          "span": "刑部尚書"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "懿公",
+          "cid": 86824,
+          "name": "徐元美",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 80,
+          "span": "湖州烏城人"
+        },
+        {
+          "type": "Thing",
+          "start": 82,
+          "end": 84,
+          "span": "此卷"
+        },
+        {
+          "type": "LocationName",
+          "start": 86,
+          "end": 88,
+          "span": "吳越",
+          "aid": "PL000000008364",
+          "cid": 18954
+        },
+        {
+          "type": "Time",
+          "start": 91,
+          "end": 94,
+          "span": "宋紹興"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 101,
+          "span": "幾五百餘年"
+        },
+        {
+          "type": "Time",
+          "start": 120,
+          "end": 135,
+          "span": "康熙二十年歲次辛酉仲秋八月望日"
+        },
+        {
+          "type": "PersonName",
+          "start": 135,
+          "end": 139,
+          "span": "江上外史",
+          "cid": 30651,
+          "name": "笪重光",
+          "aid": "A045321"
+        }
+      ],
+      "sentence": "右匏菴跋中所云嚴尚書者。名震直。字子敏。元時人。洪武初官工部尚書。有優詔旌之。休堂其印章也。閔宮保者名珪。字朝英。明天順進士。官刑部尚書。謚莊懿公。俱湖州烏城人。計此卷流傳吳越間。自宋紹興迄今幾五百餘年。未嘗磨漶。亦翰墨之幸矣。宜珍襲何如。康熙二十年歲次辛酉仲秋八月望日江上外史笪重光識。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "康熙二十年"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 15,
+          "span": "辛酉仲秋八月望日"
+        },
+        {
+          "type": "Location",
+          "start": 15,
+          "end": 17,
+          "span": "江上"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "笪重光",
+          "cid": 30651,
+          "name": "笪重光",
+          "aid": "A045321"
+        }
+      ],
+      "sentence": "康熙二十年歲次辛酉仲秋八月望日江上外史笪重光識",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "元章",
+          "cid": 72229,
+          "name": "元章",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 7,
+          "span": "竇先生"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "此紙"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 25,
+          "span": "謝太傅",
+          "cid": "unknow",
+          "name": "謝安",
+          "aid": "A002691"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 52,
+          "span": "紹聖丁酉"
+        },
+        {
+          "type": "LocationName",
+          "start": 54,
+          "end": 56,
+          "span": "岱樓",
+          "aid": "PL000000008357"
+        },
+        {
+          "type": "PersonName",
+          "start": 78,
+          "end": 80,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 91,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 93,
+          "end": 95,
+          "span": "曾肇",
+          "cid": 7072,
+          "name": "曾肇",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 103,
+          "span": "墓志草稿"
+        },
+        {
+          "type": "PersonName",
+          "start": 129,
+          "end": 131,
+          "span": "博雅",
+          "cid": 157173,
+          "name": "博雅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 136,
+          "end": 140,
+          "span": "壬戌孟春"
+        },
+        {
+          "type": "Location",
+          "start": 146,
+          "end": 148,
+          "span": "江上"
+        }
+      ],
+      "sentence": "按元章付竇先生十紙。有余年五十始用此紙。又跋謝太傅一帖云。余生辛丑。今太歲辛巳。跋右軍快雪帖云。紹聖丁酉。海岱樓。又吾潤北固海岳菴。有殘缺舊南宮所自寫像。子元暉題讚。亦非盛年之狀。余曾見曾肇所作襄陽墓志草稿。並無享年四十有九之說。觀此則婁跋未為確據。記此以俟博雅者論定云。壬戌孟春因玩畫并記。江上逸光。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "壬戌孟春"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 12,
+          "span": "江上"
+        }
+      ],
+      "sentence": "壬戌孟春因玩畫并記。江上逸光。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "宋人"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "元人"
+        },
+        {
+          "type": "Person",
+          "start": 27,
+          "end": 29,
+          "span": "阿章"
+        },
+        {
+          "type": "Person",
+          "start": 47,
+          "end": 51,
+          "span": "畫品仙聖"
+        },
+        {
+          "type": "Metric",
+          "start": 69,
+          "end": 72,
+          "span": "六尺餘"
+        },
+        {
+          "type": "Metric",
+          "start": 74,
+          "end": 77,
+          "span": "八寸許"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 79,
+          "span": "紙"
+        },
+        {
+          "type": "Metric",
+          "start": 87,
+          "end": 90,
+          "span": "十二行"
+        },
+        {
+          "type": "Metric",
+          "start": 91,
+          "end": 97,
+          "span": "一百二十六字"
+        },
+        {
+          "type": "PersonName",
+          "start": 117,
+          "end": 119,
+          "span": "用卿",
+          "cid": 89034,
+          "name": "閻爾梅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 127,
+          "end": 129,
+          "span": "吳廷",
+          "cid": 393596,
+          "name": "吳廷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 143,
+          "span": "五州煙雨卷"
+        },
+        {
+          "type": "Person",
+          "start": 149,
+          "end": 152,
+          "span": "好事者"
+        },
+        {
+          "type": "Person",
+          "start": 170,
+          "end": 172,
+          "span": "前賢"
+        },
+        {
+          "type": "Thing",
+          "start": 181,
+          "end": 183,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 205,
+          "end": 208,
+          "span": "五州圖"
+        }
+      ],
+      "sentence": "宋人有其巧緻。而無其生動。元人具其澹遠。而乏其神奇。即阿章雄渾或過之。縹緲高超。猶不及也。此乃畫品仙聖。食煙火氣者。安敢望其真境耶。畫計長六尺餘。高八寸許。紙凡三幅連綴。跋計十二行。一百二十六字。字字精妙。亦是得意書。曾經前朝鑑賞家吳用卿收藏。前後角俱有吳廷私印。記此者。因觀五州煙雨卷。其中為昔時好事者割去數段。綴後跋一二。希圖獲利。遂使前賢翰墨。有不全之憾。此卷猶係完璧。故應珍惜。勿落書估中毒手。狡獪同於五州圖也。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "列子",
+          "cid": "unknow",
+          "name": "列子",
+          "aid": "A004060"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "孔周",
+          "cid": 446253,
+          "name": "孔周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "劍"
+        },
+        {
+          "type": "Person",
+          "start": 10,
+          "end": 12,
+          "span": "承影"
+        },
+        {
+          "type": "Time",
+          "start": 53,
+          "end": 55,
+          "span": "七日"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "此畫"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 111,
+          "span": "寶劍"
+        },
+        {
+          "type": "Time",
+          "start": 124,
+          "end": 128,
+          "span": "癸亥四月"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 132,
+          "span": "此卷"
+        },
+        {
+          "type": "LocationName",
+          "start": 133,
+          "end": 135,
+          "span": "焦山",
+          "aid": "PL000000010964",
+          "cid": 303673
+        },
+        {
+          "type": "LocationName",
+          "start": 145,
+          "end": 148,
+          "span": "南京口",
+          "aid": "PL000000007653",
+          "cid": 4540
+        },
+        {
+          "type": "LocationName",
+          "start": 150,
+          "end": 152,
+          "span": "金陵",
+          "aid": "PL000000058470",
+          "cid": 402496
+        },
+        {
+          "type": "Thing",
+          "start": 154,
+          "end": 156,
+          "span": "峰巒"
+        },
+        {
+          "type": "Thing",
+          "start": 157,
+          "end": 159,
+          "span": "雲煙"
+        },
+        {
+          "type": "Location",
+          "start": 179,
+          "end": 181,
+          "span": "江上"
+        }
+      ],
+      "sentence": "列子載孔周之劍。一名承影。將旦昧爽之交。旦夕昏明之際。北面而察之。淡淡焉若有物存。莫識其狀。故求之者。與齋七日。晏陰之間。跪而授焉。余謂此畫亦當於明窗晨起時。焚香靜睇。方知其妙。心粗氣濁之流。安可與之觀化哉。珍重如昔賢寶劍。匣而藏之。未嘗啟封可耳。癸亥四月。攜此卷上焦山。於客散僧臥時。望江南京口。至金陵一帶峰巒。雲煙繚繞。出其畫對之。題此以俟後之肯余言者。江上光。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "江上"
+        }
+      ],
+      "sentence": "江上光",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "子柔",
+          "cid": 55834,
+          "name": "高茹",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 24,
+          "span": "二公"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 32,
+          "span": "特董"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "曾海",
+          "cid": 227654,
+          "name": "曾海",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 77,
+          "span": "南宮",
+          "cid": 71951,
+          "name": "王振璋",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 93,
+          "span": "小米畫"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 102,
+          "span": "小米書"
+        },
+        {
+          "type": "Person",
+          "start": 115,
+          "end": 117,
+          "span": "古人"
+        },
+        {
+          "type": "Person",
+          "start": 126,
+          "end": 129,
+          "span": "真知者"
+        },
+        {
+          "type": "Person",
+          "start": 143,
+          "end": 145,
+          "span": "先輩"
+        },
+        {
+          "type": "Location",
+          "start": 164,
+          "end": 166,
+          "span": "江上"
+        }
+      ],
+      "sentence": "董太史據畫法定為元暉。婁子柔據書法定為元暉。二公可謂具眼矣。特董以曾海野為誤。不知原屬大米跋。非故以獻作羲也。婁以匏菴本不工書。不知此確吳書。其詠畫作南宮。由不工畫耳。余展卷即呼為小米畫。展跋即呼為小米書。無惑。及觀諸公斷論。始信古人筆墨流傳天壤。自有真知者。此卷米氏家法。稱為雙絕。而先輩鑒裁。未敢率然也。後之攬者。安可忽諸。江上外史識。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "江上"
+        }
+      ],
+      "sentence": "江上外史識",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張氏",
+          "cid": 55882,
+          "name": "張氏",
+          "aid": "A008339"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 13,
+          "span": "矮紙小卷"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "友人"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 27,
+          "span": "山僧舍",
+          "aid": "PL000000010964",
+          "cid": 303673
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 53,
+          "span": "五州煙雨圖"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 61,
+          "span": "今人"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "米畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 75,
+          "span": "小米",
+          "cid": 79345,
+          "name": "汪遠孫",
+          "aid": "A023298"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 80,
+          "span": "煙雲"
+        },
+        {
+          "type": "Thing",
+          "start": 83,
+          "end": 85,
+          "span": "林泉"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 90,
+          "span": "草草"
+        },
+        {
+          "type": "Person",
+          "start": 105,
+          "end": 108,
+          "span": "畫家者"
+        },
+        {
+          "type": "PersonName",
+          "start": 124,
+          "end": 126,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "Thing",
+          "start": 139,
+          "end": 141,
+          "span": "此卷"
+        },
+        {
+          "type": "Metric",
+          "start": 142,
+          "end": 148,
+          "span": "一百二十餘字"
+        },
+        {
+          "type": "Person",
+          "start": 161,
+          "end": 163,
+          "span": "晉人"
+        },
+        {
+          "type": "PersonName",
+          "start": 179,
+          "end": 181,
+          "span": "曾氏",
+          "cid": 5136,
+          "name": "曾氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 185,
+          "end": 187,
+          "span": "昔人"
+        },
+        {
+          "type": "PersonName",
+          "start": 212,
+          "end": 214,
+          "span": "重光",
+          "cid": 55576,
+          "name": "曹炯",
+          "aid": "A021837"
+        }
+      ],
+      "sentence": "吾潤張氏。藏有元暉矮紙小卷。曾倩友人查梅壑。於焦山僧舍。摹得一本。珍玩之。畫法與此卷無異。至所收五州煙雨圖。則弗如也。今人倣米畫。以點斫微細。便號小米。豈知煙雲幻化。林泉點染。草草而成。能變父法處。獨為超逸。非畫家者流所可及。又予收有海岳手蹟數紙。元暉僅得跋父書兩行。未易多遘。此卷計一百二十餘字。暮年筆力。神采煥發。直入晉人之室。宜知制敷文閣時重於高宗也。曾氏跋。雖屬昔人粘綴。而書法雅正。猶見東都故老遺風。不妨並存耳。笪重光再識。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "重光",
+          "cid": 55576,
+          "name": "曹炯",
+          "aid": "A021837"
+        }
+      ],
+      "sentence": "笪重光再識",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "僕"
+        },
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "夏初"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 10,
+          "span": "公洞僧舍",
+          "aid": "PL000000011003"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "友人"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 26,
+          "span": "五州煙雨圖卷"
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 36,
+          "span": "州翠巖禪室",
+          "aid": "PL000000018285"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 41,
+          "span": "雨"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 44,
+          "span": "山中"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "畫圖"
+        },
+        {
+          "type": "Person",
+          "start": 66,
+          "end": 70,
+          "span": "海陵堯岳"
+        },
+        {
+          "type": "Location",
+          "start": 86,
+          "end": 89,
+          "span": "五州村"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 94,
+          "span": "雲山煙樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 109,
+          "end": 111,
+          "span": "陵陽",
+          "cid": 142942,
+          "name": "李君會",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 127,
+          "end": 131,
+          "span": "紹興辛亥"
+        },
+        {
+          "type": "PersonName",
+          "start": 142,
+          "end": 144,
+          "span": "竹坡",
+          "cid": 57865,
+          "name": "愛新覺羅寶廷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 153,
+          "span": "此卷"
+        },
+        {
+          "type": "Time",
+          "start": 155,
+          "end": 160,
+          "span": "紹興乙卯年"
+        },
+        {
+          "type": "Time",
+          "start": 169,
+          "end": 173,
+          "span": "紹興元年"
+        },
+        {
+          "type": "Time",
+          "start": 177,
+          "end": 181,
+          "span": "紹興五年"
+        },
+        {
+          "type": "LocationName",
+          "start": 191,
+          "end": 193,
+          "span": "苕溪",
+          "aid": "PL000000012969"
+        },
+        {
+          "type": "PersonName",
+          "start": 194,
+          "end": 196,
+          "span": "振叔",
+          "cid": 45422,
+          "name": "許德之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 199,
+          "end": 201,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 222,
+          "end": 225,
+          "span": "五州卷"
+        },
+        {
+          "type": "Metric",
+          "start": 229,
+          "end": 231,
+          "span": "三寸"
+        },
+        {
+          "type": "PersonName",
+          "start": 235,
+          "end": 237,
+          "span": "元暉",
+          "cid": 62881,
+          "name": "朱若東",
+          "aid": "A003129"
+        },
+        {
+          "type": "PersonName",
+          "start": 242,
+          "end": 244,
+          "span": "華亭",
+          "cid": 64885,
+          "name": "奎英",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 276,
+          "end": 278,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 294,
+          "end": 296,
+          "span": "董源",
+          "cid": 49698,
+          "name": "董源",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 302,
+          "end": 304,
+          "span": "虎兒",
+          "cid": 1366,
+          "name": "米友仁",
+          "aid": "A023298"
+        },
+        {
+          "type": "PersonName",
+          "start": 336,
+          "end": 338,
+          "span": "啟南",
+          "cid": 62814,
+          "name": "白恩佑",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 350,
+          "end": 352,
+          "span": "小米"
+        },
+        {
+          "type": "Thing",
+          "start": 364,
+          "end": 368,
+          "span": "瀟湘煙雨"
+        },
+        {
+          "type": "Thing",
+          "start": 370,
+          "end": 374,
+          "span": "海嶽庵卷"
+        },
+        {
+          "type": "Person",
+          "start": 375,
+          "end": 378,
+          "span": "好事者"
+        },
+        {
+          "type": "Metric",
+          "start": 383,
+          "end": 387,
+          "span": "五六百金"
+        },
+        {
+          "type": "Time",
+          "start": 408,
+          "end": 412,
+          "span": "甲子五月"
+        },
+        {
+          "type": "Location",
+          "start": 414,
+          "end": 416,
+          "span": "五州"
+        },
+        {
+          "type": "LocationName",
+          "start": 418,
+          "end": 422,
+          "span": "山元符宮",
+          "aid": "PL000000011072"
+        },
+        {
+          "type": "Location",
+          "start": 449,
+          "end": 452,
+          "span": "籃輿中"
+        }
+      ],
+      "sentence": "僕於夏初宿八公洞僧舍。索得友人所藏米元暉五州煙雨圖卷。即攜上五州翠巖禪室。是日冒雨。山中雲氣。噴薄變幻。堪與畫圖相質證。卷尾題跋。有海陵堯岳一詩云。數筆元暉水墨痕。眼前歷歷五州村。雲山煙樹模糊裡。魂夢經行古石門之句。又陵陽牟獻之一詩。系以跋。有云。此元暉紹興辛亥避江淮兵時所作。今歸韓竹坡等語。視余所藏此卷。乃紹興乙卯年自跋。按彼卷。畫於紹興元年。此跋乃紹興五年。相去五載。而云見之苕溪李振叔家。則此卷亦或數載前所作。猶是北宋時物。未可知也。只五州卷。紙矮僅三寸許。後少元暉自題識。董華亭跋云。不用米家法皴染。用吾家北苑法。故尚多筆墨痕。可尋索摹倣。而此卷經營慘澹。更為神化。其深厚處。與董源未易伯仲。真虎兒戲墨中第一品也。非洞知畫理者。孰能辨之。毋怪當時自為矜許迺爾。聞啟南先生云。年至七十。始得見小米真蹟。余復何幸得此。傳其瀟湘煙雨。與海嶽庵卷。好事者購之。價至五六百金。嘆未曾獲睹。今不知流轉何處矣。重光記。時甲子五月。從五州上茅山元符宮。是月陰晴不定。雖苦足疾。不能如曩時偕侶策杖穿雲。而於籃輿中。左顧右矚。亦頗稱快。歸因書之卷末。",
+      "author": "笪重光"
+    },
+    {
+      "authorcid": 30651,
+      "authoraid": "A045321",
+      "output": [],
+      "sentence": "重光記",
+      "author": "笪重光"
+    }
+  ]
+}

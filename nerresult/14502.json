@@ -1,0 +1,534 @@
+{
+  "filefroms": "14502.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003935",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "鍾馗",
+          "cid": "unknow",
+          "name": "鍾馗",
+          "aid": "A008720"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "乙卷"
+        },
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 14,
+          "span": "顧閎"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "鍾馗",
+          "cid": "unknow",
+          "name": "鍾馗",
+          "aid": "A008720"
+        },
+        {
+          "type": "Person",
+          "start": 23,
+          "end": 25,
+          "span": "諸鬼"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 40,
+          "span": "器械鷹犬猛獸"
+        },
+        {
+          "type": "Time",
+          "start": 69,
+          "end": 77,
+          "span": "宣和二年正月穀旦"
+        }
+      ],
+      "sentence": "鍾馗氏出獵圖乙卷。迺南唐顧閎中筆也。作鍾馗氏及諸鬼。皆猙獰雄傑。所荷器械鷹犬猛獸之類。俱極精妙。設色勁淨。目中希覩也。因命裝潢以充秘玩云。宣和二年正月穀旦。睿思殿書。",
+      "author": "宋徽宗"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003935",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "宣和二年正月穀旦"
+        }
+      ],
+      "sentence": "宣和二年正月穀旦。睿思殿書。",
+      "author": "宋徽宗"
+    },
+    {
+      "authorcid": 1366,
+      "authoraid": "A023298",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "顧閎中",
+          "cid": 39098,
+          "name": "顧閎中",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "米友仁",
+          "cid": 1366,
+          "name": "米友仁",
+          "aid": "A023298"
+        },
+        {
+          "type": "Time",
+          "start": 21,
+          "end": 29,
+          "span": "紹興甲子三月三日"
+        }
+      ],
+      "sentence": "此卷南唐顧閎中畫。臣米友仁審定。真蹟無失。紹興甲子三月三日。奉敕恭跋。",
+      "author": "米友仁"
+    },
+    {
+      "authorcid": 1366,
+      "authoraid": "A023298",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "紹興甲子三月三日"
+        }
+      ],
+      "sentence": "紹興甲子三月三日。奉敕恭跋。",
+      "author": "米友仁"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 14,
+          "span": "至正庚子（1360）七月二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 19,
+          "span": "金粟道人",
+          "cid": 113490,
+          "name": "顧德輝",
+          "aid": "A018684"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "饒介",
+          "cid": 113493,
+          "name": "饒介",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "子庭",
+          "cid": 113252,
+          "name": "釋祖柏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 46,
+          "span": "秦約",
+          "cid": 506819,
+          "name": "秦約",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 53,
+          "span": "楊廉夫",
+          "cid": 511475,
+          "name": "楊廉夫",
+          "aid": "A016663"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 56,
+          "span": "草玄閣"
+        },
+        {
+          "type": "Time",
+          "start": 58,
+          "end": 62,
+          "span": "新秋雨後"
+        },
+        {
+          "type": "Location",
+          "start": 63,
+          "end": 65,
+          "span": "閣外"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 74,
+          "span": "湖石桐蕉"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 88,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 95,
+          "end": 98,
+          "span": "顧阿瑛",
+          "cid": 113487,
+          "name": "顧阿瑛",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "至正庚子（1360）七月二日。金粟道人顧阿瑛。華蓋洞著書者饒介。柏子庭釋子日觀。淮海後人秦約。同觀於楊廉夫草玄閣。時新秋雨後。閣外翠樾陰森。湖石桐蕉。咸生涼意。相與瀹茗欣賞此卷。并志歲月云。顧阿瑛書。",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "顧阿瑛",
+          "cid": 113487,
+          "name": "顧阿瑛",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "顧阿瑛書",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 127227,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "鍾馗",
+          "cid": "unknow",
+          "name": "鍾馗",
+          "aid": "A008720"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "獵圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "顧閎中",
+          "cid": 39098,
+          "name": "顧閎中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 22,
+          "span": "宣和內府"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "道君"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "小璽"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 40,
+          "span": "乾卦印"
+        },
+        {
+          "type": "LocationName",
+          "start": 44,
+          "end": 46,
+          "span": "紹興",
+          "cid": 9695
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "御書"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "敷文",
+          "cid": 12784,
+          "name": "曾誕",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 79,
+          "span": "萬曆辛卯"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 89,
+          "span": "先王"
+        },
+        {
+          "type": "Thing",
+          "start": 98,
+          "end": 100,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 123,
+          "end": 126,
+          "span": "朱之蕃",
+          "cid": 127227,
+          "name": "朱之蕃",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "鍾馗出獵圖一卷。南唐顧閎中真蹟。本出宣和內府。有道君御書。睿思小璽。又思陵乾卦印。似存入紹興內帑。在御書後。有米敷文審定跋。并勝國顧金粟諸公志記。余以萬曆辛卯。奉使益藩。因出先王所藏名跡相示。遂以此卷見貺。義不敢違。勉爾祇受。因寶藏之。以識大槩。朱之蕃跋。",
+      "author": "朱之蕃"
+    },
+    {
+      "authorcid": 127227,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "朱之蕃",
+          "cid": 127227,
+          "name": "朱之蕃",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "朱之蕃跋",
+      "author": "朱之蕃"
+    },
+    {
+      "authorcid": 34722,
+      "authoraid": "A000205",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 18,
+          "span": "顧閎中",
+          "cid": 39098,
+          "name": "顧閎中",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "鍾馗",
+          "cid": "unknow",
+          "name": "鍾馗",
+          "aid": "A008720"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 27,
+          "span": "獵圖乙卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "拱璧"
+        },
+        {
+          "type": "Time",
+          "start": 40,
+          "end": 44,
+          "span": "萬曆乙已"
+        },
+        {
+          "type": "LocationName",
+          "start": 46,
+          "end": 48,
+          "span": "南都",
+          "aid": "PL000000025189"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "書畫"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 69,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 71,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 81,
+          "end": 83,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 114,
+          "span": "碾羊脂玉雙柱罇"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 122,
+          "span": "青綠提梁卣"
+        },
+        {
+          "type": "PersonName",
+          "start": 132,
+          "end": 134,
+          "span": "孫孫",
+          "cid": 141359,
+          "name": "李孫孫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 141,
+          "end": 147,
+          "span": "萬曆乙□八月"
+        },
+        {
+          "type": "LocationName",
+          "start": 155,
+          "end": 157,
+          "span": "南都",
+          "aid": "PL000000025189"
+        },
+        {
+          "type": "LocationName",
+          "start": 158,
+          "end": 160,
+          "span": "金壇",
+          "cid": 18315
+        }
+      ],
+      "sentence": "朱蘭嵎太史。奉使益藩時。得南唐顧閎中畫鍾馗氏出獵圖乙卷。太史秘之。無異拱璧。余以萬曆乙已。過南都。見太史於私第。因出書畫相賞。及後迺出此卷。余不禁瞠目失聲嘆美之。太史不吝。即以推惠。余既獲此。無啻南金重寶也。迺以宋碾羊脂玉雙柱罇。漢銅青綠提梁卣酬之。重加裝設。子子孫孫。其永保之。時萬曆乙□八月上澣之吉。裝潢於南都。金壇王肯堂記。",
+      "author": "王肯堂"
+    },
+    {
+      "authorcid": 34722,
+      "authoraid": "A000205",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "金壇",
+          "cid": 18315
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "王肯堂"
+        }
+      ],
+      "sentence": "金壇王肯堂記",
+      "author": "王肯堂"
+    }
+  ]
+}

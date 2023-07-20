@@ -1,0 +1,1589 @@
+{
+  "filefroms": "3547.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "綠香井泉"
+        },
+        {
+          "type": "Location",
+          "start": 30,
+          "end": 33,
+          "span": "吟香閣"
+        },
+        {
+          "type": "Location",
+          "start": 36,
+          "end": 39,
+          "span": "錦帶河"
+        },
+        {
+          "type": "Location",
+          "start": 43,
+          "end": 45,
+          "span": "驄坊"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 50,
+          "span": "東丘"
+        },
+        {
+          "type": "Metric",
+          "start": 59,
+          "end": 61,
+          "span": "百步"
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 69,
+          "span": "洪武間"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "井"
+        },
+        {
+          "type": "Time",
+          "start": 79,
+          "end": 83,
+          "span": "弘治甲寅"
+        },
+        {
+          "type": "Thing",
+          "start": 174,
+          "end": 176,
+          "span": "寒泉"
+        },
+        {
+          "type": "Thing",
+          "start": 183,
+          "end": 185,
+          "span": "寒泉"
+        },
+        {
+          "type": "Thing",
+          "start": 207,
+          "end": 210,
+          "span": "綠香泉"
+        },
+        {
+          "type": "Thing",
+          "start": 214,
+          "end": 215,
+          "span": "石"
+        },
+        {
+          "type": "Thing",
+          "start": 216,
+          "end": 217,
+          "span": "樹"
+        },
+        {
+          "type": "Location",
+          "start": 218,
+          "end": 220,
+          "span": "井旁"
+        },
+        {
+          "type": "PersonName",
+          "start": 278,
+          "end": 280,
+          "span": "徐公",
+          "cid": "unknow",
+          "name": "冉求",
+          "aid": "A019702"
+        },
+        {
+          "type": "LocationName",
+          "start": 289,
+          "end": 291,
+          "span": "馬岡",
+          "cid": 100466
+        },
+        {
+          "type": "Person",
+          "start": 294,
+          "end": 296,
+          "span": "父老"
+        },
+        {
+          "type": "PersonName",
+          "start": 298,
+          "end": 300,
+          "span": "康王",
+          "cid": 34606,
+          "name": "朱志",
+          "aid": "A002088"
+        },
+        {
+          "type": "LocationName",
+          "start": 303,
+          "end": 307,
+          "span": "馬渡水處",
+          "aid": "PL000000034670"
+        },
+        {
+          "type": "Location",
+          "start": 309,
+          "end": 313,
+          "span": "水中遺址"
+        },
+        {
+          "type": "PersonName",
+          "start": 324,
+          "end": 326,
+          "span": "康王",
+          "cid": 34606,
+          "name": "朱志",
+          "aid": "A002088"
+        },
+        {
+          "type": "PersonName",
+          "start": 389,
+          "end": 391,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 412,
+          "end": 414,
+          "span": "寒泉"
+        },
+        {
+          "type": "Person",
+          "start": 430,
+          "end": 431,
+          "span": "我"
+        },
+        {
+          "type": "Time",
+          "start": 440,
+          "end": 444,
+          "span": "弘治十年"
+        },
+        {
+          "type": "Time",
+          "start": 445,
+          "end": 456,
+          "span": "西元一四九七年）夏六月"
+        },
+        {
+          "type": "PersonName",
+          "start": 462,
+          "end": 464,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "綠香井泉傳。井名綠香。非古也。自余肇也。名不古而井則古也。居吟香閣之下。錦帶河之滸。乘驄坊之東。東丘居之內。去府治西北百步許。自先世洪武間相傳此井未旱先涸。及弘治甲寅。余營別業其上也。時方盛暑亢旱。而井之泠泠出泉者。則洶洶混混。晝夜不息。殊非所傳之似也。抑天地鬼神有以相吾吉而固美於前歟。是未可知也。汲而烹之。其色綠。其味香。異於常品。豈詩所謂冽彼寒泉。而易所謂井冽寒泉食者歟。物之異常者。宜有傳以昭不朽。因命之曰綠香泉。既勒之石。樹之井旁。仍繪圖潢卷。乞諸名公詩文以頌之。夫天地間名山勝境。萬有不齊。有地靈而人傑者。有地賴人而重者。余昔承方伯吳公懷栢郡侯徐公命。纂語溪誌。度白馬岡。詢之父老云此康王避難泥馬渡水處也。水中遺址尚存。遂纂入誌。噫嘻。康王未渡之前。岡名何自而有。別業未營之前。井美孰從而知。自今伊始。名以余而傳。余以井而用矣。余之為子若孫者。其將用之不泯矣。東丘鄒汝平。既序其事而傳之矣。又從而歌之。歌曰。冽彼寒泉。綠而且香。亢旱不涸。其流湯湯。我題其名。垂譽無疆。弘治十年（西元一四九七年）夏六月望。東丘鄒衡汝平識。",
+      "author": "鄒衡"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "弘治十年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一四九七年）夏六月"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 22,
+          "span": "東丘鄒衡"
+        }
+      ],
+      "sentence": "弘治十年（西元一四九七年）夏六月望。東丘鄒衡汝平識。",
+      "author": "鄒衡"
+    },
+    {
+      "authorcid": 22832,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 6,
+          "span": "綠香井泉"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "井"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "城郭"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "大瓢"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 61,
+          "span": "玉液"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "小杓"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "醴泉"
+        },
+        {
+          "type": "Person",
+          "start": 162,
+          "end": 163,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 198,
+          "end": 200,
+          "span": "良石"
+        },
+        {
+          "type": "Location",
+          "start": 201,
+          "end": 203,
+          "span": "山頂"
+        },
+        {
+          "type": "Person",
+          "start": 225,
+          "end": 226,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 242,
+          "end": 243,
+          "span": "泉"
+        },
+        {
+          "type": "Person",
+          "start": 247,
+          "end": 249,
+          "span": "賢者"
+        },
+        {
+          "type": "Thing",
+          "start": 276,
+          "end": 279,
+          "span": "綠香泉"
+        },
+        {
+          "type": "Person",
+          "start": 281,
+          "end": 283,
+          "span": "東丘"
+        },
+        {
+          "type": "Person",
+          "start": 314,
+          "end": 316,
+          "span": "其人"
+        },
+        {
+          "type": "Person",
+          "start": 326,
+          "end": 328,
+          "span": "賢者"
+        },
+        {
+          "type": "Time",
+          "start": 345,
+          "end": 349,
+          "span": "弘治戊午"
+        },
+        {
+          "type": "Time",
+          "start": 350,
+          "end": 364,
+          "span": "西元一四九八年）二月二十一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 365,
+          "end": 369,
+          "span": "雙湖居士",
+          "cid": 21919,
+          "name": "胡一桂",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 376,
+          "end": 379,
+          "span": "環翠軒"
+        }
+      ],
+      "sentence": "前署綠香井泉辭并自題其後。維地脈兮潛伏。肆有井兮來涓。匪江心兮是近。乃城郭兮市廛。凝春綠兮不竭。散蘭馥兮宜煎。大瓢貯兮玉液。小杓分兮醴泉。漱枯腸兮滌俗。潤煩吻兮祛羶。攪夜讀兮十載。發香臆兮簡編。天之精兮地之寶。穴東丘兮誰為緣。若有神兮呵禁。羌旱魃兮奚乾。匝厚壤兮茲水。瞻爾庭兮常專。嘅邑瑞兮曰秀。載圖志兮悠玄。鎖清泠兮私爾。我欲挹兮垂涎。揮一滴兮龍髯。澤下土兮波湲。嗟神化兮靡測。豈坎井兮盤旋。採良石兮山頂。書美名兮深鐫。追昔人兮廉讓。與綠香兮萬年。我歌兮永久。告來哲兮綿綿。天地間一泉一石。遇賢者而後有名。苟非其遇。雖有盛美不傳。物亦有幸不幸哉。余喜綠香泉之遇東丘也。欣然走筆賦此。撫卷之際。為泉幸焉。為天下負佳勝之實。而不遇其人以與鹿豕沉淪者惜焉。賢者之思欲重夫山川也。亦可於是而惕矣。弘治戊午（西元一四九八年）二月二十一日。雙湖居士戴經孟常甫書于環翠軒。",
+      "author": "戴經"
+    },
+    {
+      "authorcid": 22832,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "弘治戊午"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 19,
+          "span": "西元一四九八年）二月二十一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 24,
+          "span": "雙湖居士",
+          "cid": 21919,
+          "name": "胡一桂",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 31,
+          "end": 34,
+          "span": "環翠軒"
+        }
+      ],
+      "sentence": "弘治戊午（西元一四九八年）二月二十一日。雙湖居士戴經孟常甫書于環翠軒。",
+      "author": "戴經"
+    },
+    {
+      "authorcid": 474107,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "塵沙"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "淘者"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "淇澳水"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "菊潭花"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 49,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 52,
+          "span": "瓢"
+        },
+        {
+          "type": "Location",
+          "start": 61,
+          "end": 63,
+          "span": "天涯"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "嶺南",
+          "aid": "PL000000023027"
+        }
+      ],
+      "sentence": "泠泠終不溷塵沙。淘者工夫歲每加。地脈潛通淇澳水。年芳元襲菊潭花。靈湫靜貯波千頃。餘瀝曾沾郡幾家。我欲騣瓢於此過。帶將一滴到天涯。嶺南伍常。",
+      "author": "伍常"
+    },
+    {
+      "authorcid": 474107,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "嶺南",
+          "aid": "PL000000023027"
+        }
+      ],
+      "sentence": "嶺南伍常",
+      "author": "伍常"
+    },
+    {
+      "authorcid": 131300,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 1,
+          "end": 4,
+          "span": "驄坊裡"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "香泉"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "瑤玉"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 41,
+          "span": "銀床金幹"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 49,
+          "span": "雪乳丹砂"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 67,
+          "span": "主人"
+        },
+        {
+          "type": "LocationName",
+          "start": 69,
+          "end": 71,
+          "span": "東湖",
+          "aid": "PL000000012307",
+          "cid": 8273
+        }
+      ],
+      "sentence": "乘驄坊裡綠香泉。甃井清泠然（點去）故宛然。味入茶經甘若醴。光生瑤玉碧於天。銀床金幹虛云美。雪乳丹砂亦浪傳。好事東丘增盛事。地靈還藉主人賢。東湖屠勳題。",
+      "author": "屠勳"
+    },
+    {
+      "authorcid": 131300,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "東湖",
+          "aid": "PL000000012307",
+          "cid": 8273
+        }
+      ],
+      "sentence": "東湖屠勳題",
+      "author": "屠勳"
+    },
+    {
+      "authorcid": 93992,
+      "authoraid": "A001641",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "濱器",
+          "cid": 4322
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 11,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 18,
+          "span": "今日"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 21,
+          "span": "綠香泉"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 26,
+          "span": "百年"
+        }
+      ],
+      "sentence": "苦窳不出河濱器。地亦人靈似有之。今日綠香泉上坐。百年高興許誰知。夏汭趙遷。",
+      "author": "趙遷"
+    },
+    {
+      "authorcid": 93992,
+      "authoraid": "A001641",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "趙遷",
+          "cid": 93992,
+          "name": "趙遷",
+          "aid": "A001641"
+        }
+      ],
+      "sentence": "夏汭趙遷",
+      "author": "趙遷"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "古井"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "綠茗"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "香醪"
+        },
+        {
+          "type": "Location",
+          "start": 33,
+          "end": 36,
+          "span": "石江邊"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 55,
+          "span": "東丘子"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "泉"
+        },
+        {
+          "type": "PersonName",
+          "start": 79,
+          "end": 81,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬物遭逢何不有。誰知古井易佳名。色隨綠茗增春韻。味助香醪作聖清。釆石江邊真下品。陸家譜裡更新評。地靈可為東丘子。病渴相如最繫情。予病渴。何時分此泉煎茗也。九栢山人。",
+      "author": "呂常心"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "九栢山人",
+      "author": "呂常心"
+    },
+    {
+      "authorcid": 497891,
+      "authoraid": "A022306",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 15,
+          "span": "茶"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "泉"
+        }
+      ],
+      "sentence": "井綠泉香地有（點去）亦靈。煮茶惟有此泉清。啜來奪盡人間味。不讓中泠第一名。秋江文湛。",
+      "author": "文湛"
+    },
+    {
+      "authorcid": 497891,
+      "authoraid": "A022306",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "秋江文湛",
+          "cid": "unknow",
+          "name": "文湛",
+          "aid": "A022306"
+        }
+      ],
+      "sentence": "秋江文湛",
+      "author": "文湛"
+    },
+    {
+      "authorcid": 103721,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "江天"
+        },
+        {
+          "type": "Location",
+          "start": 9,
+          "end": 12,
+          "span": "鶴樓前"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "雪澗"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "春江"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "桃杏"
+        },
+        {
+          "type": "LocationName",
+          "start": 48,
+          "end": 50,
+          "span": "餘杭",
+          "cid": 5337
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "甘乳"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Person",
+          "start": 98,
+          "end": 100,
+          "span": "知己"
+        },
+        {
+          "type": "Location",
+          "start": 101,
+          "end": 103,
+          "span": "東丘"
+        },
+        {
+          "type": "LocationName",
+          "start": 122,
+          "end": 124,
+          "span": "江寧",
+          "cid": 4543
+        },
+        {
+          "type": "Location",
+          "start": 125,
+          "end": 127,
+          "span": "雙井"
+        },
+        {
+          "type": "PersonName",
+          "start": 128,
+          "end": 130,
+          "span": "沈良",
+          "cid": 103721,
+          "name": "沈良",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "江天月白詩魂醒。聽鶴樓前坐深永。汲來一椀清睡魔。絕勝雪澗煎梅影。深沉含彩非春江。流芬飽鼻欺桃杏。餘杭甘乳未足誇。東坡偶爾閑馳騁。卻羨君家德澤深。靈犀一竅通淵靚。蟠龍伏蜃且莫題。流芳衍慶非凡幸。邇來知己籍東丘。乾坤浩浩名方穎。伐石鐫銘昭不窮。何必江寧羨雙井。沈良。",
+      "author": "沈良"
+    },
+    {
+      "authorcid": 103721,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "沈良",
+          "cid": 103721,
+          "name": "沈良",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "沈良",
+      "author": "沈良"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "金索"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "銀床"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "瑤池",
+          "aid": "PL000000055492"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "伊優金黃（點去）金索轉銀床。滿引瑤池碧玉香。聞說一盃甜似蜜。與君相結賦滄浪。蘇門唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "蘇門唐寅",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 199320,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "古井"
+        },
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 14,
+          "span": "主人"
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 34,
+          "span": "地底"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "滄海脈"
+        },
+        {
+          "type": "Location",
+          "start": 40,
+          "end": 42,
+          "span": "瓶中"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 47,
+          "span": "惠山泉"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 52,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 55,
+          "span": "茗"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "梅江",
+          "cid": 199320,
+          "name": "梅江",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "古井相傳蓋有年。濬來能結主人緣。色浮嫩綠盤盂瑩。味帶寒香齒頰鮮。地底自連滄海脈。瓶中不減惠山泉。最堪釀酒兼烹茗。澆卻詩腸三百篇。冰雪山人梅江。",
+      "author": "梅江"
+    },
+    {
+      "authorcid": 199320,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "梅江",
+          "cid": 199320,
+          "name": "梅江",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "冰雪山人梅江",
+      "author": "梅江"
+    },
+    {
+      "authorcid": 183210,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "石甃"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "波底樹"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "東井"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "溫泉"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 51,
+          "span": "道子",
+          "cid": 13438,
+          "name": "詹亢宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 63,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "鄭緯",
+          "cid": 183210,
+          "name": "鄭緯",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "可湘可濯可通神。石甃年年似昨新。一色莫分波底樹。三春知潤泮中芹。天文東井吾何據。地誌溫泉此是真。聞道子雲能獻賦。乾坤回首豈無人。新淦鄭緯。",
+      "author": "鄭緯"
+    },
+    {
+      "authorcid": 183210,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "鄭緯",
+          "cid": 183210,
+          "name": "鄭緯",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "新淦鄭緯",
+      "author": "鄭緯"
+    },
+    {
+      "authorcid": 109022,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "石苔"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "梧桐月"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "林靄"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "橘柚"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "鴛湖"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "竹爐"
+        },
+        {
+          "type": "Person",
+          "start": 58,
+          "end": 60,
+          "span": "東丘"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 68,
+          "span": "雪湖馮蘭"
+        }
+      ],
+      "sentence": "泛綠流香二美全。一泓開甃自何年。石苔涼沁梧桐月。林靄晴飄橘柚天。地有鴛湖來活水。譜從鴻漸續新篇。竹爐春茗時分試。想見東丘夜未眠。雪湖馮蘭。",
+      "author": "馮蘭"
+    },
+    {
+      "authorcid": 109022,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "雪湖"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "馮蘭",
+          "cid": 109022,
+          "name": "馮蘭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雪湖馮蘭",
+      "author": "馮蘭"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "玉甃"
+        },
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 8,
+          "span": "東丘"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "草堂",
+          "aid": "PL000000011645"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "陸羽",
+          "cid": 33859,
+          "name": "陸羽",
+          "aid": "A010975"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 51,
+          "span": "七十四",
+          "cid": 59146,
+          "name": "七十四",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "玉甃何年鑿。東丘傍草堂。泓澄涵淨碧。甘冽逗寒香。地脈中泠遠。源流析谷長。世雖無陸羽。瀹茗味差強。七十四翁任公矩。為東丘鄒汝平題。",
+      "author": "任公矩"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "七十四",
+          "cid": 59146,
+          "name": "七十四",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "七十四翁任公矩。為東丘鄒汝平題。",
+      "author": "任公矩"
+    },
+    {
+      "authorcid": 241661,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "鄒丘東"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "井"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 9,
+          "span": "井古泉"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "海湖"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "龍泉"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "蛟龍"
+        },
+        {
+          "type": "Person",
+          "start": 73,
+          "end": 74,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 92,
+          "span": "汝平",
+          "cid": 126495,
+          "name": "王用章",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "鄒丘東有井。井古泉未多。于今不澁縮。自然溢海湖。涓涘報君國。豈為辨味圖。流出綠色好。照映豈摩糊。龍泉試銳礪。屬此清香磨。磨礲橫海宇。爭謂蛟龍屠。知君屠龍手。作此綠香歌。華亭錢祚。辱汝平先生枉過。裁此答謝。",
+      "author": "錢祚"
+    },
+    {
+      "authorcid": 241661,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "錢祚",
+          "cid": 241661,
+          "name": "錢祚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "汝平",
+          "cid": 126495,
+          "name": "王用章",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "華亭錢祚。辱汝平先生枉過。裁此答謝。",
+      "author": "錢祚"
+    },
+    {
+      "authorcid": 132016,
+      "authoraid": "A044383",
+      "output": [
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "東丘"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "鄒子",
+          "cid": "unknow",
+          "name": "鄒衍",
+          "aid": "A024667"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "菊"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 51,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "海寧",
+          "cid": 9686
+        }
+      ],
+      "sentence": "井近東丘綠且香。竅通錦帶脈靈長。中泠風味無過此。鄒子文章得嗽芳。清訝菊颸飄玉甃。潤沿苔色上銀床。地因人勝今為古。抑有愚溪已故常。海寧蘿屋董澐。",
+      "author": "董澐"
+    },
+    {
+      "authorcid": 132016,
+      "authoraid": "A044383",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "海寧",
+          "cid": 9686
+        },
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "蘿屋"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "董澐",
+          "cid": 132016,
+          "name": "董澐",
+          "aid": "A044383"
+        }
+      ],
+      "sentence": "海寧蘿屋董澐",
+      "author": "董澐"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "井欄"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "王鍾",
+          "cid": 71134,
+          "name": "王鍾",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "活水"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "南海眼"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "鼎鐺"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "小龍團"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 43,
+          "span": "混混泉"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "霖雨"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 58,
+          "span": "潛蛟"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 71,
+          "span": "戊午立春前一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 72,
+          "end": 74,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 80,
+          "span": "綠香井泉卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 87,
+          "end": 89,
+          "span": "汝平",
+          "cid": 74201,
+          "name": "朱京琦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "詩人"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 97,
+          "span": "珠玉"
+        },
+        {
+          "type": "Person",
+          "start": 103,
+          "end": 104,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 104,
+          "end": 106,
+          "span": "瓦礫"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 113,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 116,
+          "end": 118,
+          "span": "海槎",
+          "cid": 66041,
+          "name": "何秋濤",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "井欄曾學王鍾法。最愛香流綠更寒。活水暗通南海眼。鼎鐺分煮小龍團。稜稜砌有千年潤。混混泉無半日乾。天下蒼生望霖雨。潛蛟猶向此中蟠。戊午立春前一日。汝平持綠香井泉卷索詩。開卷第見汝平自傳。而詩人珠玉未有。而遂及我瓦礫。所謂呈醜於人也耶。海槎郁能。",
+      "author": "鬱能"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "海槎郁能",
+      "author": "鬱能"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "桐月"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 25,
+          "span": "雷"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "銀床"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "玉瓶"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "鴻"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "杜陵",
+          "cid": 35012,
+          "name": "杜陵",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "應祥",
+          "cid": 363,
+          "name": "趙開",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "井冽寒香地有靈。品評且莫說中泠。鏡空碧甃凝桐月。雷轉銀床落玉瓶。儗合龜蒙依顧渚。還憑鴻漸入茶經。杜陵老去詩腸渴。餘滴分來睡已醒。長洲薛應祥。",
+      "author": "薛應祥"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "應祥",
+          "cid": 363,
+          "name": "趙開",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "長洲薛應祥",
+      "author": "薛應祥"
+    }
+  ]
+}

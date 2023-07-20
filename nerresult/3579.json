@@ -1,0 +1,43 @@
+{
+  "filefroms": "3579.json",
+  "sentences": [
+    {
+      "authorcid": 523881,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖庚戌"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一五五０年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "春暮"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 20,
+          "span": "黽勉齋"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 25,
+          "span": "沱江子陳"
+        }
+      ],
+      "sentence": "嘉靖庚戌（西元一五五０年）春暮作于黽勉齋。沱江子陳栝。",
+      "author": "陳栝"
+    }
+  ]
+}

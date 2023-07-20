@@ -1,0 +1,46 @@
+{
+  "filefroms": "5408.json",
+  "sentences": [
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "成化甲辰"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一四八四年）夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "錢舜"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 24,
+          "span": "忠孝圖"
+        }
+      ],
+      "sentence": "成化甲辰（西元一四八四年）夏日沈周臨錢舜舉忠孝圖。",
+      "author": "沈周"
+    }
+  ]
+}

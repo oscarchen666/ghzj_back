@@ -1,0 +1,1431 @@
+{
+  "filefroms": "102.json",
+  "sentences": [
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 11,
+          "span": "白樂天",
+          "cid": "unknow",
+          "name": "白居易",
+          "aid": "A004029"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "高年",
+          "cid": 231906,
+          "name": "高年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 24,
+          "span": "時人"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "諸公"
+        },
+        {
+          "type": "Time",
+          "start": 70,
+          "end": 73,
+          "span": "元豐中"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 77,
+          "span": "文公",
+          "cid": 3257,
+          "name": "朱熹",
+          "aid": "A022265"
+        },
+        {
+          "type": "Person",
+          "start": 85,
+          "end": 89,
+          "span": "韓國富公"
+        },
+        {
+          "type": "PersonName",
+          "start": 117,
+          "end": 119,
+          "span": "潞公",
+          "cid": 82450,
+          "name": "范光文",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 120,
+          "end": 122,
+          "span": "韓公",
+          "cid": 135638,
+          "name": "韓蘭英",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 154,
+          "end": 161,
+          "span": "士大夫老而賢者"
+        },
+        {
+          "type": "PersonName",
+          "start": 162,
+          "end": 164,
+          "span": "韓公",
+          "cid": 135638,
+          "name": "韓蘭英",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 172,
+          "end": 174,
+          "span": "賓主"
+        },
+        {
+          "type": "Person",
+          "start": 194,
+          "end": 196,
+          "span": "時人"
+        },
+        {
+          "type": "LocationName",
+          "start": 198,
+          "end": 200,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "PersonName",
+          "start": 204,
+          "end": 206,
+          "span": "孔子",
+          "cid": "unknow",
+          "name": "孔丘",
+          "aid": "A002174"
+        },
+        {
+          "type": "Person",
+          "start": 226,
+          "end": 228,
+          "span": "二公"
+        },
+        {
+          "type": "PersonName",
+          "start": 235,
+          "end": 237,
+          "span": "元老",
+          "cid": 1996,
+          "name": "楊椿",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 265,
+          "end": 267,
+          "span": "萬民"
+        },
+        {
+          "type": "Person",
+          "start": 269,
+          "end": 271,
+          "span": "天子"
+        },
+        {
+          "type": "Location",
+          "start": 378,
+          "end": 380,
+          "span": "北都"
+        },
+        {
+          "type": "PersonName",
+          "start": 388,
+          "end": 390,
+          "span": "潞公",
+          "cid": 82450,
+          "name": "范光文",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 392,
+          "end": 394,
+          "span": "拱辰",
+          "cid": 163,
+          "name": "楚昭輔",
+          "aid": "A016934"
+        },
+        {
+          "type": "Thing",
+          "start": 417,
+          "end": 419,
+          "span": "巴酒"
+        },
+        {
+          "type": "Person",
+          "start": 436,
+          "end": 437,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 454,
+          "end": 458,
+          "span": "狄監盧尹"
+        },
+        {
+          "type": "PersonName",
+          "start": 466,
+          "end": 468,
+          "span": "潞公",
+          "cid": 82450,
+          "name": "范光文",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 480,
+          "end": 484,
+          "span": "元豐五年"
+        },
+        {
+          "type": "Time",
+          "start": 485,
+          "end": 497,
+          "span": "西元一０八二年）正月壬辰"
+        },
+        {
+          "type": "PersonName",
+          "start": 497,
+          "end": 500,
+          "span": "司馬光",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A011348"
+        }
+      ],
+      "sentence": "洛陽耆英會序。昔白樂天在洛。與高年者八人遊。時人慕之。為九老圖傳於世。宋興。洛中諸公繼而為之者再矣。皆圖形普明僧舍。乃（缺二字）人之故第也。元豐中潞國文公留（缺二字）都。韓國富公納政在里第。自餘士（缺一字）夫以老自逸於洛者。於時為多。潞公謂韓公曰。凡所為慕於樂天者。以其志趣高逸也。奚必數與地之襲焉。一日悉集士大夫老而賢者於韓公之第。置酒相樂。賓主凡十有一人。既而圖形妙覺僧舍。仍各賦詩。時人謂之洛陽耆英會。孔子曰好賢如緇衣。取其敝又改為。樂善無厭也。二公寅亮三朝。為國元老。入贊萬機。出綏四方。上則固社稷。尊宗廟。下則熙百工。和萬民。為天子腹心股肱耳目。天下所取安。所取平。其勳業閎大顯融。豈樂天所能庶幾。然猶慕效樂天所為。汲汲如恐不及。豈非樂善無厭者與。又洛中舊俗。燕私相聚。尚齒不尚官。自樂天之會已然。是日復行之。斯乃風化之本。可頌也。宣徽王公方留守北都。聞之。以書請於潞公曰。拱辰亦家洛。位與年不居數客之後。顧以官守不得執巴酒在坐席。良以為恨。願寓名其間。幸無我遺。其為諸公嘉羡如此。光未七十。用狄監盧尹故事。亦預于會。潞公命光敘其事。光不敢辭。時元豐五年（西元一０八二年）正月壬辰司馬光序。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 9,
+          "span": "元豐五年正月壬辰"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "司馬光",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A011348"
+        }
+      ],
+      "sentence": "時元豐五年正月壬辰司馬光序",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 24,
+          "span": "開府儀同三司",
+          "cid": "unknow",
+          "name": "劉子勛",
+          "aid": "A002997"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 29,
+          "span": "韓國公",
+          "cid": 8075,
+          "name": "李昉",
+          "aid": "A013593"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 53,
+          "span": "開府儀同三司",
+          "cid": "unknow",
+          "name": "劉子勛",
+          "aid": "A002997"
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 77,
+          "span": "尚書司封郎中"
+        },
+        {
+          "type": "Person",
+          "start": 90,
+          "end": 94,
+          "span": "朝議大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 99,
+          "span": "王尚恭",
+          "cid": 26511,
+          "name": "王尚恭",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 109,
+          "end": 111,
+          "span": "少卿",
+          "cid": 39786,
+          "name": "沈良能",
+          "aid": "A017368"
+        },
+        {
+          "type": "PersonName",
+          "start": 114,
+          "end": 116,
+          "span": "丙南",
+          "cid": 86797,
+          "name": "徐士煌",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 123,
+          "end": 126,
+          "span": "祕書監"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 135,
+          "span": "伯壽",
+          "cid": 8054,
+          "name": "何鑄",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 141,
+          "end": 146,
+          "span": "衛州防禦使"
+        },
+        {
+          "type": "Person",
+          "start": 159,
+          "end": 163,
+          "span": "太中大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 177,
+          "end": 179,
+          "span": "正叔",
+          "cid": 164,
+          "name": "楚建中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 185,
+          "end": 189,
+          "span": "朝議大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 226,
+          "end": 229,
+          "span": "王拱辰",
+          "cid": 1847,
+          "name": "王拱辰",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 237,
+          "end": 241,
+          "span": "太中大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 246,
+          "end": 248,
+          "span": "張問",
+          "cid": 317,
+          "name": "張問",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 260,
+          "end": 262,
+          "span": "士通",
+          "cid": 130114,
+          "name": "許亨",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 272,
+          "end": 274,
+          "span": "景元",
+          "cid": 298,
+          "name": "張燾",
+          "aid": "A001241"
+        },
+        {
+          "type": "PersonName",
+          "start": 282,
+          "end": 284,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 289,
+          "end": 291,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 300,
+          "end": 303,
+          "span": "司馬光",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A011348"
+        }
+      ],
+      "sentence": "（署諸賢爵齒姓名）武寧軍節度使守司徒開府儀同三司致仕韓國公富弼彥國。年七十九。河東節度使守太尉開府儀同三司判河南府潞國公文彥博寬夫。年七十七。尚書司封郎中致仕席汝言君從。年七十七。朝議大夫致仕王尚恭安之。年七十六。太常少卿致仕趙丙南正。年七十五。祕書監致仕上柱國劉几伯壽。年七十五。衛州防禦使致仕馮行己肅之。年七十五。太中大夫充天章閣待制提舉崇福宮楚建中正叔。年七十三。朝議大夫致仕王慎言不疑。年七十二。宣徽南院使檢校太尉判大名府兼北京留守司本路安撫使王拱辰君貺。年七十一。太中大夫提舉崇福宮張問昌言。年七十。龍圖閣直學士通議大夫提舉崇福宮張燾景元。年七十。端明殿學士兼翰林侍讀學士太中大夫提舉崇福宮司馬光君實。年六十四。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "文彥博",
+          "cid": 1953,
+          "name": "文彥博",
+          "aid": "A007247"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 19,
+          "span": "元豐五年正月十日"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "文寬夫",
+          "cid": "unknow",
+          "name": "文彥博",
+          "aid": "A007247"
+        },
+        {
+          "type": "Person",
+          "start": 23,
+          "end": 25,
+          "span": "諸公"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "司徒",
+          "cid": 29921,
+          "name": "司徒",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "司徒",
+          "cid": 29921,
+          "name": "司徒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 54,
+          "end": 56,
+          "span": "諸公"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 64,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "唐賢",
+          "cid": 168268,
+          "name": "唐賢",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 165,
+          "end": 167,
+          "span": "十二",
+          "cid": 13286,
+          "name": "劉安世",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 169,
+          "end": 171,
+          "span": "第二",
+          "cid": 70,
+          "name": "陳良弼",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（錄文彥博詩並小序）。元豐五年正月十日文寬夫與諸公赴司徒相公之第。為耆年之會。謹成拙詩一篇。上司徒相公兼在席諸公。幸賜一覽。彥博。九老唐賢形繪事。元豐今勝會昌春。垂肩素髮皆時彥。揮麈清談盡席珍。染翰不停詩思健。飛觴無筭酒行頻。蘭亭雅集誇修禊。洛社。(旁注沚字)。英游貴序賓。自愧空束陪几杖。更容款密奉替紳。當筵尚齒尤多幸。十二人中第二人。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "富弼",
+          "cid": 628,
+          "name": "富弼",
+          "aid": "A004864"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 17,
+          "span": "留守相公"
+        },
+        {
+          "type": "Location",
+          "start": 41,
+          "end": 43,
+          "span": "西洛"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "衣冠"
+        },
+        {
+          "type": "LocationName",
+          "start": 185,
+          "end": 187,
+          "span": "商嶺",
+          "aid": "PL000000044525"
+        },
+        {
+          "type": "Person",
+          "start": 188,
+          "end": 190,
+          "span": "四翁"
+        },
+        {
+          "type": "PersonName",
+          "start": 194,
+          "end": 196,
+          "span": "七子",
+          "cid": 67495,
+          "name": "朱瞻墺",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 198,
+          "end": 199,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 200,
+          "end": 202,
+          "span": "諸賢"
+        },
+        {
+          "type": "PersonName",
+          "start": 229,
+          "end": 230,
+          "span": "弼",
+          "cid": 560449,
+          "name": "弼",
+          "aid": "A002228"
+        },
+        {
+          "type": "PersonName",
+          "start": 238,
+          "end": 240,
+          "span": "十二",
+          "cid": 13286,
+          "name": "劉安世",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 242,
+          "end": 244,
+          "span": "第二",
+          "cid": 70,
+          "name": "陳良弼",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 256,
+          "end": 257,
+          "span": "我"
+        }
+      ],
+      "sentence": "（錄富弼詩並小序）。弼伏承留守相公就弊居為耆年之會。承命賦詩。謹錄上呈。伏惟采覽。西洛古帝都。衣冠走集地。豈意名利場。驟為耆德會。大尹吾舊相。曠懷輕富貴。日與退老游。臺閣并省寺。予慚景（點去）最衰耋。亦許預其次。遂欲肖容（衍一字點去）儀。爛然形繪事。閩嶠訪精筆。絞綃布絕藝。今復崇宴衎。聊以示慈惠。幽居近銅駝。荒弊仍湫底。塞路移君庖。盈車載春醴。獻酬互相趣。歡噱不知止。商嶺有四翁。晉林唯七子。校我集諸賢。盛衰何遠邇。茲事實可矜。傳之千百祀。　（又詩并識）。弼竊覽嘉篇。斷章有十二人中第二人之句。又賦一絕上呈。顧我年齡雖第一。在公勳德自無雙。不唯行業終難敵。富貴康寧亦可降。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 35,
+          "end": 37,
+          "span": "洛下",
+          "aid": "PL000000056561"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "衣冠"
+        }
+      ],
+      "sentence": "（書文彥博詩并識）。彥博伏者見公詩。有第一無雙之句。輒成廿八字上呈。洛下衣冠今最盛。當筵尚齒禮容優。惟公福壽并勳德。合是人間第一流。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "二公"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 34,
+          "span": "九老"
+        },
+        {
+          "type": "Location",
+          "start": 84,
+          "end": 87,
+          "span": "舊林泉"
+        },
+        {
+          "type": "Thing",
+          "start": 106,
+          "end": 108,
+          "span": "杜門"
+        },
+        {
+          "type": "Location",
+          "start": 109,
+          "end": 111,
+          "span": "陋巷"
+        }
+      ],
+      "sentence": "（錄席汝言詩）。繫國安危唐上宰。功成身退漢留侯。二公閑暇開高宴。九老雍容奉勝遊。共接雅歡恩意洽。不矜富貴禮容優。賞心樂事人間盛。豈獨今稀古莫儔。壯歲塵埃祿仕牽。老歸重到舊林泉。曾無勳業書青史。偶向康寧養耄年。自分杜門居陋巷。敢期序齒預高筵。更斬心形穢才涼薄。不稱圖真接巨賢。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王尚恭",
+          "cid": 26511,
+          "name": "王尚恭",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 15,
+          "span": "兩台臣"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "十人"
+        },
+        {
+          "type": "Metric",
+          "start": 24,
+          "end": 26,
+          "span": "八百"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "二公"
+        },
+        {
+          "type": "Thing",
+          "start": 104,
+          "end": 105,
+          "span": "花"
+        }
+      ],
+      "sentence": "（錄王尚恭詩）。元勳舊德兩台臣。珪組參差又十人。八百喬年餘總數。一千熙運際良辰。席間韻宇（點去）語皆非俗。圖上形容盡奪真。幸會主盟開府盛。誤容衰薄混清塵。服許便衣更野逸。坐從列齒似天倫。二公笑語增和氣。夜久盤花旋發春。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "趙丙",
+          "cid": 50035,
+          "name": "趙丙",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "十人"
+        },
+        {
+          "type": "PersonName",
+          "start": 57,
+          "end": 59,
+          "span": "庸夫",
+          "cid": 65767,
+          "name": "汪中",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（錄趙丙詩）。新春鼎洛燕英髦。主禮雍容下庶寮。二相比肩官一品。十人華髮仕三朝。星階並列占台耀。尊酒時行揖斗杓。東穎庸夫最無狀。也將顏面趁嘉招。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "劉几",
+          "cid": 20221,
+          "name": "劉几",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "司徒",
+          "cid": 29921,
+          "name": "司徒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 15,
+          "end": 17,
+          "span": "太尉"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "白髮"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "八公",
+          "cid": 132574,
+          "name": "蔣德璟",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "山"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "四皓",
+          "cid": 85112,
+          "name": "饒芝",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 57,
+          "span": "元老",
+          "cid": 1996,
+          "name": "楊椿",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "前人"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 86,
+          "span": "龍頭"
+        },
+        {
+          "type": "Metric",
+          "start": 104,
+          "end": 107,
+          "span": "九百籌"
+        },
+        {
+          "type": "Metric",
+          "start": 115,
+          "end": 121,
+          "span": "八百九十二歲"
+        }
+      ],
+      "sentence": "（錄劉几詩）。司徒碩德今無比。太尉殊勳世絕倫。偶以暮年陪盛宴。喜將白髮照青春。八公祗有山空著。四皓當衰志粗伸。元老相望束亦在。不應此會愧前人。　制舉省元推二相。龍頭昔日屬宣猷。人間盛事并遐筭。一席幾盈九百籌（下注云十二老共八百九十二歲）。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "馮行己",
+          "cid": 17177,
+          "name": "馮行己",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "德人",
+          "cid": 56187,
+          "name": "金顺",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "齒髮"
+        },
+        {
+          "type": "LocationName",
+          "start": 90,
+          "end": 92,
+          "span": "洛城",
+          "aid": "PL000000059012"
+        }
+      ],
+      "sentence": "（錄馮行己詩）。書稱五福壽為先。有德人方得壽延。自愧櫟樗非遠器。誰應齒髮亦遐年。立身官未三公貴。推老名陪二相賢。喜抱衰容模梵宇。慚無纖效勒燕然。當時遭遇承陶冶。今日光榮預讌筵。從此洛城增勝概。又新重作畫圖傳。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "楚建中",
+          "cid": 164,
+          "name": "楚建中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 12,
+          "end": 15,
+          "span": "七十餘"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "大老",
+          "cid": 20647,
+          "name": "呂冲之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "諸公"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 55,
+          "span": "前賢"
+        }
+      ],
+      "sentence": "（錄楚建中詩）。自顧頹齡七十餘。久慚頑鈍費洪鑪。歸逢大老耆年會。衰朽形骸愧畫圖。二相謀猷爛史編。諸公才業過前賢。好圖儀像傳來世。何事頑束亦比肩。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王慎言",
+          "cid": 3977,
+          "name": "王慎言",
+          "aid": "A012949"
+        },
+        {
+          "type": "Person",
+          "start": 10,
+          "end": 12,
+          "span": "貂蟬"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "侍臣"
+        },
+        {
+          "type": "Location",
+          "start": 66,
+          "end": 71,
+          "span": "珪璧叢中間"
+        }
+      ],
+      "sentence": "（錄王慎言詩）。相印貂蟬冠六符。華顛高會侍臣俱。不將官職誇鄉里。唯尚年齡入畫圖。履道清歡追故事。立宁瞻陰德見訏謨。叨陪几杖真榮觀。珪璧叢中間王武砆。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王拱辰",
+          "cid": 1847,
+          "name": "王拱辰",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "西都"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "山水"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "衣冠"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 51,
+          "span": "符卿",
+          "cid": 60582,
+          "name": "孫瑞珍",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 56,
+          "end": 58,
+          "span": "魏京"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 89,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "仁皇"
+        },
+        {
+          "type": "Thing",
+          "start": 124,
+          "end": 126,
+          "span": "龍虎"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 130,
+          "span": "桂堂"
+        },
+        {
+          "type": "Metric",
+          "start": 140,
+          "end": 143,
+          "span": "五十載"
+        },
+        {
+          "type": "Time",
+          "start": 160,
+          "end": 162,
+          "span": "五年"
+        },
+        {
+          "type": "PersonName",
+          "start": 168,
+          "end": 169,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 172,
+          "end": 175,
+          "span": "鳳門鑰"
+        },
+        {
+          "type": "Person",
+          "start": 176,
+          "end": 177,
+          "span": "僕"
+        },
+        {
+          "type": "Thing",
+          "start": 180,
+          "end": 183,
+          "span": "銅臺圻"
+        },
+        {
+          "type": "Person",
+          "start": 209,
+          "end": 210,
+          "span": "我"
+        },
+        {
+          "type": "Time",
+          "start": 332,
+          "end": 334,
+          "span": "十年"
+        },
+        {
+          "type": "Person",
+          "start": 459,
+          "end": 461,
+          "span": "賓客"
+        },
+        {
+          "type": "Thing",
+          "start": 467,
+          "end": 469,
+          "span": "園池"
+        },
+        {
+          "type": "Thing",
+          "start": 486,
+          "end": 489,
+          "span": "天光臺"
+        },
+        {
+          "type": "Metric",
+          "start": 491,
+          "end": 493,
+          "span": "百尺"
+        },
+        {
+          "type": "Thing",
+          "start": 496,
+          "end": 498,
+          "span": "林嶺"
+        },
+        {
+          "type": "Thing",
+          "start": 499,
+          "end": 501,
+          "span": "屏帷"
+        },
+        {
+          "type": "Thing",
+          "start": 526,
+          "end": 531,
+          "span": "碧瓦翠木煙"
+        },
+        {
+          "type": "Thing",
+          "start": 536,
+          "end": 538,
+          "span": "廟室"
+        },
+        {
+          "type": "Thing",
+          "start": 552,
+          "end": 554,
+          "span": "青鳳"
+        },
+        {
+          "type": "Thing",
+          "start": 555,
+          "end": 557,
+          "span": "松柏"
+        },
+        {
+          "type": "Thing",
+          "start": 566,
+          "end": 568,
+          "span": "石渠"
+        },
+        {
+          "type": "Thing",
+          "start": 739,
+          "end": 741,
+          "span": "荷衣"
+        },
+        {
+          "type": "Thing",
+          "start": 790,
+          "end": 792,
+          "span": "蘭叢"
+        },
+        {
+          "type": "Person",
+          "start": 798,
+          "end": 800,
+          "span": "菊英"
+        },
+        {
+          "type": "PersonName",
+          "start": 814,
+          "end": 816,
+          "span": "彥倫",
+          "cid": 52706,
+          "name": "儲惇敘",
+          "aid": "A011296"
+        },
+        {
+          "type": "Thing",
+          "start": 832,
+          "end": 834,
+          "span": "猿鶴"
+        }
+      ],
+      "sentence": "（錄王拱辰詩）。西都山水天下奇。神嵩景室環清伊。甫申間氣秀不絕。生賢會聖昌明時。衣冠占數盛文雅。台符卿月光離離。魏京雄壯壓幽朔。遊宮御府嚴天威。膏田千里翳桑柘。犀甲萬旅馴熊羆。公嘗緩帶各三鎮。愚亦繼軫承保釐。追惟契舊最深篤。加復雍孟交旌麾。仁皇一再龍虎牓。桂堂先後攀高枝。宦遊出處五十載。鸞臺驥路俱騰夷。三公極位固遼隔。五年以長猶肩隨。公今復主鳳門鑰。僕亦再撫銅臺圻。二京相望阻河廣。三徑不克陪遊嬉。忽聞幹步踵門至。投我十二耆英詩。整冠肅貌諷章句。若坐寶肆羅珠璣。為言白傅有高躅。九君結社真可師。欲令千載著風亦。亟就僧館圖神姿。詞宗端殿序篇目。滂灑大筆何淋漓。眷予（點去）言履道靡充詘。菟裘近邑將營歸。報云繪素得精神（點去）筆。願列霜壁如唐規。退居舊相國元老。十年還政瀍之涯。康寧貴壽備五福。靈寶盛氣如虹蜺。昔年大對繼晁董。登科賜第同一期。紫垣步武既通接。金莎里閈還鄰比。探禪論道劇酬對。摩軋太古窮天機。二相勳業冠朝省。爵齒宦學誰依稀。今將肖貌表來世。詎可下客聯纓緌。既蒙月品定人物。不敢循避違風期。（缺）承開閤厚賓客。富有景物佳園池。銅駝坊西福善宅。脩竹萬個籠清漪。天光臺高未百尺。下眺林嶺如屏帷。花王千品盡殊勝。風光繡畫三春暉。六相街中潞公第。碧瓦翠木煙參差。左隅廟室本經禮。右閣宸翰尊星奎。婆娑青鳳舞松柏。煥爛素錦薰酴醾。石渠飛溜漱寒玉。晝夜竽瑟嗚階墀。伊予陋巷治窮僻。姑喜地廣為環溪。樓名多景可曠望。臺號風月延清輝。四時花蘤不外假。拏舟傲幘聊嬉怡。懷歸撫事若飢渴。恨無羽翼西南飛。人生交舊貴倫輩。情親意接心相知。豈無晚秀負才縕。高談大笑拘禮儀。洛中故事重名義。燕毛第以年相推。濯冠登仕荷天寵。尊君報國當百為。既嗟大耋盍知止。納祿謝事皆所宜。顧方北道倚煩劇。未許解紱披荷衣。長篇不令負花約。(旁註云。公貽莫負花前約之句。)為指風什歌式微。如羹甘露爽心骨。似柄玉麈親顏眉。蘭叢雖未長羅宅。菊英亦自思陶籬。子山已著小園賦。彥倫有愧鍾山移。聊攄短引謝招隱。肯使猿鶴常驚啼。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "堯仁",
+          "cid": 129427,
+          "name": "唐天恩",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 22,
+          "span": "水濱",
+          "aid": "PL000000000157"
+        },
+        {
+          "type": "Location",
+          "start": 47,
+          "end": 49,
+          "span": "山野"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "巾裘"
+        },
+        {
+          "type": "Location",
+          "start": 63,
+          "end": 65,
+          "span": "池塘"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "白公",
+          "cid": 86170,
+          "name": "顧朱",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 114,
+          "span": "蓮葉龜"
+        },
+        {
+          "type": "Person",
+          "start": 119,
+          "end": 121,
+          "span": "商皓"
+        },
+        {
+          "type": "Person",
+          "start": 134,
+          "end": 136,
+          "span": "家人"
+        },
+        {
+          "type": "Person",
+          "start": 162,
+          "end": 164,
+          "span": "重客"
+        },
+        {
+          "type": "PersonName",
+          "start": 170,
+          "end": 173,
+          "span": "司馬光",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A011348"
+        },
+        {
+          "type": "Person",
+          "start": 186,
+          "end": 188,
+          "span": "神仙"
+        }
+      ],
+      "sentence": "（錄張問詩）。槐庭二老樂堯仁。盛集高年洛水濱。華袞具瞻雖禮絕。白頭序齒見情親。清閒几席同禪悅。山野巾裘似隱淪。尊酒椒香纔過節。池塘草色已催春。白公酣暢吟哦內。衛武康強笑語頻。豈獨丹青傳不朽。潛欣風俗欲還淳。芝田鶴戲調神健。蓮葉龜遊納息勻。商皓寂寥拘小隱。漢束局蹙止家人。莫因氣貌疑丹穴土黽。自有光陰寄大椿。復得兼謨為重客。（旁注云。司馬光未七十）。恐遺文爽在編民。神仙可學今方信。道術相忘久益真。滿座交歡祝眉壽。群生五福託鴻鈞。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張燾",
+          "cid": 298,
+          "name": "張燾",
+          "aid": "A022076"
+        },
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 9,
+          "span": "洛城",
+          "aid": "PL000000059012"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "衣冠"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 17,
+          "span": "韓國",
+          "aid": "PL000000056487",
+          "cid": 400494
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 21,
+          "span": "園林景物"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "荷"
+        }
+      ],
+      "sentence": "（錄張燾詩）。洛城今昔衣冠盛。韓國園林景物全。功在三朝尊二相。數踰九老萃群賢。當時鄉社荷高會。此日居留許款延。多幸不才陪履舄。更慚七十是新年。",
+      "author": "司馬光"
+    },
+    {
+      "authorcid": 1488,
+      "authoraid": "A011348",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "洛下",
+          "aid": "PL000000056561"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "衣冠"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "庾公"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "藜藿"
+        },
+        {
+          "type": "Person",
+          "start": 69,
+          "end": 71,
+          "span": "主人"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 77,
+          "span": "席汝言",
+          "cid": 18088,
+          "name": "席汝言",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 78,
+          "end": 81,
+          "span": "司馬光",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A011348"
+        }
+      ],
+      "sentence": "（自錄詩）。洛下衣冠愛惜春。相從小飲任天真。隨家所有自可樂。為具更微誰笑貧。不待珍羞方下助。只將佳景便娛賓。庾公此興知非淺。藜藿終難作主人。（自席汝言至司馬光詩前俱題同前二字并署名。）",
+      "author": "司馬光"
+    }
+  ]
+}

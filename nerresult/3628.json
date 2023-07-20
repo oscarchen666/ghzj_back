@@ -1,0 +1,781 @@
+{
+  "filefroms": "3628.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "王定國",
+          "cid": 508168,
+          "name": "王定國",
+          "aid": "A016950"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 11,
+          "span": "煙江疊嶂圖"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "江上"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "雲煙"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 29,
+          "span": "山"
+        },
+        {
+          "type": "Location",
+          "start": 46,
+          "end": 48,
+          "span": "兩崖"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 53,
+          "span": "絕壁"
+        },
+        {
+          "type": "Location",
+          "start": 54,
+          "end": 56,
+          "span": "谷中"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 62,
+          "span": "飛來泉"
+        },
+        {
+          "type": "Location",
+          "start": 73,
+          "end": 75,
+          "span": "谷口"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 82,
+          "span": "川平山"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 91,
+          "span": "小橋野店"
+        },
+        {
+          "type": "Location",
+          "start": 92,
+          "end": 94,
+          "span": "山前"
+        },
+        {
+          "type": "PersonName",
+          "start": 95,
+          "end": 97,
+          "span": "行人",
+          "cid": "unknow",
+          "name": "能行人",
+          "aid": "A019741"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 101,
+          "span": "喬木"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 105,
+          "span": "漁舟"
+        },
+        {
+          "type": "Person",
+          "start": 111,
+          "end": 113,
+          "span": "使君"
+        },
+        {
+          "type": "Thing",
+          "start": 141,
+          "end": 144,
+          "span": "二頃田"
+        },
+        {
+          "type": "Person",
+          "start": 145,
+          "end": 146,
+          "span": "君"
+        },
+        {
+          "type": "LocationName",
+          "start": 149,
+          "end": 152,
+          "span": "昌樊口",
+          "aid": "PL000000026402",
+          "cid": 18713
+        },
+        {
+          "type": "PersonName",
+          "start": 156,
+          "end": 160,
+          "span": "東坡先生",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Thing",
+          "start": 164,
+          "end": 166,
+          "span": "春風"
+        },
+        {
+          "type": "Thing",
+          "start": 172,
+          "end": 174,
+          "span": "暮雲"
+        },
+        {
+          "type": "Thing",
+          "start": 180,
+          "end": 182,
+          "span": "丹楓"
+        },
+        {
+          "type": "Thing",
+          "start": 188,
+          "end": 192,
+          "span": "長松落雪"
+        },
+        {
+          "type": "Thing",
+          "start": 196,
+          "end": 200,
+          "span": "桃花流水"
+        },
+        {
+          "type": "LocationName",
+          "start": 204,
+          "end": 206,
+          "span": "武陵",
+          "cid": 5654
+        },
+        {
+          "type": "Person",
+          "start": 209,
+          "end": 211,
+          "span": "神仙"
+        },
+        {
+          "type": "Thing",
+          "start": 212,
+          "end": 214,
+          "span": "江山"
+        },
+        {
+          "type": "Person",
+          "start": 216,
+          "end": 217,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 229,
+          "end": 230,
+          "span": "君"
+        },
+        {
+          "type": "Location",
+          "start": 236,
+          "end": 238,
+          "span": "山中"
+        },
+        {
+          "type": "Person",
+          "start": 238,
+          "end": 240,
+          "span": "故人"
+        },
+        {
+          "type": "Person",
+          "start": 243,
+          "end": 244,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 249,
+          "end": 253,
+          "span": "東坡先生",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 254,
+          "end": 257,
+          "span": "王晉卿",
+          "cid": 465250,
+          "name": "王晉卿",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 259,
+          "end": 261,
+          "span": "晉卿",
+          "cid": 68472,
+          "name": "王時舉",
+          "aid": "A021999"
+        },
+        {
+          "type": "PersonName",
+          "start": 271,
+          "end": 273,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 281,
+          "end": 283,
+          "span": "晉卿",
+          "cid": 68472,
+          "name": "王時舉",
+          "aid": "A021999"
+        },
+        {
+          "type": "PersonName",
+          "start": 293,
+          "end": 296,
+          "span": "王定國",
+          "cid": 508168,
+          "name": "王定國",
+          "aid": "A016950"
+        },
+        {
+          "type": "PersonName",
+          "start": 317,
+          "end": 319,
+          "span": "元美",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        },
+        {
+          "type": "Thing",
+          "start": 324,
+          "end": 327,
+          "span": "煙江圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 347,
+          "end": 349,
+          "span": "項氏",
+          "cid": 119504,
+          "name": "項氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 351,
+          "end": 353,
+          "span": "晉卿",
+          "cid": 68472,
+          "name": "王時舉",
+          "aid": "A021999"
+        },
+        {
+          "type": "Thing",
+          "start": 353,
+          "end": 356,
+          "span": "瀛山圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 361,
+          "end": 363,
+          "span": "營丘",
+          "cid": 24294,
+          "name": "李成",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 368,
+          "end": 371,
+          "span": "李思訓",
+          "cid": 146342,
+          "name": "李思訓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 380,
+          "end": 382,
+          "span": "項氏",
+          "cid": 119504,
+          "name": "項氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 392,
+          "end": 394,
+          "span": "晉卿",
+          "cid": 68472,
+          "name": "王時舉",
+          "aid": "A021999"
+        },
+        {
+          "type": "LocationName",
+          "start": 397,
+          "end": 399,
+          "span": "廣陵",
+          "aid": "PL000000010745",
+          "cid": 4308
+        },
+        {
+          "type": "Thing",
+          "start": 410,
+          "end": 415,
+          "span": "煙江疊嶂圖"
+        },
+        {
+          "type": "Time",
+          "start": 457,
+          "end": 461,
+          "span": "甲寅臘月"
+        },
+        {
+          "type": "Time",
+          "start": 465,
+          "end": 467,
+          "span": "十年"
+        }
+      ],
+      "sentence": "書王定國所藏煙江疊嶂圖。江上愁心千疊山。浮空積翠如雲煙。山耶雲耶遠莫知。煙空雲散山依然。但見兩崖蒼蒼暗絕壁。谷中有百道飛來泉。縈林絡石隱復見。下赴谷口為奔川。川平山開林麓斷。小橋野店依山前。行人稍度喬木外。漁舟一葉江吞天。使君何處得此本。點綴豪末分清妍。不知人間何處有此境。徑欲往置二頃田。君不見武昌樊口幽絕處。東坡先生留五年。春風搖江天漠漠。暮雲卷雨山娟娟。丹楓飜雅伴水宿。長松落雪驚晝眠。桃花流水在人世。武陵豈必皆神仙。江山清空我塵土。雖有去路尋無緣。還君此畫三歎息。山中故人應有招我歸來篇。右東坡先生題王晉卿畫。晉卿亦有和歌。語特奇麗。東坡為再和之。意當時晉卿必自畫二三本。不獨為王定國藏也。今皆不傳。亦無復木無本在人間。雖王元美所自題家藏煙江圖。亦目以為與詩意無取。知非真矣。余從嘉禾項氏。見晉卿瀛山圖。筆法似李營丘。而設色似李思訓。脫去畫史習氣。惜項氏不戒於火。已歸天上。晉卿跡遂同廣陵散矣。今為想像其意。作煙江疊嶂圖。於時秋也。輒從秋景。於所謂春風搖江天漠漠等語。存而弗論矣。舊作此卷與跋。不曾著款。甲寅臘月重題。蓋十年事矣。其昌。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "龍舸"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "玉山",
+          "aid": "PL000000010012",
+          "cid": 5448
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 20,
+          "span": "江山桃柳"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "冷泉"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 52,
+          "span": "巖松谷樹"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "烟雲"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "細路"
+        },
+        {
+          "type": "Location",
+          "start": 76,
+          "end": 79,
+          "span": "荒墟前"
+        },
+        {
+          "type": "Person",
+          "start": 96,
+          "end": 98,
+          "span": "今人"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "文敏",
+          "cid": 339932,
+          "name": "文敏",
+          "aid": "A002429"
+        },
+        {
+          "type": "Location",
+          "start": 114,
+          "end": 116,
+          "span": "沙邊"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 118,
+          "span": "秋蘆"
+        },
+        {
+          "type": "Thing",
+          "start": 119,
+          "end": 121,
+          "span": "洲嶼"
+        },
+        {
+          "type": "Location",
+          "start": 122,
+          "end": 126,
+          "span": "崖壑缺處"
+        },
+        {
+          "type": "Thing",
+          "start": 127,
+          "end": 129,
+          "span": "山田"
+        },
+        {
+          "type": "PersonName",
+          "start": 143,
+          "end": 145,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
+          "aid": "A004610"
+        },
+        {
+          "type": "Person",
+          "start": 159,
+          "end": 161,
+          "span": "舞女"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 172,
+          "span": "石壁"
+        },
+        {
+          "type": "Person",
+          "start": 175,
+          "end": 177,
+          "span": "隱士"
+        },
+        {
+          "type": "Location",
+          "start": 187,
+          "end": 190,
+          "span": "北窗下"
+        },
+        {
+          "type": "Thing",
+          "start": 209,
+          "end": 211,
+          "span": "神物"
+        },
+        {
+          "type": "Thing",
+          "start": 220,
+          "end": 222,
+          "span": "雙鯉"
+        },
+        {
+          "type": "Person",
+          "start": 224,
+          "end": 225,
+          "span": "君"
+        },
+        {
+          "type": "Time",
+          "start": 233,
+          "end": 239,
+          "span": "康熙己巳初夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 245,
+          "end": 248,
+          "span": "董文敏",
+          "cid": 421535,
+          "name": "董文敏",
+          "aid": "A004662"
+        },
+        {
+          "type": "Thing",
+          "start": 248,
+          "end": 254,
+          "span": "煙江疊嶂圖卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 256,
+          "end": 258,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Time",
+          "start": 262,
+          "end": 266,
+          "span": "庚午伏日"
+        },
+        {
+          "type": "Location",
+          "start": 267,
+          "end": 269,
+          "span": "江邨"
+        },
+        {
+          "type": "PersonName",
+          "start": 285,
+          "end": 288,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        }
+      ],
+      "sentence": "龍舸春停浮玉山。一江翠靄生春烟。江山桃柳節上巳。仗下作別心依然。北歸風颿疾飛駛。夢中猶飲中冷泉。巖松谷樹忽寄贈。開卷恍對真山川。烟雲緲緲列危岫。細路只在荒墟前。層巔綿邈接怪崿。峰勢峭勁如插天。今人那見駙馬蹟。文敏落筆真爭妍。請看沙邊秋蘆亂洲嶼。崖壑缺處藏山田。君不見華亭書畫號雙絕。名齊米芾將百年。卷餘素練寫長句。簪花舞女同便娟。寒嵐漠漠斷石壁。疑有隱士丘中眠。覃紋似水北窗下。細尋畫理同游仙。璠璵瓊瑰比情重。獲此神物誠何緣。相思相望託雙鯉。為君更賦烟江疊嶂篇。康熙己巳初夏。儼齋總憲寄董文敏煙江疊嶂圖卷。用東坡韻為答。庚午伏日。江邨閒居。曉窗展閱。復書卷末。抱瓮翁高士奇。",
+      "author": "高士奇"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "康熙己巳初夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "董文敏",
+          "cid": 421535,
+          "name": "董文敏",
+          "aid": "A004662"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 21,
+          "span": "烟江疊嶂圖卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Time",
+          "start": 29,
+          "end": 33,
+          "span": "庚午伏日"
+        },
+        {
+          "type": "Location",
+          "start": 34,
+          "end": 36,
+          "span": "江邨"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "曉窗"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "書卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 55,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        }
+      ],
+      "sentence": "康熙己巳初夏。儼齋總憲寄董文敏烟江疊嶂圖卷。用東坡韻為答。庚午伏日。江邨閒居。曉窗展閱。復書卷末。抱瓮翁高士奇。",
+      "author": "高士奇"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "十年"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "山荊"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 19,
+          "span": "侍妾"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "圖書"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "伴侶"
+        },
+        {
+          "type": "Time",
+          "start": 34,
+          "end": 36,
+          "span": "今日"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "秋蘭"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 54,
+          "span": "文三橋耕井硯"
+        },
+        {
+          "type": "Location",
+          "start": 57,
+          "end": 59,
+          "span": "江邨"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 64,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 70,
+          "span": "戊寅秋日"
+        },
+        {
+          "type": "Time",
+          "start": 80,
+          "end": 87,
+          "span": "庚辰正月十一日"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 91,
+          "span": "梅花"
+        }
+      ],
+      "sentence": "荏苒十年。對之興歎。山荊亡後。室無侍妾。南北往來。唯圖書數卷作伴侶。今日晚涼。秋蘭已放數十莖。用文三橋耕井硯重記。江邨竹窗高士奇。此戊寅秋日題。忽又兩度歲華矣。庚辰正月十一日。對梅花重記。",
+      "author": "高士奇"
+    },
+    {
+      "authorcid": 30853,
+      "authoraid": "A012522",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 5,
+          "span": "戊寅秋日"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 22,
+          "span": "庚辰正月十一日"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "梅花"
+        }
+      ],
+      "sentence": "此戊寅秋日題。忽又兩度歲華矣。庚辰正月十一日。對梅花重記。",
+      "author": "高士奇"
+    }
+  ]
+}

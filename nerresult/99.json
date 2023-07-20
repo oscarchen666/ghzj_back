@@ -1,0 +1,448 @@
+{
+  "filefroms": "99.json",
+  "sentences": [
+    {
+      "authorcid": 16227,
+      "authoraid": "A041551",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "筆"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "日月"
+        },
+        {
+          "type": "PersonName",
+          "start": 72,
+          "end": 73,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "世間棄物。余所不棄。筆之於圖。消引日月。因思明物理者。無如老莊。其間榮悴皆本於初。榮則悴。悴則榮。榮悴互為其根。生生不窮。達老莊之旨者。無名公。公既知言。余復何言。吳興錢選舜舉。",
+      "author": "錢選"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "舜",
+          "cid": "unknow",
+          "name": "舜",
+          "aid": "A002434"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 8,
+          "span": "錦灰堆"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 30,
+          "span": "宋人"
+        },
+        {
+          "type": "Location",
+          "start": 39,
+          "end": 44,
+          "span": "澗阿幽篁中"
+        },
+        {
+          "type": "Time",
+          "start": 56,
+          "end": 60,
+          "span": "至正五年"
+        },
+        {
+          "type": "Time",
+          "start": 61,
+          "end": 68,
+          "span": "西元一三四五年"
+        },
+        {
+          "type": "Time",
+          "start": 69,
+          "end": 71,
+          "span": "春日"
+        }
+      ],
+      "sentence": "舜舉此圖名錦灰堆。雖出遊戲。而鉅細精粗。毫髮無遺。乃仿傚宋人之筆。斟酌而成者。澗阿幽篁中。時出把翫。差不寂寞矣。至正五年（西元一三四五年）春日句曲張雨。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正五年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三四五年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "張雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "至正五年（西元一三四五年）春日句曲張雨",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 93618,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "洪武辛亥"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三七一年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "孟冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "陳彥博",
+          "cid": 93618,
+          "name": "陳彥博",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "洪武辛亥（西元一三七一年）孟冬錢唐陳彥博觀。",
+      "author": "陳彥博"
+    },
+    {
+      "authorcid": 93618,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "洪武辛亥"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三七一年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "孟冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "陳彥博",
+          "cid": 93618,
+          "name": "陳彥博",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "洪武辛亥（西元一三七一年）孟冬錢唐陳彥博觀",
+      "author": "陳彥博"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "舜",
+          "cid": "unknow",
+          "name": "舜",
+          "aid": "A002434"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "趙榮祿",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "此圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 41,
+          "span": "舜",
+          "cid": "unknow",
+          "name": "舜",
+          "aid": "A002434"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 65,
+          "span": "舜",
+          "cid": "unknow",
+          "name": "舜",
+          "aid": "A002434"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 69,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 83,
+          "span": "蝦頭蟹殼"
+        },
+        {
+          "type": "PersonName",
+          "start": 95,
+          "end": 96,
+          "span": "舜",
+          "cid": "unknow",
+          "name": "舜",
+          "aid": "A002434"
+        },
+        {
+          "type": "PersonName",
+          "start": 103,
+          "end": 105,
+          "span": "老鐵",
+          "cid": 57148,
+          "name": "棟鄂鐵保",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 122,
+          "end": 126,
+          "span": "嘉靖二年"
+        },
+        {
+          "type": "Time",
+          "start": 127,
+          "end": 137,
+          "span": "西元一五二三年）九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 142,
+          "end": 144,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "舜舉與趙榮祿相頡頏。而能偃蹇自放。不相隨仕元。則人以棄重。此圖皆殘剝零星而入精。舜舉精毫妙染中。則物以棄收。余亦今之棄人也。時無舜舉何從人繪。而頗遭掣曳。不減蝦頭蟹殼矣。題茲數語。因為啞然。舜舉跋是悟人語。老鐵天令筆時。方鼎重然。從棄中淘鍊來。嘉靖二年（西元一五二三年）九月既望。晉昌唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一五二三年）九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "嘉靖二年（西元一五二三年）九月既望。晉昌唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖壬戌"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一五六二年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 17,
+          "span": "暮春之初"
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 34,
+          "span": "湖精舍",
+          "aid": "PL000000008559"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "徵君",
+          "cid": 10879,
+          "name": "陳繼儒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 57,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "嘉靖壬戌（西元一五六二年）暮春之初。同祿之。道復。子美。玩于五湖精舍。時惟顒徵君。攜酒肴相餉。因得同觀。長洲文徵明識。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖壬戌"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一五六二年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 17,
+          "span": "暮春之初"
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 34,
+          "span": "湖精舍",
+          "aid": "PL000000008559"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "徵君",
+          "cid": 10879,
+          "name": "陳繼儒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 57,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "嘉靖壬戌（西元一五六二年）暮春之初。同祿之。道復。子美。玩于五湖精舍。時惟顒徵君。攜酒肴相餉。因得同觀。長洲文徵明識。",
+      "author": "文徵明"
+    }
+  ]
+}

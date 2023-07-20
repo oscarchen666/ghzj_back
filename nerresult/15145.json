@@ -1,0 +1,318 @@
+{
+  "filefroms": "15145.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003935",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 6,
+          "span": "易元吉猴貓圖"
+        }
+      ],
+      "sentence": "易元吉猴貓圖。",
+      "author": "宋徽宗"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 11,
+          "span": "孫供奉"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "畫手"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "藏者",
+          "cid": 89173,
+          "name": "梁鼎芬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 45,
+          "end": 47,
+          "span": "子昂",
+          "cid": 2058,
+          "name": "葉顒",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "二貍奴方雛。一為孫供奉攜挾。一為怖畏之態。畫手能狀物之情如是。上有祐陵舊題。藏者其珍襲之。子昂。",
+      "author": "趙子昂"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子昂",
+          "cid": 2058,
+          "name": "葉顒",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "子昂",
+      "author": "趙子昂"
+    },
+    {
+      "authorcid": 223,
+      "authoraid": "A010116",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "猴"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "衛田"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "碩鼠"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 50,
+          "span": "易元吉",
+          "cid": 42866,
+          "name": "易元吉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 54,
+          "span": "二物"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "李迪",
+          "cid": 1096,
+          "name": "李迪",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 78,
+          "span": "宋院人"
+        },
+        {
+          "type": "PersonName",
+          "start": 84,
+          "end": 86,
+          "span": "文敏",
+          "cid": 8082,
+          "name": "李邴",
+          "aid": "A002429"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 114,
+          "span": "世安",
+          "cid": 34197,
+          "name": "孫興祖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 117,
+          "end": 119,
+          "span": "世安",
+          "cid": 34197,
+          "name": "孫興祖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 139,
+          "end": 141,
+          "span": "張錫",
+          "cid": 223,
+          "name": "張錫",
+          "aid": "A010116"
+        }
+      ],
+      "sentence": "猴性雖獧。而愚於朝四暮三之術。貍雖曰衛田。而不能禁碩鼠之滿野。是物之智終有蔽也。是理姑置。今觀易元吉所畫二物。入聖造微。儼有奔動氣象。又在李迪之上。信宋院人神品也。後有文敏小跋。字雖不多。而俊逸流動。遂成二絕矣。今為吾友郜君世安所藏。世安善鑒畫能書。其得於是者必多矣。尚永寶之。張錫跋。",
+      "author": "張錫"
+    },
+    {
+      "authorcid": 223,
+      "authoraid": "A010116",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "張錫",
+          "cid": 223,
+          "name": "張錫",
+          "aid": "A010116"
+        }
+      ],
+      "sentence": "張錫跋",
+      "author": "張錫"
+    },
+    {
+      "authorcid": 73738,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "張錫",
+          "cid": 223,
+          "name": "張錫",
+          "aid": "A010116"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "天錫",
+          "cid": 80618,
+          "name": "張郁周",
+          "aid": "A003710"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "海觀",
+          "cid": 77212,
+          "name": "李灝",
+          "aid": "A012176"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "錢塘",
+          "cid": 58004,
+          "name": "錢塘",
+          "aid": "A014354"
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 20,
+          "span": "天順壬午"
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 40,
+          "span": "西大同府應州山陰縣",
+          "aid": "PL000000003716",
+          "cid": 4801
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "教諭"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 70,
+          "span": "鯨"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 84,
+          "span": "名公鉅卿"
+        },
+        {
+          "type": "Thing",
+          "start": 115,
+          "end": 116,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 118,
+          "span": "數竿"
+        },
+        {
+          "type": "Time",
+          "start": 176,
+          "end": 186,
+          "span": "乾隆五十五年歲次庚戌"
+        },
+        {
+          "type": "Time",
+          "start": 187,
+          "end": 192,
+          "span": "七月二十日"
+        }
+      ],
+      "sentence": "張錫。字天錫。別號海觀。錢塘人。天順壬午領鄉薦。春闈不偶。授山西大同府應州山陰縣教諭。天資俊拔。下筆成文。誠八叉七步之才也。其豪放飄逸。則鯨吞海吸。而青樓紅粉。名公鉅卿。爭相迎遞。遠近無不知其名者。惜未大成而卒。至今人傳之。家嘗有竹數竿。作亭其間。名曰醫俗。因記之以顏於亭。然其文雖近謔。亦足致理。今舉此可知其餘也。此傳載仁和郎氏七修類藳第三十二卷中。乾隆五十五年歲次庚戌。七月二十日。竹癡畢瀧記。",
+      "author": "畢瀧"
+    },
+    {
+      "authorcid": 73738,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "乾隆五十五年"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 10,
+          "span": "庚戌"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 16,
+          "span": "七月二十日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "竹癡",
+          "cid": 561167,
+          "name": "孫釭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆五十五年歲次庚戌。七月二十日。竹癡畢瀧記。",
+      "author": "畢瀧"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "filefroms": "937.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "四十二",
+          "cid": 128983,
+          "name": "姜寶",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "宗謨",
+          "cid": 47989,
+          "name": "陳舜申",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（四十二人各標名。文不錄）劍南李宗謨。",
+      "author": "李宗謨"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "王羲之",
+          "cid": 25793,
+          "name": "王羲之",
+          "aid": "A002704"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "孫綽",
+          "cid": 212559,
+          "name": "孫綽",
+          "aid": "A002181"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "王穉",
+          "cid": 437559,
+          "name": "王穉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "雨書"
+        }
+      ],
+      "sentence": "（王羲之蘭亭修禊敘。孫綽後序。文不錄）王穉登對雨書。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "雨書"
+        }
+      ],
+      "sentence": "王穉登對雨書",
+      "author": "王穉登"
+    }
+  ]
+}

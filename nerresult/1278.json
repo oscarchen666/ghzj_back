@@ -1,0 +1,441 @@
+{
+  "filefroms": "1278.json",
+  "sentences": [
+    {
+      "authorcid": 19865,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "李公麟",
+          "cid": 19865,
+          "name": "李公麟",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣李公麟進",
+      "author": "李公麟"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子儀",
+          "cid": 54825,
+          "name": "夏鳳翔",
+          "aid": "A014278"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "葛羅"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "公麟",
+          "cid": "unknow",
+          "name": "李伯時",
+          "aid": "A011507"
+        }
+      ],
+      "sentence": "子儀誠喻。葛羅欽服。胥於握手中形之。公麟妙蹟。所見甚多。此為第一。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "涇陽",
+          "cid": 5190
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "孤城"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "郭晞",
+          "cid": 32351,
+          "name": "郭晞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "步莎"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 31,
+          "span": "葛羅擎"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 34,
+          "span": "吐蕃"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 68,
+          "span": "壬子仲冬"
+        }
+      ],
+      "sentence": "涇陽不肯守孤城。單騎權為見虜行。扣馬力違郭晞諫。步莎手任葛羅擎。吐蕃迴紇心咸服。元振朝恩妒那傾。寫像公麟肖神表。一言以蔽曰誠明。壬子仲冬上澣。御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "壬子仲冬"
+        }
+      ],
+      "sentence": "壬子仲冬上澣。御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "至誠昭揭",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 112566,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "汾陽王",
+          "cid": "unknow",
+          "name": "郭子儀",
+          "aid": "A008714"
+        },
+        {
+          "type": "Metric",
+          "start": 34,
+          "end": 37,
+          "span": "二十年"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 45,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "凡人"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 87,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 94,
+          "span": "我"
+        },
+        {
+          "type": "Location",
+          "start": 166,
+          "end": 168,
+          "span": "廟堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 172,
+          "end": 173,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 187,
+          "end": 189,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 195,
+          "end": 197,
+          "span": "涇陽",
+          "cid": 5190
+        },
+        {
+          "type": "Person",
+          "start": 212,
+          "end": 213,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 228,
+          "end": 230,
+          "span": "它人"
+        },
+        {
+          "type": "PersonName",
+          "start": 245,
+          "end": 246,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 270,
+          "end": 271,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 301,
+          "end": 304,
+          "span": "藥葛羅"
+        },
+        {
+          "type": "PersonName",
+          "start": 324,
+          "end": 325,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 383,
+          "end": 384,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 385,
+          "end": 387,
+          "span": "光弼",
+          "cid": 199124,
+          "name": "任英",
+          "aid": "A044316"
+        },
+        {
+          "type": "PersonName",
+          "start": 402,
+          "end": 404,
+          "span": "代宗",
+          "cid": 30155,
+          "name": "朱祁鈺",
+          "aid": "A004379"
+        },
+        {
+          "type": "PersonName",
+          "start": 405,
+          "end": 407,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 417,
+          "end": 420,
+          "span": "方叔元",
+          "cid": 96799,
+          "name": "方叔元",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 431,
+          "end": 434,
+          "span": "孫碩膚",
+          "cid": 76161,
+          "name": "孫碩膚",
+          "aid": "A042720"
+        },
+        {
+          "type": "LocationName",
+          "start": 440,
+          "end": 442,
+          "span": "汾陽",
+          "cid": 9845
+        },
+        {
+          "type": "PersonName",
+          "start": 459,
+          "end": 461,
+          "span": "功臣",
+          "cid": 88471,
+          "name": "梅枚",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 467,
+          "end": 474,
+          "span": "至正丁未十二月"
+        }
+      ],
+      "sentence": "考汾陽王中書令郭公。唐四朝元勳也。觀其夾輔王室。事業磊落。繫天下安危二十年。可謂社稷之大臣矣。讀其傳。揆其心。一以至誠為本。豈偶然哉。凡人避嫌者。內不足也。內無不足。彼疑而我不貳。彼讒而我不辯。魚朝恩程元振之徒。妬其功高望重。恐威權軋己。陰相沮撓。公處之泰然。出入中外。奉詔即行。使至即起。居朝廷則憂邊隅。居邊隅則憂王室。雖不得安於廟堂之上。而人心屬望。奄宦姦謀。卒莫能撼。大臣非公其誰耶。涇陽之圍。特一事耳。彼數十萬眾。而我才萬人。眾寡不敵。孤城無援。在它人則必倉卒無謀。棄城奔潰之不暇。公乃度德量力。策畫非常。量力則彼眾我寡。度德則彼屈我直。與其抗。不若出。與其戰。不若諭。單騎深入。不以兵衛自隨。藥葛羅輩。駭愕相顧曰。令公其猶存乎。下馬羅拜。公握手與語。酹酒而誓。曾不數言。忠義感激。吐蕃遯。回紇卻。涇圍為解。於乎。非威望素著。群醜畏服。而動以至誠。其能然乎。公與光弼齊名。寬厚得人過之。史確論也。代宗呼大臣而不名。宜矣。詩曰。方叔元老。克壯其猷。又曰。公孫碩膚。赤舄几几。汾陽有焉。噫。有國家者。屏逐姦黨。保全功臣。不可不監。至正丁未十二月下澣。沛中韓準書。",
+      "author": "韓準"
+    },
+    {
+      "authorcid": 112566,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "至正丁未十二月"
+        }
+      ],
+      "sentence": "至正丁未十二月下澣。沛中韓準書。",
+      "author": "韓準"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "龍眠",
+          "cid": 72511,
+          "name": "方正玉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "免冑圖"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "神品"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 18,
+          "span": "雍正己酉七月之閏"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 20,
+          "span": "師",
+          "cid": 45307,
+          "name": "閉復亨",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 25,
+          "end": 27,
+          "span": "水南",
+          "aid": "PL000000028284"
+        },
+        {
+          "type": "Location",
+          "start": 28,
+          "end": 30,
+          "span": "荔江"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "書簽"
+        }
+      ],
+      "sentence": "李龍眠免冑圖。神品。雍正己酉七月之閏。師意齋重裝。水南程荔江書簽。",
+      "author": "程荔江"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "雍正己酉七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 10,
+          "span": "師",
+          "cid": 45307,
+          "name": "閉復亨",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 20,
+          "span": "南程荔江",
+          "aid": "PL000000028284"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "書簽"
+        }
+      ],
+      "sentence": "雍正己酉七月之閏。師意齋重裝。水南程荔江書簽。",
+      "author": "程荔江"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "filefroms": "95.json",
+  "sentences": [
+    {
+      "authorcid": 16227,
+      "authoraid": "A041551",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "錢選",
+          "cid": 16227,
+          "name": "錢選",
+          "aid": "A041551"
+        }
+      ],
+      "sentence": "吳興錢選作",
+      "author": "錢選"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 1,
+          "end": 2,
+          "span": "苗"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 4,
+          "span": "犢"
+        }
+      ],
+      "sentence": "時苗留犢。",
+      "author": ""
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 50,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 51,
+          "end": 58,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 59,
+          "end": 61,
+          "span": "仲夏"
+        }
+      ],
+      "sentence": "為令治一縣。去官惜衆村。犢留表已潔。牸䑛置他寃。射醉斯過甚。一錢可並論。霅谿神解得。繪事激揚存。己酉（西元一七八九年）仲夏上澣御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "仲夏"
+        }
+      ],
+      "sentence": "己酉（西元一七八九年）仲夏上澣御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

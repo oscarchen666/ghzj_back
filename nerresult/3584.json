@@ -1,0 +1,237 @@
+{
+  "filefroms": "3584.json",
+  "sentences": [
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "山深"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "鹿豕"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "青芝"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "綠蘿"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "雪"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "碧草"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "春城"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "山花"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 62,
+          "span": "谷鳥"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "辛亥"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 77,
+          "span": "西元一五五一年）二月"
+        },
+        {
+          "type": "PersonName",
+          "start": 80,
+          "end": 83,
+          "span": "謝時臣",
+          "cid": 560933,
+          "name": "謝時臣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "世塵飛不到山深。鹿豕追隨淨隱心。採得青芝留客飯。綠蘿懸榻且調琴。落落群峰看雪晴。天涯碧草動春城。山花浸酒烟霞窟。何處嚶嚶谷鳥鳴。辛亥（西元一五五一年）二月花朝。謝時臣畫并題。",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 338643,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "孤松"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "疎花"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "微月"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 38,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 45,
+          "end": 47,
+          "span": "客星",
+          "cid": 73814,
+          "name": "呂師著",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "姬水"
+        }
+      ],
+      "sentence": "經時臥岑寂。一為啟烟扃。百榼能浮白。孤松聊撫青。疎花澹幽薄。微月曖空庭。以我高翔意。悠然對客星。姬水。",
+      "author": "黃姬水"
+    },
+    {
+      "authorcid": 338643,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "姬水"
+        }
+      ],
+      "sentence": "姬水",
+      "author": "黃姬水"
+    },
+    {
+      "authorcid": 206993,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "流水"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "敝廬"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "楊柳薔薇"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "藥裹"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 38,
+          "span": "司馬"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "藜床"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "薰風"
+        },
+        {
+          "type": "Location",
+          "start": 58,
+          "end": 60,
+          "span": "磯頭"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 63,
+          "span": "魚"
+        }
+      ],
+      "sentence": "道人自愛仙源居。流水浮烟開敝廬。鵁鶄鸂鶒曉聲亂。楊柳薔薇晝景疎。藥裹但供司馬病。藜床不貯子雲書。薰風忽起疎慵夢。坐向磯頭學釣魚。顧時化。",
+      "author": "顧時化"
+    },
+    {
+      "authorcid": 206993,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "顧時化",
+          "cid": 206993,
+          "name": "顧時化",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "顧時化",
+      "author": "顧時化"
+    }
+  ]
+}

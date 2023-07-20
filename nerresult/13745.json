@@ -1,0 +1,80 @@
+{
+  "filefroms": "13745.json",
+  "sentences": [
+    {
+      "authorcid": 19865,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李公麟",
+          "cid": 19865,
+          "name": "李公麟",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "李公麟造",
+      "author": "李公麟"
+    },
+    {
+      "authorcid": 33488,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "日月"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 38,
+          "span": "侍臣"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "李衎",
+          "cid": 33488,
+          "name": "李衎",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "紫氣龍顏穆。彤廷虎衛森。萬年占帝遇。一念格天心。日月何虧食。華夷仰聖明。侍臣應有喜。白首忝詞林。息齋道人李衎題。",
+      "author": "李衎"
+    },
+    {
+      "authorcid": 23238,
+      "authoraid": "A021942",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "軄貢圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "李龍",
+          "cid": 155146,
+          "name": "李龍",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 113,
+          "end": 115,
+          "span": "軒王"
+        }
+      ],
+      "sentence": "右諸夷軄貢圖。乃李龍眠筆也。用意精密。運思神巧。施設布置無一毫滲漏。誠稱合。且一展玩。而諸國之衣冠製度。風土方物。國異人殊。涇分井削。而當時向化。歸服之誠。中原撫綏之意。儼在目前。其於王政。豈小補哉。宜用珍襲。永為長府之鎮。耐軒王達識。",
+      "author": "王達"
+    }
+  ]
+}

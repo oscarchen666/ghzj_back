@@ -1,0 +1,385 @@
+{
+  "filefroms": "1242.json",
+  "sentences": [
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正庚寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一三五○年）二月"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 20,
+          "span": "大癡道人",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        }
+      ],
+      "sentence": "至正庚寅（西元一三五○年）二月。大癡道人時年八十。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正庚寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一三五○年）二月"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 20,
+          "span": "大癡道人",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        }
+      ],
+      "sentence": "至正庚寅（西元一三五○年）二月。大癡道人時年八十。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 12,
+          "span": "畫山畫水"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 20,
+          "span": "懸崖絕谷"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "流泉"
+        },
+        {
+          "type": "Time",
+          "start": 40,
+          "end": 45,
+          "span": "至正十年春"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "紫芝"
+        }
+      ],
+      "sentence": "小黠大癡誰復然。畫山畫水亦隨緣。懸崖絕谷噴流泉。此中即是安養地。九品蓮華光燭天。至正十年春紫芝生。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "至正十年春"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "紫芝"
+        }
+      ],
+      "sentence": "至正十年春紫芝生",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 67043,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "銀河"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "山頂",
+          "aid": "PL000000008579",
+          "cid": 15150
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "蒼虬"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "芙蓉"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 20,
+          "span": "煙巒深處"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "人家"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 27,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 29,
+          "end": 31,
+          "span": "萊境",
+          "aid": "PL000000055457",
+          "cid": 4946
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 34,
+          "end": 36,
+          "span": "斯人"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "霜邊"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "林葉"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "桂花"
+        },
+        {
+          "type": "Thing",
+          "start": 81,
+          "end": 82,
+          "span": "琴"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 90,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "羊裘"
+        },
+        {
+          "type": "Location",
+          "start": 125,
+          "end": 127,
+          "span": "石磯"
+        },
+        {
+          "type": "Time",
+          "start": 128,
+          "end": 132,
+          "span": "乙酉仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 134,
+          "end": 136,
+          "span": "陳鑑",
+          "cid": 67043,
+          "name": "陳鑑",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "銀河倒挂青山頂。蒼虬偃臥芙蓉冷。煙巒深處有人家。依稀人在蓬萊境。我觀斯人非避秦。韜耀伏隱全天真。盍簪愛話無生事。恐教名利縈茲身。霜邊林葉秋色映。桂花香裡行廚淨。彈琴惟取古為音。漉酒還將清比聖。逍遙此樂人間稀。潔已由來世所稀。請看子久瀟瀟筆。不羨羊裘釣石磯。乙酉仲夏上瀚陳鑑題。",
+      "author": "陳鑑"
+    },
+    {
+      "authorcid": 67043,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乙酉仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "陳鑑",
+          "cid": 67043,
+          "name": "陳鑑",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乙酉仲夏上瀚陳鑑題",
+      "author": "陳鑑"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "詩家"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 34,
+          "span": "黃子久",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 50,
+          "span": "吾"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "遠樹"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 77,
+          "span": "人家"
+        },
+        {
+          "type": "Thing",
+          "start": 83,
+          "end": 85,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 94,
+          "end": 96,
+          "span": "此卷"
+        },
+        {
+          "type": "Location",
+          "start": 106,
+          "end": 108,
+          "span": "北固"
+        },
+        {
+          "type": "PersonName",
+          "start": 111,
+          "end": 113,
+          "span": "右丞",
+          "cid": 64695,
+          "name": "洪良品",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 132,
+          "end": 135,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "王右丞詩云。江流天地外。山色有無中。是詩家極俊語。卻入畫三昧。黃子久此圖是畫家極秀筆。卻入詩三昧。吾當挾短笻北固口。輕陰薄暮時。置眼黯淡間。遠樹若薺。人家若蜃市。恍然此卷之在目。歸從囊中出此卷。列之几案。又若身在北固。復取右丞二語之。都非人世間塵埃堆聚之物也。瑯琊王世貞題。",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "瑯琊王世貞題",
+      "author": "王世貞"
+    }
+  ]
+}

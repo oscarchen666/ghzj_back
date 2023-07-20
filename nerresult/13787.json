@@ -1,0 +1,288 @@
+{
+  "filefroms": "13787.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "海蓑雲月"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 9,
+          "span": "合擎蚌蛤"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 14,
+          "span": "裙螺寶帶"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 19,
+          "span": "石罄珠琳"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "雲毬"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 29,
+          "span": "蟬蛤龜環"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "竹葉"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 39,
+          "span": "赤管鸚螺"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "珊瑚"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 47,
+          "span": "海甸瑰螺"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 51,
+          "span": "海際瓜"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 56,
+          "span": "石決片錦"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 61,
+          "span": "皮充鈴螺"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 66,
+          "span": "虎尾脫胎"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 71,
+          "span": "瓦螺如意"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 76,
+          "span": "合浦含珠"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 81,
+          "span": "金莖索絡"
+        },
+        {
+          "type": "Thing",
+          "start": 82,
+          "end": 86,
+          "span": "玉葉龍珠"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 91,
+          "span": "沙螃鼓賈"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 96,
+          "span": "海眼蝦狐"
+        },
+        {
+          "type": "Thing",
+          "start": 97,
+          "end": 99,
+          "span": "玉環"
+        },
+        {
+          "type": "Thing",
+          "start": 102,
+          "end": 106,
+          "span": "指螺沙鶉"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 109,
+          "span": "海豬"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 116,
+          "span": "芝螺輻釀"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 121,
+          "span": "蜀衣銀剪"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 128,
+          "span": "蠣房海虫足"
+        },
+        {
+          "type": "Thing",
+          "start": 129,
+          "end": 133,
+          "span": "黃蛤精螺"
+        },
+        {
+          "type": "Thing",
+          "start": 139,
+          "end": 143,
+          "span": "梳月沙蚶"
+        },
+        {
+          "type": "Thing",
+          "start": 144,
+          "end": 148,
+          "span": "索毌蜒螺"
+        },
+        {
+          "type": "Thing",
+          "start": 149,
+          "end": 153,
+          "span": "玉芝翠管"
+        }
+      ],
+      "sentence": "海蓑雲月。合擎蚌蛤。裙螺寶帶。石罄珠琳。雲毬簇海。蟬蛤龜環。竹葉春槃。赤管鸚螺。珊瑚。海甸瑰螺。海際瓜。石決片錦。皮充鈴螺。虎尾脫胎。瓦螺如意。合浦含珠。金莖索絡。玉葉龍珠。沙螃鼓賈。海眼蝦狐。玉環聳翠。指螺沙鶉。海豬拜月。芝螺輻釀。蜀衣銀剪。蠣房海虫足。黃蛤精螺。莊蜛望潮。梳月沙蚶。索毌蜒螺。玉芝翠管。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "海"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 27,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 64,
+          "span": "前人"
+        },
+        {
+          "type": "Thing",
+          "start": 120,
+          "end": 124,
+          "span": "五石之釜"
+        },
+        {
+          "type": "Time",
+          "start": 148,
+          "end": 153,
+          "span": "淳熙二年（"
+        },
+        {
+          "type": "Time",
+          "start": 153,
+          "end": 164,
+          "span": "西元一一七五年）重九日"
+        },
+        {
+          "type": "LocationName",
+          "start": 164,
+          "end": 166,
+          "span": "長安",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "PersonName",
+          "start": 167,
+          "end": 169,
+          "span": "文穆",
+          "cid": 403661,
+          "name": "文穆",
+          "aid": "A006952"
+        }
+      ],
+      "sentence": "乾坤莽蕩之氣聚于海。故能生物不測。而神通變化之機聚于人。故能肖物逼真。然耳目之及。可以神會。苟非日用覩記之事。則必記載所傳。前人彙集。不充之以學問。何以駭觀而易視。松年此圖。或有所本。但物各異態。蛸翹鱗介畢獻其奇。果爾。則無論海若富藏。請以五石之釜為魯仲連蒸藉之具。噫。得此卷者溫嶠之犀可無燃矣。淳熙二年（西元一一七五年）重九日長安宇文穆書。",
+      "author": "宇文穆"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "淳熙二年重九日"
+        },
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 9,
+          "span": "長安",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "文穆",
+          "cid": 403661,
+          "name": "文穆",
+          "aid": "A006952"
+        }
+      ],
+      "sentence": "淳熙二年重九日長安宇文穆書。",
+      "author": "宇文穆"
+    }
+  ]
+}

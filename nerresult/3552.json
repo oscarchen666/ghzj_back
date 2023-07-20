@@ -1,0 +1,99 @@
+{
+  "filefroms": "3552.json",
+  "sentences": [
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "疊樹"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "白雲"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 15,
+          "span": "谷間"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "木蘭"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 23,
+          "span": "秋八月"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "哨鹿"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 34,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 35,
+          "end": 42,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 45,
+          "span": "春日"
+        }
+      ],
+      "sentence": "千層疊樹兩層山。一片白雲亘谷間。大似木蘭秋八月。尋聲哨鹿每忘還。癸未（西元一七六三年）春日御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "春日"
+        }
+      ],
+      "sentence": "癸未（西元一七六三年）春日御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

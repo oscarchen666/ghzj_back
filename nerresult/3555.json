@@ -1,0 +1,22 @@
+{
+  "filefroms": "3555.json",
+  "sentences": [
+    {
+      "authorcid": 388142,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "實父",
+          "cid": 388142,
+          "name": "仇英",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "仇英實父謹製",
+      "author": "仇英"
+    }
+  ]
+}

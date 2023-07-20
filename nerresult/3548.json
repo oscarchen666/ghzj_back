@@ -1,0 +1,206 @@
+{
+  "filefroms": "3548.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "空山"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "落花"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "雨"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 12,
+          "span": "林陰"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "山泉"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "鳳餅"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "溪閣",
+          "cid": 13365
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 31,
+          "span": "幽人"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "存道",
+          "cid": 200615,
+          "name": "翁理",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 61,
+          "end": 65,
+          "span": "弘治甲子"
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 78,
+          "span": "西元一五０四年）四月上旬"
+        },
+        {
+          "type": "PersonName",
+          "start": 80,
+          "end": 82,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "空山春盡落花深。雨過林陰綠玉新。自汲山泉烹鳳餅。坐臨溪閣待幽人。輒作小絕并畫。以為贈存道老兄。其儔昔之歡。并居處之勝焉。時弘治甲子（西元一五０四年）四月上旬吳趨唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "六如墨妙。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "徵明",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "飛簾"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 21,
+          "span": "晴雪風"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "春雲"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "燕"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "佳人"
+        },
+        {
+          "type": "Person",
+          "start": 74,
+          "end": 75,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 97,
+          "end": 99,
+          "span": "芳草"
+        },
+        {
+          "type": "Location",
+          "start": 110,
+          "end": 112,
+          "span": "池塘"
+        },
+        {
+          "type": "Thing",
+          "start": 129,
+          "end": 130,
+          "span": "蜂"
+        },
+        {
+          "type": "Thing",
+          "start": 155,
+          "end": 157,
+          "span": "庭日"
+        },
+        {
+          "type": "Thing",
+          "start": 187,
+          "end": 189,
+          "span": "幽草"
+        },
+        {
+          "type": "Thing",
+          "start": 210,
+          "end": 212,
+          "span": "春雨"
+        },
+        {
+          "type": "Time",
+          "start": 265,
+          "end": 271,
+          "span": "嘉靖戊申三月"
+        }
+      ],
+      "sentence": "點逕沾籬已燦然。飛簾撲面更翩聯。紅吹晴雪風千片。錦蹙春雲浪一川。老惜髩飄禪榻畔。醉看燕蹴舞筵前。無情剛恨通宵雨。斷送芳華又一年。　零落佳人意暗傷。為誰憔悴減容光。將飛更舞迎風面。已褪猶嫣洗雨籹。芳草一年空路陌。綠陰明日自池塘。名園酒散春何處。惟有歸來屐齒香。蜂撩褪粉偶粘衣。春減都消一片飛。蒂撓園風無那弱。影搖庭日已全稀。樽前漫有盈盈淚。陌上空歌緩緩歸。未便小齋渾寂寞。綠陰幽草勝芳菲。　悵人無奈曉風何。逐水紛紛不戀柯。春雨捲簾紅粉瘦。夜涼踏影月明多。章臺舊事愁邊路。金縷新聲夢裡歌。過眼莫言皆物幻。別後功實在蠡窠。右落花詩四首。嘉靖戊申三月既望書。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖戊申三月"
+        }
+      ],
+      "sentence": "嘉靖戊申三月既望書。徵明。",
+      "author": "文徵明"
+    }
+  ]
+}

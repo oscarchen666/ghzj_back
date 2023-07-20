@@ -1,0 +1,126 @@
+{
+  "filefroms": "3553.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 4,
+          "span": "杏"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "廬山",
+          "aid": "PL000000012277"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "大道"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "雲"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 50,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "紫雪"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "人來種杏不虛尋。彷彿廬山小逕深。常向靜中參大道。不因忙裡廢清吟。願隨雨化三春澤。未許雲閑一片心。老我近來多肺疾。好分紫雪掃煩襟。晉昌唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 5,
+          "span": "醫師陸君約"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 23,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 37,
+          "span": "軒皇"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 115,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "醫師陸君約之仁軒銘。伊玄穹。降萬動。一茲理。吾具施。有根末。蔑此彼。繄軒皇。推餘方。獲厥績。則以喜。肆名宇。以自厲。匪燿美。返泰初。充七孔。溢伯體。求无息。發有第。優優爾。睇子淵。何人也。晞之是。式盤盂。鑱話言。欽不怠。貢士祝允明作。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "貢士祝允明作",
+      "author": "祝允明"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "filefroms": "3611.json",
+  "sentences": [
+    {
+      "authorcid": 34076,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "萬曆辛丑"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一六○一年）秋九月"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "郡張",
+          "cid": 26050
+        }
+      ],
+      "sentence": "萬曆辛丑（西元一六○一年）秋九月吳郡張復製。",
+      "author": "張復"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "秋山行旅圖"
+        }
+      ],
+      "sentence": "秋山行旅圖",
+      "author": "詹濂"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "詹濂"
+        }
+      ],
+      "sentence": "詹濂",
+      "author": "詹濂"
+    }
+  ]
+}

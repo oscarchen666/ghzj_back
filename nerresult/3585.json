@@ -1,0 +1,52 @@
+{
+  "filefroms": "3585.json",
+  "sentences": [
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "醉翁亭"
+        }
+      ],
+      "sentence": "醉翁亭小景",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "時臣",
+          "cid": 67837,
+          "name": "胡獻",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 12,
+          "span": "黃鶴山樵",
+          "cid": 100923,
+          "name": "王蒙",
+          "aid": "A043089"
+        }
+      ],
+      "sentence": "樗仙謝時臣寫。仿黃鶴山樵筆法。",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "興懷同樂。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "filefroms": "5400.json",
+  "sentences": [
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "大峰小峰"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 12,
+          "span": "千樹萬樹"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "流泉"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "溪路"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 37,
+          "span": "雲"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "隱者"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "煙火"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "雞"
+        },
+        {
+          "type": "Location",
+          "start": 56,
+          "end": 58,
+          "span": "林間"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "鳥鵲"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 68,
+          "span": "野橋瘦馬"
+        },
+        {
+          "type": "LocationName",
+          "start": 77,
+          "end": 79,
+          "span": "灞陵",
+          "aid": "PL000000042341"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 83,
+          "span": "兩肩山"
+        },
+        {
+          "type": "Person",
+          "start": 99,
+          "end": 100,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 108,
+          "end": 110,
+          "span": "幽人"
+        },
+        {
+          "type": "Location",
+          "start": 125,
+          "end": 127,
+          "span": "篷瀛"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 133,
+          "span": "瓊樓玉"
+        },
+        {
+          "type": "PersonName",
+          "start": 138,
+          "end": 140,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "大峰小峰銀削成。千樹萬樹瑤華明。流泉落澗半作水。溪路漫滅坳崖平。招提深入雲幾重。隱者茆廬門晝扃。煙火寂寥雞不嗚。林間鳥鵲饑無聲。野橋瘦馬客獨行。是似浩然來灞陵。兩肩山聳破帽傾。噤寒不吟風骨清。披圖動我探梅情。飄然欲結幽人盟。歌聲激烈清簷楹。夜深飛夢入篷瀛。十二瓊樓玉作成。長洲沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "長洲沈周",
+      "author": "沈周"
+    }
+  ]
+}

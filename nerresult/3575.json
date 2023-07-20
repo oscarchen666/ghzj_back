@@ -1,0 +1,469 @@
+{
+  "filefroms": "3575.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸卯"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 13,
+          "span": "西元一五四三年）九日"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "文嘉",
+          "cid": 34678,
+          "name": "文嘉",
+          "aid": "A016951"
+        }
+      ],
+      "sentence": "癸卯（西元一五四三年）九日文嘉作",
+      "author": "文  嘉"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "會景堂"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "墨池"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 18,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "白鵝"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 61,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 77,
+          "span": "海虬壑"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 80,
+          "span": "鐵網"
+        },
+        {
+          "type": "Thing",
+          "start": 81,
+          "end": 83,
+          "span": "珊瑚"
+        },
+        {
+          "type": "Location",
+          "start": 87,
+          "end": 89,
+          "span": "蒼峽"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 91,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 95,
+          "span": "虬柯枝"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 101,
+          "span": "鱗甲"
+        },
+        {
+          "type": "Location",
+          "start": 102,
+          "end": 105,
+          "span": "雲芝巖"
+        },
+        {
+          "type": "Thing",
+          "start": 108,
+          "end": 111,
+          "span": "赤靈芝"
+        },
+        {
+          "type": "Location",
+          "start": 115,
+          "end": 117,
+          "span": "巖下"
+        },
+        {
+          "type": "Thing",
+          "start": 120,
+          "end": 122,
+          "span": "金盤"
+        },
+        {
+          "type": "Person",
+          "start": 127,
+          "end": 129,
+          "span": "王者"
+        },
+        {
+          "type": "Thing",
+          "start": 157,
+          "end": 158,
+          "span": "枝"
+        },
+        {
+          "type": "Person",
+          "start": 159,
+          "end": 161,
+          "span": "鳳皇"
+        },
+        {
+          "type": "Location",
+          "start": 168,
+          "end": 171,
+          "span": "影龍橋"
+        },
+        {
+          "type": "Location",
+          "start": 172,
+          "end": 175,
+          "span": "魚梁下"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 180,
+          "span": "驪龍"
+        },
+        {
+          "type": "Thing",
+          "start": 182,
+          "end": 183,
+          "span": "水"
+        },
+        {
+          "type": "Location",
+          "start": 190,
+          "end": 192,
+          "span": "橋上"
+        },
+        {
+          "type": "Location",
+          "start": 201,
+          "end": 204,
+          "span": "明碧洞"
+        },
+        {
+          "type": "Thing",
+          "start": 207,
+          "end": 210,
+          "span": "碧玉洞"
+        },
+        {
+          "type": "Thing",
+          "start": 219,
+          "end": 222,
+          "span": "桃花樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 230,
+          "end": 232,
+          "span": "原王",
+          "cid": "unknow",
+          "name": "李貞",
+          "aid": "A019476"
+        }
+      ],
+      "sentence": "會景堂七詠。（第一首）懷墨池。臨池人不見。惆悵白鵝群。蠕蠕數科斗。依稀婁頁古文。卓筆峰。一枝翠微色。插地若書空。試問生花否。青山入夢中。（第二首）海虬壑。鐵網枯珊瑚。半朽臥蒼峽。風吹虬柯枝。簌簌動鱗甲。雲芝巖。煌煌赤靈芝。九節生巖下。采采金盤中。持之獻王者。（第三首）來鳳徑。蔣生三徑裡。琅玕萬箇齊。實為鳳皇食。枝待鳳皇栖。（第四首）影龍橋。魚梁下三照。驪龍浮出水。誰驚明珠影。橋上尚書履。（第五首）明碧洞。空明碧玉洞。鑿成非避秦。如何桃花樹。亦自解迷人。太原王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "太原王穉登",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 8,
+          "span": "都門"
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 17,
+          "span": "安東門",
+          "aid": "PL000000008795",
+          "cid": 4641
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "青松"
+        },
+        {
+          "type": "Person",
+          "start": 25,
+          "end": 27,
+          "span": "關吏"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 30,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 45,
+          "span": "流河驛"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "青草"
+        },
+        {
+          "type": "LocationName",
+          "start": 52,
+          "end": 54,
+          "span": "黃河",
+          "aid": "PL000000000193"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "香醪"
+        },
+        {
+          "type": "Person",
+          "start": 61,
+          "end": 63,
+          "span": "使者"
+        },
+        {
+          "type": "Location",
+          "start": 65,
+          "end": 69,
+          "span": "纜驛門前"
+        },
+        {
+          "type": "PersonName",
+          "start": 76,
+          "end": 78,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "LocationName",
+          "start": 109,
+          "end": 111,
+          "span": "聊城",
+          "cid": 17079
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 113,
+          "span": "燕"
+        },
+        {
+          "type": "PersonName",
+          "start": 124,
+          "end": 126,
+          "span": "太平",
+          "cid": 559737,
+          "name": "路澤濃",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 132,
+          "end": 135,
+          "span": "箭頭書"
+        },
+        {
+          "type": "PersonName",
+          "start": 136,
+          "end": 138,
+          "span": "王穉",
+          "cid": 437559,
+          "name": "王穉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（第一首）出都門馬上口號。長安東門別。立馬青松下。關吏來笑人。前年棄繻者。（第二首）流河驛。青草不生地。黃河空接天。香醪供使者。繫纜驛門前。（第三首）懷童子鳴。游吳與去燕。同為未歸客。兩處人斷腸。一輪月生魄。（第四首）聊城。燕將嬰城日。孤軍井灶餘。太平無戰鬬。不用箭頭書。王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王穉登",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 3,
+          "span": "初十日"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 24,
+          "span": "黃翁"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "帖"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "他人"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "鹿"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 67,
+          "span": "太傅公"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "旅人"
+        },
+        {
+          "type": "Person",
+          "start": 100,
+          "end": 102,
+          "span": "趙君"
+        },
+        {
+          "type": "Person",
+          "start": 114,
+          "end": 116,
+          "span": "趙君"
+        }
+      ],
+      "sentence": "初十日寄書。復見趙將軍。得拜公書。讀之灑濯。黃翁言讕。甚不足憑。須歸商之。帖乃為他人獲鹿。可惜已。趙將軍籌邊有封狼居胥志。又能為太傅公留客。其為旅人積粻設次。所以慰藉之良厚。然非公即白面生安所得。此於趙君。故敢占數言謝公。不特感趙君已也。穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "穉登",
+      "author": "王穉登"
+    }
+  ]
+}

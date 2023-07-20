@@ -1,0 +1,277 @@
+{
+  "filefroms": "13812.json",
+  "sentences": [
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "景元",
+          "cid": 112167,
+          "name": "蕭漢中",
+          "aid": "A001241"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "安人",
+          "cid": 145967,
+          "name": "王成",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "丹青"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 22,
+          "span": "仕女嬰兒"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "張萱",
+          "cid": 130573,
+          "name": "張萱",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 62,
+          "span": "麟趾圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 75,
+          "span": "宋道",
+          "cid": 3803,
+          "name": "宋道",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 90,
+          "span": "殿寶御璽"
+        },
+        {
+          "type": "Time",
+          "start": 92,
+          "end": 95,
+          "span": "南渡後"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "文靜",
+          "cid": 84743,
+          "name": "茹綸常",
+          "aid": "A042262"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 114,
+          "span": "文博",
+          "cid": 108519,
+          "name": "彭卓",
+          "aid": "A017731"
+        },
+        {
+          "type": "PersonName",
+          "start": 121,
+          "end": 123,
+          "span": "彥弘",
+          "cid": 100727,
+          "name": "王洪",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 128,
+          "end": 132,
+          "span": "金粟道人",
+          "cid": 80901,
+          "name": "張朝桂",
+          "aid": "A018684"
+        },
+        {
+          "type": "Location",
+          "start": 134,
+          "end": 136,
+          "span": "燕臺"
+        },
+        {
+          "type": "Thing",
+          "start": 142,
+          "end": 144,
+          "span": "神物"
+        },
+        {
+          "type": "Time",
+          "start": 159,
+          "end": 166,
+          "span": "至正五年春三月"
+        },
+        {
+          "type": "Person",
+          "start": 172,
+          "end": 176,
+          "span": "書畫博士"
+        }
+      ],
+      "sentence": "周昉字景元。長安人。窮丹青之妙。多作仕女嬰兒。極穠麗豐腴之態。與張萱齊名。馳譽于時。但世遠代移。真蹟流傳。民間絕少。此麟趾圖一卷。精妙莫及者。昔為宋道君內庫秘藏之物。有緝熙殿寶御璽。迨南渡後散落人間。為少師朱文靜公得之。其孫文博。又鬻于浙人王彥弘處。近吾友金粟道人。從燕臺購之。誠所謂神物去來。自有呵護。而不泯滅者哉。至正五年春三月望。宣文閣鑒書畫博士虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "至正五年春三月"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 17,
+          "span": "書畫博士"
+        }
+      ],
+      "sentence": "至正五年春三月望。宣文閣鑒書畫博士虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "景元",
+          "cid": 112167,
+          "name": "蕭漢中",
+          "aid": "A001241"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 12,
+          "span": "即見者"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "麟趾圖"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 40,
+          "span": "仕女嬰兒"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 54,
+          "span": "作者"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 100,
+          "end": 102,
+          "span": "神靈"
+        },
+        {
+          "type": "Person",
+          "start": 106,
+          "end": 108,
+          "span": "邵菴"
+        },
+        {
+          "type": "Time",
+          "start": 118,
+          "end": 129,
+          "span": "至正九年歲次己丑秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 134,
+          "end": 136,
+          "span": "張雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "周景元畫世不多見。即見者皆贗本耳。此卷寫麟趾圖。行筆秀潤。位置古雅。與夫仕女嬰兒態度不一。宛然如生。後代作者。極欲摹效之。皆優孟衣冠。逈乎莫逮矣。但此卷傳世甚久。屢易收藏。尤絹素完好。精神煥發。得毋有神靈呵護耶。邵菴既賞之。予不敢多贅。至正九年歲次己丑秋七月。句曲外史張雨。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正九年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 11,
+          "span": "己丑秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "張雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "至正九年歲次己丑秋七月。句曲外史張雨。",
+      "author": "張雨"
+    }
+  ]
+}

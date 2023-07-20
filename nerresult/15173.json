@@ -1,0 +1,415 @@
+{
+  "filefroms": "15173.json",
+  "sentences": [
+    {
+      "authorcid": 45077,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "金陵",
+          "aid": "PL000000058470",
+          "cid": 402496
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "徐熙",
+          "cid": 45077,
+          "name": "徐熙",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "金陵徐熙",
+      "author": "徐熙"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "草蟲"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 24,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "夜燈"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 30,
+          "span": "婦"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 36,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 55,
+          "span": "山邨"
+        }
+      ],
+      "sentence": "忽為草蟲鳴（點去）憐。鳴秋亦自然。露涼朝砌下。月暗夜燈前。婦感催勤織。人嫌聒醉眠。禦寒邠雅載。忠愛自年年。山邨仇遠。",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "山邨"
+        }
+      ],
+      "sentence": "山邨仇遠",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "粉蝶"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "南園"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "柳帶"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "桃花"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "燕"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 43,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "簾幃"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 54,
+          "span": "風"
+        },
+        {
+          "type": "Location",
+          "start": 58,
+          "end": 60,
+          "span": "池塘"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 68,
+          "span": "至大二年"
+        }
+      ],
+      "sentence": "粉蝶翩翩若有期。南園長是到春歸。閒依柳帶參差起。因傍桃花獨自飛。潛被燕驚還散飛。偶因人逐入簾幃。晚來欲雨東風急。迴看池塘影漸稀。至大二年清和望虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大二年"
+        }
+      ],
+      "sentence": "至大二年清和望虞集",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 27606,
+      "authoraid": "A011787",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "粉翅"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 13,
+          "span": "日"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 15,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "蓼花"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 26,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 29,
+          "span": "劉辰翁",
+          "cid": 27606,
+          "name": "劉辰翁",
+          "aid": "A011787"
+        }
+      ],
+      "sentence": "粉翅嫩如水。繞砌且依風。日落山露解。飛入蓼花中。廬陵劉辰翁。",
+      "author": "劉辰翁"
+    },
+    {
+      "authorcid": 27606,
+      "authoraid": "A011787",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "劉辰翁",
+          "cid": 27606,
+          "name": "劉辰翁",
+          "aid": "A011787"
+        }
+      ],
+      "sentence": "廬陵劉辰翁",
+      "author": "劉辰翁"
+    },
+    {
+      "authorcid": 43732,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "游蜂"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 6,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "香鬚"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "胡蝶"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 40,
+          "span": "至正廿四年春三月"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "唐棣"
+        }
+      ],
+      "sentence": "游蜂紛撲競花繁。未到香鬚只自喧。盡日卻輸胡蝶計。鬧紅心裡默無言。至正廿四年春三月既望吳興唐棣。",
+      "author": "唐棣"
+    },
+    {
+      "authorcid": 43732,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "至正廿四年春三月"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "唐棣"
+        }
+      ],
+      "sentence": "至正廿四年春三月既望吳興唐棣",
+      "author": "唐棣"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 3,
+          "span": "北宋"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "徐熙",
+          "cid": 240476,
+          "name": "徐熙",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 11,
+          "span": "草蟲蝴蝶卷"
+        },
+        {
+          "type": "Time",
+          "start": 61,
+          "end": 67,
+          "span": "正德己卯三月"
+        },
+        {
+          "type": "Location",
+          "start": 67,
+          "end": 69,
+          "span": "枝山"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 74,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "右北宋徐熙畫草蟲蝴蝶卷。筆意精到。工奪造化。翩番遷趯搏。蠢動麗蔚之態與含靈秉性者無異。使得氣以充之。決非縑素間所蓄物也。正德己卯三月枝山樵人祝允明。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "正德己卯三月"
+        },
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 8,
+          "span": "枝山"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "正德己卯三月枝山樵人祝允明",
+      "author": "祝允明"
+    }
+  ]
+}

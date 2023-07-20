@@ -65,7 +65,7 @@ def predealh(sentences,limit=126):
         else:
             # print(len(sentence))
             newlist= huachuang(sentence,limit)
-            # print(len(newlist))
+            if len(newlist)>50:print("有长句:"+len(newlist))
             dealsents.append(newlist)
     return dealsents
 

@@ -1,0 +1,171 @@
+{
+  "filefroms": "5509.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "羽人"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "洪崖"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "天姥"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 26,
+          "span": "壬子"
+        },
+        {
+          "type": "Time",
+          "start": 27,
+          "end": 37,
+          "span": "西元一六一二年）歲暮"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 41,
+          "span": "董玄宰",
+          "cid": "unknow",
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "開此鴻濛荒。真成羽人宅。洪崖居可移。天姥夢亦得。壬子（西元一六一二年）歲暮。董玄宰畫。并題。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 25413,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "宗伯",
+          "cid": 147861,
+          "name": "宗伯",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "偉人",
+          "cid": 56849,
+          "name": "王傑",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "書畫"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "古人"
+        },
+        {
+          "type": "Person",
+          "start": 51,
+          "end": 53,
+          "span": "章元"
+        },
+        {
+          "type": "LocationName",
+          "start": 89,
+          "end": 92,
+          "span": "苑營丘",
+          "aid": "PL000000042100",
+          "cid": 4171
+        },
+        {
+          "type": "LocationName",
+          "start": 100,
+          "end": 102,
+          "span": "襄陽",
+          "cid": 17505
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 112,
+          "span": "臨潭帖"
+        },
+        {
+          "type": "Person",
+          "start": 143,
+          "end": 145,
+          "span": "從子"
+        },
+        {
+          "type": "Person",
+          "start": 152,
+          "end": 154,
+          "span": "仲兄"
+        },
+        {
+          "type": "Person",
+          "start": 155,
+          "end": 157,
+          "span": "仲兄"
+        },
+        {
+          "type": "PersonName",
+          "start": 158,
+          "end": 160,
+          "span": "宗伯",
+          "cid": 147861,
+          "name": "宗伯",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 180,
+          "end": 183,
+          "span": "陰道上",
+          "cid": 18348
+        },
+        {
+          "type": "Time",
+          "start": 185,
+          "end": 193,
+          "span": "崇禎丁丑仲秋八日"
+        }
+      ],
+      "sentence": "董宗伯閎才博學。一代偉人。書畫乃其餘伎。顧其生平嗜慕古人。實殫精畢力以窮其極。匪直升堂窺管而已。宋之元章元之文敏。使其同時。當與之並駈逐鹿。至於得意之作。或且勝一籌焉。此卷畫兼北苑營丘。壯觀楚辭。倣米襄陽。已稱合作。而臨潭帖。虛和婉暢。姿態百出。洋洋乎現會稽身而說法矣。向為余所藏。強為從子換去。既而復歸仲兄。仲兄蓄宗伯之跡甚多。而皆出此卷下。每一展觀。如行山陰道上也。崇禎丁丑仲秋八日。崇禮跋。",
+      "author": "趙崇禮"
+    },
+    {
+      "authorcid": 25413,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "崇禎丁丑仲秋八日"
+        }
+      ],
+      "sentence": "崇禎丁丑仲秋八日。崇禮跋。",
+      "author": "趙崇禮"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "filefroms": "1176.json",
+  "sentences": [
+    {
+      "authorcid": 101824,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大元年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三０八年"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "子明",
+          "cid": 29488,
+          "name": "史樞",
+          "aid": "A008164"
+        }
+      ],
+      "sentence": "至大元年（西元一三０八年）春孟望日。雲間任子明。",
+      "author": "任仁發"
+    }
+  ]
+}

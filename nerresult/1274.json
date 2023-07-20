@@ -1,0 +1,22 @@
+{
+  "filefroms": "1274.json",
+  "sentences": [
+    {
+      "authorcid": 42602,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "文矩",
+          "cid": 100506,
+          "name": "文矩",
+          "aid": "A014198"
+        }
+      ],
+      "sentence": "文矩（微缺）",
+      "author": "周文矩"
+    }
+  ]
+}

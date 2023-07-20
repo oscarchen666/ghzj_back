@@ -1,0 +1,572 @@
+{
+  "filefroms": "576.json",
+  "sentences": [
+    {
+      "authorcid": 28338,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "關圖",
+          "cid": 136182,
+          "name": "關圖",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 14,
+          "end": 16,
+          "span": "當代"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "李伯時",
+          "cid": 547642,
+          "name": "李伯時",
+          "aid": "A011507"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "長睿",
+          "cid": 7030,
+          "name": "黃伯思",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 46,
+          "span": "諸賢"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 59,
+          "end": 61,
+          "span": "李晞",
+          "cid": 37068,
+          "name": "李晞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 87,
+          "span": "七賢圖"
+        },
+        {
+          "type": "Person",
+          "start": 123,
+          "end": 125,
+          "span": "伯仲"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 129,
+          "span": "雁"
+        },
+        {
+          "type": "PersonName",
+          "start": 145,
+          "end": 148,
+          "span": "柯九思",
+          "cid": 28338,
+          "name": "柯九思",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "黃要叔七賢過關圖。以精絕聞于當代。至宋李伯時亦常圖之。黃長睿見而有映照前古之譽。要皆深得諸賢情懷閑逸之妙耳。此卷乃河陽李晞古唐之筆。當建炎間。晞古待詔畫苑。所作精工。此七賢圖。衣製古雅。筆畫雋逸。尤非平時簡易之作。余嘗承乏館閣。得覩祕府所藏。欲求伯仲要叔。雁行伯時。舍晞古吾誰信與。鑒書博士柯九思書。",
+      "author": "柯九思"
+    },
+    {
+      "authorcid": 28338,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "柯九思",
+          "cid": 28338,
+          "name": "柯九思",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "鑒書博士柯九思書",
+      "author": "柯九思"
+    },
+    {
+      "authorcid": 106010,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "作者"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "七子",
+          "cid": 67495,
+          "name": "朱瞻墺",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "衣冠"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "人物"
+        },
+        {
+          "type": "Time",
+          "start": 44,
+          "end": 47,
+          "span": "唐中朝"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 68,
+          "span": "青騾黃犢"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 71,
+          "span": "凍雨"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 76,
+          "span": "蹇驢瘦馬"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 79,
+          "span": "寒風"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 100,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 108,
+          "span": "梅"
+        },
+        {
+          "type": "Person",
+          "start": 116,
+          "end": 117,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 126,
+          "span": "高林大樹"
+        },
+        {
+          "type": "Thing",
+          "start": 148,
+          "end": 150,
+          "span": "粉墨"
+        },
+        {
+          "type": "PersonName",
+          "start": 162,
+          "end": 164,
+          "span": "畫師",
+          "cid": "unknow",
+          "name": "皎然",
+          "aid": "A008833"
+        },
+        {
+          "type": "Location",
+          "start": 178,
+          "end": 180,
+          "span": "屋梁"
+        },
+        {
+          "type": "Thing",
+          "start": 180,
+          "end": 182,
+          "span": "落月"
+        },
+        {
+          "type": "Person",
+          "start": 194,
+          "end": 195,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 198,
+          "end": 200,
+          "span": "袁安",
+          "cid": 359667,
+          "name": "袁安",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 206,
+          "end": 208,
+          "span": "王維",
+          "cid": 20100,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Thing",
+          "start": 210,
+          "end": 212,
+          "span": "雪衣"
+        },
+        {
+          "type": "Thing",
+          "start": 215,
+          "end": 217,
+          "span": "芭蕉"
+        },
+        {
+          "type": "Time",
+          "start": 218,
+          "end": 222,
+          "span": "至正元年"
+        },
+        {
+          "type": "Time",
+          "start": 225,
+          "end": 230,
+          "span": "辛巳春二月"
+        },
+        {
+          "type": "Time",
+          "start": 231,
+          "end": 236,
+          "span": "花辰後一日"
+        },
+        {
+          "type": "Location",
+          "start": 239,
+          "end": 243,
+          "span": "南屏精舍"
+        },
+        {
+          "type": "Location",
+          "start": 245,
+          "end": 248,
+          "span": "風馬琬"
+        }
+      ],
+      "sentence": "騷壇逸響何寥寥。作者逝矣誰能招。詵然七子美風度。乃有遺像圖生綃。衣冠半帶晉秀氣。人物絕是唐中朝。想當朝事得休暇。擬釆野景歸風謠。青騾黃犢踏凍雨。蹇驢瘦馬衝寒風炎。醉鞭笑停以按轡。吟鐙戲拍催聯鑣。看花多情且少待。尋梅有興非無聊。此圖我嘗見一二。高林大樹風蕭蕭。掃除閒冗存簡素。晞古筆老才尤超。方之粉墨巧塗淬。奚止天地相懸遼。畫師吮毫有深意。況自昔日傳今朝。屋梁落月見顏色。妙處不待窮摹描。君不見。袁安僵臥寒正驕。王維乃作雪衣里之芭蕉。至正元年。歲在辛巳春二月。花辰後一日。書于南屏精舍。扶風馬琬。",
+      "author": "馬琬"
+    },
+    {
+      "authorcid": 106010,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正元年"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 9,
+          "span": "(1341"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 18,
+          "span": "辛巳春二月"
+        },
+        {
+          "type": "Time",
+          "start": 19,
+          "end": 24,
+          "span": "花辰後一日"
+        },
+        {
+          "type": "Location",
+          "start": 27,
+          "end": 31,
+          "span": "南屏精舍"
+        }
+      ],
+      "sentence": "至正元年(1341)。歲在辛巳春二月。花辰後一日。書于南屏精舍。扶風馬琬。",
+      "author": "馬琬"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "七賢"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "過關圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "竹林",
+          "cid": 46925,
+          "name": "張翼",
+          "aid": "A011211"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 21,
+          "span": "作者七人"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 25,
+          "span": "題詠者"
+        },
+        {
+          "type": "Person",
+          "start": 41,
+          "end": 43,
+          "span": "人物"
+        },
+        {
+          "type": "Time",
+          "start": 45,
+          "end": 48,
+          "span": "開元間"
+        },
+        {
+          "type": "Time",
+          "start": 49,
+          "end": 52,
+          "span": "冬雪後"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 55,
+          "span": "張說",
+          "cid": 23071,
+          "name": "張說",
+          "aid": "A002473"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 59,
+          "span": "張九齡",
+          "cid": 3130,
+          "name": "張九齡",
+          "aid": "A019386"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 61,
+          "span": "李",
+          "cid": 113107,
+          "name": "釋可授",
+          "aid": "A012099"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "王維",
+          "cid": 208831,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "鄭虔",
+          "cid": 276220,
+          "name": "鄭虔",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 77,
+          "span": "孟浩然",
+          "cid": 93956,
+          "name": "孟浩然",
+          "aid": "A009889"
+        },
+        {
+          "type": "LocationName",
+          "start": 82,
+          "end": 84,
+          "span": "田關",
+          "cid": 5193
+        },
+        {
+          "type": "LocationName",
+          "start": 86,
+          "end": 89,
+          "span": "龍門寺",
+          "aid": "PL000000015187"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 92,
+          "span": "鄭虔",
+          "cid": 276220,
+          "name": "鄭虔",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 97,
+          "end": 100,
+          "span": "虞道園"
+        },
+        {
+          "type": "PersonName",
+          "start": 102,
+          "end": 105,
+          "span": "孟浩然",
+          "cid": 93956,
+          "name": "孟浩然",
+          "aid": "A009889"
+        },
+        {
+          "type": "Person",
+          "start": 116,
+          "end": 118,
+          "span": "七人"
+        },
+        {
+          "type": "PersonName",
+          "start": 122,
+          "end": 124,
+          "span": "一人",
+          "cid": 45196,
+          "name": "章以貴",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 134,
+          "end": 136,
+          "span": "李清",
+          "cid": 127893,
+          "name": "李清",
+          "aid": "A011608"
+        },
+        {
+          "type": "LocationName",
+          "start": 146,
+          "end": 148,
+          "span": "襄陽",
+          "cid": 17505
+        },
+        {
+          "type": "PersonName",
+          "start": 149,
+          "end": 151,
+          "span": "鄭虔",
+          "cid": 276220,
+          "name": "鄭虔",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 172,
+          "end": 174,
+          "span": "七賢"
+        },
+        {
+          "type": "Person",
+          "start": 194,
+          "end": 196,
+          "span": "諸賢"
+        },
+        {
+          "type": "Time",
+          "start": 221,
+          "end": 236,
+          "span": "嘉靖四年(1525)中秋後二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 239,
+          "end": 242,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "世傳七賢過關圖。或為竹林七賢。或為作者七人。題詠者漫無所考。其畫衣冠騎從。乃晉魏間人物。按開元間。冬雪後。張說。張九齡。李（漏一白字）。王維。鄭虔。孟浩然。聯轡出藍田關。遊龍門寺。鄭虔曾圖之。後虞道園有題孟浩然像云。風雪空堂破帽溫。七人圖衣里一人存。又槎溪張輅詩。二李清狂狎二張。吟邊遙指孟襄陽。鄭虔筆底春風滿。摩詰圖中詩興長。觀此則知應是此七賢也。晞古此卷。行筆設色。精密嚴重。而一時諸賢。可於圖中物色得之。展卷披對。能忘高山景行之想。時嘉靖四年(1525)中秋後二日。長洲文徵明識。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 16,
+          "span": "嘉靖四年(1525)中秋後二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "時嘉靖四年(1525)中秋後二日。長洲文徵明識。",
+      "author": "文徵明"
+    }
+  ]
+}

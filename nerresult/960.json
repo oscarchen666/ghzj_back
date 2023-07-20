@@ -1,0 +1,308 @@
+{
+  "filefroms": "960.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "桑苧"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "鴻"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "丹青"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "圖畫"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "雲山"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 30,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "桑苧未成鴻漸遠。丹青聊作虎頭癡。久知圖畫原非戲。到處雲山是我師。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 23238,
+      "authoraid": "A021942",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "秋山圖"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "遠山"
+        },
+        {
+          "type": "LocationName",
+          "start": 40,
+          "end": 42,
+          "span": "澄江",
+          "aid": "PL000000009389"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "老樹"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "人家"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 68,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "門"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "雞犬"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 83,
+          "span": "重林路"
+        },
+        {
+          "type": "Location",
+          "start": 84,
+          "end": 87,
+          "span": "烟霞洞"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 91,
+          "span": "獨木橋"
+        },
+        {
+          "type": "Location",
+          "start": 92,
+          "end": 95,
+          "span": "楊柳邨"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "賈舶"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "漁舟"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 130,
+          "span": "樓臺"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 153,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 155,
+          "end": 159,
+          "span": "水山真山"
+        },
+        {
+          "type": "Location",
+          "start": 172,
+          "end": 175,
+          "span": "山水間"
+        },
+        {
+          "type": "Person",
+          "start": 195,
+          "end": 196,
+          "span": "我"
+        },
+        {
+          "type": "Time",
+          "start": 208,
+          "end": 214,
+          "span": "永樂九年孟秋"
+        },
+        {
+          "type": "Location",
+          "start": 218,
+          "end": 221,
+          "span": "世德堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 226,
+          "end": 228,
+          "span": "王達",
+          "cid": 23238,
+          "name": "王達",
+          "aid": "A021942"
+        }
+      ],
+      "sentence": "承旨妙手天下無。生綃寫出秋山圖。飄揚天趣入三昧。點染意象爭錙銖。遠山糢糊近山碧。澄江一帶橫秋色。老樹參差曲岸妨。迴波搖蕩崩堤側。人家臨水俱開門。儼如雞犬聲相聞。重林路隔烟霞洞。獨木橋通楊柳邨。忽然突起作險狀。兩崖怪石森屏障。峰迴路轉勢復平。賈舶漁舟互來往。樓臺隱隱雲中起。疊嶂層巒青未已。諦觀此圖非等閒。水即真水山真山。虛堂觀處神骨爽。恍若置吾山水間。太樸聞君好事者。揮金購之不論價。索題愧我句未工。贏得胸襟一瀟灑。永樂九年孟秋既望書於世德堂。耐軒居士王達。",
+      "author": "王達"
+    },
+    {
+      "authorcid": 23238,
+      "authoraid": "A021942",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "永樂九年孟秋"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 13,
+          "span": "世德堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "王達",
+          "cid": 23238,
+          "name": "王達",
+          "aid": "A021942"
+        }
+      ],
+      "sentence": "永樂九年孟秋既望書於世德堂。耐軒居士王達。",
+      "author": "王達"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "楓林"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "荒岡"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 12,
+          "span": "落日青山"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "酒旗"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "紅葉"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 36,
+          "end": 38,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "楓林蕭颯繞荒岡。落日青山帶渺茫。認得酒旗邨釀熟。滿溪紅葉過魚支梁。延陵吳寬。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "延陵",
+          "cid": 12705
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "延陵吳寬",
+      "author": "吳寬"
+    }
+  ]
+}

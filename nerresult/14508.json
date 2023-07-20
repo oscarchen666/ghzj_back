@@ -1,0 +1,309 @@
+{
+  "filefroms": "14508.json",
+  "sentences": [
+    {
+      "authorcid": 41489,
+      "authoraid": "A010121",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "黃筌"
+        }
+      ],
+      "sentence": "黃筌",
+      "author": "黃筌"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "昔人"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "花鳥"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 73,
+          "span": "至正十二年秋"
+        },
+        {
+          "type": "Location",
+          "start": 78,
+          "end": 81,
+          "span": "清容齋"
+        },
+        {
+          "type": "PersonName",
+          "start": 91,
+          "end": 93,
+          "span": "張雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "昔人論（誤書倫）寫生為徐之野逸終遜黃筌之鈎勒。蓋此論之黃勝于徐矣。今觀此卷運腕精微。傳色炳燿。真得花鳥傳神描寫。殆不特精工鈎勒勝人也。至正十二年秋杪。獲觀于清容齋。漫識其尾。句曲外史張雨。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正十二年秋"
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 14,
+          "span": "清容齋"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "張雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "至正十二年秋杪。獲觀于清容齋。漫識其尾。句曲外史張雨。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28460,
+      "authoraid": "A007918",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "翠鬣紅毛"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "水禽"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "煙島"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 28,
+          "span": "寒塘"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "金扁瓦"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 46,
+          "span": "玉人"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 50,
+          "span": "蓮"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 55,
+          "span": "蘭橈女"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 68,
+          "span": "宣城貢師"
+        }
+      ],
+      "sentence": "翠鬣紅毛舞落暉。水禽情似此禽稀。暫分煙島猶迴首。祇過寒塘亦並飛。映霧昨迷金扁瓦。逐梭齊上玉人機。採蓮無限蘭橈女。笑指中流羨爾歸。宣城貢師泰題。",
+      "author": "貢師泰"
+    },
+    {
+      "authorcid": 28460,
+      "authoraid": "A007918",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "宣城",
+          "cid": 18381
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "貢師泰",
+          "cid": 28460,
+          "name": "貢師泰",
+          "aid": "A007918"
+        }
+      ],
+      "sentence": "宣城貢師泰題",
+      "author": "貢師泰"
+    },
+    {
+      "authorcid": 34385,
+      "authoraid": "A009023",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "青江浦"
+        }
+      ],
+      "sentence": "刷羽青江浦。交頸紫山岑。文章負奇色。和鳴多好音。勃海高啟。",
+      "author": "高啟"
+    },
+    {
+      "authorcid": 34385,
+      "authoraid": "A009023",
+      "output": [],
+      "sentence": "勃海高啟",
+      "author": "高啟"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "成化四年三月"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "方石"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 35,
+          "span": "先生輩"
+        },
+        {
+          "type": "LocationName",
+          "start": 39,
+          "end": 41,
+          "span": "京師",
+          "cid": 4342
+        }
+      ],
+      "sentence": "成化四年三月休日蕭題同靜觀。愧齋及西涯。體齋。方石。毌儀。汝賢諸先生輩。皆宦遊京師。獲觀於繼愚齋中。惟樂保重。",
+      "author": ""
+    },
+    {
+      "authorcid": 68260,
+      "authoraid": "A043755",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 3,
+          "end": 5,
+          "span": "鎮江",
+          "cid": 370
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "金陵",
+          "cid": 208814,
+          "name": "金陵",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 22,
+          "span": "黃筌花鳥真蹟"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "希世之寶"
+        },
+        {
+          "type": "Time",
+          "start": 30,
+          "end": 40,
+          "span": "成化二十三年三月一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 43,
+          "span": "楊一清",
+          "cid": 68260,
+          "name": "楊一清",
+          "aid": "A043755"
+        }
+      ],
+      "sentence": "北上抵鎮江。得金陵人來展此卷五代黃筌花鳥真蹟。迺希世之寶也。成化二十三年三月一日楊一清書。",
+      "author": "楊一清"
+    },
+    {
+      "authorcid": 68260,
+      "authoraid": "A043755",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "成化二十三年三月一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "楊一清",
+          "cid": 68260,
+          "name": "楊一清",
+          "aid": "A043755"
+        }
+      ],
+      "sentence": "成化二十三年三月一日楊一清書",
+      "author": "楊一清"
+    }
+  ]
+}

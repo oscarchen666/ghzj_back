@@ -1,0 +1,627 @@
+{
+  "filefroms": "13772.json",
+  "sentences": [
+    {
+      "authorcid": 25534,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "伯駒",
+          "cid": 75892,
+          "name": "紀鉅維",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "千里伯駒",
+      "author": "趙伯駒"
+    },
+    {
+      "authorcid": 27606,
+      "authoraid": "A011787",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 3,
+          "span": "太液池",
+          "aid": "PL000000057342"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "波濤"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "玻璃"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "滄海"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "三江七澤"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "星辰"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "池中"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "天河"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "清風"
+        },
+        {
+          "type": "LocationName",
+          "start": 60,
+          "end": 63,
+          "span": "蓬萊宮",
+          "aid": "PL000000042356"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "蓬萊",
+          "aid": "PL000000055457",
+          "cid": 4946
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "五雲"
+        },
+        {
+          "type": "Location",
+          "start": 72,
+          "end": 77,
+          "span": "池裡恩波鎮"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "金龍"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 90,
+          "span": "錦鯉"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 94,
+          "span": "浪花"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 115,
+          "span": "劉辰翁",
+          "cid": 27606,
+          "name": "劉辰翁",
+          "aid": "A011787"
+        }
+      ],
+      "sentence": "太液池。清漣漪。波濤萬頃開玻璃。氣蒸天地連滄海。三江七澤無光彩。星辰流光布池中。靈源遠與天河通。清風時來漾晴碧。參差照見蓬萊宮。蓬萊盤旋五雲轉。池裡恩波鎮長滿。金龍行雨水霧香。錦鯉吹春浪花暖。何似此中流福澤。千古萬古長清清。劉辰翁。",
+      "author": "劉辰翁"
+    },
+    {
+      "authorcid": 27606,
+      "authoraid": "A011787",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "劉辰翁",
+          "cid": 27606,
+          "name": "劉辰翁",
+          "aid": "A011787"
+        }
+      ],
+      "sentence": "劉辰翁",
+      "author": "劉辰翁"
+    },
+    {
+      "authorcid": 104858,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "瑤島仙真圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 12,
+          "span": "至正十二年冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "胡布",
+          "cid": 104858,
+          "name": "胡布",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "世人"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "神仙"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "手"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "日月"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 36,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "紫烟"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 69,
+          "span": "弱水"
+        },
+        {
+          "type": "Metric",
+          "start": 71,
+          "end": 74,
+          "span": "幾萬里"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "蟠桃"
+        },
+        {
+          "type": "Metric",
+          "start": 79,
+          "end": 82,
+          "span": "三千年"
+        },
+        {
+          "type": "Thing",
+          "start": 83,
+          "end": 86,
+          "span": "蟠桃花"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 93,
+          "span": "弱水"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 97,
+          "span": "銀河"
+        },
+        {
+          "type": "Person",
+          "start": 99,
+          "end": 101,
+          "span": "群仙"
+        },
+        {
+          "type": "Location",
+          "start": 103,
+          "end": 106,
+          "span": "瑤臺傍"
+        },
+        {
+          "type": "Thing",
+          "start": 115,
+          "end": 116,
+          "span": "手"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 122,
+          "span": "北斗釃瓊漿"
+        },
+        {
+          "type": "Thing",
+          "start": 123,
+          "end": 125,
+          "span": "海水"
+        },
+        {
+          "type": "Thing",
+          "start": 131,
+          "end": 134,
+          "span": "烏飛兔"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 153,
+          "span": "圖畫"
+        },
+        {
+          "type": "Person",
+          "start": 157,
+          "end": 159,
+          "span": "群仙"
+        },
+        {
+          "type": "Person",
+          "start": 176,
+          "end": 178,
+          "span": "女徒"
+        }
+      ],
+      "sentence": "瑤島仙真圖。至正十二年冬。建民胡布題。世人何曾識神仙。手弄日月行青天。我從少年即傾慕。便欲乘風凌紫烟。骨凡肉重不能去。時時想像心茫然。弱水東流幾萬里。蟠桃一實三千年。蟠桃花開春風香。弱水倒瀉銀河長。群仙晏處瑤臺傍。笑飲虛無游醉鄉。手提北斗釃瓊漿。海水吸盡天茫茫。烏飛兔走自朝暮。不管人世飛秋霜。今朝偶從圖畫裡。見此群仙呼不起。千里好事作此圖。誤用其筆為女徒。不若更張寫真貌。仙班濟濟朝瓊都。",
+      "author": "胡布"
+    },
+    {
+      "authorcid": 104858,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正十二年冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "胡布",
+          "cid": 104858,
+          "name": "胡布",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正十二年冬。建民胡布題。",
+      "author": "胡布"
+    },
+    {
+      "authorcid": 34387,
+      "authoraid": "A043868",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "萬歲山"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "峰巒"
+        },
+        {
+          "type": "Metric",
+          "start": 20,
+          "end": 23,
+          "span": "幾千丈"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 41,
+          "span": "石"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 45,
+          "span": "高臺雲"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 52,
+          "span": "丹崖翠壑"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 60,
+          "span": "金烏玉兔"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "太白",
+          "cid": 32540,
+          "name": "李白",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 86,
+          "span": "天雞"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 90,
+          "span": "海霧"
+        },
+        {
+          "type": "PersonName",
+          "start": 100,
+          "end": 102,
+          "span": "玉皇",
+          "cid": "unknow",
+          "name": "玉皇大帝",
+          "aid": "A019364"
+        },
+        {
+          "type": "Thing",
+          "start": 108,
+          "end": 110,
+          "span": "六龍"
+        },
+        {
+          "type": "Thing",
+          "start": 113,
+          "end": 115,
+          "span": "星虹"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 119,
+          "span": "凌星虹"
+        },
+        {
+          "type": "PersonName",
+          "start": 124,
+          "end": 126,
+          "span": "王母",
+          "cid": "unknow",
+          "name": "王母",
+          "aid": "A002387"
+        },
+        {
+          "type": "Thing",
+          "start": 126,
+          "end": 128,
+          "span": "蟠桃"
+        },
+        {
+          "type": "Thing",
+          "start": 140,
+          "end": 142,
+          "span": "麒麟"
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 145,
+          "span": "瑞鳳"
+        },
+        {
+          "type": "Time",
+          "start": 156,
+          "end": 163,
+          "span": "洪武四年春二月"
+        },
+        {
+          "type": "PersonName",
+          "start": 168,
+          "end": 170,
+          "span": "徐賁",
+          "cid": 34387,
+          "name": "徐賁",
+          "aid": "A043868"
+        }
+      ],
+      "sentence": "萬歲山。何穹窿。五嶽之祖天地宗。峰巒矗矗幾千丈。秀拔造化誰為工。五精揮霍運元氣。石作高臺雲作宮。丹崖翠壑閟深鬱。金烏玉兔經西東。崑崙太白不足擬其勢。祥烟佳氣萬古張鴻濛。天雞三唱海霧紅。千門萬戶開春風。玉皇手把天地秘。六龍馭駕凌星虹。凌星虹。樂無極。王母蟠桃今已實。鈞天九奏昭聖德。麒麟呈瑞鳳來儀。四海九州同壽域。洪武四年春二月既望。剡郡徐賁。",
+      "author": "徐賁"
+    },
+    {
+      "authorcid": 34387,
+      "authoraid": "A043868",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "洪武四年春二月"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "徐賁",
+          "cid": 34387,
+          "name": "徐賁",
+          "aid": "A043868"
+        }
+      ],
+      "sentence": "洪武四年春二月既望。剡郡徐賁。",
+      "author": "徐賁"
+    },
+    {
+      "authorcid": 127612,
+      "authoraid": "A008286",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "宣和",
+          "cid": 64383,
+          "name": "愛新覺羅鐸尼",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "孫公",
+          "cid": 149745,
+          "name": "孫公",
+          "aid": "A003890"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "趙希遠",
+          "cid": 99532,
+          "name": "趙希遠",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 45,
+          "span": "宗室",
+          "cid": 11842,
+          "name": "趙崇模",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "希遠",
+          "cid": 131673,
+          "name": "逯宏",
+          "aid": "A001990"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "白雲"
+        },
+        {
+          "type": "Time",
+          "start": 83,
+          "end": 88,
+          "span": "永樂十二年"
+        },
+        {
+          "type": "Location",
+          "start": 92,
+          "end": 94,
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 94,
+          "end": 96,
+          "span": "沈粲",
+          "cid": 127612,
+          "name": "沈粲",
+          "aid": "A008286"
+        }
+      ],
+      "sentence": "宣和天子開畫苑。畫史當時皆妙選。王孫公族總好此。精絕誰如趙希遠。君不見開元之中世尚文。宗室亦有李將軍。希遠師之得其妙。思陵寶重逾千鈞。展圖安得從爾去。相伴吹笙臥白雲。永樂十二年修禊日。雲間沈粲書。",
+      "author": "沈粲"
+    },
+    {
+      "authorcid": 127612,
+      "authoraid": "A008286",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "永樂十二年"
+        },
+        {
+          "type": "Location",
+          "start": 9,
+          "end": 11,
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "沈粲",
+          "cid": 127612,
+          "name": "沈粲",
+          "aid": "A008286"
+        }
+      ],
+      "sentence": "永樂十二年修禊日。雲間沈粲書。",
+      "author": "沈粲"
+    }
+  ]
+}

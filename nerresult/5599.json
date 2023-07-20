@@ -1,0 +1,128 @@
+{
+  "filefroms": "5599.json",
+  "sentences": [
+    {
+      "authorcid": 472036,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "康熙辛卯"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七一一年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "暮春"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 19,
+          "span": "友人"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 40,
+          "span": "好事者"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 57,
+          "span": "朱汝琳",
+          "cid": 472036,
+          "name": "朱汝琳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "康熙辛卯（西元一七一一年）暮春。招友人會集日所作。或寫或止。月餘乃成。倘遇好事者求。非日唫詩數百。不與易也。朱汝琳識。",
+      "author": "朱汝琳"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "蠅蠅"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "清露"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "金井"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "秋風"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "洞庭"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "己卯"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 74,
+          "span": "西元一七五九年"
+        }
+      ],
+      "sentence": "蠅蠅栩栩各通靈。蠕動肖翹畢肖形。誰辨方言及爾雅。無過久竹與青寧。飲惟清露瀼金井。怕是秋風嫋洞庭。卵濕化生一合相。恰都來聽法王經。己卯（西元一七五九年）夏御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "己卯"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七五九年"
+        }
+      ],
+      "sentence": "己卯（西元一七五九年）夏御題。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

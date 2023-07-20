@@ -1,0 +1,494 @@
+{
+  "filefroms": "5399.json",
+  "sentences": [
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "青松"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "小徑"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "綠樹"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "書卷"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 36,
+          "span": "公曜丁君"
+        },
+        {
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "桂君"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 91,
+          "span": "生客"
+        },
+        {
+          "type": "LocationName",
+          "start": 93,
+          "end": 95,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 95,
+          "end": 97,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "幽居緊並青松住。小徑斜連綠樹深。群聚晏然無個事。或開書卷或調琴。公曜丁君。每談其山居之樂。欲一遊之而未果。因讀桂君南軒記。恍如身入其中。領略諸名勝。予先補圖。他日乘興造之。庶不為生客耳。長洲沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 5,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "丁公",
+          "cid": "unknow",
+          "name": "丁",
+          "aid": "A009953"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 41,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 49,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 63,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 68,
+          "end": 70,
+          "span": "南者"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 77,
+          "span": "陽明",
+          "cid": 72362,
+          "name": "毛燧傳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 102,
+          "end": 104,
+          "span": "南方"
+        },
+        {
+          "type": "Thing",
+          "start": 105,
+          "end": 106,
+          "span": "火"
+        },
+        {
+          "type": "Location",
+          "start": 108,
+          "end": 110,
+          "span": "中央"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "萬物"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "百穀"
+        },
+        {
+          "type": "Person",
+          "start": 131,
+          "end": 133,
+          "span": "聖人"
+        },
+        {
+          "type": "Person",
+          "start": 171,
+          "end": 173,
+          "span": "公曜"
+        },
+        {
+          "type": "PersonName",
+          "start": 189,
+          "end": 191,
+          "span": "陽明",
+          "cid": 72362,
+          "name": "毛燧傳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 206,
+          "end": 208,
+          "span": "南風"
+        },
+        {
+          "type": "PersonName",
+          "start": 221,
+          "end": 223,
+          "span": "士友",
+          "cid": 20756,
+          "name": "聶周臣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 315,
+          "end": 316,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 336,
+          "end": 337,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 339,
+          "end": 340,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 379,
+          "end": 380,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 390,
+          "end": 396,
+          "span": "天順四年菊節"
+        },
+        {
+          "type": "LocationName",
+          "start": 397,
+          "end": 399,
+          "span": "慈溪",
+          "cid": 5408
+        }
+      ],
+      "sentence": "南軒記。客有告余曰。儒林丁公曜義士也。嘗作一室於所居之南。曰南軒。而因以為己號。吾不知其所處也。子為之客。必知其所志矣。盍為我言之。予謂南者離火之位。陽明之地也。於方為午。於時為夏。於行為金（點去）火。而南方之火實生中央之土。則萬物以時而暢茂。百穀以時而長成。故聖人則之。治必南面。而陽道行焉。則民物阜蕃。天地交泰。否則非矣。南之為義大矣哉。公曜之為是名。必其知卑辱幽汙之當去。陽明高朗之當陟者矣。觀其天日昭霽。南風扇涼。八窗洞開時。則與二三士友列坐其間。或誦詩。或彈琴。或味周孔之言。既暇則持觴飲醪。醉而後已。斯時也。視天地為一心。覩萬物為一體。有離陽長養之仁。無私陰否塞之氣。陶陶焉。如如焉。尚不知天地萬物其吾乎。吾其天地乎。客曰南軒之樂信樂矣。未聞樂及乎人也。是不然人之為人。道德在己。窮達在天。彼既以南方陽德。自樂於窮齋。則其達而為用。不過推是而已。客曰唯。遂書以為記。時天順四年菊節。慈溪桂新學書。",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "慈溪",
+          "cid": 5408
+        }
+      ],
+      "sentence": "慈溪桂新學書",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "德翁",
+          "cid": 19076,
+          "name": "任伯雨",
+          "aid": "A023133"
+        },
+        {
+          "type": "Metric",
+          "start": 26,
+          "end": 28,
+          "span": "三尺"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "絲桐"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "周召",
+          "cid": 321230,
+          "name": "周召",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "湖山",
+          "aid": "PL000000026405"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 54,
+          "span": "天子"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "臥龍"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "明師",
+          "cid": "unknow",
+          "name": "小明",
+          "aid": "A005613"
+        }
+      ],
+      "sentence": "為說南軒碩德翁。平生高潔許誰同。一枰其石局消長夏。三尺絲桐奏凱風。周召性情探不厭。湖山景致樂無窮。只今天子求賢急。指日應來起臥龍。四明師心生。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "明師",
+          "cid": "unknow",
+          "name": "小明",
+          "aid": "A005613"
+        }
+      ],
+      "sentence": "四明師心生",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "南軒"
+        }
+      ],
+      "sentence": "南軒。（八分書）。易菴。（楷書）。",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "易菴",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "軒榭"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "琴書"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "活火"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "商鼎"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "枯碁"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "晉枰"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 50,
+          "span": "鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 56,
+          "span": "梅"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 61,
+          "span": "水"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 67,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "梧影"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 80,
+          "span": "苔紋"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "西元一七四七年"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 109,
+          "span": "新春"
+        }
+      ],
+      "sentence": "軒榭灑然清。琴書許暢情。山蒼仁體現。樹古靜風生。活火烹商鼎。枯碁對晉枰。恍如佺羡侶。聨袂暴南榮。有鶴足稱清。無梅也覺情。水流還似昔。客到不嫌生。梧影團垂幕。苔紋亂㸃枰。古今商榷處。直欲傲桓榮。丁卯（西元一七四七年）新春御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四七年"
+        }
+      ],
+      "sentence": "丁卯（西元一七四七年）新春御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

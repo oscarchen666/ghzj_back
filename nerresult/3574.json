@@ -1,0 +1,38 @@
+{
+  "filefroms": "3574.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲寅"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一五五四年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "秋日"
+        }
+      ],
+      "sentence": "甲寅（西元一五五四年）秋日徵明寫。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "徵明",
+      "author": "文徵明"
+    }
+  ]
+}

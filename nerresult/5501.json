@@ -1,0 +1,273 @@
+{
+  "filefroms": "5501.json",
+  "sentences": [
+    {
+      "authorcid": 539025,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "唐人"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 23,
+          "span": "凌煙登瀛圖"
+        },
+        {
+          "type": "Person",
+          "start": 25,
+          "end": 27,
+          "span": "帝王"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "白公",
+          "cid": 86170,
+          "name": "顧朱",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 63,
+          "end": 67,
+          "span": "景慕興者"
+        },
+        {
+          "type": "LocationName",
+          "start": 69,
+          "end": 72,
+          "span": "陽洛陽",
+          "cid": 17491,
+          "aid": "PL000000023642"
+        },
+        {
+          "type": "LocationName",
+          "start": 78,
+          "end": 81,
+          "span": "山城南",
+          "aid": "PL000000048261",
+          "cid": 4596
+        },
+        {
+          "type": "PersonName",
+          "start": 82,
+          "end": 84,
+          "span": "君璧",
+          "cid": 13496,
+          "name": "常珙",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 92,
+          "end": 95,
+          "span": "朱澤民",
+          "cid": 540780,
+          "name": "朱澤民",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 97,
+          "end": 99,
+          "span": "睢陽",
+          "cid": 17408
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 118,
+          "span": "大訓河圖"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "北朱"
+        },
+        {
+          "type": "PersonName",
+          "start": 130,
+          "end": 132,
+          "span": "太常",
+          "cid": 142006,
+          "name": "何俛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 142,
+          "end": 144,
+          "span": "南朱"
+        },
+        {
+          "type": "PersonName",
+          "start": 152,
+          "end": 154,
+          "span": "太常",
+          "cid": 142006,
+          "name": "何俛",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 157,
+          "end": 159,
+          "span": "褒忠",
+          "cid": 14429,
+          "name": "吳從龍",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 162,
+          "end": 164,
+          "span": "爼豆"
+        },
+        {
+          "type": "PersonName",
+          "start": 197,
+          "end": 199,
+          "span": "大老",
+          "cid": 20647,
+          "name": "呂冲之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 235,
+          "end": 237,
+          "span": "畫者"
+        },
+        {
+          "type": "PersonName",
+          "start": 241,
+          "end": 244,
+          "span": "杜子美",
+          "cid": "unknow",
+          "name": "杜甫",
+          "aid": "A005221"
+        },
+        {
+          "type": "Person",
+          "start": 252,
+          "end": 255,
+          "span": "學書者"
+        },
+        {
+          "type": "Person",
+          "start": 256,
+          "end": 258,
+          "span": "世人"
+        },
+        {
+          "type": "Thing",
+          "start": 260,
+          "end": 263,
+          "span": "蘭亭面"
+        },
+        {
+          "type": "Thing",
+          "start": 269,
+          "end": 271,
+          "span": "金丹"
+        },
+        {
+          "type": "Metric",
+          "start": 280,
+          "end": 285,
+          "span": "七十有四歲"
+        },
+        {
+          "type": "Time",
+          "start": 308,
+          "end": 329,
+          "span": "皇明萬曆甲午（西元一五九四年）蠟月立明年春"
+        },
+        {
+          "type": "PersonName",
+          "start": 330,
+          "end": 332,
+          "span": "黃彪",
+          "cid": 539025,
+          "name": "黃彪",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "繪事得神為上。儼然生氣。惟唐人有焉。凌煙登瀛圖。由帝王動費不貲。莫可尚巳。白公以考槃繼美。執彩筆者。通達深造。故此本獨擅古今。景慕興者。睢陽洛陽耆英盛矣。崑山城南朱君璧家藏會昌本。北城朱澤民家藏睢陽本。邑舉斯文會。時出一觀。珍如大訓河圖。然北朱好文學。雖移於夏太常。不遠復有及第科級。南朱好飲慱。遂移於黃太常。太常褒忠臣列於爼豆。近因盜失。千里贖歸。有禎祥夫。圖繪小物也。興替關焉。何也。蓋榮壽大老。製作華國。紀載維風。係國家神氣。神氣復而元氣培。莫測所鍾。此理難言也。畫者亦間出。杜子美謂好手難再遇。即學書者。世人皆學蘭亭面。欲換凡骨無金丹。余遠遊好道而歸。七十有四歲矣。樓居謝客。重圖以繼絕。天假之年。神實相之。皇明萬曆甲午（西元一五九四年）蠟月立明年春。黃彪圖識。",
+      "author": "黃彪"
+    },
+    {
+      "authorcid": 130731,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 1,
+          "end": 3,
+          "span": "九老"
+        },
+        {
+          "type": "Time",
+          "start": 12,
+          "end": 22,
+          "span": "萬曆乙未歲冬十有一月"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "吳郡",
+          "cid": 26050
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "陸士仁",
+          "cid": 130731,
+          "name": "陸士仁",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（九老詩并序。文不錄。）萬曆乙未歲冬十有一月既望書。吳郡陸士仁。",
+      "author": "陸士仁"
+    },
+    {
+      "authorcid": 130731,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "萬曆乙未歲冬十有一月"
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "吳郡",
+          "cid": 26050
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 19,
+          "span": "陸士仁",
+          "cid": 130731,
+          "name": "陸士仁",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬曆乙未歲冬十有一月既望書。吳郡陸士仁。",
+      "author": "陸士仁"
+    }
+  ]
+}

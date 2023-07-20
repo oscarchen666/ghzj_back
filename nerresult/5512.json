@@ -1,0 +1,110 @@
+{
+  "filefroms": "5512.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "其昌",
+          "cid": 83860,
+          "name": "鄭瑞麒",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "季良",
+          "cid": 281970,
+          "name": "季良",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "其昌為季良兄寫意",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A009421",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "韓吏部",
+          "cid": 3332,
+          "name": "韓愈",
+          "aid": "A003947"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "華亭",
+          "cid": 64885,
+          "name": "奎英",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 59,
+          "end": 61,
+          "span": "稼堂",
+          "cid": 33903,
+          "name": "潘耒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 66,
+          "span": "金石刻"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 93,
+          "span": "朱彝尊",
+          "cid": "unknow",
+          "name": "朱彝尊",
+          "aid": "A009421"
+        },
+        {
+          "type": "Metric",
+          "start": 97,
+          "end": 99,
+          "span": "八十"
+        }
+      ],
+      "sentence": "書至右軍。而韓吏部目以俗字。信夫姿媚之不可尚已。近董華亭墨跡徧海內。多以姿媚見長。似此中藏骨肋。而外極自然。尤未易及。稼堂收集金石刻甚富。而椎拓雖工。終未若真蹟之神韻生動也。小長蘆朱彝尊識。時年八十。",
+      "author": "朱彝尊"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A009421",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "朱彝尊",
+          "cid": "unknow",
+          "name": "朱彝尊",
+          "aid": "A009421"
+        },
+        {
+          "type": "Metric",
+          "start": 10,
+          "end": 12,
+          "span": "八十"
+        }
+      ],
+      "sentence": "小長蘆朱彝尊識。時年八十。",
+      "author": "朱彝尊"
+    }
+  ]
+}

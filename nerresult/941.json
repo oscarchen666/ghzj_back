@@ -1,0 +1,393 @@
+{
+  "filefroms": "941.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "延祐五年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 18,
+          "span": "西元一三一八年）四月廿二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "延祐五年（西元一三一八年）四月廿二日。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "張公",
+          "cid": 149558,
+          "name": "張公",
+          "aid": "A009560"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 9,
+          "span": "同居圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "長卷"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "後人"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 30,
+          "span": "石"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 43,
+          "span": "陶淵明",
+          "cid": "unknow",
+          "name": "陶潛",
+          "aid": "A003245"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 46,
+          "span": "長沙",
+          "cid": "unknow",
+          "name": "景岑",
+          "aid": "A010618"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 56,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 76,
+          "end": 79,
+          "span": "杜子美",
+          "cid": "unknow",
+          "name": "杜甫",
+          "aid": "A005221"
+        },
+        {
+          "type": "PersonName",
+          "start": 81,
+          "end": 83,
+          "span": "孫濟",
+          "cid": 69541,
+          "name": "孫濟",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 121,
+          "end": 123,
+          "span": "長沙",
+          "cid": "unknow",
+          "name": "景岑",
+          "aid": "A010618"
+        },
+        {
+          "type": "PersonName",
+          "start": 138,
+          "end": 139,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 145,
+          "end": 147,
+          "span": "此卷"
+        },
+        {
+          "type": "Location",
+          "start": 148,
+          "end": 150,
+          "span": "几案"
+        },
+        {
+          "type": "Person",
+          "start": 157,
+          "end": 159,
+          "span": "葛虆"
+        },
+        {
+          "type": "Thing",
+          "start": 164,
+          "end": 166,
+          "span": "角弓"
+        },
+        {
+          "type": "PersonName",
+          "start": 182,
+          "end": 184,
+          "span": "安道",
+          "cid": 217,
+          "name": "張方平",
+          "aid": "A021946"
+        }
+      ],
+      "sentence": "此張公藝九世同居圖也。松雪翁繪為長卷。昭示後人。夫豈一水一石。娛心悅志者比哉。昔陶淵明贈長沙公詩云。同源分流。人易世疎。感彼行路。眷焉踟躕。蓋深傷之也。杜子美贈從孫濟。而不免于防猜。故其詩云。所來為宗族。亦不為盤飧。勿受外嫌猜。同姓古所敦。觀長沙公及濟之事。千載之下。未嘗不令人興歎。安得置此卷于几案。日三展視。使葛虆之刺不興。角弓之怨不作。則益于人者大矣。四明姚安道題。",
+      "author": "姚安道"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "四明"
+        }
+      ],
+      "sentence": "四明姚安道題",
+      "author": "姚安道"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        },
+        {
+          "type": "Person",
+          "start": 81,
+          "end": 85,
+          "span": "羽林騎衛"
+        },
+        {
+          "type": "Person",
+          "start": 132,
+          "end": 134,
+          "span": "蜀人"
+        }
+      ],
+      "sentence": "夫圖畫之理。未可盡言。皆法古而變今也。立萬象于胸中。傳千態於毫墨。子昂承旨。具有天縱。學力俱充。戲弄片楮。生氣盈溢。況此卷布景位置。種種匠心。天表之姿。龍威鳳臆。羽林騎衛。雲合景從。問者對者窺者聽者。如入壽張之境。履公藝之庭。妙哉技至此極矣。若將展玩。深宜精別也。蜀人虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "虞集",
+          "cid": 10801,
+          "name": "虞集",
+          "aid": "A008211"
+        }
+      ],
+      "sentence": "蜀人虞集",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 127657,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子昂",
+          "cid": 2058,
+          "name": "葉顒",
+          "aid": "A045743"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 33,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 35,
+          "end": 37,
+          "span": "京邸"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "孟公",
+          "cid": 75599,
+          "name": "安璿",
+          "aid": "A022631"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 57,
+          "span": "宋克",
+          "cid": 127657,
+          "name": "宋克",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "子昂余所見甚多。此卷筆力高古。色澤精妙。真不世之奇珍也。周正夫學士得之京邸。今歸劉孟公中秘。可謂得其主矣。廣平宋克。",
+      "author": "宋克"
+    },
+    {
+      "authorcid": 127657,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "廣平",
+          "cid": 16991
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "宋克",
+          "cid": 127657,
+          "name": "宋克",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "廣平宋克",
+      "author": "宋克"
+    },
+    {
+      "authorcid": 23238,
+      "authoraid": "A021942",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "張公",
+          "cid": 149558,
+          "name": "張公",
+          "aid": "A009560"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "白髮"
+        },
+        {
+          "type": "Person",
+          "start": 10,
+          "end": 12,
+          "span": "兒孫"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 26,
+          "span": "百年"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 50,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "王達",
+          "cid": 23238,
+          "name": "王達",
+          "aid": "A021942"
+        }
+      ],
+      "sentence": "張公白髮已盈簪。每為兒孫教戒深。一善傳家唯是寶。百年斯語重如金。學詩要盡庭前訓。忍字當□座右箴。□我披圖見詞翰。清風高節動儒林。耐軒居士王達。",
+      "author": "王達"
+    },
+    {
+      "authorcid": 23238,
+      "authoraid": "A021942",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "王達",
+          "cid": 23238,
+          "name": "王達",
+          "aid": "A021942"
+        }
+      ],
+      "sentence": "耐軒居士王達",
+      "author": "王達"
+    }
+  ]
+}

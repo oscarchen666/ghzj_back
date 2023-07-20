@@ -1,0 +1,1718 @@
+{
+  "filefroms": "1178.json",
+  "sentences": [
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "明隱",
+          "cid": "unknow",
+          "name": "明隱",
+          "aid": "A007011"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "錢唐",
+          "cid": 402525
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 24,
+          "span": "大癡道人",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        },
+        {
+          "type": "Time",
+          "start": 27,
+          "end": 41,
+          "span": "至元戊寅（西元一三三八年）秋"
+        }
+      ],
+      "sentence": "子明隱君將歸錢唐。需畫山居景。圖此贈別。大癡道人公望。至元戊寅（西元一三三八年）秋。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": 20280,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "成化丙戌九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "劉珏",
+          "cid": 20280,
+          "name": "劉珏",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "成化丙戌九月完菴劉珏鑑藏。",
+      "author": "劉珏"
+    },
+    {
+      "authorcid": 20280,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "成化丙戌九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "劉珏",
+          "cid": 20280,
+          "name": "劉珏",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "成化丙戌九月完菴劉珏鑑藏",
+      "author": "劉珏"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 37,
+          "span": "我"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "田盤"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "峰巒"
+        },
+        {
+          "type": "LocationName",
+          "start": 80,
+          "end": 82,
+          "span": "香山",
+          "aid": "PL000000000409",
+          "cid": 6075
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "雪江"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 129,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 136,
+          "end": 138,
+          "span": "德潛",
+          "cid": 11186,
+          "name": "傅知柔",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 172,
+          "span": "紙尾"
+        },
+        {
+          "type": "PersonName",
+          "start": 189,
+          "end": 192,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        },
+        {
+          "type": "Time",
+          "start": 202,
+          "end": 207,
+          "span": "乾隆丙寅（"
+        },
+        {
+          "type": "Time",
+          "start": 207,
+          "end": 218,
+          "span": "西元一七四六年）清和月"
+        }
+      ],
+      "sentence": "畫家貴正不貴。奇大癡此巻三昧知。天地造物匪物造。元氣裹合神淋漓。六法上乗我所喜。言之不足長言之。石渠寳笈惜未載。行幐書笥常相随。田盤小憩天成閣。展覺峰巒近列眉。香山岫雲足佳趣。以境質畫非然疑。乃知逢源任左右。是謂罔象合天倪。如入畫禪晤思白。摩詰雪江有所思。我欲壽之以佳作。德潛手筆猶能為。富春大嶺汝有記。弔古寤歎興嗟咨。試評此畫得所否。更須紙尾揮顔碑。每閱此卷愛玩不置。因命學士沈德潛題其後。而自紀以詩。乾隆丙寅（西元一七四六年）清和月。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四六年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 16,
+          "span": "清和月"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "乾隆丙寅（西元一七四六年）清和月御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 3,
+          "span": "乙丑夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 25,
+          "span": "黃子久",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 30,
+          "span": "富春山居圖"
+        },
+        {
+          "type": "Time",
+          "start": 44,
+          "end": 47,
+          "span": "是年冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 52,
+          "span": "黃子久",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 55,
+          "span": "山居圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "德潛",
+          "cid": 11186,
+          "name": "傅知柔",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 76,
+          "span": "文王",
+          "cid": "unknow",
+          "name": "宇文泰",
+          "aid": "A002055"
+        },
+        {
+          "type": "Person",
+          "start": 83,
+          "end": 85,
+          "span": "董鄒"
+        },
+        {
+          "type": "Person",
+          "start": 118,
+          "end": 119,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 129,
+          "end": 131,
+          "span": "德潛",
+          "cid": 11186,
+          "name": "傅知柔",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 144,
+          "end": 146,
+          "span": "德潛",
+          "cid": 11186,
+          "name": "傅知柔",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 151,
+          "end": 154,
+          "span": "春山居",
+          "aid": "PL000000011898"
+        },
+        {
+          "type": "PersonName",
+          "start": 163,
+          "end": 165,
+          "span": "安氏",
+          "cid": 528022,
+          "name": "安氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 170,
+          "end": 175,
+          "span": "明年丙寅冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 176,
+          "end": 178,
+          "span": "安氏",
+          "cid": 528022,
+          "name": "安氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 186,
+          "end": 188,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 193,
+          "end": 194,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 196,
+          "end": 201,
+          "span": "富春山居卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 209,
+          "end": 211,
+          "span": "蘇軾",
+          "cid": 3767,
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 214,
+          "end": 216,
+          "span": "韓幹",
+          "cid": 448745,
+          "name": "韓幹",
+          "aid": "A021998"
+        },
+        {
+          "type": "Thing",
+          "start": 217,
+          "end": 218,
+          "span": "馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 219,
+          "end": 222,
+          "span": "米友仁",
+          "cid": 1366,
+          "name": "米友仁",
+          "aid": "A023298"
+        },
+        {
+          "type": "PersonName",
+          "start": 234,
+          "end": 236,
+          "span": "傅恆",
+          "cid": 58396,
+          "name": "富察傅恆",
+          "aid": "A009462"
+        },
+        {
+          "type": "PersonName",
+          "start": 237,
+          "end": 239,
+          "span": "傅恆",
+          "cid": 58396,
+          "name": "富察傅恆",
+          "aid": "A009462"
+        },
+        {
+          "type": "Person",
+          "start": 268,
+          "end": 269,
+          "span": "朕"
+        },
+        {
+          "type": "Person",
+          "start": 270,
+          "end": 271,
+          "span": "朕"
+        },
+        {
+          "type": "Person",
+          "start": 292,
+          "end": 294,
+          "span": "黃子"
+        },
+        {
+          "type": "Thing",
+          "start": 295,
+          "end": 300,
+          "span": "富春山居圖"
+        },
+        {
+          "type": "Person",
+          "start": 331,
+          "end": 333,
+          "span": "內侍"
+        },
+        {
+          "type": "PersonName",
+          "start": 344,
+          "end": 347,
+          "span": "梁詩正",
+          "cid": 58587,
+          "name": "梁詩正",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 390,
+          "end": 393,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        },
+        {
+          "type": "PersonName",
+          "start": 410,
+          "end": 412,
+          "span": "德潛",
+          "cid": 11186,
+          "name": "傅知柔",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 413,
+          "end": 416,
+          "span": "高士奇",
+          "cid": 30853,
+          "name": "高士奇",
+          "aid": "A012522"
+        },
+        {
+          "type": "PersonName",
+          "start": 417,
+          "end": 420,
+          "span": "王鴻緒",
+          "cid": 55880,
+          "name": "王鴻緒",
+          "aid": "A011704"
+        },
+        {
+          "type": "Person",
+          "start": 429,
+          "end": 431,
+          "span": "賈直"
+        },
+        {
+          "type": "LocationName",
+          "start": 444,
+          "end": 447,
+          "span": "春山居",
+          "aid": "PL000000011898"
+        },
+        {
+          "type": "PersonName",
+          "start": 456,
+          "end": 458,
+          "span": "山居",
+          "cid": 35130,
+          "name": "楊瑀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 469,
+          "end": 470,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 509,
+          "end": 511,
+          "span": "舊人"
+        },
+        {
+          "type": "Metric",
+          "start": 532,
+          "end": 535,
+          "span": "二千金"
+        },
+        {
+          "type": "Thing",
+          "start": 626,
+          "end": 628,
+          "span": "舊圖"
+        },
+        {
+          "type": "Time",
+          "start": 640,
+          "end": 642,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 643,
+          "end": 650,
+          "span": "西元一七四六年"
+        },
+        {
+          "type": "Time",
+          "start": 653,
+          "end": 656,
+          "span": "後一日"
+        }
+      ],
+      "sentence": "乙丑夏沈德潛進其所為詩古文稿。幾暇披閱。則跋黃子久富春山居圖在焉。所記題跋收藏始末甚詳。是年冬偶得黃子久山居圖。筆墨蒼古。的係真蹟。而德潛文中所載沈文王董鄒氏五跋。有董鄒而缺其三。且多孔諤一跋。以為山居與富春自兩圖也。然愛其溪壑天成。動我吟興。乃有長言。亦命德潛和之。且詢其較富春為何如。德潛之跋。以富春山居。歸安氏為未得所。安氏不知也。越明年丙寅冬。安氏家中落。將出所藏古人舊蹟求售於人。持富春山居卷。并羲之袁生帖。蘇軾二賦。韓幹畫馬。米友仁瀟湘等圖。共若干種。以示傅恆。傅恆曰。是物也。饑不可食。寒不可衣。將安用之。居少間。恆舉以告朕。朕謂或者汝弗識耳。試將以來。剪燭粗觀。則居然黃子久富春山居圖也。五跋與德潛勿口。偶憶董跋與予舊題所謂山居圖者同。則命內侍出舊圖視之果同。次日命梁詩正等辨其真偽。乃咸以舊為真而新為偽。反覆詳覽。始知燈下駭以為更得富春者乃誤也。匪惟予誤。沈德潛之嗟咨歎賞。勒文以記者亦誤也。奚啻德潛。高士奇。王鴻緒輩之侈。賞鑑之精。賈直之重。以為豪舉者均誤也。富春山居。本屬一圖。向之題山居者遺富春二字。故雖真而人疑其非是耳。雖然摹董而即董。肖黃而即黃。蓋非近日俗工所能為。且其別種。亦有實出舊人手筆。而古香清韻。堪以繼武石渠寶笈者。概以二千金留之。予因之有深警焉。歎盛衰而歸夢幻。德潛蓋詳言之。玩物喪志。又不若不識者之為得矣。而況目迷五色。易眩鮮明於流覽。其尚可也。於出治用人其可乎哉。因一事乃獲三益。是不可以無記。爰書之於舊圖。而正其名曰富春山居云。丙寅（西元一七四六年）長至後一日。重華宮御識。並書。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四六年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 16,
+          "span": "後一日"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "御識"
+        }
+      ],
+      "sentence": "丙寅（西元一七四六年）長至後一日。重華宮御識。並書。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一七四六年）春月"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 23,
+          "span": "後一日"
+        }
+      ],
+      "sentence": "此係丙寅（西元一七四六年）春月題語。長至後一日再識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一七四六年）春月"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 23,
+          "span": "後一日"
+        }
+      ],
+      "sentence": "此係丙寅（西元一七四六年）春月題語。長至後一日再識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "子明",
+          "cid": 59205,
+          "name": "林文察",
+          "aid": "A008164"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "任仁發",
+          "cid": 101824,
+          "name": "任仁發",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "子明",
+          "cid": 59205,
+          "name": "林文察",
+          "aid": "A008164"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "松江",
+          "cid": 552932,
+          "name": "鄭澈",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 34,
+          "end": 38,
+          "span": "庸田副使"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 64,
+          "span": "其人"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "顧仁",
+          "cid": 64384,
+          "name": "顧仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 99,
+          "end": 101,
+          "span": "松人"
+        },
+        {
+          "type": "PersonName",
+          "start": 105,
+          "end": 107,
+          "span": "錢唐",
+          "cid": 66535,
+          "name": "錢唐",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 114,
+          "end": 116,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 124,
+          "end": 126,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 127,
+          "end": 134,
+          "span": "西元一七四六年"
+        }
+      ],
+      "sentence": "元史不載子明其人。惟明金賚畫史會要云。任仁發字子明。松江人。官至都水庸田副使。計其時代。與公望相同。且善書畫。氣類孚合。殆即其人耶。顧仁發官水監。而圖云隱君。或在其未仕前。抑或宦成歸隱。均未可知。至松人而曰將歸錢唐。或亦猶公望虞山人。而小隱富春也。丙寅（西元一七四六年）小寒重華宮御識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四六年"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "御識"
+        }
+      ],
+      "sentence": "丙寅（西元一七四六年）小寒重華宮御識",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "大癡道人",
+          "cid": "unknow",
+          "name": "黃公望",
+          "aid": "A003975"
+        },
+        {
+          "type": "Person",
+          "start": 27,
+          "end": 29,
+          "span": "人士"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "江山"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 103,
+          "span": "重林"
+        },
+        {
+          "type": "Location",
+          "start": 104,
+          "end": 108,
+          "span": "水郭烟村"
+        },
+        {
+          "type": "Person",
+          "start": 112,
+          "end": 116,
+          "span": "耕者讀者"
+        },
+        {
+          "type": "Time",
+          "start": 176,
+          "end": 188,
+          "span": "乾隆丙寅（西元一七四六年"
+        }
+      ],
+      "sentence": "大癡道人黃子久。詩中元白書顔栁。富春大嶺稱絶作。膾炙都人士之口。金題玉躞標山居。然疑即是富春否。展卷一室饒古香。華亭妙筆存圖右。品評精確書法高。以書例畫珍瓊玖。江山萬里無足奇。萬里以外箇中有。平沙遠渚隔重林。水郭烟村帶層阜。耕者讀者雜漁樵。天高地下適飛走。渾噩全無意匠營。都來量物随所受。宜令香光拜下風。倪迂范緩誰妍醜。不必什襲誇鑒藏。丁甲呵持自能壽。乾隆丙寅（西元一七四六年）榖雨日御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四六年"
+        }
+      ],
+      "sentence": "乾隆丙寅（西元一七四六年）榖雨日御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "山居",
+          "cid": 35130,
+          "name": "楊瑀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 20,
+          "span": "禪室裡"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "仙侶"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "予"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 58,
+          "span": "摩詰雪溪圖"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 61,
+          "span": "二物"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 65,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        },
+        {
+          "type": "Location",
+          "start": 65,
+          "end": 69,
+          "span": "畫禪室中"
+        },
+        {
+          "type": "Time",
+          "start": 77,
+          "end": 79,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 80,
+          "end": 91,
+          "span": "西元一七四七年）仲春月"
+        }
+      ],
+      "sentence": "識得山居子久傳。雪溪摩詰鈞舟扁。畫禪室裡羣仙侶。近日紛來參畫禪。予既辨明此卷。為子久富春山居真蹟。近又得此摩詰雪溪圖。二物皆董其昌畫禪室中所藏。因成斷句。丁卯（西元一七四七年）仲春月御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四七年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "仲春月"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 16,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "丁卯（西元一七四七年）仲春月御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "松柏"
+        },
+        {
+          "type": "Person",
+          "start": 41,
+          "end": 42,
+          "span": "我"
+        },
+        {
+          "type": "LocationName",
+          "start": 51,
+          "end": 54,
+          "span": "春山居",
+          "aid": "PL000000011898"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 57,
+          "span": "石渠",
+          "cid": 72897,
+          "name": "石渠",
+          "aid": "A004734"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 92,
+          "span": "樹"
+        },
+        {
+          "type": "Person",
+          "start": 112,
+          "end": 113,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 114,
+          "end": 115,
+          "span": "我"
+        },
+        {
+          "type": "Time",
+          "start": 119,
+          "end": 121,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 122,
+          "end": 129,
+          "span": "西元一七四七年"
+        },
+        {
+          "type": "Time",
+          "start": 130,
+          "end": 132,
+          "span": "仲春"
+        },
+        {
+          "type": "LocationName",
+          "start": 133,
+          "end": 136,
+          "span": "山行宮",
+          "aid": "PL000000000750",
+          "cid": 10541
+        },
+        {
+          "type": "Thing",
+          "start": 146,
+          "end": 150,
+          "span": "名山佳畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 161,
+          "end": 163,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "間氣所鍾。必也悠久。如彼松柏。夫豈蒲栁。名詎有定。繋乎人口。定者存焉。謀邑則否。繄我好古。圖左史右。富春山居。石渠瑛玖。問自何來。畫禪所有。為堂為霍。為嶠為阜。或宛而隆。或放而走。有樹風生。有澤虚受。三曡識言。愛忘其醜。爾因我傳我以爾壽。丁卯（西元一七四七年）仲春盤山行宮展玩。因用前韻再題。名山佳畫。相對怡神。致足樂也。乾隆御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "乾隆御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "高王",
+          "cid": 117804,
+          "name": "高王",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "王氏",
+          "cid": 62288,
+          "name": "王氏",
+          "aid": "A011871"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 55,
+          "span": "刀"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 60,
+          "span": "華亭晉陵"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 87,
+          "span": "元珠"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 92,
+          "span": "元珠"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "露柱"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 119,
+          "span": "燈籠"
+        },
+        {
+          "type": "Person",
+          "start": 146,
+          "end": 148,
+          "span": "詩人"
+        },
+        {
+          "type": "Time",
+          "start": 176,
+          "end": 181,
+          "span": "乾隆丁卯（"
+        },
+        {
+          "type": "Time",
+          "start": 181,
+          "end": 190,
+          "span": "西元一七四七年）春"
+        }
+      ],
+      "sentence": "富春疑案叅來久。今喜辨眀楊即栁。高王目迷何足云。壓倒徳潜談天口。我非博古侈精鑒。是是還應别否否。沈文王氏乃捉刀。華亭晉陵仍左右。始識流傳祇一圖。珷玞安可同瑶玖。笑予赤水索元珠。不識元珠吾固有。如浮海者必由河。如登山者必歷阜。縱云露柱即燈籠。坐令優孟望而走。每讀班賦發深思。貴耳末學多膚受。吳下詩人即趨闕。試與觀之應覺醜。還續長言當自訟。庶使此圖更因壽。乾隆丁卯（西元一七四七年）春正御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四七年"
+        }
+      ],
+      "sentence": "乾隆丁卯（西元一七四七年）春正御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "梅雨"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "林巒"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 32,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "古人"
+        },
+        {
+          "type": "Time",
+          "start": 87,
+          "end": 91,
+          "span": "乾隆戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 92,
+          "end": 99,
+          "span": "西元一七四八年"
+        }
+      ],
+      "sentence": "清和既杪。梅雨初霽。一再展玩是卷。覺林巒濕潤。氣象滃鬱圖間。令人想見朝嵐夕靄。變幻出沒之態。豈筆墨真通造化耶。古人論畫要。首曰氣曰韻。是卷惟氣韻生動。故隨時領略。難竟其趣也。乾隆戊辰（西元一七四八年）夏五御識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四八年"
+        },
+        {
+          "type": "Person",
+          "start": 15,
+          "end": 17,
+          "span": "御識"
+        }
+      ],
+      "sentence": "乾隆戊辰（西元一七四八年）夏五御識",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 47,
+          "end": 49,
+          "span": "河東",
+          "cid": 3561
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "扁舟"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "笠翁",
+          "cid": 65737,
+          "name": "李漁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 60,
+          "span": "寒江雪"
+        },
+        {
+          "type": "Time",
+          "start": 68,
+          "end": 72,
+          "span": "乾隆己巳"
+        },
+        {
+          "type": "Time",
+          "start": 73,
+          "end": 80,
+          "span": "西元一七四九年"
+        },
+        {
+          "type": "Time",
+          "start": 83,
+          "end": 86,
+          "span": "後三日"
+        }
+      ],
+      "sentence": "是圖致可愛玩。凡晦明風雨。展卷輒有會心。茲值晴輝積素。偶一臥遊。當日嚴陵高致。彷彿遇之。因誦柳河東扁舟簑笠翁。獨釣寒江雪之句。彌覺神往。乾隆己巳（西元一七四九年）長至後三日御識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "己巳"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四九年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 16,
+          "span": "後三日"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "御識"
+        }
+      ],
+      "sentence": "己巳（西元一七四九年）長至後三日御識",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "辛未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七五一年"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 18,
+          "span": "靈巖山",
+          "aid": "PL000000009263"
+        },
+        {
+          "type": "LocationName",
+          "start": 21,
+          "end": 23,
+          "span": "具區",
+          "aid": "PL000000008559"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 41,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "書室"
+        },
+        {
+          "type": "Location",
+          "start": 44,
+          "end": 46,
+          "span": "山麓"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 67,
+          "span": "山居",
+          "cid": 35130,
+          "name": "楊瑀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "辛未（西元一七五一年）南巡。登靈巖山。南眺具區。一望平遠無際。髣髴此段景色。沈德潛書室在山麓。嘗見其山居雜詠十律。因次韻賜之。予非山居者。而頗得山居之趣。斯圖其先導歟。御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "辛未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 13,
+          "span": "西元一七五一年）上巳"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 18,
+          "span": "錢塘",
+          "cid": 5333
+        },
+        {
+          "type": "LocationName",
+          "start": 21,
+          "end": 24,
+          "span": "湖行宮",
+          "aid": "PL000000011593"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 62,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "辛未（西元一七五一年）上巳。駐蹕錢塘。坐西湖行宮。山翠波光浮動。几案晴雨變幻。出奇無窮。惜不得子久為之寫照。因展卷題之。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "暮春之初"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "會稽",
+          "cid": 18349
+        },
+        {
+          "type": "Person",
+          "start": 11,
+          "end": 13,
+          "span": "昔人"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 20,
+          "span": "陰道上",
+          "cid": 18348
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 33,
+          "span": "富春諸山"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "螺髻"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 44,
+          "span": "雲外"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 63,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 68,
+          "span": "辛未"
+        },
+        {
+          "type": "Time",
+          "start": 69,
+          "end": 76,
+          "span": "西元一七五一年"
+        }
+      ],
+      "sentence": "暮春之初。南巡至會稽。昔人所云。山陰道上應接不暇者。隔江睇富春諸山。矗矗如螺髻。浮出雲外。睪然者久之。重披是圖。益為神往。乾隆御識。辛未（西元一七五一年）。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 6,
+          "span": "辛未"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 14,
+          "span": "西元一七五一年"
+        }
+      ],
+      "sentence": "乾隆御識辛未（西元一七五一年）",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 9,
+          "span": "甲戌"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 17,
+          "span": "西元一七五四年"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 23,
+          "span": "吉林"
+        },
+        {
+          "type": "Location",
+          "start": 25,
+          "end": 31,
+          "span": "蹕松阿里江上"
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 36,
+          "span": "沙渚烟邨"
+        },
+        {
+          "type": "Time",
+          "start": 54,
+          "end": 58,
+          "span": "八月九日"
+        }
+      ],
+      "sentence": "此圖數隨行笱。甲戌（西元一七五四年）東巡至吉林。駐蹕松阿里江上。沙渚烟邨。恍然圖中勝處。因於行在展卷。書之時八月九日也。御識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 7,
+          "span": "八月九日"
+        }
+      ],
+      "sentence": "書之時八月九日也御識",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 3,
+          "end": 5,
+          "span": "錢塘",
+          "cid": 5333
+        },
+        {
+          "type": "Location",
+          "start": 7,
+          "end": 11,
+          "span": "雲栖禪舍"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 15,
+          "span": "江岸"
+        },
+        {
+          "type": "PersonName",
+          "start": 30,
+          "end": 32,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 33,
+          "end": 38,
+          "span": "筆墨町畦外"
+        },
+        {
+          "type": "Time",
+          "start": 40,
+          "end": 42,
+          "span": "丁丑"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 53,
+          "span": "西元一七五七年）三月"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 55,
+          "span": "御識"
+        }
+      ],
+      "sentence": "南巡至錢塘。訪雲栖禪舍。訟江岸陸行。富春山色。了了在目。又遇山人於筆墨町畦外矣。丁丑（西元一七五七年）三月御識。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丁丑"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 13,
+          "span": "西元一七五七年）三月"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "御識"
+        }
+      ],
+      "sentence": "丁丑（西元一七五七年）三月御識",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

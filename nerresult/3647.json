@@ -1,0 +1,158 @@
+{
+  "filefroms": "3647.json",
+  "sentences": [
+    {
+      "authorcid": 438092,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "郎世寧",
+          "cid": 438092,
+          "name": "郎世寧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣郎世寧恭繪。",
+      "author": "郎世寧"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乙亥以來"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 10,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "勇士"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 82,
+          "span": "鐵騎"
+        },
+        {
+          "type": "Location",
+          "start": 90,
+          "end": 92,
+          "span": "伊犁"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "今春"
+        },
+        {
+          "type": "Person",
+          "start": 98,
+          "end": 100,
+          "span": "我軍"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "富德",
+          "cid": 62834,
+          "name": "富德",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 144,
+          "end": 146,
+          "span": "金鞭"
+        },
+        {
+          "type": "Thing",
+          "start": 157,
+          "end": 159,
+          "span": "雕弓"
+        },
+        {
+          "type": "Thing",
+          "start": 192,
+          "end": 193,
+          "span": "蜂"
+        },
+        {
+          "type": "Thing",
+          "start": 202,
+          "end": 203,
+          "span": "馬"
+        },
+        {
+          "type": "Thing",
+          "start": 205,
+          "end": 207,
+          "span": "沙蓬"
+        },
+        {
+          "type": "Person",
+          "start": 224,
+          "end": 226,
+          "span": "我軍"
+        },
+        {
+          "type": "PersonName",
+          "start": 272,
+          "end": 274,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "Person",
+          "start": 362,
+          "end": 364,
+          "span": "天子"
+        },
+        {
+          "type": "Time",
+          "start": 401,
+          "end": 405,
+          "span": "己卯長夏"
+        }
+      ],
+      "sentence": "乙亥以來有事戎。賴我眾力成膚功。重賞之下多勇士。捨身圖報群輸忠。舒布圖鎧實巨擘。三巴圖魯繼厥踪。後乃不可屈指數。就中瑪瑺尤稱雄。經卅餘戰皆首出。搴旗斬將誰爭鋒。鐵騎憑陵諸鄂拓。肅清伊犁揚英風。今春我軍急進援。富德率師如羆熊。瑪瑺命領塗路首。呼爾璊處賊迎攻。堂堂之陣賊辟易。瑺乃獨進躡寇窮。金鞭連策大宛馬。繡蝥不用用雕弓。一箭正中賊要害。再箭倉卒乃落空。三箭終殪賊墮馬。忽忘深入賊隊中。蜂屯蟻襍齊擁簇。瑺之馬斃倒沙蓬。捨馬步戰短兵接。叱咤凌厲氣如虹。我軍隨進瑺乃出。檢傷十處中其躬。以帛裹傷明復戰。義膽自有神帡幪。花門降胡咋舌歎。如此超勇聞何從。將軍一一據實奏。不奇其勇憐其衷。設非立志忠且壯。安能效命功名崇。馳驛令歸不可再。嫖姚賜第今堪同。席前備陳隕涕聽。厚賚覺未酬勳庸。仍歸禁旅領宿衛。若無曩勣撝謙沖。古來歸奏未央殿。卻聞天子不召見。墨爾根巴圖魯瑪瑺。斫陣殊勳。卓乎可紀。因命工繪圖。并作歌以誌其事。己卯長夏。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 7,
+          "span": "墨爾根巴圖魯瑪"
+        },
+        {
+          "type": "Time",
+          "start": 33,
+          "end": 37,
+          "span": "己卯長夏"
+        }
+      ],
+      "sentence": "墨爾根巴圖魯瑪瑺。斫陣殊勳。卓乎可紀。因命工繪圖。并作歌以誌其事。己卯長夏。御筆。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

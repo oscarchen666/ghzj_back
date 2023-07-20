@@ -1,0 +1,172 @@
+{
+  "filefroms": "3538.json",
+  "sentences": [
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "西廬"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 34,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "魚"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 49,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 78,
+          "span": "婦子"
+        },
+        {
+          "type": "Person",
+          "start": 92,
+          "end": 94,
+          "span": "王者"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "癸巳"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 110,
+          "span": "暮春月"
+        }
+      ],
+      "sentence": "或周或唐未可知。西廬定為周所爲。豪髪雖不踰繩墨。有生動意斯誠奇。取魚之具罔不備。取魚之法罔不施。我欲僂指舉其目。大約弗出皮陸詩。浮家泛宅固莫定。而有定焉婦子隨。幾迴撫卷興慨歎。是中豈無王者師。癸巳（西元一七七三年）暮春月御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸巳"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "暮春月"
+        }
+      ],
+      "sentence": "癸巳（西元一七七三年）暮春月御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 38000,
+      "authoraid": "A018580",
+      "output": [
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "東村"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "樹石"
+        },
+        {
+          "type": "Location",
+          "start": 62,
+          "end": 64,
+          "span": "東村"
+        },
+        {
+          "type": "PersonName",
+          "start": 85,
+          "end": 86,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 90,
+          "end": 92,
+          "span": "東村"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 103,
+          "span": "丁酉夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 108,
+          "span": "西廬老人",
+          "cid": 55432,
+          "name": "王時敏",
+          "aid": "A018580"
+        }
+      ],
+      "sentence": "六如師承東村。後有出藍之譽。以六如清放特甚。而東村豪髮不踰繩墨者也。此卷樹石古雅。人物生動。真得南宋規度。而少軼宕之筆。當是東村佳製。惜題跋俱已割裂。為周為唐。世無辨者。余則以為非東村不能有此作也。丁酉夏日。西廬老人王時敏識。",
+      "author": "王時敏"
+    },
+    {
+      "authorcid": 38000,
+      "authoraid": "A018580",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "丁酉夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 9,
+          "span": "西廬老人",
+          "cid": 55432,
+          "name": "王時敏",
+          "aid": "A018580"
+        }
+      ],
+      "sentence": "丁酉夏日。西廬老人王時敏識。",
+      "author": "王時敏"
+    }
+  ]
+}

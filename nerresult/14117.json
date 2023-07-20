@@ -1,0 +1,760 @@
+{
+  "filefroms": "14117.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "獨樂園圖"
+        }
+      ],
+      "sentence": "獨樂園圖",
+      "author": ""
+    },
+    {
+      "authorcid": 13580,
+      "authoraid": "A008330",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "溫公",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A005480"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 5,
+          "span": "西京"
+        },
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 10,
+          "span": "御史臺",
+          "cid": 220045
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 21,
+          "span": "尊賢坊",
+          "aid": "PL000000057586"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 39,
+          "span": "康節先生",
+          "cid": "unknow",
+          "name": "邵雍",
+          "aid": "A009461"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 47,
+          "span": "某陝人"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 52,
+          "span": "先生衛人"
+        },
+        {
+          "type": "Person",
+          "start": 58,
+          "end": 60,
+          "span": "鄉人"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 85,
+          "end": 86,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 90,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 97,
+          "end": 99,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 101,
+          "end": 102,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 111,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 116,
+          "end": 118,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 121,
+          "end": 122,
+          "span": "君"
+        },
+        {
+          "type": "Person",
+          "start": 160,
+          "end": 163,
+          "span": "河南尹"
+        },
+        {
+          "type": "Thing",
+          "start": 180,
+          "end": 182,
+          "span": "褐衣"
+        },
+        {
+          "type": "Time",
+          "start": 185,
+          "end": 188,
+          "span": "熙寧初"
+        },
+        {
+          "type": "Person",
+          "start": 201,
+          "end": 202,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 209,
+          "end": 211,
+          "span": "隱者"
+        },
+        {
+          "type": "Thing",
+          "start": 214,
+          "end": 216,
+          "span": "烏帽"
+        },
+        {
+          "type": "PersonName",
+          "start": 226,
+          "end": 230,
+          "span": "司馬溫公",
+          "cid": "unknow",
+          "name": "司馬光",
+          "aid": "A011348"
+        },
+        {
+          "type": "Thing",
+          "start": 247,
+          "end": 249,
+          "span": "朝服"
+        },
+        {
+          "type": "Thing",
+          "start": 250,
+          "end": 251,
+          "span": "馬"
+        },
+        {
+          "type": "Thing",
+          "start": 253,
+          "end": 255,
+          "span": "皮匣"
+        },
+        {
+          "type": "Thing",
+          "start": 256,
+          "end": 258,
+          "span": "深衣"
+        },
+        {
+          "type": "Location",
+          "start": 263,
+          "end": 266,
+          "span": "獨樂園"
+        },
+        {
+          "type": "PersonName",
+          "start": 273,
+          "end": 275,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 277,
+          "end": 279,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 284,
+          "end": 286,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 290,
+          "end": 292,
+          "span": "今人"
+        },
+        {
+          "type": "PersonName",
+          "start": 299,
+          "end": 301,
+          "span": "溫公",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A005480"
+        },
+        {
+          "type": "Time",
+          "start": 309,
+          "end": 312,
+          "span": "熙寧中"
+        },
+        {
+          "type": "LocationName",
+          "start": 313,
+          "end": 315,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "PersonName",
+          "start": 325,
+          "end": 327,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 329,
+          "end": 331,
+          "span": "韓公",
+          "cid": 135638,
+          "name": "韓蘭英",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 335,
+          "end": 339,
+          "span": "司馬溫公",
+          "cid": "unknow",
+          "name": "司馬光",
+          "aid": "A011348"
+        },
+        {
+          "type": "PersonName",
+          "start": 341,
+          "end": 343,
+          "span": "申公",
+          "cid": 476089,
+          "name": "王于宣",
+          "aid": "A042580"
+        },
+        {
+          "type": "Person",
+          "start": 344,
+          "end": 347,
+          "span": "士大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 358,
+          "end": 360,
+          "span": "餘人",
+          "cid": 71926,
+          "name": "王祖熙",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 371,
+          "end": 373,
+          "span": "二十",
+          "cid": 67928,
+          "name": "王渙",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 375,
+          "end": 377,
+          "span": "康節",
+          "cid": 737,
+          "name": "辛仲甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 398,
+          "end": 400,
+          "span": "後生"
+        },
+        {
+          "type": "PersonName",
+          "start": 421,
+          "end": 424,
+          "span": "司馬端",
+          "cid": 166812,
+          "name": "司馬端",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 434,
+          "end": 437,
+          "span": "朱敦儒",
+          "cid": 16669,
+          "name": "朱敦儒",
+          "aid": "A015226"
+        },
+        {
+          "type": "PersonName",
+          "start": 440,
+          "end": 442,
+          "span": "馬氏",
+          "cid": 67250,
+          "name": "馬氏",
+          "aid": "A017984"
+        },
+        {
+          "type": "LocationName",
+          "start": 448,
+          "end": 452,
+          "span": "都陶化坊",
+          "aid": "PL000000057577"
+        },
+        {
+          "type": "PersonName",
+          "start": 467,
+          "end": 468,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 477,
+          "end": 479,
+          "span": "五畝"
+        },
+        {
+          "type": "Thing",
+          "start": 480,
+          "end": 482,
+          "span": "亭堂"
+        },
+        {
+          "type": "Thing",
+          "start": 489,
+          "end": 490,
+          "span": "臺"
+        },
+        {
+          "type": "Thing",
+          "start": 502,
+          "end": 503,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 512,
+          "end": 516,
+          "span": "佳花怪石"
+        },
+        {
+          "type": "Thing",
+          "start": 524,
+          "end": 526,
+          "span": "園亭"
+        },
+        {
+          "type": "Person",
+          "start": 530,
+          "end": 533,
+          "span": "洛陽人"
+        },
+        {
+          "type": "Time",
+          "start": 536,
+          "end": 538,
+          "span": "初春"
+        },
+        {
+          "type": "Thing",
+          "start": 538,
+          "end": 540,
+          "span": "車馬"
+        },
+        {
+          "type": "Thing",
+          "start": 595,
+          "end": 597,
+          "span": "甘棠"
+        },
+        {
+          "type": "PersonName",
+          "start": 601,
+          "end": 603,
+          "span": "溫公",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A005480"
+        },
+        {
+          "type": "Person",
+          "start": 630,
+          "end": 632,
+          "span": "有人"
+        },
+        {
+          "type": "Person",
+          "start": 645,
+          "end": 647,
+          "span": "坡公"
+        },
+        {
+          "type": "Person",
+          "start": 650,
+          "end": 652,
+          "span": "兒童"
+        },
+        {
+          "type": "Person",
+          "start": 659,
+          "end": 661,
+          "span": "司馬"
+        },
+        {
+          "type": "Person",
+          "start": 675,
+          "end": 677,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 708,
+          "end": 710,
+          "span": "喬木"
+        },
+        {
+          "type": "Location",
+          "start": 713,
+          "end": 715,
+          "span": "樂園"
+        },
+        {
+          "type": "PersonName",
+          "start": 720,
+          "end": 722,
+          "span": "溫公",
+          "cid": 1488,
+          "name": "司馬光",
+          "aid": "A005480"
+        },
+        {
+          "type": "PersonName",
+          "start": 726,
+          "end": 728,
+          "span": "文清",
+          "cid": 62102,
+          "name": "文清",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 736,
+          "end": 738,
+          "span": "故園"
+        },
+        {
+          "type": "Location",
+          "start": 743,
+          "end": 745,
+          "span": "園林"
+        },
+        {
+          "type": "Thing",
+          "start": 757,
+          "end": 761,
+          "span": "青山流水"
+        },
+        {
+          "type": "Thing",
+          "start": 762,
+          "end": 764,
+          "span": "春草"
+        },
+        {
+          "type": "Thing",
+          "start": 765,
+          "end": 769,
+          "span": "翠竹野花"
+        },
+        {
+          "type": "PersonName",
+          "start": 820,
+          "end": 821,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 827,
+          "end": 829,
+          "span": "草屋"
+        },
+        {
+          "type": "Location",
+          "start": 833,
+          "end": 836,
+          "span": "園門側"
+        },
+        {
+          "type": "Location",
+          "start": 838,
+          "end": 841,
+          "span": "獨樂園"
+        },
+        {
+          "type": "Location",
+          "start": 843,
+          "end": 847,
+          "span": "洛中諸園"
+        },
+        {
+          "type": "PersonName",
+          "start": 853,
+          "end": 854,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 873,
+          "end": 876,
+          "span": "茶湯錢"
+        },
+        {
+          "type": "Person",
+          "start": 882,
+          "end": 884,
+          "span": "主人"
+        },
+        {
+          "type": "PersonName",
+          "start": 892,
+          "end": 894,
+          "span": "呂直",
+          "cid": 59735,
+          "name": "呂直",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 896,
+          "end": 897,
+          "span": "錢"
+        },
+        {
+          "type": "PersonName",
+          "start": 904,
+          "end": 905,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 930,
+          "end": 931,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 949,
+          "end": 953,
+          "span": "後十許日"
+        },
+        {
+          "type": "PersonName",
+          "start": 954,
+          "end": 955,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 956,
+          "end": 958,
+          "span": "園中"
+        },
+        {
+          "type": "Thing",
+          "start": 961,
+          "end": 963,
+          "span": "井亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 978,
+          "end": 979,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 986,
+          "end": 988,
+          "span": "元城",
+          "cid": 7045,
+          "name": "劉安世",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "溫公判西京留司御史臺。遂居洛。買園於尊賢坊。以獨樂名之。始與伯溫先君子康節先生游。嘗曰。某陝人。先生衛人。今同居洛。鄉人也。有如先生道學之尊。當以年德為貴。官職不足道也。公嘗問康節曰。某何如人。康節曰。君實腳踏實地人也。公深為知言。康節又曰。君實九分人也。其重之如此。（出邵氏聞見錄）。康節嘉祐中。以遺逸命官。辭之不從。河南尹遣官送告束力朝章。康節服以謝。即褐衣如初。熙寧初。再命官。再服以謝。且曰。吾不復仕矣。始為隱者之服。烏帽緇褐。見卿相不易也。司馬溫公依禮記作深衣。冠簪幅巾紳帶。每出。朝服乘馬。用皮匣貯深衣隨其後。入獨樂園。則衣之。嘗謂康節曰。先生可衣此乎。康節曰。雍為今人。當服今時衣。溫公歎其言合理。  熙寧中。洛陽以清德為朝廷尊禮者。大臣曰富韓公。侍從曰司馬溫公。呂申公。士大夫位卿監以清德早退者。十餘人。好學樂善有行義者。幾二十人。康節隱居謝聘。皆相從。忠厚之風。聞於天下。里中後生。皆知畏廉恥。欲行一事。必曰。無為不善。恐司馬端明邵先生知。  洛陽朱敦儒。序司馬氏顯崇集云。西都陶化坊之東南。窮巷靜深。有園曰獨樂。公著書游息之地。不滿五畝。亭堂三四。小且庳。臺一仞。有半沼。僅袤丈。結竹曰庵。種藥曰圃。無佳花怪石殊異之觀。視諸家園亭為甚儉。洛陽人好游。初春車馬爭馳騖。必以獨樂為先。始至門。則皆以手加額。誦公之德。游竟而出門。則又咨嗟歎息。惟公之思。嗚呼獨樂園者。召南之甘棠歟。  溫公治第洛中。闢園曰獨樂。其心憂樂。未始不在天下。自記云。有人肯同此樂。必再拜以獻之矣。坡公詩云。兒童誦君實。走卒知司馬。蓋名得人心也。又云。撫掌笑先生。年來效瘖瘂。疑未盡命名之意。（出詩話）。洪野處筆錄。有詩云。喬木參天獨樂園。至今仍是溫公宅。  文清曾公。遊獨樂寓居故園留詠。獨樂園林安在哉。當時為沼復為臺。青山流水自春草。翠竹野花餘劫灰。不是當家胸次有。何由舊觀眼中回。標題莫作新名字。更以清癯畫像來。  獨樂園子呂直者。性愚鯁。故公以直名之。有草屋兩間。在園門側。然獨樂園。在洛中諸園。最為簡素。人以公之故。春時必遊。洛中例。看園子所得茶湯錢。閉園日。與主人平分之。一日園子呂直。得錢十千。省來納。公問其故。以眾例對。曰。此自汝錢。可持去。再三欲留。公怒。遂持去。回顧曰。只端明不愛錢者。後十許日。公見園中新創一井亭。問之。乃前日不受十千所創也。公頗多之。事載劉元城先生語錄。即之記。",
+      "author": "張即之"
+    },
+    {
+      "authorcid": 13580,
+      "authoraid": "A008330",
+      "output": [],
+      "sentence": "即之記",
+      "author": "張即之"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "魏鄭公",
+          "cid": 95096,
+          "name": "魏徴",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "甘棠"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "孫哲",
+          "cid": 202766,
+          "name": "孫哲",
+          "aid": "A007730"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 37,
+          "span": "獨樂園圖"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "甘棠"
+        },
+        {
+          "type": "Person",
+          "start": 103,
+          "end": 105,
+          "span": "其人"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 113,
+          "span": "寶祐丁巳夏五"
+        }
+      ],
+      "sentence": "莫言。魏鄭公五世孫也。有故笏在。為時甘棠。溫國文正五世孫哲。家藏獨樂園圖。蓋其先於者見記之。真得之。亦今甘棠也。吁。世之遺芳餘烈。一再傳而弗念者。多矣。君儒雅好脩。有古君子操。豈襲其圖而已哉。其圖存。則其人存。寶祐丁巳夏五。泰初敬書。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "寶祐丁巳夏五"
+        }
+      ],
+      "sentence": "寶祐丁巳夏五。泰初敬書。",
+      "author": ""
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "filefroms": "5405.json",
+  "sentences": [
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "沈周",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "細泉"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "蒼烟"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "江洲"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "湖亭"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 21,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "新水"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 44,
+          "span": "石田先生",
+          "cid": 34784,
+          "name": "沈周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "輕風"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 58,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "畫品"
+        },
+        {
+          "type": "Person",
+          "start": 69,
+          "end": 71,
+          "span": "詩人"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 76,
+          "span": "王維",
+          "cid": 208831,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Person",
+          "start": 112,
+          "end": 114,
+          "span": "古人"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 144,
+          "end": 146,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 184,
+          "end": 186,
+          "span": "鳳凰"
+        },
+        {
+          "type": "Thing",
+          "start": 188,
+          "end": 190,
+          "span": "山雞"
+        },
+        {
+          "type": "Thing",
+          "start": 197,
+          "end": 199,
+          "span": "滄洲"
+        },
+        {
+          "type": "Person",
+          "start": 203,
+          "end": 204,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 220,
+          "end": 223,
+          "span": "吳淞水"
+        },
+        {
+          "type": "Person",
+          "start": 234,
+          "end": 236,
+          "span": "門生"
+        },
+        {
+          "type": "Location",
+          "start": 240,
+          "end": 244,
+          "span": "相城溪上"
+        },
+        {
+          "type": "Thing",
+          "start": 244,
+          "end": 246,
+          "span": "草烟"
+        },
+        {
+          "type": "Thing",
+          "start": 248,
+          "end": 252,
+          "span": "落木秋風"
+        },
+        {
+          "type": "PersonName",
+          "start": 258,
+          "end": 262,
+          "span": "石田先生",
+          "cid": 34784,
+          "name": "沈周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 262,
+          "end": 264,
+          "span": "長卷"
+        },
+        {
+          "type": "Time",
+          "start": 270,
+          "end": 276,
+          "span": "壬辰十月廿日"
+        }
+      ],
+      "sentence": "細泉汨汨落澗平。蒼烟不動江洲橫。湖亭欲上山滿目。新水浮空春雨晴。江南此景誰貌得。石田先生最神逸。輕風澹日總詩情。踈樹平皋俱畫格。由來畫品屬詩人。何況王維發興新。胸中爛熳富丘壑。信手塗抹皆天真。墨痕慘澹法古意。筆力簡遠無纖塵。古人論畫貴氣骨。先生老筆開嶙峋。近來俗手工摹儗。一圖朝出暮百紙。先生不辨亦不嗔。自謂適情聊復爾。豈知中有三昧在。可以意傳非色取。庸工惡札競投售。鳳凰一出山雞靡。山窓晨卷見滄洲。怳然坐我江湖裡。定應奪卻造化工。不然剪取吳淞水。只合此畫不可得。潦倒門生已頭白。相城溪上草烟空。落木秋風堪嘆息。偶閱石田先生長卷。漫賦識感。壬辰十月廿日。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "徵明",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "石田先生",
+          "cid": 34784,
+          "name": "沈周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "山川"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "畫筆"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 48,
+          "span": "楮尺素"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "筆"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 67,
+          "span": "古人"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "小卷"
+        },
+        {
+          "type": "Thing",
+          "start": 105,
+          "end": 107,
+          "span": "杼軸"
+        },
+        {
+          "type": "LocationName",
+          "start": 110,
+          "end": 112,
+          "span": "江東",
+          "aid": "PL000000000197",
+          "cid": 400071
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 124,
+          "span": "知鑒之士"
+        },
+        {
+          "type": "Time",
+          "start": 135,
+          "end": 143,
+          "span": "隆慶壬申十月朔日"
+        }
+      ],
+      "sentence": "石田先生博綜弘拓。胸中雅有萬里山川。不特丘壑云也。故其畫筆高視千古。從衡百氏。閒暇時檢有片楮尺素。悠然聽筆之所之。而才情風致。便與古人抗美。巨幅淋漓。小卷點綴。日異月殊。不見其重出也。此作髣髴巨然禹玉輩。而自有杼軸。信哉江東獨秀。一代之傑。知鑒之士。把玩之久。當自得之。隆慶壬申十月朔日。周天球題。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "隆慶壬申十月朔日"
+        }
+      ],
+      "sentence": "隆慶壬申十月朔日。周天球題。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 10882,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "山水"
+        }
+      ],
+      "sentence": "山水佳處。（篆書）。道復。（草書）。",
+      "author": "陳淳"
+    },
+    {
+      "authorcid": 10882,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "道復",
+      "author": "陳淳"
+    }
+  ]
+}

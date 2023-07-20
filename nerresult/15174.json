@@ -1,0 +1,515 @@
+{
+  "filefroms": "15174.json",
+  "sentences": [
+    {
+      "authorcid": 10806,
+      "authoraid": "A002712",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "山陰",
+          "cid": 18348
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "戴逵",
+          "cid": 10806,
+          "name": "戴逵",
+          "aid": "A002712"
+        }
+      ],
+      "sentence": "山陰戴逵",
+      "author": "戴逵"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003935",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "戴逵",
+          "cid": 10806,
+          "name": "戴逵",
+          "aid": "A002712"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 8,
+          "span": "剡山靈秀圖"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 16,
+          "span": "大觀二年春二月"
+        }
+      ],
+      "sentence": "晉戴逵剡山靈秀圖。大觀二年春二月御題。（押）。",
+      "author": "宋徽宗"
+    },
+    {
+      "authorcid": 3767,
+      "authoraid": "A003555",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "隱之",
+          "cid": 10220,
+          "name": "張文蔚",
+          "aid": "A000885"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "處士",
+          "cid": 26431,
+          "name": "家鉉翁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 24,
+          "span": "畫卷"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "雲物"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 60,
+          "span": "蘇軾",
+          "cid": 3767,
+          "name": "蘇軾",
+          "aid": "A003555"
+        }
+      ],
+      "sentence": "古來高隱之士藝事雖精。恆不屑以自見。如戴處士畫卷。雲物森然。意致高妙。真精於畫理而不以畫著。將無以高名掩耶。翰林學士蘇軾題。",
+      "author": "蘇軾"
+    },
+    {
+      "authorcid": 11658,
+      "authoraid": "A007887",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "戴安道",
+          "cid": "unknow",
+          "name": "戴逵",
+          "aid": "A002712"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "山水"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 51,
+          "span": "武陵王",
+          "cid": "unknow",
+          "name": "司馬晞",
+          "aid": "A045241"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "張載",
+          "cid": 11658,
+          "name": "張載",
+          "aid": "A007887"
+        }
+      ],
+      "sentence": "戴安道風尚高潔。放情山水。隱居剡谿徵辟皆不就。此卷林巒薈蔚。風格蒼古。一種傲睨之氣隱隱筆端。其對武陵王使者破琴不屑光景。政可想見。崇文院校書張載跋。",
+      "author": "張載"
+    },
+    {
+      "authorcid": 10803,
+      "authoraid": "A008213",
+      "output": [
+        {
+          "type": "Location",
+          "start": 1,
+          "end": 4,
+          "span": "山深處"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "樓閣"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "虬龍"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "絕壁"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "鸛鶴"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "山翁",
+          "cid": 51738,
+          "name": "劉汝進",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "雙屐"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "野客"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "碧舟"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 52,
+          "span": "霜林"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "丹丘"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "巴西",
+          "aid": "PL000000059751",
+          "cid": 13329
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 69,
+          "span": "鄧文原",
+          "cid": 10803,
+          "name": "鄧文原",
+          "aid": "A008213"
+        }
+      ],
+      "sentence": "剡山深處白雲浮。樓閣參差帶遠洲。千尺虬龍依絕壁。一群鸛鶴喚清秋。山翁有約憑雙屐。野客無心泝碧舟。最是霜林好風景。居然咫尺見丹丘。巴西鄧文原題。",
+      "author": "鄧文原"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "大德九年冬初十日"
+        }
+      ],
+      "sentence": "大德九年冬初十日杜時復敬臨畫一過。",
+      "author": "杜時復"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A016663",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "戴安",
+          "cid": 54078,
+          "name": "戴安",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 16,
+          "span": "畫"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "此卷"
+        }
+      ],
+      "sentence": "戴安道抗志烟霞。不樂當世。直以畫為寄耳。此卷意態閒遠。雲勢石勢高古天然。且歷年久遠而絹素若新。非天府之物\n何能有此。為題數語以志欣賞。老銕。",
+      "author": "楊維禎"
+    },
+    {
+      "authorcid": 28113,
+      "authoraid": "A020089",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "剡山"
+        },
+        {
+          "type": "Time",
+          "start": 12,
+          "end": 14,
+          "span": "初日"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 16,
+          "span": "江上"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "野樹"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "孤舟"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "丹青"
+        },
+        {
+          "type": "Person",
+          "start": 43,
+          "end": 45,
+          "span": "子徒"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "書畫"
+        },
+        {
+          "type": "Person",
+          "start": 54,
+          "end": 56,
+          "span": "晉人"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 65,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 71,
+          "span": "戴安道",
+          "cid": "unknow",
+          "name": "戴逵",
+          "aid": "A002712"
+        },
+        {
+          "type": "LocationName",
+          "start": 73,
+          "end": 75,
+          "span": "剡溪",
+          "aid": "PL000000013448"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 78,
+          "span": "剡溪"
+        },
+        {
+          "type": "LocationName",
+          "start": 80,
+          "end": 83,
+          "span": "山之下",
+          "aid": "PL000000013445"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 86,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 100,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 118,
+          "end": 120,
+          "span": "其人"
+        },
+        {
+          "type": "PersonName",
+          "start": 123,
+          "end": 126,
+          "span": "楊士奇",
+          "cid": 28113,
+          "name": "楊士奇",
+          "aid": "A020089"
+        }
+      ],
+      "sentence": "臥游渺萬里。剡山清曉秋。初日江上出。白雲坐際浮。莽蒼迷野樹。隱約見孤舟。丹青不可作。思子徒離憂。書畫之道當于晉人。自有一種風度可人心志。戴安道居家剡溪。剡溪在剡山之下。此卷乃其自寫所居之景。秀氣直撲人眉睫間。真是奇品。千古而下觀其畫想見其人。廬陵楊士奇題。",
+      "author": "楊士奇"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "山川"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "伊人",
+          "cid": 61089,
+          "name": "王廣心",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "竹籬"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "老松"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "高峰"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 69,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 100,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "山川靈秀稱江南。伊人小隱為結庵。竹籬茆舍頗自適。雲容水態曾相諳。老松落落蟠翠色。高峰矗矗烘朝嵐。興來掃筆作長幅。故知邱壑性所躭。三徑雖開人跡絶。先生杖策獨幽探。何須絶琹誇逸致。個中妙趣誰能參。長春居士題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "長春居士題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

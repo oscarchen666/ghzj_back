@@ -1,0 +1,40 @@
+{
+  "filefroms": "14124.json",
+  "sentences": [
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "庚申"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 15,
+          "span": "西元一五六０年）首夏六日"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 24,
+          "span": "蔬圃圖"
+        }
+      ],
+      "sentence": "庚申（西元一五六０年）首夏六日。包山陸治作蔬圃圖。",
+      "author": "陸治"
+    }
+  ]
+}

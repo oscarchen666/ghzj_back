@@ -1,0 +1,217 @@
+{
+  "filefroms": "13681.json",
+  "sentences": [
+    {
+      "authorcid": 25101,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "劉永年",
+          "cid": 25101,
+          "name": "劉永年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣劉永年畫",
+      "author": "劉永年"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "羽衣"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "玉杵"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "金水"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "菟苑"
+        },
+        {
+          "type": "LocationName",
+          "start": 46,
+          "end": 48,
+          "span": "長陽",
+          "cid": 17613
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 54,
+          "span": "寶月"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 67,
+          "span": "廣寒城"
+        },
+        {
+          "type": "Time",
+          "start": 68,
+          "end": 77,
+          "span": "至大二年秋九月三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 79,
+          "end": 82,
+          "span": "松雪齋",
+          "aid": "PL000000014219"
+        },
+        {
+          "type": "PersonName",
+          "start": 83,
+          "end": 85,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "題句。瑤空露淨羽衣明。玉杵千年藥已成。質返蒼黃還太素。氣涵金水叶元精。偏欣菟苑賴賿蒭豫。旨向長陽受獵驚。寶月乍窺仙影出。虛無如對廣寒城。至大二年秋九月三日題于松雪齋。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "至大二年秋九月三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 11,
+          "end": 14,
+          "span": "松雪齋",
+          "aid": "PL000000014219"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大二年秋九月三日題于松雪齋。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "寶珠"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "鵲橋"
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 31,
+          "span": "河邊"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "蟾影"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "月裡"
+        },
+        {
+          "type": "Person",
+          "start": 43,
+          "end": 45,
+          "span": "嫦娥"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 61,
+          "span": "蘭谿莎徑"
+        },
+        {
+          "type": "LocationName",
+          "start": 65,
+          "end": 67,
+          "span": "東郭",
+          "aid": "PL000000008795"
+        },
+        {
+          "type": "PersonName",
+          "start": 76,
+          "end": 80,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（乾隆青宮時題詩）一幅生綃擬廣寒。寶珠斜傍碧琅玕。鵲橋未向河邊駕。蟾影疑從月裡看。漫許嫦娥供搗藥。空傳抱朴欲和丹。蘭谿莎徑蕭閒甚。東郭何如箇裡安。寶親王長春居士題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 7,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "寶親王長春居士題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

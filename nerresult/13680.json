@@ -1,0 +1,179 @@
+{
+  "filefroms": "13680.json",
+  "sentences": [
+    {
+      "authorcid": 47873,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "□定二年春"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "陳居中",
+          "cid": 47873,
+          "name": "陳居中",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "□定二年春。陳居中畫。",
+      "author": "陳居中"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "馬奇",
+          "cid": 59322,
+          "name": "富察馬齊",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 45,
+          "end": 47,
+          "span": "澤池",
+          "aid": "PL000000047669"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 60,
+          "span": "韓幹",
+          "cid": 448745,
+          "name": "韓幹",
+          "aid": "A021998"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "甲午"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 74,
+          "span": "西元一七七四年"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 78,
+          "span": "仲春月"
+        }
+      ],
+      "sentence": "名筆方傳名馬奇。玉題錦贉稱裝池。圉人雖執長韁控。卓立還思千里馳。吉騮一例此權奇。洪豁逺於鹽澤池。畫肉中猶兼畫骨。肯敎韓幹獨名馳。甲午（西元一七七四年）仲春月御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲午"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七七四年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "仲春月"
+        }
+      ],
+      "sentence": "甲午（西元一七七四年）仲春月御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "西徠"
+        }
+      ],
+      "sentence": "仿彿西徠。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 0,
+          "end": 2,
+          "span": "八尺"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 15,
+          "span": "渥洼池"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "遠人"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "長安",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 35,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "八尺昂藏骨相奇。產來原是渥洼池。遠人知是朝廷重。牽入長安不敢馳。文徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "文徵明",
+      "author": "文徵明"
+    }
+  ]
+}

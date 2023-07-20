@@ -1,0 +1,358 @@
+{
+  "filefroms": "14408.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "芮國",
+          "aid": "PL000000005137"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 11,
+          "span": "波斯國",
+          "aid": "PL000000048412"
+        },
+        {
+          "type": "LocationName",
+          "start": 13,
+          "end": 15,
+          "span": "濟國",
+          "aid": "PL000000048616",
+          "cid": 25091
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "白題國"
+        },
+        {
+          "type": "Location",
+          "start": 20,
+          "end": 22,
+          "span": "靺國"
+        },
+        {
+          "type": "LocationName",
+          "start": 23,
+          "end": 26,
+          "span": "中天竺",
+          "aid": "PL000000048208"
+        },
+        {
+          "type": "LocationName",
+          "start": 27,
+          "end": 30,
+          "span": "獅子國",
+          "aid": "PL000000048734",
+          "cid": 500027
+        },
+        {
+          "type": "LocationName",
+          "start": 31,
+          "end": 34,
+          "span": "北天竺",
+          "aid": "PL000000055420"
+        },
+        {
+          "type": "Location",
+          "start": 38,
+          "end": 40,
+          "span": "槃陀"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "興國",
+          "cid": 5507,
+          "aid": "PL000000015116"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 48,
+          "span": "龜茲國"
+        },
+        {
+          "type": "LocationName",
+          "start": 49,
+          "end": 51,
+          "span": "倭國",
+          "aid": "PL000000048414"
+        },
+        {
+          "type": "Location",
+          "start": 52,
+          "end": 55,
+          "span": "高驪國"
+        },
+        {
+          "type": "LocationName",
+          "start": 57,
+          "end": 59,
+          "span": "闐國",
+          "cid": 14479
+        },
+        {
+          "type": "LocationName",
+          "start": 61,
+          "end": 63,
+          "span": "羅國",
+          "aid": "PL000000048606",
+          "cid": 500022
+        },
+        {
+          "type": "LocationName",
+          "start": 65,
+          "end": 67,
+          "span": "昌國",
+          "cid": 25077
+        },
+        {
+          "type": "LocationName",
+          "start": 68,
+          "end": 71,
+          "span": "狼牙脩",
+          "aid": "PL000000049630"
+        },
+        {
+          "type": "Location",
+          "start": 72,
+          "end": 75,
+          "span": "鄧至國"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 79,
+          "span": "周古柯"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 83,
+          "span": "阿跋檀"
+        },
+        {
+          "type": "LocationName",
+          "start": 85,
+          "end": 87,
+          "span": "平蜑",
+          "cid": 4554
+        },
+        {
+          "type": "Location",
+          "start": 88,
+          "end": 91,
+          "span": "女蜑國"
+        }
+      ],
+      "sentence": "□□□。芮芮國。波斯國。百濟國。白題國。靺國。中天竺。獅子國。北天竺。曷槃陀。武興國。龜茲國。倭國。高驪國。于闐國。新羅國。宕昌國。狼牙脩。鄧至國。周古柯。阿跋檀。建平蜑。女蜑國。",
+      "author": ""
+    },
+    {
+      "authorcid": 34722,
+      "authoraid": "A000205",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "古先",
+          "cid": "unknow",
+          "name": "古先",
+          "aid": "A022867"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "鎬宮"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "武王",
+          "cid": "unknow",
+          "name": "禿髮烏孤",
+          "aid": "A006560"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "王會",
+          "cid": 126770,
+          "name": "王會",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 71,
+          "span": "桂海冰天"
+        },
+        {
+          "type": "Thing",
+          "start": 82,
+          "end": 83,
+          "span": "火"
+        },
+        {
+          "type": "Person",
+          "start": 98,
+          "end": 99,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 198,
+          "end": 201,
+          "span": "王會圖"
+        },
+        {
+          "type": "Thing",
+          "start": 204,
+          "end": 206,
+          "span": "滇池"
+        },
+        {
+          "type": "Thing",
+          "start": 212,
+          "end": 213,
+          "span": "狼"
+        },
+        {
+          "type": "Thing",
+          "start": 227,
+          "end": 229,
+          "span": "黑水"
+        },
+        {
+          "type": "Person",
+          "start": 247,
+          "end": 249,
+          "span": "巴俞"
+        },
+        {
+          "type": "PersonName",
+          "start": 323,
+          "end": 325,
+          "span": "王會",
+          "cid": 126770,
+          "name": "王會",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 352,
+          "end": 354,
+          "span": "吳君",
+          "cid": 122134,
+          "name": "吳君",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "古先哲王。區分中外。重譯來王。厥德乃大。成周之隆。八方會同。各以其職。來獻鎬宮。丕承武王。垂拱而治。爰作王會。貽法厥世。日域月出骨。桂海冰天。踰沙軼幕。叩關請前。火齊錯落。浮琛沈羽。道路如織。歸我天府。春王三朝。九夷賓將。庭燎晰晰。璧玉華光。削衽解辮。十百其耦。象胥舌人。儐相先後。施于後世。爰及有唐。貞觀之治。洽于要荒。朝貢紛紜。服章詭異。惟天可汗。是依是庇。乃詔曲臺。乃命鴻臚。乃命良工。繪王會圖。咫尺滇池。跬步瀚海。狼居龍堆。滅沒揜靄。丹厓鑠石。黑水流澌。一幅之間。氣候屢移。龜茲之樂。巴俞之舞。登於縑素。騫其欲舉。昭揭邃宇\n。以遠休聲。群公縱觀。劍珮鏘鳴。維圖之設。有勸有戒。惇德允元。蠻夷冠帶。聖皇鑒此。無怠無荒。日益月增。山梯海航。王會未書。職會莫紀。時而颺之。以對嘉祉。右余館試王會圖贊。吳君攜此卷請書。聊為書之。損庵堂。",
+      "author": "王肯堂"
+    },
+    {
+      "authorcid": 34722,
+      "authoraid": "A000205",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "王會圖",
+          "cid": 329992,
+          "name": "王會圖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "吳君",
+          "cid": 122134,
+          "name": "吳君",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "庵堂"
+        }
+      ],
+      "sentence": "右余館試王會圖贊。吳君攜此卷請書。聊為書之。損庵堂。",
+      "author": "王肯堂"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "重譯共球。乾隆御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "乾隆御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "閻立本",
+          "cid": 94626,
+          "name": "閻立本",
+          "aid": "A009019"
+        }
+      ],
+      "sentence": "唐閻立本王會圖",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

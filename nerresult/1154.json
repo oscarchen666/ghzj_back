@@ -1,0 +1,318 @@
+{
+  "filefroms": "1154.json",
+  "sentences": [
+    {
+      "authorcid": 3998,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正五年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西年一三四五年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "春仲"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "王淵",
+          "cid": 3998,
+          "name": "王淵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正五年（西年一三四五年）春仲。錢唐王淵。",
+      "author": "王淵"
+    },
+    {
+      "authorcid": 113490,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "江梅"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "杏花"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "蝶翅"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "蜂鬚"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "玉山",
+          "aid": "PL000000010012",
+          "cid": 5448
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 37,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "江梅已過杏花初。尚怯春寒著蕊疎。待得重來幾枝在。半隨蝶翅半蜂鬚。玉山顧阿瑛。",
+      "author": "顧德輝"
+    },
+    {
+      "authorcid": 113490,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "玉山",
+          "aid": "PL000000010012",
+          "cid": 5448
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "顧阿瑛",
+          "cid": 113487,
+          "name": "顧阿瑛",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "玉山顧阿瑛",
+      "author": "顧德輝"
+    },
+    {
+      "authorcid": 106010,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "艷陽"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "樊川"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "樓臺"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "一枝"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 54,
+          "span": "手"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 81,
+          "span": "朱鉛"
+        },
+        {
+          "type": "Person",
+          "start": 84,
+          "end": 86,
+          "span": "潘妃"
+        },
+        {
+          "type": "PersonName",
+          "start": 89,
+          "end": 91,
+          "span": "昭君",
+          "cid": 135318,
+          "name": "王嬙",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 94,
+          "end": 96,
+          "span": "雪浪"
+        },
+        {
+          "type": "Person",
+          "start": 115,
+          "end": 117,
+          "span": "瓊英"
+        },
+        {
+          "type": "Person",
+          "start": 121,
+          "end": 123,
+          "span": "何人"
+        },
+        {
+          "type": "Time",
+          "start": 131,
+          "end": 139,
+          "span": "至正十六年春三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 144,
+          "end": 146,
+          "span": "文璧",
+          "cid": 19121,
+          "name": "文璧",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "素肌應怯餘寒。艷陽占盡青蕪地。樊川照日。靈關遮路。殘紅歛避。傳火樓臺。妬花風雨長門深閉。亞簾櫳半濕。一枝在手。偏勾引。黃昏淚。別有風前月底。布繁陰。滿園歌吹。朱鉛退盡。潘妃卻酒。昭君乍起。雪浪翻空。粉裳縞夜。不成春意。恨玉容不見。瓊英謾好。與何人比。調寄水龍吟。至正十六年春三月。扶風馬琬文璧。",
+      "author": "馬琬"
+    },
+    {
+      "authorcid": 106010,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "文璧",
+          "cid": 19121,
+          "name": "文璧",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "扶風馬琬文璧",
+      "author": "馬琬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "綠岸"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "梅雨"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 28,
+          "span": "紅樓"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "杏梁"
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 36,
+          "span": "閑几硯中"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "落花"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 54,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "流鶯"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "吳睿",
+          "cid": 102335,
+          "name": "吳睿",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "年去年來來去忙。春寒煙暝度瀟湘。低飛綠岸和梅雨。亂入紅樓揀杏梁。閑几硯中窺水淺。落花徑裡得泥香。千言萬語無人會。又逐流鶯過短土嗇。濮陽吳睿。",
+      "author": "吳叡"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "濮陽",
+          "cid": 10172
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳睿",
+          "cid": 102335,
+          "name": "吳睿",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "濮陽吳睿",
+      "author": "吳叡"
+    }
+  ]
+}

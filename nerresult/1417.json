@@ -1,0 +1,340 @@
+{
+  "filefroms": "1417.json",
+  "sentences": [
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "吳下人"
+        },
+        {
+          "type": "Person",
+          "start": 7,
+          "end": 9,
+          "span": "俞公"
+        },
+        {
+          "type": "Location",
+          "start": 41,
+          "end": 43,
+          "span": "園池"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "禽魚"
+        },
+        {
+          "type": "LocationName",
+          "start": 54,
+          "end": 56,
+          "span": "湖上",
+          "aid": "PL000000012165"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "宅中",
+          "cid": 51791,
+          "name": "劉絳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 76,
+          "span": "水竹居"
+        },
+        {
+          "type": "Person",
+          "start": 82,
+          "end": 84,
+          "span": "兵後"
+        },
+        {
+          "type": "Person",
+          "start": 88,
+          "end": 90,
+          "span": "軍卒"
+        },
+        {
+          "type": "LocationName",
+          "start": 95,
+          "end": 98,
+          "span": "陵南湖",
+          "aid": "PL000000012165"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 104,
+          "span": "竹"
+        },
+        {
+          "type": "Location",
+          "start": 114,
+          "end": 116,
+          "span": "城中"
+        },
+        {
+          "type": "Person",
+          "start": 122,
+          "end": 124,
+          "span": "俞尹"
+        },
+        {
+          "type": "PersonName",
+          "start": 143,
+          "end": 145,
+          "span": "舉子",
+          "cid": 542280,
+          "name": "洪搏",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 156,
+          "end": 159,
+          "span": "水竹居"
+        },
+        {
+          "type": "Person",
+          "start": 160,
+          "end": 162,
+          "span": "吳人"
+        },
+        {
+          "type": "Thing",
+          "start": 171,
+          "end": 172,
+          "span": "竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 181,
+          "end": 183,
+          "span": "吳中",
+          "cid": 102245,
+          "name": "吳中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 199,
+          "end": 204,
+          "span": "至正壬寅("
+        },
+        {
+          "type": "Time",
+          "start": 204,
+          "end": 216,
+          "span": "西元一三六二年)九月六日"
+        },
+        {
+          "type": "PersonName",
+          "start": 217,
+          "end": 219,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "吳下人多水居。俞公染翰笑談餘。記文固已瀾翻甚。嘯口永應當雨霽初。篇什謾勞陳組繡。園池無復有禽魚。只今蕭散南湖上。種玉疏清孰侮予。仲和兄吳城宅中有水竹居。聞甚清邃。兵後以其地處軍卒。因遷居松陵南湖之上。亦種竹疏渠。婆娑其間。比之城中。尤清曠也。俞尹作記。瀾翻浩汗。雖白首暮年。猶不除少年舉子習氣耳。題燕適之所。曰水竹居。吳人多用之。類皆鑿池種竹。以誇深靜也。余至吳中士人家。每見如此。故篇中悉及之。至正壬寅(西元一三六二年)九月六日。倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正壬寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 17,
+          "span": "西元一三六二年)九月六日"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "至正壬寅(西元一三六二年)九月六日。倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "高人"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 4,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "雨葉"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "王猷",
+          "cid": 343784,
+          "name": "王猷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "先輩"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 42,
+          "span": "蔣詡",
+          "cid": 16121,
+          "name": "蔣詡",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "友于"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 50,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 55,
+          "span": "仲侶"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 70,
+          "span": "紫芝山人",
+          "cid": 111704,
+          "name": "蔣惠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "高人種竹繞軒□。雨葉風梢趣有餘。細細粉香飄几席。娟娟秀色淨窗虛。王猷自足誇先輩。蔣詡真堪作友于。□我原非求仲侶。時來吟賞嬾束迂。紫芝山人俞和題。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "紫芝山人",
+          "cid": 111704,
+          "name": "蔣惠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "紫芝山人俞和題",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "水"
+        },
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "坡陀"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "蟲魚"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 76,
+          "span": "乾隆乙亥（西元一七五五年"
+        },
+        {
+          "type": "Time",
+          "start": 77,
+          "end": 79,
+          "span": "早春"
+        }
+      ],
+      "sentence": "水繞坡陀竹抱居。蕭閒景趣寫無餘。綠含細籟經風後。潤帶朝煙過雨初。問字惟應知稼穡。著書何必注蟲魚。笑他阿那幽深處。往歲無端目擊予。乾隆乙亥（西元一七五五年）早春。御題。即用圖間原韻。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆乙亥"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一七五五年）早春"
+        }
+      ],
+      "sentence": "乾隆乙亥（西元一七五五年）早春。御題。即用圖間原韻。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

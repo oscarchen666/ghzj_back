@@ -1,0 +1,199 @@
+{
+  "filefroms": "5497.json",
+  "sentences": [
+    {
+      "authorcid": 131100,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "八十",
+          "cid": 207090,
+          "name": "張應槐",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "華倫"
+        }
+      ],
+      "sentence": "八十老人二華倫",
+      "author": "常倫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A014597",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "趙昌",
+          "cid": 24404,
+          "name": "趙昌",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 13,
+          "span": "三十年前"
+        },
+        {
+          "type": "LocationName",
+          "start": 22,
+          "end": 24,
+          "span": "江左",
+          "aid": "PL000000000197"
+        },
+        {
+          "type": "Metric",
+          "start": 26,
+          "end": 29,
+          "span": "八十餘"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 57,
+          "end": 60,
+          "span": "孫虔禮",
+          "cid": 439049,
+          "name": "孫虔禮",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 63,
+          "span": "右軍",
+          "cid": 56904,
+          "name": "朱之弼",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 76,
+          "span": "卷"
+        },
+        {
+          "type": "Time",
+          "start": 82,
+          "end": 86,
+          "span": "癸亥陽月"
+        }
+      ],
+      "sentence": "二華寫生不減趙昌。三十年前聞此老負此技。著名江左。今八十餘矣。猶能以筆墨游戲點綴。此卷正所謂翳然弗水有濠濮間想也。孫虔禮謂右軍之書。末年多妙。今二華此卷可稱妙絕矣。癸亥陽月黃葉菴智舷題。",
+      "author": "智舷"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A014597",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "癸亥陽月"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "黃葉"
+        }
+      ],
+      "sentence": "癸亥陽月黃葉菴智舷題",
+      "author": "智舷"
+    },
+    {
+      "authorcid": 1666,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "丹青"
+        },
+        {
+          "type": "Person",
+          "start": 11,
+          "end": 12,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 29,
+          "span": "寫生家"
+        },
+        {
+          "type": "Person",
+          "start": 41,
+          "end": 43,
+          "span": "坡公"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 51,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 55,
+          "span": "喉間"
+        },
+        {
+          "type": "PersonName",
+          "start": 79,
+          "end": 81,
+          "span": "白陽",
+          "cid": 34745,
+          "name": "畢自嚴",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 100,
+          "end": 104,
+          "span": "姑射僊人"
+        }
+      ],
+      "sentence": "丹青不知老將至。富貴於我如浮雲。間嘗點頭斯言。每見一寫生家輒似蝶夢栩栩。神與興會。坡公云。不能飲。見人飲。喉間汩汩不能已。余之不善寫生。嗜之殆若是。二華聲價與白陽雪居伯仲。而此卷穎滌脂鉛。天然淡素。如姑射僊人也。是足寶已。愚道人谷漫識。",
+      "author": "曹谷"
+    },
+    {
+      "authorcid": 1666,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "愚道人",
+          "cid": 35186,
+          "name": "施閏章",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "愚道人谷漫識",
+      "author": "曹谷"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "filefroms": "14556.json",
+  "sentences": [
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "嘉靖歲己未"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 16,
+          "span": "西元一五五九年）春日"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "包山",
+          "aid": "PL000000010052"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 23,
+          "end": 27,
+          "span": "支硎書舍"
+        }
+      ],
+      "sentence": "嘉靖歲己未（西元一五五九年）春日。包山陸治寫於支硎書舍。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 95035,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "王弇",
+          "cid": 191883,
+          "name": "王弇",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "叔平",
+          "cid": 1073,
+          "name": "李深",
+          "aid": "A014233"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "徐黃"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "山水"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "宋人"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 101,
+          "span": "飛閣"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 111,
+          "span": "瑤光"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 114,
+          "span": "璧繩"
+        },
+        {
+          "type": "Time",
+          "start": 131,
+          "end": 135,
+          "span": "乙卯冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 148,
+          "end": 150,
+          "span": "潘遠",
+          "cid": 95035,
+          "name": "潘遠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王弇州先生。與陸叔平善。稱其工寫生。能得徐黃遺意。不若道復之妙而不真也。山水喜仿宋人。時時出己意。風骨峻削。霞思湧疊。然不免露蹊徑。時年將八十。嘗自言更二年當大成。余覽此卷。細秀精密。神采爛然。如上飛閣以疏眺。正者見瑤光與璧繩。乃暮齒猶崛強不已。故知此老不凡。乙卯冬日。為又翁詞宗題。話畫菴雪僧潘遠。",
+      "author": "潘遠"
+    },
+    {
+      "authorcid": 95035,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乙卯冬日"
+        },
+        {
+          "type": "Person",
+          "start": 6,
+          "end": 8,
+          "span": "又翁"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "潘遠",
+          "cid": 95035,
+          "name": "潘遠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乙卯冬日。為又翁詞宗題。話畫菴雪僧潘遠。",
+      "author": "潘遠"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "filefroms": "5500.json",
+  "sentences": [
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "牡丹須綠葉"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "葉"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "春王"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "絳羅"
+        }
+      ],
+      "sentence": "牡丹須綠葉。春早葉難多。莫道扶持少。春王捧絳羅。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "湖光"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "紙"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "犀盤"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 31,
+          "span": "茆山女道冠"
+        }
+      ],
+      "sentence": "一斗湖光不放寬。卻看紙上定波瀾。犀盤黑盡渾無密。捧出茆山女道冠。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "菊花"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "黃花"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "老夫"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "紅粉"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 30,
+          "span": "儂"
+        }
+      ],
+      "sentence": "菊花自古只黃花。改樣連年漸漸差。不是老夫嫌冷淡。敢將紅粉向儂搽。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "蘭"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 3,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "清風"
+        }
+      ],
+      "sentence": "蘭與竹相並。非關調本同。氤氳香不遠。聊為引清風。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "虢姨"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 4,
+          "span": "馬"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "蛾眉"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 21,
+          "span": "馬頭毯"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 28,
+          "span": "枝上"
+        }
+      ],
+      "sentence": "虢姨騎馬去朝天。淡掃蛾眉真可憐。不信馬頭毯兩串。也如枝上粉團團。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "葉須犀甲"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "鶴頭丹"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "冰雪"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "朱顏"
+        }
+      ],
+      "sentence": "葉須犀甲厚。花放鶴頭丹。歲暮饒冰雪。朱顏不改觀。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "老夫"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "秋園卉"
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 20,
+          "span": "邢州",
+          "cid": 101068
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 21,
+          "span": "沙"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "搔頭"
+        }
+      ],
+      "sentence": "老夫一掃秋園卉。六片尖尖雪色流。用盡邢州沙萬斛。未便琢出此搔頭。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 0,
+          "end": 2,
+          "span": "五寸"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "珊瑚珠"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "東風"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "海榴"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "金刀"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "玉漿"
+        }
+      ],
+      "sentence": "五寸珊瑚珠一囊。東風吹老海榴黃。宵來酒渴真無奈。換取金刀劈玉漿。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "湘水"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "江波"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "湘君",
+          "cid": 55954,
+          "name": "祁德茝",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "羅襪"
+        }
+      ],
+      "sentence": "湘水拂鏡明。江波蹙鮮滑。湘君少侍兒。煩儂步羅襪。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "青鸞"
+        },
+        {
+          "type": "Metric",
+          "start": 2,
+          "end": 5,
+          "span": "五尺尾"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "老眼"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "竹梢"
+        }
+      ],
+      "sentence": "青鸞五尺尾。一半入青霄。老眼摩挲看。方知是竹梢。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "梅花譜"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "千萬樹"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "東風"
+        }
+      ],
+      "sentence": "從來不見梅花譜。信手拈來自有神。不信試看千萬樹。東風吹著便成春。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "青藤道人",
+          "cid": 561278,
+          "name": "楊珂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "青藤道人徐渭畫并題",
+      "author": "徐渭"
+    }
+  ]
+}

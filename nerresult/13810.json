@@ -1,0 +1,110 @@
+{
+  "filefroms": "13810.json",
+  "sentences": [
+    {
+      "authorcid": 3676,
+      "authoraid": "A004610",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "李畫"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "秦隸"
+        },
+        {
+          "type": "Time",
+          "start": 39,
+          "end": 43,
+          "span": "熙寧丁巳"
+        },
+        {
+          "type": "Time",
+          "start": 44,
+          "end": 51,
+          "span": "西元一０七七年"
+        },
+        {
+          "type": "Time",
+          "start": 52,
+          "end": 54,
+          "span": "仲夏"
+        },
+        {
+          "type": "LocationName",
+          "start": 54,
+          "end": 56,
+          "span": "襄陽",
+          "cid": 17505
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
+          "aid": "A004610"
+        }
+      ],
+      "sentence": "余嗜騷詞。愛李畫。癖不能解。因用秦隸為述古書九歌。述古善鑒者。視斯起為余何如。熙寧丁巳（西元一０七七年）仲夏襄陽米芾記。",
+      "author": "米芾"
+    },
+    {
+      "authorcid": 3676,
+      "authoraid": "A004610",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "熙寧丁巳"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一０七七年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "仲夏"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 17,
+          "span": "襄陽",
+          "cid": 17505
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
+          "aid": "A004610"
+        }
+      ],
+      "sentence": "熙寧丁巳（西元一０七七年）仲夏襄陽米芾記",
+      "author": "米芾"
+    }
+  ]
+}

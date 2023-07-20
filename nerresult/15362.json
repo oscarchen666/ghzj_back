@@ -1,0 +1,381 @@
+{
+  "filefroms": "15362.json",
+  "sentences": [
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "皇元"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "藩臣",
+          "cid": 75958,
+          "name": "孫鎮",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "長繩"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 71,
+          "span": "書貝葉"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "金縷"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 82,
+          "span": "契丹"
+        },
+        {
+          "type": "LocationName",
+          "start": 85,
+          "end": 87,
+          "span": "西夏",
+          "aid": "PL000000000114",
+          "cid": 101054
+        },
+        {
+          "type": "Person",
+          "start": 88,
+          "end": 90,
+          "span": "吐蕃"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "鮮卑"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 111,
+          "span": "琉璃"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 119,
+          "span": "金牛頭冠金馬座"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 127,
+          "span": "獅豹貂獒犀"
+        },
+        {
+          "type": "Thing",
+          "start": 136,
+          "end": 139,
+          "span": "翅鳥木"
+        },
+        {
+          "type": "Thing",
+          "start": 172,
+          "end": 175,
+          "span": "珊瑚枝"
+        },
+        {
+          "type": "Thing",
+          "start": 181,
+          "end": 183,
+          "span": "羊鹿"
+        },
+        {
+          "type": "LocationName",
+          "start": 213,
+          "end": 215,
+          "span": "玉墀",
+          "cid": 2235
+        },
+        {
+          "type": "LocationName",
+          "start": 221,
+          "end": 223,
+          "span": "金殿",
+          "cid": 15561,
+          "aid": "PL000000040883"
+        },
+        {
+          "type": "Person",
+          "start": 225,
+          "end": 228,
+          "span": "宋蘇君"
+        },
+        {
+          "type": "PersonName",
+          "start": 232,
+          "end": 234,
+          "span": "王會",
+          "cid": 126770,
+          "name": "王會",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 240,
+          "end": 247,
+          "span": "至大元年冬十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 247,
+          "end": 249,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "皇元統天寰海一。萬里梯航供貢職。八番稽首效藩臣。諸夏歸心知帝力。罽賓天竺三佛齊。重譯遠來懸度西。長繩引步陵險阨。崢嶸下臨不測溪。泥金悉曇書貝葉。織成金縷揚光輝。契丹豪健霸西夏。吐蕃自昔雄鮮卑。穠妝錦帽馴象兕。色鑄瑚辣堆琉璃。金牛頭冠金馬座。犎氂獅豹貂獒犀。駭雞硨磲夜光壁。翅鳥木難明月璣。氍㲣𣰅絨錦疊㲲護。䢷越諾火浣衣火。齊瑟瑟纍齒貝。琅玕倒倚珊瑚枝。紫馳雜遝走羊鹿。角端珍異奔騮騏。誇多鬥靡相驚衒。詭服奇形爭利見。膜拜躬趨白玉墀。登庸首進黃金殿。有宋蘇君曾寫圖。王會紀功作佳傳。至大元年冬十月俞和題。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "至大元年冬十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至大元年冬十月俞和題",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 28338,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "蘇漢臣",
+          "cid": 45060,
+          "name": "蘇漢臣",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 11,
+          "end": 13,
+          "span": "人物"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "道子",
+          "cid": 13438,
+          "name": "詹亢宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "史書"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 72,
+          "span": "趙松雪",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 79,
+          "end": 81,
+          "span": "觀者"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 103,
+          "span": "珍玩鳥獸"
+        },
+        {
+          "type": "Person",
+          "start": 109,
+          "end": 111,
+          "span": "主者"
+        },
+        {
+          "type": "PersonName",
+          "start": 117,
+          "end": 119,
+          "span": "丹丘",
+          "cid": 35294,
+          "name": "嚴羽",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "蘇漢臣為南宋畫院。所作人物古雅絕倫。有虎頭道子之風。此職貢圖迺其筆也。摹寫之工。宛然逼肖。且以見承平之世。異域來王。足以補史書之不逮。更得趙松雪各為識其後。令觀者一展卷而知是國之形容服飾。以及所產之珍玩鳥獸。誠可瑤愛。主者宜善藏毋斁。丹丘柯九思。",
+      "author": "柯九思"
+    },
+    {
+      "authorcid": 28338,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "柯九思",
+          "cid": 28338,
+          "name": "柯九思",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "丹丘柯九思",
+      "author": "柯九思"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "文物"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "衣冠"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "蒼龍闕"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "珠貝"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 47,
+          "span": "白象車"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "希元",
+          "cid": 399414,
+          "name": "希元",
+          "aid": "A003946"
+        }
+      ],
+      "sentence": "聖明聲教被流沙。蠻貃羗戎共一家。萬里梯航朝上國。八番文物會中華。衣冠環侍蒼龍闕。珠貝高馱白象車。恩詔寵頒臣庶樂。嵩呼聲裡聽宣麻。孟舉詹希元題。",
+      "author": "詹希元"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "希元",
+          "cid": 399414,
+          "name": "希元",
+          "aid": "A003946"
+        }
+      ],
+      "sentence": "孟舉詹希元題",
+      "author": "詹希元"
+    },
+    {
+      "authorcid": 34508,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "徐有貞",
+          "cid": 34508,
+          "name": "徐有貞",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "東海徐有貞鑒藏。",
+      "author": "徐有貞"
+    },
+    {
+      "authorcid": 34508,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "徐有貞",
+          "cid": 34508,
+          "name": "徐有貞",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "東海徐有貞鑒藏",
+      "author": "徐有貞"
+    }
+  ]
+}

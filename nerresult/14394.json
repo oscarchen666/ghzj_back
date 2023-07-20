@@ -1,0 +1,206 @@
+{
+  "filefroms": "14394.json",
+  "sentences": [
+    {
+      "authorcid": 40222,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "梁天監中"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "張僧繇",
+          "cid": "unknow",
+          "name": "張僧繇",
+          "aid": "A006972"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "墨筆"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 32,
+          "span": "峰嵐泉石"
+        },
+        {
+          "type": "PersonName",
+          "start": 46,
+          "end": 48,
+          "span": "楊昇",
+          "cid": 22521,
+          "name": "楊昇",
+          "aid": "A009688"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 58,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "煙雲"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 71,
+          "span": "樓閣"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 89,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 94,
+          "end": 98,
+          "span": "米氏父子"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 104,
+          "span": "無根樹"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 113,
+          "span": "五嶽"
+        },
+        {
+          "type": "Person",
+          "start": 139,
+          "end": 141,
+          "span": "覽者"
+        },
+        {
+          "type": "Time",
+          "start": 146,
+          "end": 152,
+          "span": "寶慶丁亥四月"
+        },
+        {
+          "type": "LocationName",
+          "start": 154,
+          "end": 156,
+          "span": "塘樓",
+          "cid": 5333
+        }
+      ],
+      "sentence": "梁天監中。張僧繇每於縑素上。不用墨筆。獨以青綠重色。圖成峰嵐泉石。謂之抹骨法。馳譽一時。後惟楊昇學之。能得其祕。此卷頗有出藍意。煙雲吞吐。樓閣參差。元氣渾成中。天機自然流出。令人不可端睨。米氏父子。擅寫無根樹。懵懂山。所謂五嶽在掌。宇宙在胸矣。獨於此法。不能著一筆。庸史可知也。覽者勿輕視之。寶慶丁亥四月。錢塘樓觀識。",
+      "author": "樓觀"
+    },
+    {
+      "authorcid": 40222,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "塘樓",
+          "cid": 5333
+        }
+      ],
+      "sentence": "錢塘樓觀識",
+      "author": "樓觀"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019461",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "紹熙辛亥除夕前一日"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "楊萬里",
+          "cid": 10566,
+          "name": "楊萬里",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 24,
+          "span": "陵籌思堂",
+          "aid": "PL000000058470",
+          "cid": 402496
+        }
+      ],
+      "sentence": "紹熙辛亥除夕前一日。廬陵楊萬里。敬觀於金陵籌思堂。",
+      "author": "楊萬裏"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019461",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "紹熙辛亥除夕前一日"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "楊萬里",
+          "cid": 10566,
+          "name": "楊萬里",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 24,
+          "span": "陵籌思堂",
+          "aid": "PL000000058470",
+          "cid": 402496
+        }
+      ],
+      "sentence": "紹熙辛亥除夕前一日。廬陵楊萬里。敬觀於金陵籌思堂。",
+      "author": "楊萬裏"
+    }
+  ]
+}

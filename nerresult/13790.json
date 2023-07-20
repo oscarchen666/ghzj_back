@@ -1,0 +1,119 @@
+{
+  "filefroms": "13790.json",
+  "sentences": [
+    {
+      "authorcid": 52001,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "松年",
+          "cid": 39798,
+          "name": "沈亨辰",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣松年繪進",
+      "author": "劉松年"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A002088",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 72,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 77,
+          "span": "岡"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 79,
+          "span": "陵"
+        },
+        {
+          "type": "PersonName",
+          "start": 107,
+          "end": 109,
+          "span": "公先",
+          "cid": 553870,
+          "name": "宋時榮",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 111,
+          "end": 112,
+          "span": "君"
+        },
+        {
+          "type": "Person",
+          "start": 131,
+          "end": 132,
+          "span": "民"
+        },
+        {
+          "type": "Person",
+          "start": 141,
+          "end": 145,
+          "span": "群黎百姓"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 153,
+          "span": "日"
+        },
+        {
+          "type": "Thing",
+          "start": 157,
+          "end": 158,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 162,
+          "end": 164,
+          "span": "南山"
+        },
+        {
+          "type": "Thing",
+          "start": 173,
+          "end": 175,
+          "span": "松柏"
+        },
+        {
+          "type": "Time",
+          "start": 184,
+          "end": 192,
+          "span": "紹興庚申仲春朔旦"
+        }
+      ],
+      "sentence": "天保定爾。亦孔之固。俾爾單厚。何福不除。俾爾多益。以莫不庶。天保定爾。俾爾戩穀。罄無不宜。受天百祿。降爾遐福。維日不足。天保定爾。以莫不興。如山如阜。如岡如陵。如川之方至。以莫不增。吉蠲為饎。是用孝享。禴祀蒸嘗。于公先王。君曰卜爾。萬壽無疆。神之弔矣。詒爾多福。民之質矣。日用飲食。群黎百姓。徧為爾德。如日之恆。如月之升。如南山之壽。不騫不崩。如松柏之茂。無不爾或承。紹興庚申仲春朔旦。復古殿書。（書一押）。",
+      "author": "宋高宗"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A002088",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "紹興庚申仲春朔旦"
+        }
+      ],
+      "sentence": "紹興庚申仲春朔旦。復古殿書。",
+      "author": "宋高宗"
+    }
+  ]
+}

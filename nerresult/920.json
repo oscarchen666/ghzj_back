@@ -1,0 +1,371 @@
+{
+  "filefroms": "920.json",
+  "sentences": [
+    {
+      "authorcid": 35431,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "定武真"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 10,
+          "span": "希世之寶"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 17,
+          "span": "趙承旨",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 29,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 40,
+          "span": "隋珠"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "璧"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 51,
+          "span": "劉致",
+          "cid": 35431,
+          "name": "劉致",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "定武真本已為希世之寶。而復得趙承旨補圖並書。展閱三復。令人目眩神怡。此卷可謂隋珠和璧矣。珍重珍重。劉致。",
+      "author": "劉致"
+    },
+    {
+      "authorcid": 35431,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "劉致",
+          "cid": 35431,
+          "name": "劉致",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "劉致",
+      "author": "劉致"
+    },
+    {
+      "authorcid": 1835,
+      "authoraid": "A021795",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "周侍御"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "松雪"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "書畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 30,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 47,
+          "span": "松雪之圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "王逵",
+          "cid": 1835,
+          "name": "王逵",
+          "aid": "A021795"
+        }
+      ],
+      "sentence": "周侍御與松雪最友善。故所得書畫頗富。而未有若此卷之精妙者。人稱定武真本。為珍玩。若更有松雪之圖。其聲價益增重矣。王逵。",
+      "author": "王逵"
+    },
+    {
+      "authorcid": 1835,
+      "authoraid": "A021795",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "王逵",
+          "cid": 1835,
+          "name": "王逵",
+          "aid": "A021795"
+        }
+      ],
+      "sentence": "王逵",
+      "author": "王逵"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "烟霞"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 15,
+          "span": "平田"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 20,
+          "span": "孤亭上下"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 22,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青山"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "南陽",
+          "aid": "PL000000016686",
+          "cid": 17367
+        }
+      ],
+      "sentence": "文采風流自昔傳。烟霞散入滿平田。孤亭上下無人識。唯有青山侶晉年。南陽仇遠。",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "南陽",
+          "aid": "PL000000016686",
+          "cid": 17367
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "仇遠",
+          "cid": 28342,
+          "name": "仇遠",
+          "aid": "A044127"
+        }
+      ],
+      "sentence": "南陽仇遠",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 27954,
+      "authoraid": "A015823",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "溪山"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "曲水"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 25,
+          "span": "竹"
+        }
+      ],
+      "sentence": "溪山留勝跡。脩禊續前朝。曲水觴堪汎。修林弦可調。竹深藏雨色。嶺峻逼霞標。逸少誰環侶。流風不可招。揭傒斯。",
+      "author": "揭傒斯"
+    },
+    {
+      "authorcid": 27954,
+      "authoraid": "A015823",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "揭傒斯"
+        }
+      ],
+      "sentence": "揭傒斯",
+      "author": "揭傒斯"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "趙松雪",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "蘭亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "景遠",
+          "cid": 83246,
+          "name": "周寰",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "松雪"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 51,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 64,
+          "span": "松雪此圖"
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 74,
+          "span": "知音者"
+        },
+        {
+          "type": "Time",
+          "start": 79,
+          "end": 89,
+          "span": "嘉靖十六年夏四月朔日"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 93,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        },
+        {
+          "type": "Location",
+          "start": 95,
+          "end": 98,
+          "span": "悟言室"
+        }
+      ],
+      "sentence": "趙松雪好臨蘭亭。不啻饑渴之於飲食。而況周景遠又松雪之所未與者。故畫法既精妙。而行楷亦工妍。誠可愛玩。人言定武本不易得益。松雪此圖傳至今日。益為知音者所珍賞矣。嘉靖十六年夏四月朔日。文徵明書於悟言室。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        },
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 8,
+          "span": "悟言室"
+        }
+      ],
+      "sentence": "文徵明書於悟言室",
+      "author": "文徵明"
+    }
+  ]
+}

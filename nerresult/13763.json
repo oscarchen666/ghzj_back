@@ -1,0 +1,665 @@
+{
+  "filefroms": "13763.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "大年",
+          "cid": 129041,
+          "name": "胡紀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "右丞",
+          "cid": 64695,
+          "name": "洪良品",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 10,
+          "end": 12,
+          "span": "名家"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 41,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "此趙大年學右丞筆也。名家晚年一變。無復模倣之亦。此其少壯時守法之精能者。董其昌題。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "董其昌題",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "黃花"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "紅葉"
+        }
+      ],
+      "sentence": "黃花愛逕疑無路。紅葉臨涼巧勝春。前去重陽猶一日。不辭傾盡蟻醪醇。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "山中"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 8,
+          "span": "九月"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "鬚鬢"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "絲"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "霜露"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 53,
+          "span": "頭上巾"
+        },
+        {
+          "type": "Location",
+          "start": 62,
+          "end": 65,
+          "span": "東籬下"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "白衣"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 76,
+          "span": "我"
+        },
+        {
+          "type": "LocationName",
+          "start": 84,
+          "end": 86,
+          "span": "南山",
+          "aid": "PL000000009496"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 113,
+          "span": "紫陽筆"
+        },
+        {
+          "type": "PersonName",
+          "start": 123,
+          "end": 125,
+          "span": "同文",
+          "cid": 66453,
+          "name": "詹同",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 130,
+          "end": 132,
+          "span": "章公",
+          "cid": 27608,
+          "name": "鄭君薦",
+          "aid": "A018294"
+        },
+        {
+          "type": "PersonName",
+          "start": 134,
+          "end": 136,
+          "span": "靖節",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 136,
+          "end": 137,
+          "span": "圖"
+        }
+      ],
+      "sentence": "山中書甲子。九月忽在茲。豈不感時節。鬚鬢將如絲。英英黃鞠華。乃經霜露滋。秫田秋未稔。何以充酒資。不漉頭上巾。今日生塵緇。寂寞東籬下。對鞠空嗟咨。白衣知我言。一醉焉可辭。南山多浮雲。悠然興所思。余生千載後。清風恆慕之。直哉紫陽筆。皦若天無私。翰林詹同文敬為思本平章公題陶靖節圖。",
+      "author": "詹同文"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "同文",
+          "cid": 66453,
+          "name": "詹同",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "章公",
+          "cid": 27608,
+          "name": "鄭君薦",
+          "aid": "A018294"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "靖節",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 17,
+          "span": "圖"
+        }
+      ],
+      "sentence": "翰林詹同文敬為思本平章公題陶靖節圖。",
+      "author": "詹同文"
+    },
+    {
+      "authorcid": 198589,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "山中"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 7,
+          "span": "九月九"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "元亮",
+          "cid": 204686,
+          "name": "元亮",
+          "aid": "A007279"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 15,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "繁霜"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "籬邊花"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "西風"
+        },
+        {
+          "type": "Location",
+          "start": 28,
+          "end": 30,
+          "span": "門前"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 31,
+          "span": "柳"
+        },
+        {
+          "type": "Person",
+          "start": 34,
+          "end": 36,
+          "span": "可人"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "黃華",
+          "cid": 200322,
+          "name": "黃華",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 65,
+          "span": "君"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 69,
+          "span": "猛虎"
+        },
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 74,
+          "span": "盜泉水"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 88,
+          "span": "鳳皇"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 91,
+          "span": "雞"
+        },
+        {
+          "type": "Person",
+          "start": 104,
+          "end": 106,
+          "span": "作者"
+        },
+        {
+          "type": "Person",
+          "start": 110,
+          "end": 112,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 118,
+          "end": 120,
+          "span": "蔡哲",
+          "cid": 198589,
+          "name": "蔡哲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "山中忽逢九月九。元亮家貧正無酒。繁霜寂寞籬邊花。西風搖落門前柳。適有可人攜酒來。掀髯一笑開心懷。黃華滿把恣狂飲。直須醉倒傾尊罍。君不聞猛虎不飲盜泉水。歸去柴桑書甲子。又不聞鳳皇不共雞爭食。歸去寧甘老篷蓽。後來作者德與同。先生千載遺高風。蔡哲。",
+      "author": "蔡哲"
+    },
+    {
+      "authorcid": 198589,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "蔡哲",
+          "cid": 198589,
+          "name": "蔡哲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "蔡哲",
+      "author": "蔡哲"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "柴桑",
+          "cid": 88929,
+          "name": "章陶",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 13,
+          "span": "東籬菊"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 18,
+          "span": "菊"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "高風"
+        },
+        {
+          "type": "Person",
+          "start": 27,
+          "end": 28,
+          "span": "誰"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 42,
+          "span": "山居",
+          "cid": 35130,
+          "name": "楊瑀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "柴桑人去幾朝昏。恍惚東籬菊尚存。愛菊對圖無限意。高風與誰論。高風下有千載二字。中山居士。",
+      "author": "中山居士"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "山居",
+          "cid": 35130,
+          "name": "楊瑀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "中山居士",
+      "author": "中山居士"
+    },
+    {
+      "authorcid": 23522,
+      "authoraid": "A018682",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "五兒",
+          "cid": 117375,
+          "name": "五兒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 7,
+          "span": "翟卿賢"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "彭澤",
+          "cid": 537724,
+          "name": "彭澤",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "籬外"
+        },
+        {
+          "type": "LocationName",
+          "start": 19,
+          "end": 22,
+          "span": "花門外",
+          "cid": 403808
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "柳"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "枝枝"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "張羽",
+          "cid": 23522,
+          "name": "張羽",
+          "aid": "A018682"
+        }
+      ],
+      "sentence": "五兒長大翟卿賢。彭澤歸來即醉眠。籬外黃花門外柳。枝枝猶似義熙前。尋陽張羽。",
+      "author": "張羽"
+    },
+    {
+      "authorcid": 23522,
+      "authoraid": "A018682",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張羽",
+          "cid": 23522,
+          "name": "張羽",
+          "aid": "A018682"
+        }
+      ],
+      "sentence": "尋陽張羽",
+      "author": "張羽"
+    },
+    {
+      "authorcid": 28517,
+      "authoraid": "A016009",
+      "output": [
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "田園"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "霜露"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 24,
+          "span": "卉木"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "東籬"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "甘酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 100,
+          "end": 104,
+          "span": "靖節先生",
+          "cid": 51347,
+          "name": "鄭君老",
+          "aid": "A003245"
+        },
+        {
+          "type": "PersonName",
+          "start": 132,
+          "end": 133,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 170,
+          "end": 172,
+          "span": "李公",
+          "cid": 153679,
+          "name": "李公",
+          "aid": "A009594"
+        },
+        {
+          "type": "Person",
+          "start": 177,
+          "end": 179,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 205,
+          "end": 207,
+          "span": "先生"
+        },
+        {
+          "type": "Time",
+          "start": 212,
+          "end": 224,
+          "span": "洪武乙丑春三月二十有三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 225,
+          "end": 227,
+          "span": "眉山",
+          "cid": 2030
+        },
+        {
+          "type": "PersonName",
+          "start": 227,
+          "end": 230,
+          "span": "蘇伯衡",
+          "cid": 28517,
+          "name": "蘇伯衡",
+          "aid": "A016009"
+        }
+      ],
+      "sentence": "解組歸來。田園栖遲。歲序忽忽。霜露淒淒。中林卉木。瞻言具腓。維此黃華。媚于東籬。時有暄涼。物有盛衰。世運推移。振古如斯。嘻其奈何。寘喜與悲。乘化以遊。矢不復疑。甘酒盈尊。與爾共揮。聊樂今朝。千載何知。靖節先生大義所在。立志不貳。乃若所遇則安乎天。晉宋之間一人而已。余每讀其詩。未嘗不歎其為知道之言。仰其人於千載之上。而願為之執御焉。今從指揮李公觀此圖。雖畫家以意摹寫。而思致間雅稱其所謂沖澹者。因賦詩如右。庶幾先生之志也與。洪武乙丑春三月二十有三日。眉山蘇伯衡識。",
+      "author": "蘇伯衡"
+    },
+    {
+      "authorcid": 28517,
+      "authoraid": "A016009",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 12,
+          "span": "洪武乙丑春三月二十有三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 13,
+          "end": 15,
+          "span": "眉山",
+          "cid": 2030
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 18,
+          "span": "蘇伯衡",
+          "cid": 28517,
+          "name": "蘇伯衡",
+          "aid": "A016009"
+        }
+      ],
+      "sentence": "洪武乙丑春三月二十有三日。眉山蘇伯衡識。",
+      "author": "蘇伯衡"
+    }
+  ]
+}

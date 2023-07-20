@@ -1,0 +1,817 @@
+{
+  "filefroms": "1418.json",
+  "sentences": [
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "壺月軒圖"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 7,
+          "span": "辛亥"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 20,
+          "span": "西元一三七一年)八月四日"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "壺月軒圖。辛亥(西元一三七一年)八月四日倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 42607,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "壺月"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "蓬萊",
+          "aid": "PL000000055457",
+          "cid": 4946
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "冰壺"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "洛水"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "璧月"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "李公",
+          "cid": 153679,
+          "name": "李公",
+          "aid": "A009594"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "奕葉"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "周圻",
+          "cid": 42607,
+          "name": "周圻",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "軒開壺月清可侔。蓬萊方丈瀛之洲。冰壺凍合伊洛水。璧月淨浸乾坤秋。八穴四敞皎不夜。萬里一色光欲流。延平李公有奕葉。迥忘六鑿同天遊。醉李周圻。",
+      "author": "周圻"
+    },
+    {
+      "authorcid": 42607,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "周圻",
+          "cid": 42607,
+          "name": "周圻",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "醉李周圻",
+      "author": "周圻"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "碧琉璃"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "銀盤"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 12,
+          "span": "壺月軒前"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "表裡"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "雲母"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "鸞簫"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "霓裳"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "烏鵲"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "白露"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "唾壺"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "故人"
+        }
+      ],
+      "sentence": "碧琉璃轉爛銀盤。壺月軒前此夜看。表裡空明雲母隔。簾櫳澂澈水精寒。鸞簫嫋嫋霓裳下。烏鵲飛飛白露溥。擊碎唾壺歌未闋。故人千里共清驩。璜溪馮以默。",
+      "author": "馮以默"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "璜溪"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "以默",
+          "cid": 109020,
+          "name": "馮濬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "璜溪馮以默",
+      "author": "馮以默"
+    },
+    {
+      "authorcid": 16639,
+      "authoraid": "A045238",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "壺月"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "靈臺"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "春冰"
+        }
+      ],
+      "sentence": "此身元有物。壺月漫為名。真境涵虛白。靈臺澈太清。春冰凝已釋。夜氣寂無瑩。珍重延平老。高風啟俊英。豫章胡儼。",
+      "author": "胡儼"
+    },
+    {
+      "authorcid": 16639,
+      "authoraid": "A045238",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "胡儼",
+          "cid": 16639,
+          "name": "胡儼",
+          "aid": "A045238"
+        }
+      ],
+      "sentence": "豫章胡儼",
+      "author": "胡儼"
+    },
+    {
+      "authorcid": 109089,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "壺月"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "軒中"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "山河"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "市井"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "琴書"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "江陰",
+          "aid": "PL000000017272",
+          "cid": 4614
+        }
+      ],
+      "sentence": "壺月雙清景瀟灑。軒中俯仰即堪輿。山河影動含群動。風露光寒納太虛。賣藥詎容懸市井。入簾應可玩琴書。延平氣象留遺贊。縱有良工畫不如。江陰黃常。",
+      "author": "黃常"
+    },
+    {
+      "authorcid": 109089,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "江陰",
+          "aid": "PL000000017272",
+          "cid": 4614
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "黃常",
+          "cid": 109089,
+          "name": "黃常",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "江陰黃常",
+      "author": "黃常"
+    },
+    {
+      "authorcid": 28616,
+      "authoraid": "A044317",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 4,
+          "span": "壺月軒中"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "小窗"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "銀漢"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "寒冰"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "玉壺"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 35,
+          "span": "雲母屏"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "知公"
+        },
+        {
+          "type": "Person",
+          "start": 54,
+          "end": 56,
+          "span": "神仙"
+        },
+        {
+          "type": "LocationName",
+          "start": 60,
+          "end": 62,
+          "span": "蟾宮",
+          "aid": "PL000000056446"
+        },
+        {
+          "type": "LocationName",
+          "start": 66,
+          "end": 68,
+          "span": "曲江",
+          "cid": 6090
+        }
+      ],
+      "sentence": "壺月軒中風景殊。小窗瀟灑俗塵無。清如銀漢涵秋月。瑩若寒冰貯玉壺。雲母屏開添外炯。水精簾捲者見中虛。知公已得神仙趣。好步蟾宮折桂□。曲江錢惟善。",
+      "author": "錢惟善"
+    },
+    {
+      "authorcid": 28616,
+      "authoraid": "A044317",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "曲江",
+          "cid": 6090
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "錢惟善",
+          "cid": 28616,
+          "name": "錢惟善",
+          "aid": "A044317"
+        }
+      ],
+      "sentence": "曲江錢惟善",
+      "author": "錢惟善"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 17,
+          "span": "白銀盤"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "蟾蜍"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "風露"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "斗牛"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "隱君"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "桂子"
+        }
+      ],
+      "sentence": "小小華軒曲曲欄。任几欄疑在白銀盤。鑿開混沌先天見。飛出蟾蜍永夜看。風露無聲侵几爽。斗牛有影宿檐寒。隱君自是多靈骨。謾折芳庭桂子餐。釋廣益。",
+      "author": "釋廣益"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "廣益",
+          "cid": "unknow",
+          "name": "廣益",
+          "aid": "A001661"
+        }
+      ],
+      "sentence": "釋廣益",
+      "author": "釋廣益"
+    },
+    {
+      "authorcid": 138032,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 4,
+          "span": "堂西畔",
+          "aid": "PL000000011645"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "壺月"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "戶牖"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "簾櫳"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "瀛洲",
+          "aid": "PL000000055472"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "瑤闕"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "銀漢"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 53,
+          "span": "玉盤"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "詩酒"
+        },
+        {
+          "type": "LocationName",
+          "start": 70,
+          "end": 72,
+          "span": "天台",
+          "aid": "PL000000034044",
+          "cid": 18369
+        }
+      ],
+      "sentence": "草堂西畔搆層軒。壺月澄明隔座看。戶牖涵凍秋氣肅。簾櫳影動夜光寒。瀛洲有路通瑤闕。銀漢無聲轉(見字點去)玉盤。何日勝遊蕭爽地。賸將詩酒罄交歡。天台管昭。",
+      "author": "管昭"
+    },
+    {
+      "authorcid": 138032,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "天台",
+          "aid": "PL000000034044",
+          "cid": 18369
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "管昭",
+          "cid": 138032,
+          "name": "管昭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "天台管昭",
+      "author": "管昭"
+    },
+    {
+      "authorcid": 103737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "冰壺"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "皓月"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "清光"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "琉璃"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "莓苔"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "瑪瑙"
+        },
+        {
+          "type": "Location",
+          "start": 60,
+          "end": 63,
+          "span": "水晶宮"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "沈瑜",
+          "cid": 103737,
+          "name": "沈瑜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "冰壺炯炯瑤軒靜。皓月團團午夜中。萬斛清光侵几席。十分澄色透簾櫳。琉璃影落莓苔砌。瑪瑙寒生玉宇風。坐久不勝毛骨冷。恍疑身在水晶宮。楊谿沈瑜。",
+      "author": "沈瑜"
+    },
+    {
+      "authorcid": 103737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈瑜",
+          "cid": 103737,
+          "name": "沈瑜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "楊谿沈瑜",
+      "author": "沈瑜"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "莊人",
+          "cid": 52876,
+          "name": "嚴敬",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 7,
+          "span": "浦西村"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "延平",
+          "cid": 11312,
+          "name": "朱億",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 27,
+          "end": 31,
+          "span": "谷稼雲屯",
+          "aid": "PL000000024600"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "佳士"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "釣輪"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 50,
+          "span": "華屋"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "春風"
+        },
+        {
+          "type": "Person",
+          "start": 66,
+          "end": 68,
+          "span": "錢凝"
+        }
+      ],
+      "sentence": "漁莊人住浦西村。知是延平老裔孫。小闢幽軒壺月皎。遠同盤谷稼雲屯。有時下榻留佳士。暇日臨池把釣輪。華屋春風能有幾。爾家世澤至今存。南野錢凝。",
+      "author": "錢凝"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "南野",
+          "cid": 49937,
+          "name": "鄒雯",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "南野錢凝",
+      "author": "錢凝"
+    },
+    {
+      "authorcid": 22437,
+      "authoraid": "A006019",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "樓閣"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "蟾蜍"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "檐楹"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 52,
+          "span": "軒中"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 58,
+          "span": "桂花"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "韓信",
+          "cid": 22437,
+          "name": "韓信",
+          "aid": "A006019"
+        }
+      ],
+      "sentence": "數椽小小如壺潔。四座熒熒像月明。樓閣有時生几席。蟾蜍無語挂檐楹。空涵沆瀣寒冰瑩。影落清虛夜露橫。更愛軒中奇絕處。桂花香裡讀書聲。澄江韓信。",
+      "author": "韓信"
+    },
+    {
+      "authorcid": 22437,
+      "authoraid": "A006019",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "澄江",
+          "aid": "PL000000009389"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "韓信",
+          "cid": 22437,
+          "name": "韓信",
+          "aid": "A006019"
+        }
+      ],
+      "sentence": "澄江韓信",
+      "author": "韓信"
+    }
+  ]
+}

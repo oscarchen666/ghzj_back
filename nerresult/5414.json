@@ -1,0 +1,31 @@
+{
+  "filefroms": "5414.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "戊申"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一五四八年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "孟秋"
+        }
+      ],
+      "sentence": "戊申（西元一五四八年）孟秋既望。徵明製。",
+      "author": "文徵明"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "filefroms": "15363.json",
+  "sentences": [
+    {
+      "authorcid": 101309,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "孤雲處士王振鵬畫",
+      "author": "王振鵬"
+    }
+  ]
+}

@@ -808,12 +808,6 @@
         },
         {
           "type": "Thing",
-          "start": 61,
-          "end": 65,
-          "span": "草堂僻徑"
-        },
-        {
-          "type": "Thing",
           "start": 109,
           "end": 113,
           "span": "藤枝薤葉"
@@ -924,12 +918,6 @@
           "span": "槐根欹枕"
         },
         {
-          "type": "Person",
-          "start": 332,
-          "end": 334,
-          "span": "余向"
-        },
-        {
           "type": "LocationName",
           "start": 335,
           "end": 337,
@@ -977,15 +965,6 @@
           "start": 384,
           "end": 388,
           "span": "二十年來"
-        },
-        {
-          "type": "PersonName",
-          "start": 399,
-          "end": 400,
-          "span": "馮",
-          "cid": 16467,
-          "name": "馮",
-          "aid": "A016107"
         },
         {
           "type": "Thing",

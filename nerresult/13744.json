@@ -1,0 +1,411 @@
+{
+  "filefroms": "13744.json",
+  "sentences": [
+    {
+      "authorcid": 19865,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李公麟",
+          "cid": 19865,
+          "name": "李公麟",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "李公麟畫",
+      "author": "李公麟"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "蘇子瞻",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "王定國",
+          "cid": 45900,
+          "name": "王定國",
+          "aid": "A016950"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 11,
+          "span": "王晉卿",
+          "cid": 37950,
+          "name": "王晉卿",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "天啟",
+          "cid": 1648,
+          "name": "蔡肇",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 19,
+          "span": "蘇子由",
+          "cid": "unknow",
+          "name": "蘇轍",
+          "aid": "A007595"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "黃魯直",
+          "cid": "unknow",
+          "name": "黃庭堅",
+          "aid": "A008471"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 27,
+          "span": "張文潛",
+          "cid": "unknow",
+          "name": "張耒",
+          "aid": "A045205"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "李伯時",
+          "cid": 547642,
+          "name": "李伯時",
+          "aid": "A011507"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "沖之",
+          "cid": 532707,
+          "name": "程翰",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 36,
+          "end": 38,
+          "span": "公素",
+          "cid": 1033,
+          "name": "李絢",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 42,
+          "span": "王欽臣",
+          "cid": 1767,
+          "name": "王欽臣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 46,
+          "span": "米元章",
+          "cid": "unknow",
+          "name": "米芾",
+          "aid": "A004610"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 50,
+          "span": "秦少游",
+          "cid": 515534,
+          "name": "秦少游",
+          "aid": "A003973"
+        },
+        {
+          "type": "Person",
+          "start": 51,
+          "end": 54,
+          "span": "陳碧盧"
+        },
+        {
+          "type": "PersonName",
+          "start": 55,
+          "end": 58,
+          "span": "劉巨濟",
+          "cid": "unknow",
+          "name": "劉巨鱗",
+          "aid": "A008787"
+        },
+        {
+          "type": "PersonName",
+          "start": 59,
+          "end": 62,
+          "span": "圓通秀",
+          "cid": "unknow",
+          "name": "法秀",
+          "aid": "A008393"
+        }
+      ],
+      "sentence": "蘇子瞻。王定國。王晉卿。蔡天啟。蘇子由。黃魯直。張文潛。李伯時。元沖之。公素。王欽臣。米元章。秦少游。陳碧盧。劉巨濟。圓通秀老。（依人物各標名）。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "西園雅集圖"
+        }
+      ],
+      "sentence": "西園雅集圖",
+      "author": ""
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "王穀祥",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "千古流風。（隸書）。酉室王穀祥題。",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王穀祥",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "酉室王穀祥題",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 10097,
+      "authoraid": "A007271",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "三月"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "西園",
+          "aid": "PL000000009936"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "雲芝"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "瑤草"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "琪樹"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "枝"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "寶花"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "金華",
+          "cid": 18339
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "宋濂",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A007271"
+        }
+      ],
+      "sentence": "三月韶華風景佳。西園雅集正堪誇。雲芝匝地連瑤草。琪樹交枝綴寶花。游賞一時皆俊彥。流傳千古見繁華。于今戚里恩榮美。百世高風總一家。金華宋濂題。",
+      "author": "宋濂"
+    },
+    {
+      "authorcid": 10097,
+      "authoraid": "A007271",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "金華",
+          "cid": 18339
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "宋濂",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A007271"
+        }
+      ],
+      "sentence": "金華宋濂題",
+      "author": "宋濂"
+    },
+    {
+      "authorcid": 133396,
+      "authoraid": "A044129",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "西園",
+          "aid": "PL000000009936"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 11,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 16,
+          "span": "李伯時",
+          "cid": 547642,
+          "name": "李伯時",
+          "aid": "A011507"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 20,
+          "span": "團扇小幅"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 26,
+          "span": "米元章",
+          "cid": "unknow",
+          "name": "米芾",
+          "aid": "A004610"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "蠅頭"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 45,
+          "span": "白描卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 71,
+          "span": "聶大年",
+          "cid": 133396,
+          "name": "聶大年",
+          "aid": "A044129"
+        }
+      ],
+      "sentence": "西園雅集為一時艷事。余曾見李伯時團扇小幅。後有米元章蠅頭小楷書題。精妙絕倫。今復見此白描卷。丰神儼然。呼之欲出。苟非名筆。其孰能至于斯。聶大年識。",
+      "author": "聶大年"
+    },
+    {
+      "authorcid": 133396,
+      "authoraid": "A044129",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "聶大年",
+          "cid": 133396,
+          "name": "聶大年",
+          "aid": "A044129"
+        }
+      ],
+      "sentence": "聶大年識",
+      "author": "聶大年"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "西園",
+          "aid": "PL000000009936"
+        }
+      ],
+      "sentence": "西園雅集圖記。（文不錄。）",
+      "author": "文嘉"
+    }
+  ]
+}

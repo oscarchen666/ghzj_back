@@ -1,0 +1,443 @@
+{
+  "filefroms": "5406.json",
+  "sentences": [
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "名公像"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "十四名公像。長洲沈周畫。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "蔡林屋"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "南濠",
+          "aid": "PL000000009965"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "南峰",
+          "cid": 35126,
+          "name": "楊循吉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "朱大理",
+          "cid": 550885,
+          "name": "朱大理",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "六如",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 23,
+          "span": "彭隆池"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "匏菴",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "沈石田",
+          "cid": 511548,
+          "name": "沈石田",
+          "aid": "A018691"
+        },
+        {
+          "type": "LocationName",
+          "start": 33,
+          "end": 35,
+          "span": "衡山",
+          "aid": "PL000000015458",
+          "cid": 18755
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "胥臺",
+          "cid": 35261,
+          "name": "袁袠",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "酉室",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 47,
+          "span": "袁補之",
+          "cid": "unknow",
+          "name": "袁袞",
+          "aid": "A022143"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 51,
+          "span": "天全",
+          "cid": 34508,
+          "name": "徐有貞",
+          "aid": "A003681"
+        },
+        {
+          "type": "Location",
+          "start": 52,
+          "end": 55,
+          "span": "祝支山"
+        }
+      ],
+      "sentence": "蔡林屋。都南濠。楊南峰。朱大理。唐六如。彭隆池。吳匏菴。沈石田。文衡山。袁胥臺。王酉室。袁補之。徐天全。祝支山。",
+      "author": ""
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "孟功",
+          "cid": 107182,
+          "name": "張惟敏",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "京師",
+          "cid": 4342
+        },
+        {
+          "type": "LocationName",
+          "start": 40,
+          "end": 42,
+          "span": "溧陽",
+          "cid": 4545
+        },
+        {
+          "type": "Time",
+          "start": 45,
+          "end": 47,
+          "span": "三年"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 64,
+          "span": "子弟"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 105,
+          "span": "圖書琴瑟"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 114,
+          "span": "煙雲花鳥"
+        },
+        {
+          "type": "PersonName",
+          "start": 116,
+          "end": 117,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 120,
+          "end": 121,
+          "span": "茗"
+        },
+        {
+          "type": "Person",
+          "start": 160,
+          "end": 163,
+          "span": "先生者"
+        },
+        {
+          "type": "Person",
+          "start": 217,
+          "end": 219,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 235,
+          "end": 236,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 262,
+          "end": 264,
+          "span": "草木"
+        },
+        {
+          "type": "Person",
+          "start": 269,
+          "end": 270,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 300,
+          "end": 301,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 319,
+          "end": 322,
+          "span": "大夫士"
+        },
+        {
+          "type": "LocationName",
+          "start": 336,
+          "end": 339,
+          "span": "東門外",
+          "aid": "PL000000055999"
+        },
+        {
+          "type": "Person",
+          "start": 372,
+          "end": 374,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 397,
+          "end": 399,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 424,
+          "end": 426,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 430,
+          "end": 432,
+          "span": "人人"
+        },
+        {
+          "type": "Person",
+          "start": 465,
+          "end": 466,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 502,
+          "end": 504,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 515,
+          "end": 517,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 520,
+          "end": 522,
+          "span": "善士"
+        },
+        {
+          "type": "PersonName",
+          "start": 534,
+          "end": 536,
+          "span": "大臣",
+          "cid": 71904,
+          "name": "王彥賓",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 542,
+          "end": 544,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 550,
+          "end": 552,
+          "span": "先生"
+        },
+        {
+          "type": "Time",
+          "start": 574,
+          "end": 580,
+          "span": "弘治二年仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 585,
+          "end": 587,
+          "span": "沈周",
+          "cid": 34784,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "送于孟功先生赴召入京師序。錢唐于孟功先生。德學聞望。為一時所稱。嘗為常孰令。退居溧陽。於茲三年。充乎裕如。恆無怏怏不足態。有子弟可以代其力役之勞。有畎畝可以供其歲時之需。居一廬不俚不華。僅除風雨。靜則與圖書琴瑟偕。動則與煙雲花鳥俱。客至輒具茗焚香。酌酒命題。談古今。說道理。徜徉逍遙。若將終身焉。而不知其在客也。當路有知先生者曰。孟功豈隱者哉。方今大明麗天。旌別淑慝。登崇俊良。仕相薦之朝。未幾恩命寵臨。徵書渙頒。聲達鄉邑。光生草萊。先生幡然喜曰。天之生材。必有以用之。我豈果於忘世者者哉。矧今明良相逢之時哉。與其兀兀窮簷同草木腐。豈若施吾所學。而流聲光後世哉。誦其詩。讀其書。追慕古虞夏商時。豈若於吾身親見之哉。日吉辰良。戒行在期。我鄉大夫士。相與設祖載觴。或為詠歌餞之東門外。長篇短章。鏗鍧炳耀。道旁觀者。嘖嘖壯之。酒三行。有執爵而言者曰。先生飽道飫德。退不絕俗。進不違時。幸值此昌期。敬為先生壽。又有執爵而言者曰。嘗聞體大者用廣。器宏者量深。先生抱負超於人人。其所施者願快睹焉。予時聯席座末。迺執爵而終之曰。茲逢聖治維新。凡我屏斥之人。莫不滌濯剗磢。磨滅垢瑕。思以奮志自效。況海聿之廣。賢材眾多乎。先生行當榮登要津。固宜開導大臣。招徠善士。以副朝家側席求賢意。則大臣之功莫加。而先生之名無窮焉。先生曰然。敢不蚤夜以從之。予因次其言。并圖以贈。弘治二年仲夏既望。長洲沈周撰。同邑祝允明書。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "弘治二年仲夏"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "沈周",
+          "cid": 34784,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "弘治二年仲夏既望。長洲沈周撰。同邑祝允明書。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "高賢",
+          "cid": 269435,
+          "name": "高賢",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "高賢餞別。延陵吳寬題。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "延陵",
+          "cid": 12705
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "延陵吳寬題",
+      "author": "吳寬"
+    }
+  ]
+}

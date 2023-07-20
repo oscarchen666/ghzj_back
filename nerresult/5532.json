@@ -1,0 +1,34 @@
+{
+  "filefroms": "5532.json",
+  "sentences": [
+    {
+      "authorcid": 34687,
+      "authoraid": "A017838",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 7,
+          "span": "白鹿泉庵圖"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 15,
+          "span": "山中"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "文伯仁",
+          "cid": 34687,
+          "name": "文伯仁",
+          "aid": "A017838"
+        }
+      ],
+      "sentence": "攝山白鹿泉庵圖。（篆書）。山中農人文伯仁寫。（行書）。",
+      "author": "文伯仁"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "filefroms": "1129.json",
+  "sentences": [
+    {
+      "authorcid": 101309,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "孤雲處士王振鵬造",
+      "author": "王振鵬"
+    },
+    {
+      "authorcid": 28113,
+      "authoraid": "A020089",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "右三異圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "魯恭",
+          "cid": "unknow",
+          "name": "魯恭",
+          "aid": "A015142"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 12,
+          "span": "恭",
+          "cid": 67284,
+          "name": "朱棡",
+          "aid": "A000709"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "仲康",
+          "cid": 155020,
+          "name": "仲康",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 19,
+          "span": "平陵人"
+        },
+        {
+          "type": "Metric",
+          "start": 22,
+          "end": 25,
+          "span": "二千石"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 27,
+          "span": "父"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "陵太",
+          "cid": 170187,
+          "name": "陵太",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 34,
+          "end": 36,
+          "span": "少時"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "章帝",
+          "cid": 30153,
+          "name": "朱瞻基",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "白虎"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 62,
+          "span": "蝗"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "雉"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "司徒",
+          "cid": 29921,
+          "name": "司徒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 92,
+          "span": "弟丕尚"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 102,
+          "span": "楊士奇",
+          "cid": 28113,
+          "name": "楊士奇",
+          "aid": "A020089"
+        }
+      ],
+      "sentence": "右三異圖為漢魯恭事實。恭字仲康。平陵人。世宦二千石。父為武陵太守。恭少時居太學講誦。章帝時與講白虎觀。出宰中牟政。有三異。蝗不入境。雉馴于野。童子有仁心。奏最內召。累官至大司徒。弟丕尚皆以爵顯。廬陵楊士奇書。",
+      "author": "楊士奇"
+    },
+    {
+      "authorcid": 28113,
+      "authoraid": "A020089",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "楊士奇",
+          "cid": 28113,
+          "name": "楊士奇",
+          "aid": "A020089"
+        }
+      ],
+      "sentence": "廬陵楊士奇書",
+      "author": "楊士奇"
+    },
+    {
+      "authorcid": 33202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "魯侯",
+          "cid": 261372,
+          "name": "李宗周",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "漢循",
+          "cid": 83443,
+          "name": "周國光",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 27,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "丘濬",
+          "cid": 33202,
+          "name": "丘濬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "魯侯原是漢循良。三異中牟著績長。千載猶傳圖畫裡。至今人說姓名香。丘濬題。",
+      "author": "丘濬"
+    },
+    {
+      "authorcid": 33202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "丘濬",
+          "cid": 33202,
+          "name": "丘濬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "丘濬題",
+      "author": "丘濬"
+    },
+    {
+      "authorcid": 133396,
+      "authoraid": "A044129",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "王振鵬",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "朋梅",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 14,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 20,
+          "span": "廩給令"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "仁宗",
+          "cid": 30152,
+          "name": "朱高熾",
+          "aid": "A006645"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "長公",
+          "cid": 68338,
+          "name": "陳察",
+          "aid": "A004067"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "筆墨"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 52,
+          "span": "金明池圖"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 64,
+          "span": "三異圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 67,
+          "span": "朋梅",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 89,
+          "span": "聶大年",
+          "cid": 133396,
+          "name": "聶大年",
+          "aid": "A044129"
+        }
+      ],
+      "sentence": "元王振鵬字朋梅。賜號孤雲處士。仕為廩給令。專工人物界畫。仁宗雅重之。大長公主尤喜其筆墨。常令其寫金明池圖。一時稱其神妙。此三異圖乃朋梅筆也。用筆傅彩深得唐宋三昧。尤可瑤愛。聶大年識。",
+      "author": "聶大年"
+    },
+    {
+      "authorcid": 133396,
+      "authoraid": "A044129",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "聶大年",
+          "cid": 133396,
+          "name": "聶大年",
+          "aid": "A044129"
+        }
+      ],
+      "sentence": "聶大年識",
+      "author": "聶大年"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 5,
+          "span": "賢吏"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "魯公",
+          "cid": 34135,
+          "name": "邵曾可",
+          "aid": "A006758"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 52,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "漢室多賢吏。披圖識魯公。一方霑惠澤。三異仰高風。為寫循良貌。非誇渲染工。監門馳繪幅。此意得毋同。長春居士題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "長春居士題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

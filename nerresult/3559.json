@@ -1,0 +1,211 @@
+{
+  "filefroms": "3559.json",
+  "sentences": [
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "隆慶戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一五六八年）春日"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 17,
+          "span": "包山",
+          "aid": "PL000000010052"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "隆慶戊辰（西元一五六八年）春日包山陸治作",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 129663,
+      "authoraid": "A007801",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "蘆花雁影"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 7,
+          "span": "甲辰"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "袁福徵",
+          "cid": 129663,
+          "name": "袁福徵",
+          "aid": "A007801"
+        }
+      ],
+      "sentence": "蘆花雁影。甲辰進士八十翁袁福徵題。",
+      "author": "袁福徵"
+    },
+    {
+      "authorcid": 129663,
+      "authoraid": "A007801",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲辰"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 10,
+          "span": "袁福徵",
+          "cid": 129663,
+          "name": "袁福徵",
+          "aid": "A007801"
+        }
+      ],
+      "sentence": "甲辰進士八十翁袁福徵題",
+      "author": "袁福徵"
+    },
+    {
+      "authorcid": 129663,
+      "authoraid": "A007801",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "浪"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "白沙"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "煙"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "湖"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "蘆花"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "雁"
+        },
+        {
+          "type": "Location",
+          "start": 34,
+          "end": 36,
+          "span": "水窪"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "日"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 40,
+          "span": "霞"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 46,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "江"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 55,
+          "span": "漁翁"
+        },
+        {
+          "type": "Location",
+          "start": 69,
+          "end": 71,
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 74,
+          "span": "袁福徵",
+          "cid": 129663,
+          "name": "袁福徵",
+          "aid": "A007801"
+        }
+      ],
+      "sentence": "浪激灘寒見白沙。煙收湖闊盡蘆花。何來雁字逐（點去）秋空滿。逐隊群飛向水窪。日落霞明聲亂唳。月明江靜影交加。漁翁切莫相驚恐。一任相呼雙翮遐。雲間袁福徵題。",
+      "author": "袁福徵"
+    },
+    {
+      "authorcid": 129663,
+      "authoraid": "A007801",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "袁福徵",
+          "cid": 129663,
+          "name": "袁福徵",
+          "aid": "A007801"
+        }
+      ],
+      "sentence": "雲間袁福徵題",
+      "author": "袁福徵"
+    }
+  ]
+}

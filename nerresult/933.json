@@ -1,0 +1,445 @@
+{
+  "filefroms": "933.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三０九年"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 19,
+          "span": "松雪齋",
+          "aid": "PL000000014219"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 25,
+          "span": "趙孟頫",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        }
+      ],
+      "sentence": "至大二年（西元一三０九年）春畫于松雪齋。吳興趙孟頫。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "青山"
+        },
+        {
+          "type": "LocationName",
+          "start": 4,
+          "end": 7,
+          "span": "桃花邨",
+          "aid": "PL000000039722"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "龍"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "山根"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "眼中"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "草屋"
+        },
+        {
+          "type": "LocationName",
+          "start": 29,
+          "end": 31,
+          "span": "桃源",
+          "aid": "PL000000014406",
+          "cid": 4642
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "桃源",
+          "aid": "PL000000014406",
+          "cid": 4642
+        },
+        {
+          "type": "Location",
+          "start": 36,
+          "end": 39,
+          "span": "人間世"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "流水"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "重山"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "春風"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "桃花"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "人物"
+        },
+        {
+          "type": "Thing",
+          "start": 83,
+          "end": 84,
+          "span": "船"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 87,
+          "span": "馬"
+        },
+        {
+          "type": "Person",
+          "start": 88,
+          "end": 89,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 92,
+          "end": 95,
+          "span": "種桃者"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 104,
+          "span": "至正十二年九月朔"
+        },
+        {
+          "type": "LocationName",
+          "start": 105,
+          "end": 107,
+          "span": "錢塘",
+          "cid": 5333
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 109,
+          "span": "紫芝"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 112,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "青山何處桃花邨。白雲如龍繞山根。眼中草屋參差起。若此境趣皆桃源。桃源只在人間世。流水無情遠朝市。重山遮不斷春風。萬樹桃花雜雲氣。谿上高軒絕瀟灑。人物衣冠猶大雅。水行有船陸可馬。吾將往問種桃者。至正十二年九月朔。錢塘紫芝生俞和。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "至正十二年九月朔"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "錢塘",
+          "cid": 5333
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "紫芝"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正十二年九月朔。錢塘紫芝生俞和。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "春風"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "川花"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "浣溪酒"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "佳友"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "馬蹄"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "莎泥"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "桑畝"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "流水"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "好山"
+        },
+        {
+          "type": "Time",
+          "start": 98,
+          "end": 101,
+          "span": "甲申冬"
+        },
+        {
+          "type": "LocationName",
+          "start": 102,
+          "end": 104,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        }
+      ],
+      "sentence": "春風輞川花。社日浣溪酒。百年少曠懷。四海幾佳友。馬蹄破莎泥。輿影掠桑畝。交海主忘賓。句逸心應手。流水清繞廬。好山秀當牖。幽尋既有會。劇語不知久。撫卷如同遊。不待接踵肘。妙哉。蓬萊音。三歎得希有。歲甲申冬。東海倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 4,
+          "span": "甲申冬"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        }
+      ],
+      "sentence": "歲甲申冬。東海倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "雪翁",
+          "cid": 130198,
+          "name": "郭節",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "山水"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "李思訓",
+          "cid": 146342,
+          "name": "李思訓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "馬和之",
+          "cid": 44736,
+          "name": "馬和之",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "鍾王",
+          "cid": "unknow",
+          "name": "愛新覺羅奕詥",
+          "aid": "A043389"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "林泉"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "尤翁"
+        },
+        {
+          "type": "Person",
+          "start": 81,
+          "end": 83,
+          "span": "名賢"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 92,
+          "span": "趙璧",
+          "cid": 132239,
+          "name": "趙璧",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 105,
+          "span": "正德庚辰十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 113,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "松雪翁山水遠宗展子虔李思訓。而近兼王晉卿馬和之之長。書則祖鍾王。宗虞褚。而下綜蘇米。醞釀出之。洵勝國之宗工也。此圖丘壑幽邃。林泉秀美。尤翁生平匠心之作。故得一時諸名賢題詠。可與吳劍趙璧並耀千古矣。時正德庚辰十月既望。長洲文徵明謹識。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 7,
+          "span": "正德庚辰十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "時正德庚辰十月既望。長洲文徵明謹識。",
+      "author": "文徵明"
+    }
+  ]
+}

@@ -2,10 +2,10 @@
 import pandas as pd
 # import sqlite3
 from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo,ddbc_place
-from ner.getresulthc import infer #单独运行该文件时注释掉这两行,换下两行
-from ner.dealsent import getsentences,predealh
-# from getresulthc import infer
-# from dealsent import getsentences,predealh
+# from ner.getresulthc import infer #单独运行该文件时注释掉这两行,换下两行
+# from ner.dealsent import getsentences,predealh
+from getresulthc import infer
+from dealsent import getsentences,predealh
 dbpath = "data/latest.db"
 
 '''
@@ -155,24 +155,45 @@ def searchfen(data):
 
 if __name__ == '__main__':
     import json
+    import os
+    from tqdm import tqdm
     forisents = []
     dealsents = []
     authors=[]
-
+    
     # 单文件预处理
     # filefroms = ["1035.json"]
-    filefroms = ["14393.json"]
-    # filefroms = ["23.json"]
+    # filefroms = ["25.json", "91.json"]
+
+    df = pd.read_excel("data/paintinglist.xlsx")
+    pidlist = df["pid"].tolist()
+    filefroms = [str(pid)+".json" for pid in pidlist]
+
     # 提取文件
     for file in filefroms:
+        if os.path.exists("nerresult/"+file):
+            print(file+"有了")
+            continue
+        if file in ["1600.json","1602.json"]:continue
+        # print(file)
+        # exit()
         ss,author = getsentences("orig/"+file)
         authors.append(author)
         forisents.append(ss)
-        dealsents.append(predealh(ss,limit=512))#分句上限，不能超过512，超过模型就炸了
+        dealsent = predealh(ss,limit=500)#分句上限，不能超过512，超过模型就炸了
+        dealsents.append(dealsent)
     # 模型推断
-    results = infer(forisents,dealsents,filefroms,authors)
-    # print(results)
-    new_data = searchfen(results[0])
-    with open("nerresult/6.json","w",encoding="UTF8")as f:
-        json.dump(new_data, f,indent=2, ensure_ascii=False,cls=JsonEncoder)
+    # results = infer(forisents,dealsents,filefroms,authors)
+    # # print(results)
+    # for result in tqdm(results):
+    #     new_data = searchfen(result)
+    #     filefrom = new_data["filefroms"]
+    #     with open(f"nerresult/{filefrom}","w",encoding="UTF8")as f:
+    #         json.dump(new_data, f,indent=2, ensure_ascii=False,cls=JsonEncoder)
+    for forisent,dealsent,filefrom,author in tqdm(zip(forisents,dealsents,filefroms,authors),total=len(forisents)):
+        result = infer([forisent],[dealsent],[filefrom],[author])
+        new_data = searchfen(result[0])
+        filefrom = new_data["filefroms"]
+        with open(f"nerresult/{filefrom}","w",encoding="UTF8")as f:
+            json.dump(new_data, f,indent=2, ensure_ascii=False,cls=JsonEncoder)
 

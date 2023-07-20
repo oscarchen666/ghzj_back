@@ -1,0 +1,954 @@
+{
+  "filefroms": "3634.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "釣月亭"
+        }
+      ],
+      "sentence": "釣月亭。（隸書）。長洲文壁書。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "文壁書"
+        }
+      ],
+      "sentence": "長洲文壁書",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "吳氏",
+          "cid": 67323,
+          "name": "吳氏",
+          "aid": "A011883"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 8,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "吳君",
+          "cid": 122134,
+          "name": "吳君",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "木"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 50,
+          "span": "池"
+        },
+        {
+          "type": "Person",
+          "start": 61,
+          "end": 63,
+          "span": "亭主"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 90,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 101,
+          "end": 102,
+          "span": "吾"
+        },
+        {
+          "type": "Person",
+          "start": 160,
+          "end": 163,
+          "span": "吾家君"
+        },
+        {
+          "type": "PersonName",
+          "start": 178,
+          "end": 180,
+          "span": "伯大",
+          "cid": 129734,
+          "name": "孫洪",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 187,
+          "end": 188,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 189,
+          "end": 192,
+          "span": "李長庚",
+          "cid": 127819,
+          "name": "李長庚",
+          "aid": "A012827"
+        },
+        {
+          "type": "Person",
+          "start": 195,
+          "end": 197,
+          "span": "丈夫"
+        },
+        {
+          "type": "Person",
+          "start": 201,
+          "end": 202,
+          "span": "吾"
+        },
+        {
+          "type": "Thing",
+          "start": 223,
+          "end": 224,
+          "span": "鯉"
+        },
+        {
+          "type": "Person",
+          "start": 315,
+          "end": 316,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 353,
+          "end": 355,
+          "span": "朋友"
+        },
+        {
+          "type": "Time",
+          "start": 394,
+          "end": 398,
+          "span": "弘治九年"
+        },
+        {
+          "type": "Time",
+          "start": 400,
+          "end": 409,
+          "span": "丙辰冬十一月辛亥日"
+        },
+        {
+          "type": "Person",
+          "start": 413,
+          "end": 417,
+          "span": "進士里人"
+        }
+      ],
+      "sentence": "吳氏釣月亭記。人之情愈求而愈勝。天下之理愈究而愈精。蓋言之。有稽矣。始吳君廷用治一圃於舍後。種木鑿池。盡涉覽之趣。既而作一亭主之。益靚朗適人意。亭成。廷用加有喜。余問之。廷用曰。吾之為是也。將以奉吾親。吾初不言。今幸其成也。故喜。玆不謂情之愈求而勝者邪。亭之名曰釣月。亦廷用自取而邀余為記。又問之。廷用曰。夫釣隱者事也。吾家君今仕于王朝。非隱也。非若欲得龍伯大人之鰲。詹何之魚。李長庚之無氣丈夫者類也。吾為是獨以伺它日投老而設也。夫何有於竿緡而魴鯉。特以奉其觴吟之餘。弄清波蕩瑤魄。姑以寓稱於是云耳。子幸從是發撝焉。噫又非所謂理究而精者邪。余觀玆亭之勝已備。涉者旦莫輒樂而忘歸。況久處者乎。異時尊君之樂而壽也必矣。或曰子所謂涉者。我輩廷用友也。廷用之親猶未識茲亭。又烏知其樂與壽。曰記有之。不悅乎親。不信乎朋友矣。余以是推而識之。雖然進之者猶有誠身明善之說。廷用之請記志則深矣。敢以是相。弘治九年歲在丙辰冬十一月辛亥日南至鄉貢進士里人。祝允明記。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "弘治九年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 15,
+          "span": "丙辰冬十一月辛亥日"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 23,
+          "span": "鄉貢進士里人"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 27,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "弘治九年歲在丙辰冬十一月辛亥日南至鄉貢進士里人。祝允明記。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 34917,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "吳先",
+          "cid": 24055,
+          "name": "吳先",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 17,
+          "span": "姑蘇",
+          "aid": "PL000000009816"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 22,
+          "span": "河南",
+          "aid": "PL000000000079",
+          "cid": 14692
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "流水"
+        },
+        {
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 67,
+          "span": "賓友"
+        },
+        {
+          "type": "Person",
+          "start": 73,
+          "end": 76,
+          "span": "士大夫"
+        },
+        {
+          "type": "Person",
+          "start": 116,
+          "end": 118,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 166,
+          "end": 167,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 171,
+          "end": 172,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 175,
+          "end": 176,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 198,
+          "end": 199,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 200,
+          "end": 201,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 204,
+          "end": 205,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 206,
+          "end": 207,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 224,
+          "end": 225,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 228,
+          "end": 229,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 244,
+          "end": 246,
+          "span": "清風"
+        },
+        {
+          "type": "Thing",
+          "start": 247,
+          "end": 248,
+          "span": "衣"
+        },
+        {
+          "type": "Thing",
+          "start": 254,
+          "end": 255,
+          "span": "竿"
+        },
+        {
+          "type": "Person",
+          "start": 270,
+          "end": 272,
+          "span": "諸人"
+        },
+        {
+          "type": "Person",
+          "start": 277,
+          "end": 279,
+          "span": "漁者"
+        },
+        {
+          "type": "PersonName",
+          "start": 281,
+          "end": 283,
+          "span": "野人",
+          "cid": 78598,
+          "name": "吳嘉紀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 292,
+          "end": 294,
+          "span": "漁者"
+        },
+        {
+          "type": "PersonName",
+          "start": 299,
+          "end": 300,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 304,
+          "end": 306,
+          "span": "君子",
+          "cid": 84870,
+          "name": "鍾懷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 310,
+          "end": 311,
+          "span": "竿"
+        },
+        {
+          "type": "PersonName",
+          "start": 317,
+          "end": 318,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 327,
+          "end": 328,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 330,
+          "end": 332,
+          "span": "吳氏",
+          "cid": 67323,
+          "name": "吳氏",
+          "aid": "A011883"
+        },
+        {
+          "type": "Thing",
+          "start": 354,
+          "end": 356,
+          "span": "水月"
+        },
+        {
+          "type": "Location",
+          "start": 368,
+          "end": 370,
+          "span": "亭上"
+        },
+        {
+          "type": "Person",
+          "start": 377,
+          "end": 379,
+          "span": "先生"
+        },
+        {
+          "type": "Time",
+          "start": 380,
+          "end": 386,
+          "span": "戊午四月廿日"
+        },
+        {
+          "type": "Person",
+          "start": 386,
+          "end": 392,
+          "span": "鄉貢進士郡人"
+        }
+      ],
+      "sentence": "釣月亭記。教授吳先生公美。家於姑蘇而宦游河南。其子廷用。近辟後圃之地。搆亭其中。環以流水。扁曰釣月。蓋將立矣先生他日之歸。且以為賓友之樂也。後世士大夫無田可養。往往以宦為家。及其老而歸也。則思所釣遊之處。擇其勝而息焉。理則宜爾。今先生雖身乎行道。其歸釣之心。未嘗忘也。廷用於人事倥傯之日。乃克為此。可謂能承父志者矣。或曰月縣乎天。水行乎地。水可釣。月亦可釣邪。予謂不然。此論其跡。而非其至也。蓋月者水之精。水者月之用。其為物雖二。而實一也。故釣乎水即釣乎月。而況當夫日之既夕。圓金墮波。清風在衣。斯時也。引竿垂綸。吾知其中悠然。有不可以語諸人矣。自世之漁者。皆野人俗夫用以為業。由是漁者始賤。不為人齒。昔之君子。嘗有持竿而餌不設者。人謂其意有所寓。不在魚也。吳氏之釣月其不類是也。夫予締姻廷用。而熟游斯亭。水月之樂。嘗同之矣。故為記於亭上。以立矣質之先生。戊午四月廿日鄉貢進士郡人都穆記。",
+      "author": "都穆"
+    },
+    {
+      "authorcid": 34917,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "戊午四月廿日"
+        },
+        {
+          "type": "Person",
+          "start": 6,
+          "end": 12,
+          "span": "鄉貢進士郡人"
+        }
+      ],
+      "sentence": "戊午四月廿日鄉貢進士郡人都穆記",
+      "author": "都穆"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 4,
+          "span": "水心亭上"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "珊瑚"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "碧海"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 23,
+          "span": "吾"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青天"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 37,
+          "span": "竿"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "水月"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "人魚"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 59,
+          "span": "闌干"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "鬢絲"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "水心亭上口永滄浪。閒拂珊瑚夜氣涼。碧海欲將吾手摸。青天堪倚釣（點去）此竿長。要知水月原同相。亦把人魚付兩忘。曲曲闌干獨憑處。鬢絲零亂怯秋光。沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "沈周",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "黃茆"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "碧波"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "絲綸"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "魚龍"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "烏兔"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "水石"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "玉璜"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "尚父",
+          "cid": "unknow",
+          "name": "姜子牙",
+          "aid": "A003202"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "嫦娥"
+        },
+        {
+          "type": "LocationName",
+          "start": 48,
+          "end": 50,
+          "span": "江湖",
+          "aid": "PL000000008364"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 55,
+          "span": "城市"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 57,
+          "span": "誰"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 67,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "一撮黃茆覆碧波。偷閒功業晚來多。絲綸不管魚龍事。烏兔其如水石何。未為玉璜思尚父。閒將靈餌誤嫦娥。江湖頃刻歸城市。誰把新詩記志和。祝允明。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "祝允明",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "碧渠"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 12,
+          "span": "城市"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "玄真子",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A007271"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "仲晦書"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 41,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "風"
+        },
+        {
+          "type": "LocationName",
+          "start": 48,
+          "end": 50,
+          "span": "江湖",
+          "aid": "PL000000008364"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "火"
+        }
+      ],
+      "sentence": "翼翼虛亭瞰碧渠。坐令城市類溪居。高懷不減玄真子。新扁仍拈仲晦書。夜靜水寒聊復爾。酒醒風起欲何如。江湖滿地堪乘興。安用火因波目釣徒。長洲文壁。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "文壁"
+        }
+      ],
+      "sentence": "長洲文壁",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 66725,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "亭子"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 12,
+          "span": "岩橋北",
+          "cid": 402958
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "清池"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "新月"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "竿"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "兔"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 46,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 55,
+          "span": "金尊酒"
+        },
+        {
+          "type": "Location",
+          "start": 58,
+          "end": 60,
+          "span": "苔磯"
+        },
+        {
+          "type": "LocationName",
+          "start": 64,
+          "end": 66,
+          "span": "長洲",
+          "cid": 4594
+        }
+      ],
+      "sentence": "亭子初成令子謀。石岩橋北正宜秋。清池入影高低屋。新月垂竿上下鉤。雅趣唯知邀兔魄。老懷應不羨魚遊。夜深正照金尊酒。醉坐苔磯忘百憂。長洲陳璚。",
+      "author": "陳璚"
+    },
+    {
+      "authorcid": 66725,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        }
+      ],
+      "sentence": "長洲",
+      "author": "陳璚"
+    },
+    {
+      "authorcid": 33842,
+      "authoraid": "A044384",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "子興",
+          "cid": 66392,
+          "name": "郭興",
+          "aid": "A020308"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 32,
+          "span": "袁郎"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 51,
+          "span": "徐禎卿",
+          "cid": 33842,
+          "name": "徐禎卿",
+          "aid": "A044384"
+        }
+      ],
+      "sentence": "風月老潛夫。真成直釣徒。道心元好寓。色相已知無。庾子興不淺。袁郎詩更都。清宵多負者。長嘯謝迷途。徐禎卿。",
+      "author": "徐禎卿"
+    },
+    {
+      "authorcid": 33842,
+      "authoraid": "A044384",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "徐禎卿",
+          "cid": 33842,
+          "name": "徐禎卿",
+          "aid": "A044384"
+        }
+      ],
+      "sentence": "徐禎卿",
+      "author": "徐禎卿"
+    },
+    {
+      "authorcid": 18953,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "冰輪"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "綸鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "石鷗"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 41,
+          "span": "漁者"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "黃雲"
+        }
+      ],
+      "sentence": "冰輪涵碧泓。潑刺靜聞聲。何處洗塵想。良宵適野情。收綸鶴入夢。坐石鷗尋盟。簑笠雪漁者。同馳今古名。黃雲。",
+      "author": "黃雲"
+    },
+    {
+      "authorcid": 18953,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "黃雲"
+        }
+      ],
+      "sentence": "黃雲",
+      "author": "黃雲"
+    }
+  ]
+}

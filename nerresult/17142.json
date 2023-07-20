@@ -1,0 +1,195 @@
+{
+  "filefroms": "17142.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "陸贄",
+          "cid": 33705,
+          "name": "陸贄",
+          "aid": "A021979"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "陸贄",
+          "cid": 33705,
+          "name": "陸贄",
+          "aid": "A021979"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "吳人"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "進士"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "唐德宗",
+          "cid": 182475,
+          "name": "唐德宗",
+          "aid": "A004215"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 28,
+          "end": 31,
+          "span": "貞元中"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 37,
+          "span": "宣公"
+        }
+      ],
+      "sentence": "吳人陸贄像。陸贄。吳人。年十八第進士。唐德宗拜翰林學士。貞元中拜相。謚宣公。有疏奏議行于世。",
+      "author": ""
+    },
+    {
+      "authorcid": 3632,
+      "authoraid": "A007889",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "陸九淵",
+          "cid": 3632,
+          "name": "陸九淵",
+          "aid": "A007889"
+        }
+      ],
+      "sentence": "天不祚唐。胡為生公。遺像凜然。□古清風。陸九淵讚。",
+      "author": "陸九淵"
+    },
+    {
+      "authorcid": 3632,
+      "authoraid": "A007889",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "陸九淵",
+          "cid": 3632,
+          "name": "陸九淵",
+          "aid": "A007889"
+        }
+      ],
+      "sentence": "陸九淵讚",
+      "author": "陸九淵"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "公震",
+          "cid": 50268,
+          "name": "趙士雷",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "公震同彥和大監觀。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "□□□再拜觀。",
+      "author": ""
+    },
+    {
+      "authorcid": 1953,
+      "authoraid": "A007247",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "君臣",
+          "cid": 553607,
+          "name": "姜弘立",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "丘山"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "先生風雲際會。君臣合心。武文功大。重若丘山。猶為人愛於千古之下。彥博。",
+      "author": "文彥博"
+    },
+    {
+      "authorcid": 1953,
+      "authoraid": "A007247",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "彥博",
+      "author": "文彥博"
+    }
+  ]
+}

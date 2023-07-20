@@ -1,0 +1,224 @@
+{
+  "filefroms": "7.json",
+  "sentences": [
+    {
+      "authorcid": 16227,
+      "authoraid": "A041551",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "當年"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "名姬"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 34,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "周昉當年號神品。能傳宮禁眾名姬。因看雙陸思纖手。想見唐家極盛時。吳興錢選舜舉。",
+      "author": "錢選"
+    },
+    {
+      "authorcid": 16227,
+      "authoraid": "A041551",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "錢選",
+          "cid": 16227,
+          "name": "錢選",
+          "aid": "A041551"
+        }
+      ],
+      "sentence": "吳興錢選舜舉",
+      "author": "錢選"
+    },
+    {
+      "authorcid": 540660,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "深宮"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 12,
+          "span": "供湯侍婢"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "女工"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 37,
+          "span": "劉孝基",
+          "cid": 540660,
+          "name": "劉孝基",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "睡起深宮未梳沐。供湯侍婢走匍匐。女工不親無用心。髼髟丐雙雙打雙陸。劉孝基題。",
+      "author": "劉孝基"
+    },
+    {
+      "authorcid": 540660,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "劉孝基",
+          "cid": 540660,
+          "name": "劉孝基",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "劉孝基題",
+      "author": "劉孝基"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "嘉靖壬戌二月十日"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 16,
+          "span": "磬室"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 22,
+          "span": "王氏園亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "周昉",
+          "cid": 476194,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "錢進",
+          "cid": 240327,
+          "name": "錢進",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 81,
+          "end": 83,
+          "span": "季重",
+          "cid": 71875,
+          "name": "王思任",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 132,
+          "end": 134,
+          "span": "昭陽"
+        },
+        {
+          "type": "Thing",
+          "start": 135,
+          "end": 140,
+          "span": "五湖陸師道"
+        }
+      ],
+      "sentence": "嘉靖壬戌二月十日。偶偕尚之。磬室。過王氏園亭。得者見此圖。乃唐人周昉筆也。而錢進士為之題。設色精雅。神妙絕倫。如良工之無斧鑿痕。視之皆有生意。真超凡入聖之筆也。季重不知何緣得此。余把玩久之。因附題云。曉來嬾去褪殘米庄。且戲樗蒲賭勝忙。豈為日長無箇事。故尋消遣在昭陽。五湖陸師道。",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "陸師道",
+          "cid": 118777,
+          "name": "陸師道",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "五湖陸師道",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "雙陸圖"
+        }
+      ],
+      "sentence": "周昉內人雙陸圖",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

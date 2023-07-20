@@ -1,0 +1,217 @@
+{
+  "filefroms": "91.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 14,
+          "span": "西元一三０九年）冬"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "漚波亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大二年（西元一三０九年）冬畫于漚波亭。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "滄洲"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 17,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 27,
+          "span": "碧山火"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "五湖"
+        },
+        {
+          "type": "PersonName",
+          "start": 36,
+          "end": 38,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "道人興與滄洲杳。放棹清谿水自流。我亦收綸歸舊隱。碧山火因月五湖秋。指枝道人祝允明。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "祝允明",
+          "cid": 30180,
+          "name": "祝允明",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "指枝道人祝允明",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 21665,
+      "authoraid": "A034338",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 6,
+          "span": "苕花春雨"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 25,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 35,
+          "span": "岩空谷"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 40,
+          "span": "野雲"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 43,
+          "span": "路"
+        },
+        {
+          "type": "Location",
+          "start": 44,
+          "end": 47,
+          "span": "溪橋岸"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 54,
+          "span": "幽人"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 62,
+          "span": "茅屋"
+        },
+        {
+          "type": "LocationName",
+          "start": 63,
+          "end": 65,
+          "span": "山陰",
+          "cid": 18348
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 72,
+          "span": "嘉靖壬午陽月"
+        },
+        {
+          "type": "Location",
+          "start": 75,
+          "end": 77,
+          "span": "石亭"
+        }
+      ],
+      "sentence": "零落苕花春雨多。舊涇何處問漚波。披圖不盡懷賢意。誰為青山葺薜蘿。岩空谷向野雲深。路繞溪橋岸遶林。何處幽人專一壑。數間茅屋對山陰。嘉靖壬午陽月既望。石亭陳沂。",
+      "author": "陳沂"
+    },
+    {
+      "authorcid": 21665,
+      "authoraid": "A034338",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖壬午陽月"
+        },
+        {
+          "type": "Location",
+          "start": 9,
+          "end": 11,
+          "span": "石亭"
+        }
+      ],
+      "sentence": "嘉靖壬午陽月既望。石亭陳沂。",
+      "author": "陳沂"
+    }
+  ]
+}

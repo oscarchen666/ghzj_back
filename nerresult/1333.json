@@ -1,0 +1,702 @@
+{
+  "filefroms": "1333.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "皇慶二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 14,
+          "span": "西元一三一三年）春"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "皇慶二年（西元一三一三年）春。子昂",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 110223,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "仲姬",
+          "cid": 110223,
+          "name": "管道昇",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "仲姬",
+      "author": "管道昇"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "春雨"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "江湖"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 17,
+          "span": "空谷底"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 19,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "玉節"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "上仙",
+          "cid": 355199,
+          "name": "馮登瀛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "青鸞"
+        },
+        {
+          "type": "Location",
+          "start": 44,
+          "end": 47,
+          "span": "鏡臺前"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "南望多春雨。江湖日夜深。不知空谷底。誰與共芳心。玉節去翩翩。難招海上仙。青鸞三尺影。猶舞鏡臺前。子昂重題。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "子昂重題",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "蟾蜍"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "薔薇露"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "兔穎"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "翡翠毛"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "玉堂"
+        }
+      ],
+      "sentence": "蟾蜍曉貯薔薇露。兔穎春裁翡翠毛。賴有宣龢遺譜在。玉堂才力最為高。仙井虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [],
+      "sentence": "仙井虞集",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 100334,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "劍器"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "法書"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "衛夫人",
+          "cid": 165114,
+          "name": "衛夫人",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 37,
+          "span": "至正十年（"
+        },
+        {
+          "type": "Time",
+          "start": 37,
+          "end": 46,
+          "span": "西元一三五０年）冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 46,
+          "end": 48,
+          "span": "錢塘",
+          "cid": 58004,
+          "name": "錢塘",
+          "aid": "A014354"
+        }
+      ],
+      "sentence": "劍器不須渾脫舞。法書必學衛夫人。卻將京兆風流墨。輕拂蒼梧五葉筠。至正十年（西元一三五０年）冬錢塘于思緝。",
+      "author": "于思緝"
+    },
+    {
+      "authorcid": 100334,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正十年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 14,
+          "span": "西元一三五０年）冬"
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "錢塘",
+          "cid": 5333
+        }
+      ],
+      "sentence": "至正十年（西元一三五０年）冬錢塘于思緝",
+      "author": "于思緝"
+    },
+    {
+      "authorcid": 133668,
+      "authoraid": "A045231",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "李衛",
+          "cid": 58674,
+          "name": "李衛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "畫竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "文翁",
+          "cid": 19466,
+          "name": "文翁",
+          "aid": "A018288"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 29,
+          "span": "至正廿四年"
+        },
+        {
+          "type": "Time",
+          "start": 30,
+          "end": 41,
+          "span": "西元一三六四年）夏五月"
+        },
+        {
+          "type": "LocationName",
+          "start": 41,
+          "end": 43,
+          "span": "華亭",
+          "cid": 5252
+        }
+      ],
+      "sentence": "自是閨中秀。蕭然有道風。能書如李衛。畫竹似文翁。至正廿四年（西元一三六四年）夏五月華亭顧祿。吟餘清興、山齋",
+      "author": "顧祿"
+    },
+    {
+      "authorcid": 133668,
+      "authoraid": "A045231",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "至正廿四年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 17,
+          "span": "西元一三六四年）夏五月"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "華亭",
+          "cid": 5252
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "顧祿",
+          "cid": 133668,
+          "name": "顧祿",
+          "aid": "A045231"
+        }
+      ],
+      "sentence": "至正廿四年（西元一三六四年）夏五月華亭顧祿",
+      "author": "顧祿"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "王孫",
+          "cid": 139245,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "書畫"
+        },
+        {
+          "type": "LocationName",
+          "start": 12,
+          "end": 14,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 17,
+          "span": "鐵鉤鎖"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "柳誠",
+          "cid": 104682,
+          "name": "柳誠",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 26,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "故國王孫夢。空餘書畫傳。江南鐵鉤鎖。只許柳誠懸。東海倪瓚奉題。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "東海倪瓚奉題",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "趙文敏",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 23,
+          "span": "魏國夫人",
+          "cid": 444926,
+          "name": "柳氏（高宗廢后母）",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 38,
+          "end": 41,
+          "span": "延祐間"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "畫竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "公書",
+          "cid": 204144,
+          "name": "羅廷紳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 51,
+          "end": 53,
+          "span": "祕府"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 62,
+          "span": "片紙隻字"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 68,
+          "span": "金拱璧"
+        },
+        {
+          "type": "PersonName",
+          "start": 77,
+          "end": 79,
+          "span": "黃門",
+          "cid": 206159,
+          "name": "黃門",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 89,
+          "span": "書畫"
+        },
+        {
+          "type": "Thing",
+          "start": 100,
+          "end": 104,
+          "span": "牙籤錦軸"
+        },
+        {
+          "type": "Time",
+          "start": 129,
+          "end": 134,
+          "span": "成化庚寅（"
+        },
+        {
+          "type": "Time",
+          "start": 134,
+          "end": 143,
+          "span": "西元一四七０年）冬"
+        },
+        {
+          "type": "LocationName",
+          "start": 143,
+          "end": 145,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 145,
+          "end": 147,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "元趙文敏公蔚為儒宗。文章翰墨度越前古。魏國夫人聰明敻異。游戲翰學。妙絕當時。延祐間其畫竹與文敏公書並藏祕府。後世得其片紙隻字如獲兼金拱璧。不敢玩視焉。貞甫黃門性清雅。世好集古書畫。購求不較其值。故其家牙籤錦軸滿架盈櫝。復有此管趙合璧。予何敢褻玩焉。敬識其後。成化庚寅（西元一四七０年）冬長洲吳寬。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "成化庚寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 14,
+          "span": "西元一四七０年）冬"
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "成化庚寅（西元一四七０年）冬長洲吳寬",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 45823,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "叢篁"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "寒雲"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "古木"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "翠蘚"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 22,
+          "span": "碧瀾堂上"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "霅水"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "王孫",
+          "cid": 139245,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 36,
+          "span": "雅宜子王"
+        }
+      ],
+      "sentence": "叢篁偏映寒雲色。古木猶存翠蘚痕。曾是碧瀾堂上月。獨臨霅水憶王孫。雅宜子王寵奉題。",
+      "author": "王寵"
+    },
+    {
+      "authorcid": 45823,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 4,
+          "span": "雅宜子王"
+        }
+      ],
+      "sentence": "雅宜子王寵奉題",
+      "author": "王寵"
+    },
+    {
+      "authorcid": 35126,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "流泉"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 46,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 55,
+          "span": "楊循吉",
+          "cid": 35126,
+          "name": "楊循吉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "髣髴聽琴聲。流泉百道鳴。頓令群籟寂。轉覺世緣輕。弄月神逾爽。飄風調更清。不須廣陵散。自得古人情。南峰老人楊循吉。",
+      "author": "楊循吉"
+    },
+    {
+      "authorcid": 35126,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "楊循吉",
+          "cid": 35126,
+          "name": "楊循吉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "南峰老人楊循吉",
+      "author": "楊循吉"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "filefroms": "3558.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "唐寅",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "寒溪"
+        },
+        {
+          "type": "LocationName",
+          "start": 4,
+          "end": 6,
+          "span": "仙鄉",
+          "cid": 3920
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "霞衣"
+        },
+        {
+          "type": "Location",
+          "start": 41,
+          "end": 44,
+          "span": "釣蘆岸"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 55,
+          "span": "琴"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 60,
+          "span": "高山流水"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "白鷗"
+        },
+        {
+          "type": "LocationName",
+          "start": 80,
+          "end": 82,
+          "span": "商山",
+          "aid": "PL000000009776"
+        },
+        {
+          "type": "Person",
+          "start": 104,
+          "end": 106,
+          "span": "唐君"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 137,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 140,
+          "end": 143,
+          "span": "甲寅（"
+        },
+        {
+          "type": "Time",
+          "start": 143,
+          "end": 153,
+          "span": "西元一七九四年）七夕"
+        }
+      ],
+      "sentence": "寒溪引入仙鄉深。一川風景含秋林。霞衣雲帔結知心。徘徊稱意羞華簪。或浮輕舠或卧岑。把釣蘆岸垂絲沉。有來童子斜抱琴。高山流水彈清音。拏空松栢虬龍吟。白鷗為伴浮碧潯。商山遺跡復見今。箖箊晚籟寒窗侵。生綃一幅重南金。唐君妙筆何森森。乘槎他日擬追尋。祇今卧遊瀟灑滌煩襟。寶親王長春居士題。時甲寅（西元一七九四年）七夕。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 7,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 12,
+          "span": "甲寅"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 23,
+          "span": "西元一七九四年）七夕"
+        }
+      ],
+      "sentence": "寶親王長春居士題。時甲寅（西元一七九四年）七夕。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

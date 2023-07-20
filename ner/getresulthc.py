@@ -9,6 +9,8 @@ from modelscope.utils.constant import Tasks
 '''
 调用Raner识别句子中的实体
 '''
+# 加载模型
+ner_pipeline = pipeline(Tasks.named_entity_recognition, 'damo/nlp_raner_named-entity-recognition_chinese-base-literature')
 
 class JsonEncoder(json.JSONEncoder):
     # 用于处理写json文件格式问题
@@ -29,9 +31,8 @@ def write_file(results,root):
 
 def infer(forisents,dealsents,filefroms,authors):
     # 推断
-    print(len(filefroms))
-    # 加载模型
-    ner_pipeline = pipeline(Tasks.named_entity_recognition, 'damo/nlp_raner_named-entity-recognition_chinese-base-literature')
+    # print("infering...")
+    # print(len(filefroms))    
     results = []
     start=time.time()
     for oneforisent,onedealsent,filefrom,oneauthor in zip(forisents,dealsents,filefroms,authors):
@@ -40,6 +41,8 @@ def infer(forisents,dealsents,filefroms,authors):
         allsen = []
         for forisent,dealsent,author in zip(oneforisent,onedealsent,oneauthor):
             # 循环文件中每一个句子
+            # print(oneforisent)
+            # print(onedealsent)
             if len(dealsent)==0:#原句小于126,直接处理
                 out = ner_pipeline(forisent) # out是预测的实体结果
                 out["sentence"] = forisent # 记录一下原句
@@ -60,7 +63,7 @@ def infer(forisents,dealsents,filefroms,authors):
 
         allinfo["sentences"] = allsen
         results.append(allinfo)
-    print(time.time()-start,"s")
+    # print(time.time()-start,"s")
     return results
 
 def toupiao(foriouts,forisent,dealsent):

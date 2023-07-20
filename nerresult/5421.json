@@ -1,0 +1,383 @@
+{
+  "filefroms": "5421.json",
+  "sentences": [
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "六如",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "君友",
+          "cid": 52872,
+          "name": "嚴侶",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "古人"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "先君"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "古人"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "今人"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "片紙"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "珠玉"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "耕蠶"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 77,
+          "span": "李唐",
+          "cid": 251345,
+          "name": "李唐",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 86,
+          "end": 90,
+          "span": "庚申春日"
+        },
+        {
+          "type": "Location",
+          "start": 93,
+          "end": 96,
+          "span": "苜蓿齋"
+        }
+      ],
+      "sentence": "昔六如先生與先君友。聚首。嘗論及畫法。品藻古人。先君每心讓之。是以其畫動師古人。不輕點筆。今人得其片紙不啻珠玉。此卷耕蠶盈滿匹練。曲盡豳風諸篇。而超邁李唐者也。宜永寶之。以庚申春日獲觀於苜蓿齋。因識之。文嘉。",
+      "author": "文嘉"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 5,
+          "span": "庚申春日"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 11,
+          "span": "苜蓿齋"
+        }
+      ],
+      "sentence": "以庚申春日獲觀於苜蓿齋。因識之。文嘉。",
+      "author": "文嘉"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "宮蠶圖"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "作者"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "李唐",
+          "cid": 251345,
+          "name": "李唐",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 30,
+          "end": 32,
+          "span": "吳中",
+          "aid": "PL000000008352"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 102,
+          "span": "畫"
+        },
+        {
+          "type": "Thing",
+          "start": 106,
+          "end": 108,
+          "span": "長卷"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 117,
+          "span": "木"
+        },
+        {
+          "type": "PersonName",
+          "start": 120,
+          "end": 123,
+          "span": "周天球",
+          "cid": 128788,
+          "name": "周天球",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "宮蠶圖。宋畫苑多有作者。而李唐墨本最著名。蓋當時進御物也。吾吳中盛傳之。而贗作紛出。矇賈競售。故六如先生慨然作此卷。少加損益。而筆法設色。皆用己意。不惟祖七月之詩。而尤擅繪事家三長。良可寶重者也。況六如畫多小幅。長卷絕無。其尤寶藏之木難哉。周天球題。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "周天球題",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "唐子畏",
+          "cid": "unknow",
+          "name": "唐寅",
+          "aid": "A018140"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 13,
+          "span": "耕織圖"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "宮蠶"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "宮蠶"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 26,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 32,
+          "span": "朱樓碧殿"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 43,
+          "span": "宮掖貴人"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 53,
+          "span": "重溪複嶺"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 56,
+          "span": "耜"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 58,
+          "span": "筐"
+        },
+        {
+          "type": "Location",
+          "start": 60,
+          "end": 62,
+          "span": "山野"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "后稷",
+          "cid": "unknow",
+          "name": "稷",
+          "aid": "A017996"
+        },
+        {
+          "type": "PersonName",
+          "start": 79,
+          "end": 81,
+          "span": "周公",
+          "cid": "unknow",
+          "name": "姬旦",
+          "aid": "A004008"
+        },
+        {
+          "type": "PersonName",
+          "start": 102,
+          "end": 104,
+          "span": "李唐",
+          "cid": 251345,
+          "name": "李唐",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 107,
+          "end": 109,
+          "span": "昔人"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 112,
+          "span": "王蒙",
+          "cid": 100923,
+          "name": "王蒙",
+          "aid": "A002688"
+        },
+        {
+          "type": "Time",
+          "start": 118,
+          "end": 121,
+          "span": "五百年"
+        },
+        {
+          "type": "Person",
+          "start": 126,
+          "end": 127,
+          "span": "僕"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 132,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 136,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "唐子畏先生此卷。當是耕織圖。非宮蠶也。宮蠶乃出劉松年本。朱樓碧殿。金屋美人。極宮掖貴人之態。此卷作重溪複嶺。舉耜攜筐。蓋山野農桑狀貌。所謂后稷公劉。以此開國。周公所為歌豳風也。若其巖巒迴合。林壑蒼然。全師李唐筆法。昔人謂王蒙筆力能扛鼎。五百年來無此君。僕請借評此卷。王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王穉登",
+      "author": "王穉登"
+    }
+  ]
+}

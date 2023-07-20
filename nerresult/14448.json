@@ -1,0 +1,306 @@
+{
+  "filefroms": "14448.json",
+  "sentences": [
+    {
+      "authorcid": 3998,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "王淵",
+          "cid": 3998,
+          "name": "王淵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "若水王淵畫",
+      "author": "王淵"
+    },
+    {
+      "authorcid": 30681,
+      "authoraid": "A018696",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "翠袖"
+        },
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "水濱"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "楚人"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "湘妃"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "陳王",
+          "cid": "unknow",
+          "name": "曹植",
+          "aid": "A006014"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 31,
+          "span": "洛神"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "水仙",
+          "cid": 94430,
+          "name": "陶峴",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 36,
+          "end": 38,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 63,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 67,
+          "span": "花王"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "牡丹"
+        },
+        {
+          "type": "Person",
+          "start": 73,
+          "end": 75,
+          "span": "皇甫"
+        }
+      ],
+      "sentence": "翠袖輕盈向水濱。冰姿瀟灑淨無塵。楚人多作湘妃怨。不學陳王賦洛神。水仙。　洛陽千種鬥春芳。富貴真誇穠艷妝。一自清平傳唱後。至今人愛說花王。牡丹。百泉皇甫汸。",
+      "author": "皇甫汸"
+    },
+    {
+      "authorcid": 30681,
+      "authoraid": "A018696",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "百泉",
+          "cid": 30681,
+          "name": "皇甫汸",
+          "aid": "A018696"
+        }
+      ],
+      "sentence": "百泉皇甫汸",
+      "author": "皇甫汸"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "雲髻"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "茶杯"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "東風"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "茉莉"
+        },
+        {
+          "type": "Location",
+          "start": 38,
+          "end": 41,
+          "span": "花江上"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "寶鏡"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 52,
+          "span": "釣臺"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 58,
+          "span": "胭脂波"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "游魚"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 67,
+          "span": "艷姬"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "芙蓉"
+        }
+      ],
+      "sentence": "最愛芳英點雲髻。更憐餘馥次茶杯。寒窗就日渾藏護。生怕東風料峭來。右茉莉。　名花江上傍秋開。寶鏡當空落釣臺。一片胭脂波澈底。游魚驚是艷姬來。右芙蓉。隆池山樵彭年。",
+      "author": "彭年"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "隆池"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "彭年",
+          "cid": 63542,
+          "name": "彭年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "隆池山樵彭年",
+      "author": "彭年"
+    },
+    {
+      "authorcid": 133452,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "瑤池",
+          "aid": "PL000000055492"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "青鳥"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "仙曹"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "西風"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "鳳毛"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 34,
+          "span": "鳳仙"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 56,
+          "span": "詩朋酒侶"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "西風"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 67,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "菊花"
+        }
+      ],
+      "sentence": "穠艷何爭妬桃絳。瑤池青鳥舊仙曹。可憐日暮西風急。滿地斕斑委鳳毛。鳳仙。　清艷冷冷自絕塵。偏于晚景獨精神。詩朋酒侶常相過。豈向西風冷笑人。菊花。歸昌世題。",
+      "author": "歸昌世"
+    },
+    {
+      "authorcid": 133452,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "歸昌世題",
+      "author": "歸昌世"
+    }
+  ]
+}

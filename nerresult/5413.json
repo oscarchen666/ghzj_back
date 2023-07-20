@@ -1,0 +1,47 @@
+{
+  "filefroms": "5413.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "正德丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一五０七年）秋八月"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 24,
+          "span": "夢墨亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "正德丁卯（西元一五０七年）秋八月既望。畫于夢墨亭。唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "天下唐卷第一。",
+      "author": ""
+    }
+  ]
+}

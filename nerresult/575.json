@@ -1,0 +1,889 @@
+{
+  "filefroms": "575.json",
+  "sentences": [
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 1,
+          "end": 4,
+          "span": "雪風沙"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 10,
+          "span": "衣"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "李卿",
+          "cid": 151638,
+          "name": "李卿",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "磧雪風沙大窖涼。毳衣非暖酪非香。李卿知己休多語。試看垂垂漢節長。乾隆御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 58587,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "龍沙"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "乳酪"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "冰雪"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 27,
+          "span": "十九年"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "鬢須"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 55,
+          "span": "國官"
+        },
+        {
+          "type": "Time",
+          "start": 104,
+          "end": 108,
+          "span": "乾隆丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 109,
+          "end": 120,
+          "span": "西元一七四六年）春正月"
+        },
+        {
+          "type": "PersonName",
+          "start": 122,
+          "end": 125,
+          "span": "梁詩正",
+          "cid": 58587,
+          "name": "梁詩正",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "蒼茫牧野龍沙寬。腥羶乳酪充飱餐。貞心許國冰雪寒。十九年來祇一般。鬢須白去節旄殘。窮荒猶感大義難。歸來博典屬國官。漢家恩澤輕羽翰。千秋史論同三歎。即今流傳圖畫看。不殊麟閣標衣冠。載披恍見心血丹。凛然臣節良不刊。乾隆丙寅（西元一七四六年）春正月。臣梁詩正奉敕敬題。",
+      "author": "梁詩正"
+    },
+    {
+      "authorcid": 58587,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆丙寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一七四六年）春正月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 21,
+          "span": "梁詩正",
+          "cid": 58587,
+          "name": "梁詩正",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆丙寅（西元一七四六年）春正月。臣梁詩正奉敕敬題。",
+      "author": "梁詩正"
+    },
+    {
+      "authorcid": 59002,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子卿",
+          "cid": 71113,
+          "name": "王澤",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 5,
+          "span": "匈奴"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "旃毛雪"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "麒麟"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "李都",
+          "cid": 93015,
+          "name": "李都",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 76,
+          "span": "汪由敦",
+          "cid": 59002,
+          "name": "汪由敦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "子卿使匈奴。矯矯杖漢節。羝乳夫何時。卧咽旃毛雪。摻持旄盡落。頭白十九春。神驚上林鴈。歸來畫麒麟。零縑尺幅中。千載凛生氣。悲歌餘慨慷。河梁李都尉。臣汪由敦。",
+      "author": "汪由敦"
+    },
+    {
+      "authorcid": 59002,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "汪由敦",
+          "cid": 59002,
+          "name": "汪由敦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣汪由敦",
+      "author": "汪由敦"
+    },
+    {
+      "authorcid": 59386,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "風雪"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 12,
+          "span": "漢家天使"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 29,
+          "span": "雁"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "臣"
+        }
+      ],
+      "sentence": "風雪漫天透骨凉。漢家天使姓名香。節旄落盡歸何日。目斷橫空雁字長。臣勵宗萬恭和敬題。",
+      "author": "勵宗萬"
+    },
+    {
+      "authorcid": 59386,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "臣"
+        }
+      ],
+      "sentence": "臣勵宗萬恭和敬題",
+      "author": "勵宗萬"
+    },
+    {
+      "authorcid": 80608,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "沙裏",
+          "aid": "PL000000014398",
+          "cid": 9159
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 4,
+          "span": "雪"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "雨"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 14,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "萬草"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "羝羊"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "石"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "旌旗"
+        },
+        {
+          "type": "Location",
+          "start": 69,
+          "end": 71,
+          "span": "朔甸"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "天子"
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 98,
+          "span": "中郎",
+          "cid": 35222,
+          "name": "袁宏道",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 144,
+          "end": 146,
+          "span": "功臣",
+          "cid": 88471,
+          "name": "梅枚",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 149,
+          "end": 151,
+          "span": "麒麟"
+        },
+        {
+          "type": "Location",
+          "start": 173,
+          "end": 175,
+          "span": "塞山"
+        },
+        {
+          "type": "Person",
+          "start": 184,
+          "end": 186,
+          "span": "英雄"
+        },
+        {
+          "type": "Thing",
+          "start": 189,
+          "end": 191,
+          "span": "刀環"
+        },
+        {
+          "type": "PersonName",
+          "start": 193,
+          "end": 196,
+          "span": "張若靄",
+          "cid": 80608,
+          "name": "張若靄",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "白沙裏雪亂如雨。寒咽邊笳作人語。萬草僵黃不見春。世上羝羊未聞乳。海枯石爛堅摻持。肝腦塗地誠甘之。茆土千乘固不屑。節旄落盡心無移。旌旗千里臨朔甸。天子自將誇能戰。徒教搆釁逞干戈。耀威詎使氛霾晏。中郎奉詔不矜鋒。迺幽大窖鳴然風。當時倘得命師去。利氣豈讓蘭于功。陵降何惜武存幸。尺寸無封名實炳。功臣聊得圖麒麟。千年血淚留霜影。何時粉本落人間。毳帳旃毛老塞山。出使丁年歸皓首。英雄無夢到刀環。臣張若靄敬題。",
+      "author": "張若靄"
+    },
+    {
+      "authorcid": 80608,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "張若靄",
+          "cid": 80608,
+          "name": "張若靄",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣張若靄敬題",
+      "author": "張若靄"
+    },
+    {
+      "authorcid": 55836,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "寒雲"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "羣羊蝟"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "雪"
+        },
+        {
+          "type": "Person",
+          "start": 68,
+          "end": 70,
+          "span": "單于"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 90,
+          "span": "帛書"
+        },
+        {
+          "type": "PersonName",
+          "start": 93,
+          "end": 95,
+          "span": "蘇武",
+          "cid": 11589,
+          "name": "蘇武",
+          "aid": "A007675"
+        },
+        {
+          "type": "Person",
+          "start": 101,
+          "end": 103,
+          "span": "使臣"
+        },
+        {
+          "type": "Thing",
+          "start": 123,
+          "end": 124,
+          "span": "羊"
+        },
+        {
+          "type": "Thing",
+          "start": 131,
+          "end": 132,
+          "span": "羊"
+        },
+        {
+          "type": "PersonName",
+          "start": 139,
+          "end": 141,
+          "span": "李陵",
+          "cid": 15904,
+          "name": "李陵",
+          "aid": "A011731"
+        },
+        {
+          "type": "Person",
+          "start": 147,
+          "end": 149,
+          "span": "臣裘"
+        }
+      ],
+      "sentence": "寒雲墮地天茫茫。羣羊蝟縮難成行。豈真執箠効驅策。百折不死來此場。餐旃嚙雪易事耳。誓與漢節同存亡。千年絹素宛可識。一再拂拭增慨慷。當時聽得單于語。分不生還漢家土。誰言射鴈上林中。帛書姓字題蘇武。兩家和好歸使臣。典屬居然列樽俎。是知冥漠通精誠。何必羝羊不生乳。何必羝羊不生乳。鳴乎。李陵計拙心獨苦。臣裘曰修敬題。",
+      "author": "裘曰修"
+    },
+    {
+      "authorcid": 55836,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "臣裘"
+        }
+      ],
+      "sentence": "臣裘曰修敬題",
+      "author": "裘曰修"
+    },
+    {
+      "authorcid": 23225,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "塞草"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 17,
+          "span": "東頭",
+          "aid": "PL000000048294"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 20,
+          "span": "羊"
+        },
+        {
+          "type": "Time",
+          "start": 44,
+          "end": 47,
+          "span": "十九年"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 49,
+          "span": "雪"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 66,
+          "span": "君"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "驚沙"
+        },
+        {
+          "type": "PersonName",
+          "start": 118,
+          "end": 121,
+          "span": "陳邦彦",
+          "cid": 431759,
+          "name": "陳邦彦",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "塞草邊塵。表孤忠。一枝漢節。海東頭。羝羊生乳。盟詞決絕。富貴不淫威不屈。剛腸要把天驕折。十九年囓雪共吞。氊心如鐵。生死別。休言說。君親念。常縈結。任驚沙迷眼。酸風刺骨。朔漠羊羣伴哀咽。他年煙閣標丹闕。倩南飛鴈足上封章。千行血調滿江紅。臣陳邦彦敬題。",
+      "author": "陳邦彥"
+    },
+    {
+      "authorcid": 23225,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "陳邦彥",
+          "cid": 23225,
+          "name": "陳邦彥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣陳邦彥敬題",
+      "author": "陳邦彥"
+    },
+    {
+      "authorcid": 57670,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "雪"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "毳帳"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 27,
+          "span": "十九年"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "丹青"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "沙草"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 68,
+          "span": "董邦達",
+          "cid": 57670,
+          "name": "董邦達",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雪凝毳帳深寒積。漢節孤光照天赤。牧羝羝乳心不移。十九年中如一夕。屬國生還意外耳。何假鴈書上林澤。丹青寫貌難寫神。祇餘沙草連空碧。臣董邦達敬題。",
+      "author": "董邦達"
+    },
+    {
+      "authorcid": 57670,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "董邦達",
+          "cid": 57670,
+          "name": "董邦達",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣董邦達敬題",
+      "author": "董邦達"
+    },
+    {
+      "authorcid": 57321,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "蘇武",
+          "cid": 11589,
+          "name": "蘇武",
+          "aid": "A007675"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "匈奴"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 14,
+          "span": "十九歲"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "楊重英",
+          "cid": 95338,
+          "name": "楊重英",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 21,
+          "end": 23,
+          "span": "緬甸",
+          "aid": "PL000000048736"
+        },
+        {
+          "type": "Time",
+          "start": 23,
+          "end": 27,
+          "span": "二十一年"
+        },
+        {
+          "type": "Person",
+          "start": 42,
+          "end": 44,
+          "span": "匈奴"
+        },
+        {
+          "type": "Person",
+          "start": 74,
+          "end": 76,
+          "span": "重英"
+        },
+        {
+          "type": "LocationName",
+          "start": 77,
+          "end": 79,
+          "span": "緬甸",
+          "aid": "PL000000048736"
+        },
+        {
+          "type": "Person",
+          "start": 100,
+          "end": 102,
+          "span": "路人"
+        },
+        {
+          "type": "Person",
+          "start": 107,
+          "end": 109,
+          "span": "重英"
+        },
+        {
+          "type": "PersonName",
+          "start": 150,
+          "end": 153,
+          "span": "司馬遷",
+          "cid": 148844,
+          "name": "司馬遷",
+          "aid": "A004022"
+        },
+        {
+          "type": "LocationName",
+          "start": 174,
+          "end": 176,
+          "span": "緬甸",
+          "aid": "PL000000048736"
+        },
+        {
+          "type": "Person",
+          "start": 208,
+          "end": 210,
+          "span": "重英"
+        },
+        {
+          "type": "Person",
+          "start": 217,
+          "end": 218,
+          "span": "兵"
+        },
+        {
+          "type": "LocationName",
+          "start": 220,
+          "end": 222,
+          "span": "暹羅",
+          "aid": "PL000000049622"
+        },
+        {
+          "type": "Person",
+          "start": 224,
+          "end": 226,
+          "span": "粵民"
+        },
+        {
+          "type": "Person",
+          "start": 234,
+          "end": 236,
+          "span": "重英"
+        },
+        {
+          "type": "Person",
+          "start": 283,
+          "end": 285,
+          "span": "重英"
+        },
+        {
+          "type": "Person",
+          "start": 303,
+          "end": 305,
+          "span": "道員"
+        },
+        {
+          "type": "Person",
+          "start": 313,
+          "end": 315,
+          "span": "重英"
+        },
+        {
+          "type": "Person",
+          "start": 393,
+          "end": 395,
+          "span": "重英"
+        },
+        {
+          "type": "Time",
+          "start": 431,
+          "end": 435,
+          "span": "乾隆戊申"
+        },
+        {
+          "type": "Time",
+          "start": 436,
+          "end": 446,
+          "span": "西元一七八八年）孟冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 448,
+          "end": 450,
+          "span": "董誥",
+          "cid": 57321,
+          "name": "董誥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "御製蘇楊論。蘇武留匈奴十九歲而還。楊重英留緬甸二十一年而還。念其事相類作蘇楊論。武在匈奴。餐旃齧雪。勢不能久。向已有說。然其娶妻生子。漢書章章可考。重英在緬甸。其誓死不降與武同。而無武娶妻生子事。今呼路人而詢之。曰重英與武孰優。必甲武而乙重英。彼故不知武之為何如人。何如事。徒以羶薌久。而耳食熟耳。則司馬遷所云。非附青雲之士。惡能施於後世語。誠不爽緬甸之歸順也。總督富綱猶責其弗。獻重英予以為過。於羅索既而其長隨。以重英及其時被遮之。兵並自暹羅所獲粵民。致之邊及入邊。重英謂同歸之兵。曰今生還本朝。即伏國法。亦瞑目是可哀矣。問其在緬有無易衣娶妻生子事。則皆以為無。而重英本抱病來。因遂故以其志。可憐憫命。給道員銜仍將錄。其子夫重英究為在緬偷生茲。仍加薄恩所為。仁義兼施。教忠之道也。若武之為典。屬國漢之恩。為過優矣。而猶有嘆。其被賚薄者是何耶。且以重英所為較武有過之無不及。武乃奉使。而重英則不過從軍被拘留也。若曰因附青雲而得名之傳。則其傳與不傳。固不足為貴耳。乾隆戊申（西元一七八八年）孟冬。臣董誥奉敕敬書。",
+      "author": "董誥"
+    },
+    {
+      "authorcid": 57321,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆戊申"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一七八八年）孟冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "董誥",
+          "cid": 57321,
+          "name": "董誥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆戊申（西元一七八八年）孟冬。臣董誥奉敕敬書。",
+      "author": "董誥"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "冰天漢節。乾隆御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "乾隆御筆",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

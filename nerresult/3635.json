@@ -1,0 +1,1838 @@
+{
+  "filefroms": "3635.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "A045563",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "鐵崖",
+          "cid": 12087,
+          "name": "楊維楨",
+          "aid": "A016663"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "小像"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 47,
+          "end": 50,
+          "span": "舍斯人"
+        }
+      ],
+      "sentence": "鐵崖先生小像。（篆書）。致古氣古。詩古字古。風操益古。孰能比於先生。於戲。董之頡頏。韓之伯仲。舍斯人其誰與歸。",
+      "author": "四休居士"
+    },
+    {
+      "authorcid": 133960,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "鐵崖",
+          "cid": 384617,
+          "name": "黃應龢",
+          "aid": "A016663"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "金泉"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "銕龍"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "羽鱗"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "明珠"
+        },
+        {
+          "type": "Metric",
+          "start": 33,
+          "end": 36,
+          "span": "幾千斛"
+        },
+        {
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "鄒枚"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "揚馬"
+        },
+        {
+          "type": "Time",
+          "start": 82,
+          "end": 84,
+          "span": "秋日"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 91,
+          "span": "奎壁"
+        },
+        {
+          "type": "Location",
+          "start": 101,
+          "end": 105,
+          "span": "海棠城東"
+        },
+        {
+          "type": "Time",
+          "start": 106,
+          "end": 108,
+          "span": "十年"
+        },
+        {
+          "type": "Person",
+          "start": 114,
+          "end": 116,
+          "span": "草玄"
+        },
+        {
+          "type": "Thing",
+          "start": 119,
+          "end": 121,
+          "span": "橫笛"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "紫鸞"
+        },
+        {
+          "type": "Thing",
+          "start": 127,
+          "end": 132,
+          "span": "紅袖觥金蓮"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 134,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 135,
+          "end": 137,
+          "span": "此翁"
+        },
+        {
+          "type": "PersonName",
+          "start": 150,
+          "end": 151,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 154,
+          "end": 156,
+          "span": "黃金"
+        },
+        {
+          "type": "Thing",
+          "start": 159,
+          "end": 161,
+          "span": "昆巒"
+        },
+        {
+          "type": "Thing",
+          "start": 165,
+          "end": 167,
+          "span": "玉函"
+        },
+        {
+          "type": "Thing",
+          "start": 173,
+          "end": 175,
+          "span": "白骨"
+        },
+        {
+          "type": "Person",
+          "start": 181,
+          "end": 183,
+          "span": "過者"
+        },
+        {
+          "type": "Thing",
+          "start": 189,
+          "end": 191,
+          "span": "鐵雲"
+        },
+        {
+          "type": "PersonName",
+          "start": 198,
+          "end": 201,
+          "span": "林公慶",
+          "cid": 133960,
+          "name": "林公慶",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "鐵崖先生。金泉飛出顧菟腹。化作銕龍驚世俗。丹黃為鬣翠羽鱗。日吐明珠幾千斛。蒐幽抉怪探玄微。臭腐倏忽成神奇。輿臺鄒枚汗籍湜。並驅揚馬爭先馳。大廷先嗚誇穎出。蒹葭霜氣橫秋日。旄頭不蝕奎壁輝。銕門躍冶多奇質。海棠城東住十年。有宅一區名草玄。花時橫笛吹紫鸞。醉攜紅袖觥金蓮。人言此翁多媚嫵。誰識平生用心苦。鑄人諛墓得黃金。不買昆巒一抔土。玉函碧薤生孚尹。白骨未必為黃塵。過者欲式東維墳。鐵雲之下瞻龍文。括林公慶。",
+      "author": "林公慶"
+    },
+    {
+      "authorcid": 133960,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "林公慶",
+          "cid": 133960,
+          "name": "林公慶",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "括林公慶",
+      "author": "林公慶"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "花"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "鐵龍",
+          "cid": "unknow",
+          "name": "圓䂐",
+          "aid": "A010152"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 39,
+          "span": "瓊館"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "金馬"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "玉樓"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "諸生",
+          "cid": 58787,
+          "name": "江春霖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "林錫",
+          "cid": 284376,
+          "name": "林錫",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 98,
+          "span": "薛濤",
+          "cid": 18759,
+          "name": "薛濤",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 100,
+          "end": 102,
+          "span": "酒爐"
+        },
+        {
+          "type": "PersonName",
+          "start": 111,
+          "end": 112,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 117,
+          "end": 118,
+          "span": "我"
+        },
+        {
+          "type": "Location",
+          "start": 128,
+          "end": 131,
+          "span": "墓門前"
+        },
+        {
+          "type": "Thing",
+          "start": 150,
+          "end": 151,
+          "span": "盃"
+        },
+        {
+          "type": "Thing",
+          "start": 154,
+          "end": 156,
+          "span": "金蕉"
+        },
+        {
+          "type": "Thing",
+          "start": 162,
+          "end": 164,
+          "span": "玉柱"
+        },
+        {
+          "type": "LocationName",
+          "start": 166,
+          "end": 168,
+          "span": "北海",
+          "aid": "PL000000049542",
+          "cid": 400475
+        },
+        {
+          "type": "LocationName",
+          "start": 174,
+          "end": 176,
+          "span": "東山",
+          "aid": "PL000000005080",
+          "cid": 9222
+        },
+        {
+          "type": "Thing",
+          "start": 176,
+          "end": 178,
+          "span": "明月"
+        },
+        {
+          "type": "Thing",
+          "start": 192,
+          "end": 194,
+          "span": "海棠"
+        },
+        {
+          "type": "Thing",
+          "start": 196,
+          "end": 197,
+          "span": "花"
+        },
+        {
+          "type": "PersonName",
+          "start": 200,
+          "end": 202,
+          "span": "鐵崖",
+          "cid": 384617,
+          "name": "黃應龢",
+          "aid": "A016663"
+        },
+        {
+          "type": "Person",
+          "start": 209,
+          "end": 210,
+          "span": "僕"
+        },
+        {
+          "type": "PersonName",
+          "start": 229,
+          "end": 231,
+          "span": "劉徵",
+          "cid": 160136,
+          "name": "劉徵",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 254,
+          "end": 256,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 262,
+          "end": 263,
+          "span": "僕"
+        },
+        {
+          "type": "Location",
+          "start": 285,
+          "end": 289,
+          "span": "干山墓下"
+        },
+        {
+          "type": "PersonName",
+          "start": 297,
+          "end": 299,
+          "span": "伯雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A043747"
+        }
+      ],
+      "sentence": "盛唐文翰晉風流。紫陌看花屬俊遊。曾賦常旂輝日月。固知史鉞本春秋。鐵龍韻咽捐瓊館。金馬才高記玉樓。立雪諸生多入室。過庭何必問箕裘。  瓊林錫宴羨芳年。晚歲人稱鐵遂仙。佳翰頻揮范素筆。新詞長滿薛濤牋。酒爐有客誇浮白。書閣無人繼草玄。愧我同游復同里。何由掛劍墓門前。  疇昔相逢翫歲華。延賓東閤興無涯。盃擎掌上金蕉滿。箏按絃間玉柱斜。北海高風真自惜。東山明月落誰家。絕憐一枕春城夢。飄謝海棠無數花。  鐵崖先生捐館雲間。僕知之晚。弔送弗及。每慊于懷。其門生性初劉徵士比來杭。出示所裒哀輓詩文盈軸。盡發揮其幽光。先生可謂不死矣。僕因性初之請。賦長律三首。附諸卷末。異日性初過干山墓下。尚為予一些之。伯雨。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "伯雨",
+          "cid": 28391,
+          "name": "張雨",
+          "aid": "A043747"
+        }
+      ],
+      "sentence": "伯雨",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28408,
+      "authoraid": "A002176",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "雲間"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "太守"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "鐵龍",
+          "cid": "unknow",
+          "name": "圓䂐",
+          "aid": "A010152"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "長笛"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "木鴈"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "短箏"
+        },
+        {
+          "type": "Location",
+          "start": 52,
+          "end": 54,
+          "span": "天上"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 62,
+          "span": "玉樓"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "老友"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "張昱",
+          "cid": 28408,
+          "name": "張昱",
+          "aid": "A002176"
+        }
+      ],
+      "sentence": "雲間誰不哭先生。儒雅風流兩擅名。歸託弊廬全晚節。殯煩太守買佳城。鐵龍遺憾餘長笛。木鴈留哀付短箏。一夕詔還天上去。想應新造玉樓成。老友廬陵張昱。",
+      "author": "張昱"
+    },
+    {
+      "authorcid": 28408,
+      "authoraid": "A002176",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "老友"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "張昱",
+          "cid": 28408,
+          "name": "張昱",
+          "aid": "A002176"
+        }
+      ],
+      "sentence": "老友廬陵張昱",
+      "author": "張昱"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A007634",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 4,
+          "span": "海棠城圍"
+        },
+        {
+          "type": "Metric",
+          "start": 4,
+          "end": 6,
+          "span": "十里"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 12,
+          "span": "海棠城裡"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 13,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 15,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "肌膚"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "雪髻"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "鴉"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 31,
+          "span": "雙眸貝鋸牙"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "珍珠"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "大者"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 49,
+          "span": "手"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 55,
+          "span": "三足金背蟆"
+        },
+        {
+          "type": "Person",
+          "start": 65,
+          "end": 66,
+          "span": "君"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "綵雲"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 79,
+          "span": "神仙家"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 82,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 82,
+          "end": 83,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 95,
+          "span": "蟬翼紗"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 103,
+          "span": "鸞玉"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 132,
+          "end": 135,
+          "span": "丹桂枝"
+        },
+        {
+          "type": "Thing",
+          "start": 140,
+          "end": 143,
+          "span": "鳳池露"
+        },
+        {
+          "type": "Person",
+          "start": 147,
+          "end": 149,
+          "span": "世人"
+        },
+        {
+          "type": "Person",
+          "start": 155,
+          "end": 157,
+          "span": "天人"
+        },
+        {
+          "type": "Thing",
+          "start": 160,
+          "end": 162,
+          "span": "竹枝"
+        },
+        {
+          "type": "Thing",
+          "start": 164,
+          "end": 167,
+          "span": "柳枝鼓"
+        },
+        {
+          "type": "Thing",
+          "start": 168,
+          "end": 170,
+          "span": "詩酒"
+        },
+        {
+          "type": "Person",
+          "start": 176,
+          "end": 178,
+          "span": "郡侯"
+        },
+        {
+          "type": "Person",
+          "start": 196,
+          "end": 197,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 203,
+          "end": 204,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 205,
+          "end": 207,
+          "span": "宗人",
+          "cid": 131957,
+          "name": "葉宗行",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 210,
+          "end": 213,
+          "span": "袞鉞書"
+        },
+        {
+          "type": "Person",
+          "start": 220,
+          "end": 221,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 223,
+          "end": 226,
+          "span": "載酒亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 227,
+          "end": 228,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 230,
+          "end": 233,
+          "span": "小蓬臺"
+        },
+        {
+          "type": "LocationName",
+          "start": 236,
+          "end": 238,
+          "span": "西湖",
+          "aid": "PL000000011593"
+        },
+        {
+          "type": "Thing",
+          "start": 240,
+          "end": 242,
+          "span": "拏舟"
+        },
+        {
+          "type": "PersonName",
+          "start": 246,
+          "end": 247,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 249,
+          "end": 252,
+          "span": "草玄閣"
+        },
+        {
+          "type": "Person",
+          "start": 253,
+          "end": 254,
+          "span": "我"
+        },
+        {
+          "type": "LocationName",
+          "start": 263,
+          "end": 265,
+          "span": "海頭",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "Person",
+          "start": 272,
+          "end": 273,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 274,
+          "end": 277,
+          "span": "莊臺魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 278,
+          "end": 279,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 280,
+          "end": 283,
+          "span": "金闕書"
+        },
+        {
+          "type": "Person",
+          "start": 284,
+          "end": 285,
+          "span": "我"
+        },
+        {
+          "type": "LocationName",
+          "start": 286,
+          "end": 288,
+          "span": "湖山",
+          "aid": "PL000000026405"
+        },
+        {
+          "type": "Location",
+          "start": 300,
+          "end": 302,
+          "span": "干山"
+        },
+        {
+          "type": "Thing",
+          "start": 310,
+          "end": 312,
+          "span": "雲鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 330,
+          "end": 334,
+          "span": "飛鴻泖帆"
+        },
+        {
+          "type": "LocationName",
+          "start": 362,
+          "end": 364,
+          "span": "錢塘",
+          "cid": 5333
+        }
+      ],
+      "sentence": "海棠城圍十里霞。海棠城裡人如花。肌膚削雪髻似鴉。漆點雙眸貝鋸牙。珍珠為璫瓊作珈。大者侍兒小者娃。手擎三足金背蟆。韁引五明白鼻騧。請君速乘綵雲去。口云便是神仙家。先生酒闌嗽春芽。正冠起披蟬翼紗。笑拈尺八紫鸞玉。一聲吹過天之涯。人生天地宅何處。先生一身隨所寓。蚤年奪却丹桂枝。暮也分沾鳳池露。文章在世人鱠炙。風流在天人羨慕。竹枝撥弦柳枝鼓。詩酒徜徉朝復暮。郡侯買地門生歌。制右似公冉可數。我生在公後。待我為宗人。曾持袞鉞書。提訓嘗哼哼。我昔有載酒亭。公昔有小蓬臺。時在西湖曲。拏舟每往來。公復立草玄閣。我復立守玄齋。同向東海頭。近日俱成埃。我觀莊臺魚。公獻金闕書。我歸湖山葺廬舍。訃音乃聞之性初。干山之陽不獲拜公面。雲鶴之哀得以附公卷。天風吹淚灑塵襟。欲借飛鴻泖帆便。銕門限。鐵遂謠。曠世不聞聲寥寥。曠世不聞聲寥寥。錢塘揚明。",
+      "author": "揚明"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A007634",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "錢塘",
+          "cid": 5333
+        }
+      ],
+      "sentence": "錢塘揚明",
+      "author": "揚明"
+    },
+    {
+      "authorcid": 110266,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "鐵崖"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "玉皇",
+          "cid": "unknow",
+          "name": "玉皇大帝",
+          "aid": "A019364"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 87,
+          "span": "斛律珠"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 94,
+          "span": "瓊簫"
+        },
+        {
+          "type": "PersonName",
+          "start": 101,
+          "end": 103,
+          "span": "與石",
+          "cid": 128793,
+          "name": "周正",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 138,
+          "end": 140,
+          "span": "群女"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 172,
+          "span": "風蟬"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 180,
+          "span": "風蟬"
+        }
+      ],
+      "sentence": "鐵崖之僊風骨奇。夷視今古從遊嬉。朝驂白鳳夕朱鸐。溺愛詩酒躭文詞。玉皇赫怒謫塵世。俾嘗艱苦嬰驅馳。析圭儋爵非所樂。終然縱逸弗受羈。筋韓骨柳追歐蘇。雲奔風發來英姿。醉揮一曲斛律珠。月明更把瓊簫吹。芙蓉城主丁與石。遴選同氣非阿私。長生之籙桂子籍。缺員遲子來攸司。六丁前呵風焱作輿。群女景從雲為旗。洪崖勸駕相促迫。偓佺寄將招隱辭。往來聚散理本一。風蟬蛻殼疇能窺。風蟬蛻殼疇能窺。蓬瀛熟路行勿遲。檇李聞人麟。",
+      "author": "聞人麟"
+    },
+    {
+      "authorcid": 110266,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "聞人麟",
+          "cid": 110266,
+          "name": "聞人麟",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "檇李聞人麟",
+      "author": "聞人麟"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "性初",
+          "cid": 45310,
+          "name": "許仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "楊先",
+          "cid": 376344,
+          "name": "楊先",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 30,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "先生"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 42,
+          "span": "景星鳳凰"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 44,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 89,
+          "span": "金石"
+        },
+        {
+          "type": "Person",
+          "start": 95,
+          "end": 97,
+          "span": "先生"
+        },
+        {
+          "type": "Person",
+          "start": 109,
+          "end": 111,
+          "span": "先生"
+        }
+      ],
+      "sentence": "悼詩一首。并敘。友人劉性初携鐵史楊先生挽詩卷。蹐余門求言。余謂先生之文章。猶景星鳳凰。人皆景慕。奚敢復贊一辭。所可悼者。遭時不偶。不獲再羽儀天朝。黼黻館閣。為斯文惜耳。然勒諸金石。播諸聲詩。先生之不亡者多矣。詩曰。吁嗟先生。天縱其學。閎中肆外。孰管其鑰。付畀既厚。亦顯其光。顯而復藏。令名不亡。",
+      "author": ""
+    },
+    {
+      "authorcid": 111370,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "趙顏",
+          "cid": 50201,
+          "name": "趙顏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "夫子",
+          "cid": "unknow",
+          "name": "孔丘",
+          "aid": "A002174"
+        },
+        {
+          "type": "Time",
+          "start": 54,
+          "end": 57,
+          "span": "春秋天"
+        },
+        {
+          "type": "PersonName",
+          "start": 63,
+          "end": 65,
+          "span": "李白",
+          "cid": 32540,
+          "name": "李白",
+          "aid": "A005220"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "淵明",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "A012564"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 79,
+          "span": "水"
+        },
+        {
+          "type": "PersonName",
+          "start": 98,
+          "end": 101,
+          "span": "劉逢原",
+          "cid": 111370,
+          "name": "劉逢原",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "一命百里宰。開端自子初。文章遷固行。仕宦趙顏如。落托從杯酒。流離但束書。禮闈衡鑑地。迴□一欷歔。已矣楊夫子。春秋天下名。醉生唐李白。節死晉淵明。雲暗九山碧。水洄三泖清。游魂招不返。悽惻故鄉情。會稽劉逢原。",
+      "author": "劉逢原"
+    },
+    {
+      "authorcid": 111370,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "劉逢原",
+          "cid": 111370,
+          "name": "劉逢原",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "會稽劉逢原",
+      "author": "劉逢原"
+    },
+    {
+      "authorcid": 93618,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "羲皇",
+          "cid": "unknow",
+          "name": "伏羲",
+          "aid": "A008910"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "姬昌",
+          "cid": "unknow",
+          "name": "姬昌",
+          "aid": "A002160"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "宣尼",
+          "cid": "unknow",
+          "name": "孔丘",
+          "aid": "A002174"
+        },
+        {
+          "type": "Thing",
+          "start": 167,
+          "end": 168,
+          "span": "龍"
+        },
+        {
+          "type": "PersonName",
+          "start": 221,
+          "end": 222,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 240,
+          "end": 241,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 262,
+          "end": 263,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 266,
+          "end": 267,
+          "span": "山"
+        },
+        {
+          "type": "PersonName",
+          "start": 268,
+          "end": 269,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 278,
+          "end": 279,
+          "span": "蘋"
+        },
+        {
+          "type": "Person",
+          "start": 290,
+          "end": 292,
+          "span": "弟子"
+        },
+        {
+          "type": "PersonName",
+          "start": 301,
+          "end": 303,
+          "span": "鐵崖",
+          "cid": 12087,
+          "name": "楊維楨",
+          "aid": "A016663"
+        },
+        {
+          "type": "PersonName",
+          "start": 309,
+          "end": 311,
+          "span": "性初",
+          "cid": 45310,
+          "name": "許仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 333,
+          "end": 335,
+          "span": "鐵崖",
+          "cid": 12087,
+          "name": "楊維楨",
+          "aid": "A016663"
+        },
+        {
+          "type": "Time",
+          "start": 362,
+          "end": 369,
+          "span": "洪武壬子孟冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 375,
+          "end": 378,
+          "span": "陳彥博",
+          "cid": 93618,
+          "name": "陳彥博",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "於粲昭昭兮廓人文。作則垂遠兮萬異存。羲皇首出兮肇心畫。後聖方來兮嗣有作。姬昌有道兮諡曰文。卦辭僅見兮餘不聞。宣尼不幸兮遇時絀。刪敘贊修兮唯六籍。天地之大兮日月明。雖欲過之兮何所稱。繼周而來兮自秦漢。眾言紛紛兮始淆亂。正者立兮言為者化。口十弱本實兮盛蘤華。逝莫返兮流益下。誰能止兮滔滔者。子之生兮何王褱奇。含茹英華兮發為文辭。龍盤拏兮勢譎詭。神之奔兮電曤犬起。九鼎之重兮力可扛。胡縮手兮返自降。世之龐兮道之悖。商俗之既靡兮周之敝僿。子生其間兮何所逃。天將使之兮躑躅鳴號。子收其聲兮歸諸冥漠。二氣以正兮品物咸若。泖之水兮干之山。子墓宅兮居其間。薦有蘋兮釃有醴。誰其尸之兮群弟子。前江西儒學提舉楊鐵崖卒。其弟子劉性初氏為裒輓詩。於義良不薄。予故為製誄辭。其推許鐵崖既至。而於其疵亦不敢略也。道在焉故爾。當有知吾言者。時洪武壬子孟冬日。真拙齋錢唐陳彥博撰。",
+      "author": "陳彥博"
+    },
+    {
+      "authorcid": 93618,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 8,
+          "span": "洪武壬子孟冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 17,
+          "span": "陳彥博",
+          "cid": 93618,
+          "name": "陳彥博",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "時洪武壬子孟冬日。真拙齋錢唐陳彥博撰。",
+      "author": "陳彥博"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003422",
+      "output": [
+        {
+          "type": "Location",
+          "start": 40,
+          "end": 42,
+          "span": "雲間"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "屋"
+        },
+        {
+          "type": "LocationName",
+          "start": 60,
+          "end": 63,
+          "span": "江湖裡",
+          "aid": "PL000000008364"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "銕笛"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 76,
+          "span": "鳳皇山月"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 79,
+          "span": "秋水"
+        },
+        {
+          "type": "Time",
+          "start": 80,
+          "end": 84,
+          "span": "千百年間"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 92,
+          "span": "關西夫子",
+          "cid": 34716,
+          "name": "楊繼盛",
+          "aid": "A008589"
+        }
+      ],
+      "sentence": "扶輿清淑鍾間奇。文采吐鳳紛陸離。天關精透抱麟史。專門啟迪鳴當時。巍科蚤擢倦奔競。雲間結屋耽棲遲。狂瀾既倒屹中砥。才名拍塞江湖裡。銕笛一吹歸去來。鳳皇山月照秋水。千百年間疇頡頏。關西夫子楊伯起。",
+      "author": "楊伯起"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003422",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "關西夫子",
+          "cid": 34716,
+          "name": "楊繼盛",
+          "aid": "A008589"
+        }
+      ],
+      "sentence": "關西夫子楊伯起",
+      "author": "楊伯起"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "先生"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "玉女",
+          "cid": 138996,
+          "name": "邢仙姬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "錫祉",
+          "cid": 64197,
+          "name": "錫祉",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 37,
+          "end": 39,
+          "span": "丹丘",
+          "aid": "PL000000000223"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 77,
+          "span": "吾"
+        },
+        {
+          "type": "Location",
+          "start": 132,
+          "end": 134,
+          "span": "丹宮"
+        },
+        {
+          "type": "Thing",
+          "start": 176,
+          "end": 177,
+          "span": "馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 246,
+          "end": 248,
+          "span": "文光",
+          "cid": 60105,
+          "name": "文光",
+          "aid": "A000167"
+        },
+        {
+          "type": "LocationName",
+          "start": 325,
+          "end": 327,
+          "span": "高山",
+          "cid": 403471
+        },
+        {
+          "type": "LocationName",
+          "start": 369,
+          "end": 371,
+          "span": "虎林",
+          "cid": 10663
+        },
+        {
+          "type": "Location",
+          "start": 377,
+          "end": 379,
+          "span": "劍池"
+        },
+        {
+          "type": "Location",
+          "start": 425,
+          "end": 427,
+          "span": "故鄉"
+        },
+        {
+          "type": "Thing",
+          "start": 481,
+          "end": 483,
+          "span": "稽山"
+        }
+      ],
+      "sentence": "哀辭。吁嗟先生。天玉女乎材能兮。胡錫祉乎奇衣牙。夙登賢乎恩榮兮。肇尹邑于丹丘之厂圭。垂逸群之雋邁兮。弛持盈于休嘉。嗟左左于亨衢兮。俾焦明而受笯。吾將桀風霆以上訴兮。曷不賦全禔而以降。口十資抉雲以分天章兮。冠倫魁乎文林之中。旦黽伏思乎朝著兮。夕侍直乎丹宮。膺獻納以黼黻乎皇猷兮。邇奎章木天而從容。迺畀才而弗畀攸止兮。儋人爵而靡安。前始馳而馬屠兮。後驅車而易刓。孑荃蘭之猗猗兮。紛蕭艾之漫漫。無明哲以振援兮。嬰宵人之敢干。茲業已往而空言兮。稟與分其弗易。鏘琚璜衝牙以肆厥辭兮。文光爭先乎目擊。裨殺青以敶正捄之忠兮。挹儒先神交而為匹。夫孰非公而可評兮。孰非義而有激。頫後生而獎誘兮。啟夷途而與之階。瞻曠達之風裁兮。承誨諭之虛懷。景行行乎高山兮。寧與道其或乖。聊消搖以燕適兮。詎湛溺乎淫哇。昔余未有聞兮。辱禮接乎賓墀。邀翱翔于虎林兮。偕觴吟于劍池。志梓寓榮袞褒兮。又蘄昌乎聲詩。胥期頤以周旋兮。遽終天以暌違。嗚呼哀哉兮。魂無西東與北南。返故鄉之山川兮。植英靈之嶔崟。帛系文脈於斯世兮。昭天常于群心。嗚呼噫口戲兮。魂乎飄颻陟青旻。夷剎江之洪波兮。令稽山以清塵。挾剛風以上雲兮。與騎箕而為鄰。嘉興張翨。",
+      "author": "張翨"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "嘉興",
+          "cid": 18288
+        },
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "張翨"
+        }
+      ],
+      "sentence": "嘉興張翨",
+      "author": "張翨"
+    },
+    {
+      "authorcid": 271851,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "玉筍",
+          "cid": 55457,
+          "name": "龐霦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 41,
+          "span": "蓬臺月"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "鳳山"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 52,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 63,
+          "span": "草"
+        },
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 73,
+          "span": "青山"
+        }
+      ],
+      "sentence": "甲科登上第。廷策對天顏。名著金閨籍。才稱玉筍班。斯文方烜赫。吾道獨間關。歸醉蓬臺月。神清挹鳳山。  載酒問奇字。門生日往還。草玄娛白晝。拄頰看青山。樂府今風雅。功名舊觸蠻。遺音傳海外。仙骨冷雲間。俞復。",
+      "author": "俞復"
+    },
+    {
+      "authorcid": 271851,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "俞復",
+          "cid": 271851,
+          "name": "俞復",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "俞復",
+      "author": "俞復"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 16,
+          "span": "黃金"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "白玉堂"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 41,
+          "span": "華亭墓"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 45,
+          "span": "鶴"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 67,
+          "span": "楊雄閣"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "梁父",
+          "cid": 542698,
+          "name": "卓傑",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 90,
+          "span": "諸生",
+          "cid": 58787,
+          "name": "江春霖",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 96,
+          "end": 98,
+          "span": "鐵笛"
+        }
+      ],
+      "sentence": "中情馳漢日。客鬂老吳霜。自擢黃金牓。終遺白玉堂。才高淹素志。道詘任清狂。寂寞華亭墓。殊方鶴夢長。  文章推匠手。聞望蔚儒林。寂寞楊雄閣。棲遲梁父吟。著書吳地老。歸路越山深。忍灑諸生目。風悲鐵笛沈。諸生郭時。",
+      "author": "郭時"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "諸生",
+          "cid": 58787,
+          "name": "江春霖",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "諸生郭時",
+      "author": "郭時"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "鐵崖",
+          "cid": 12087,
+          "name": "楊維楨",
+          "aid": "A016663"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "京師",
+          "cid": 4342
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 23,
+          "span": "萊宮闕",
+          "aid": "PL000000042356",
+          "cid": 4946
+        },
+        {
+          "type": "LocationName",
+          "start": 28,
+          "end": 31,
+          "span": "虎山川",
+          "aid": "PL000000019084"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "黃金"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "白璧"
+        },
+        {
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "諸侯"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "松風"
+        },
+        {
+          "type": "Person",
+          "start": 85,
+          "end": 87,
+          "span": "先生"
+        },
+        {
+          "type": "Location",
+          "start": 90,
+          "end": 92,
+          "span": "東里"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "使者"
+        },
+        {
+          "type": "PersonName",
+          "start": 106,
+          "end": 108,
+          "span": "子範",
+          "cid": 40864,
+          "name": "李憲",
+          "aid": "A005942"
+        },
+        {
+          "type": "PersonName",
+          "start": 114,
+          "end": 116,
+          "span": "高堂",
+          "cid": 219945,
+          "name": "高堂",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 118,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 119,
+          "end": 121,
+          "span": "銅馬"
+        },
+        {
+          "type": "LocationName",
+          "start": 141,
+          "end": 143,
+          "span": "山陰",
+          "cid": 18348
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 145,
+          "span": "茅屋"
+        },
+        {
+          "type": "PersonName",
+          "start": 151,
+          "end": 153,
+          "span": "鐵崖",
+          "cid": 12087,
+          "name": "楊維楨",
+          "aid": "A016663"
+        },
+        {
+          "type": "Person",
+          "start": 163,
+          "end": 165,
+          "span": "龍君"
+        },
+        {
+          "type": "Thing",
+          "start": 167,
+          "end": 168,
+          "span": "樹"
+        },
+        {
+          "type": "Person",
+          "start": 190,
+          "end": 191,
+          "span": "他"
+        },
+        {
+          "type": "Thing",
+          "start": 215,
+          "end": 216,
+          "span": "車"
+        },
+        {
+          "type": "Thing",
+          "start": 218,
+          "end": 221,
+          "span": "馬陵墳"
+        },
+        {
+          "type": "Time",
+          "start": 244,
+          "end": 250,
+          "span": "萬曆辛巳七月"
+        }
+      ],
+      "sentence": "寄鐵崖先生二首。時留京師。總裁禮樂書。蓬萊宮闕五雲東。龍虎山川錦幛中。盡說黃金延郭隗。誰知白璧起申公。春秋袞鉞諸侯懼。南北車書萬國同。却望鈞天纔咫尺。一琴涼月寫松風。  先生謝客居東里。使者傳宣拜下床。樂府謾推梁子範。禮經須問魯高堂。酒傾銅馬來光祿。賦到龍旗說太常。賜老鑑湖猶有待。山陰茅屋未淒涼。  鐵崖先生輓詩。玉笙聲斷泣龍君。撼樹蜉蝣漫作群。一代春秋尊正統。兩朝冠冕在斯文。他生有約尋圓澤。後世何人識子雲。舊業門生今幾在。下車空拜馬陵墳。  以上三詩。乃釋夢觀作也。予為附書于卷未。萬曆辛巳七月既望。中方范惟一。",
+      "author": "範惟一"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "萬曆辛巳七月"
+        }
+      ],
+      "sentence": "萬曆辛巳七月既望。中方范惟一。",
+      "author": "範惟一"
+    }
+  ]
+}

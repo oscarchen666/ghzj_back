@@ -1,0 +1,244 @@
+{
+  "filefroms": "5606.json",
+  "sentences": [
+    {
+      "authorcid": 129531,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "碧窗"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "夏衡",
+          "cid": 129531,
+          "name": "夏衡",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "碧窗清玩。（隸書）。太僕寺卿夏衡書。",
+      "author": "夏衡"
+    },
+    {
+      "authorcid": 129531,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "衡書",
+          "cid": 81701,
+          "name": "陳光亨",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "太僕寺卿夏衡書",
+      "author": "夏衡"
+    },
+    {
+      "authorcid": 51772,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "軒轅"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "軒轅氏",
+          "cid": "unknow",
+          "name": "黃帝",
+          "aid": "A004009"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 17,
+          "span": "廣成子",
+          "cid": "unknow",
+          "name": "廣成子",
+          "aid": "A008896"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "崆峒"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 34,
+          "span": "廣成子",
+          "cid": "unknow",
+          "name": "廣成子",
+          "aid": "A008896"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "黃帝",
+          "cid": "unknow",
+          "name": "黃帝",
+          "aid": "A004009"
+        },
+        {
+          "type": "Person",
+          "start": 144,
+          "end": 147,
+          "span": "學仙者"
+        },
+        {
+          "type": "Person",
+          "start": 204,
+          "end": 206,
+          "span": "石芮"
+        },
+        {
+          "type": "PersonName",
+          "start": 214,
+          "end": 216,
+          "span": "楊宗",
+          "cid": 151543,
+          "name": "楊宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 303,
+          "end": 306,
+          "span": "廣成子",
+          "cid": "unknow",
+          "name": "廣成子",
+          "aid": "A008896"
+        },
+        {
+          "type": "PersonName",
+          "start": 308,
+          "end": 310,
+          "span": "黃帝",
+          "cid": "unknow",
+          "name": "黃帝",
+          "aid": "A004009"
+        },
+        {
+          "type": "Person",
+          "start": 414,
+          "end": 416,
+          "span": "宗師"
+        },
+        {
+          "type": "Thing",
+          "start": 461,
+          "end": 463,
+          "span": "鼎器"
+        },
+        {
+          "type": "Thing",
+          "start": 465,
+          "end": 467,
+          "span": "藥物"
+        },
+        {
+          "type": "Person",
+          "start": 547,
+          "end": 549,
+          "span": "宗師"
+        },
+        {
+          "type": "Time",
+          "start": 555,
+          "end": 560,
+          "span": "成化辛卯歲"
+        },
+        {
+          "type": "Time",
+          "start": 561,
+          "end": 564,
+          "span": "純陽月"
+        },
+        {
+          "type": "Time",
+          "start": 565,
+          "end": 569,
+          "span": "上元甲子"
+        },
+        {
+          "type": "PersonName",
+          "start": 577,
+          "end": 579,
+          "span": "儒林",
+          "cid": 65029,
+          "name": "儒林",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 592,
+          "end": 594,
+          "span": "劉翔",
+          "cid": 51772,
+          "name": "劉翔",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "軒轅問道圖記。昔黃帝軒轅氏聞廣成子居崆峒。有道而壽。駕枉問焉。廣成子告以至道精極。杳冥昏默。無視無聽。抱神以靜。必靜必清。無勞爾形。搖（脫爾字）精。慎內閒外。守一處和。之數者足以神玅合真。頤真合道。可以長生。黃帝得之。心與道一。清靜無為。渾然於大極圜中。治底華胥。功成上升。與天為徒。古今學仙者。仰瞻以為玄範。故心其心。道其道。思造其竅妙者。又從其緒餘而圖其迹焉。圖其迹。欲人知道之傳。有自來矣。此圖京師好手石芮所作。延祐觀純白楊宗師得之以訓其徒。徵予記之。開示後學。為宗門立道根基。其意淵若。予於道未聞。然嘗私淑諸至人。而初入其門戶。幸知一二。夫道原於太極。先天其體。後天其用。知體用之一原。則於道可造。廣成子之告黃帝以精極杳冥昏默無視聽。而抱神以靜。此先天虛無自然。道之全體也。曰必清靜。無勞形搖精。慎內閒外。守一處和。此後天有作有為。道之功用也。自然而然。不假用力。使然而然。必用力乃可造道。由有為而入無為。道之能事畢矣。宗師之道。自有而無。予何言哉。特所以訓其徒者。必自有為始。予奚庸默。知性命之原。勤脩煉之功。立鼎器。採藥物。固濟煆煉火候。沐浴抽添防危工夫。溫養節次。一一循蹈規矩。俾五行攢簇。一氣周流。泥九風生。絳宮月明。然後漸次造登虛無三清之境。庶乎可以語至道也。資爾來學。其無負宗師之道心乎哉。成化辛卯歲。純陽月。上元甲子。翰林院檢討特進儒林郎兼國子監助教清江閤皁山人劉翔虛谷記。",
+      "author": "劉翔"
+    },
+    {
+      "authorcid": 51772,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "成化辛卯歲"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 9,
+          "span": "純陽月"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 14,
+          "span": "上元甲子"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 24,
+          "span": "儒林",
+          "cid": 65029,
+          "name": "儒林",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "劉翔",
+          "cid": 51772,
+          "name": "劉翔",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "成化辛卯歲。純陽月。上元甲子。翰林院檢討特進儒林郎兼國子監助教清江閤皁山人劉翔虛谷記。",
+      "author": "劉翔"
+    }
+  ]
+}

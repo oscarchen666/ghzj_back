@@ -1,0 +1,369 @@
+{
+  "filefroms": "1234.json",
+  "sentences": [
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "溪山"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 14,
+          "span": "至正八年"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 22,
+          "span": "西元一三四八年"
+        },
+        {
+          "type": "Time",
+          "start": 25,
+          "end": 28,
+          "span": "後二日"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "大癡",
+          "cid": 109158,
+          "name": "黃公望",
+          "aid": "A021858"
+        },
+        {
+          "type": "Location",
+          "start": 35,
+          "end": 39,
+          "span": "毗陵寓舍"
+        }
+      ],
+      "sentence": "溪山暖翠。（隸書）。至正八年（西元一三四八年）長至後二日。大癡老人寫於毗陵寓舍。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A016663",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "老人"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "虞山",
+          "aid": "PL000000010125"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "逸客",
+          "cid": 142943,
+          "name": "裴氏(裴觀女)",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 59,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 60,
+          "end": 64,
+          "span": "拾翠佳人"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "西子",
+          "cid": "unknow",
+          "name": "西施",
+          "aid": "A008915"
+        },
+        {
+          "type": "PersonName",
+          "start": 87,
+          "end": 89,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "一峰老人世居虞山。閒散之餘。騷人逸客。賡酬之什。足以炳耀千古。然其筆墨風流。尤為一時傑出。故余得附驥末。時餐秀色。此卷如拾翠佳人。淡妝西子。種種雅麗。歸趙之筆。莫過於此。鐵篴道人。",
+      "author": "楊維禎"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A016663",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "鐵篴道人",
+      "author": "楊維禎"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "劉褒",
+          "cid": 51823,
+          "name": "劉褒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "雲漢圖"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 17,
+          "span": "北風圖"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "見者"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 31,
+          "span": "予"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "蜀山卷"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 46,
+          "span": "層崖邃谷"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "晴雲"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 65,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 67,
+          "span": "巾袖"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 74,
+          "span": "翡翠明珠"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 90,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "昔劉褒作雲漢圖。見者覺熱。作北風圖。見者覺涼。境之移人甚矣。予嘗玩梅道人蜀山卷。宛在層崖邃谷。及展此卷。若舍峻就夷。晴雲滴滴。撲我巾袖。正如翡翠明珠。同奩合貫。愈見精神之妙耳。倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "倪瓚",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "木石"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "解者"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 32,
+          "span": "文人"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "維摩",
+          "cid": 12255,
+          "name": "蕭統",
+          "aid": "A002867"
+        }
+      ],
+      "sentence": "大癡寫木石。如棒喝禪宗。語默盡是生機。解者見了了。不可於慧業文人中求也。此卷又其權實。兼行色空並說具法眼者。當望而下拜。維摩居士澈。",
+      "author": "維摩居士澈"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "維摩",
+          "cid": 12255,
+          "name": "蕭統",
+          "aid": "A002867"
+        }
+      ],
+      "sentence": "維摩居士澈",
+      "author": "維摩居士澈"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "大癡",
+          "cid": 109158,
+          "name": "黃公望",
+          "aid": "A021858"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "董源",
+          "cid": 49698,
+          "name": "董源",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "真人",
+          "cid": 128533,
+          "name": "邵元節",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 40,
+          "span": "范允臨",
+          "cid": 54942,
+          "name": "范允臨",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "大癡老人此作在巨然董源之間。其用筆磊落處。便欲使人寤寐盤桓。作天際真人想。范允臨。",
+      "author": "範允臨"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "范允臨",
+          "cid": 54942,
+          "name": "范允臨",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "范允臨",
+      "author": "範允臨"
+    }
+  ]
+}

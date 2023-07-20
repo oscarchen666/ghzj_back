@@ -1,0 +1,291 @@
+{
+  "filefroms": "765.json",
+  "sentences": [
+    {
+      "authorcid": 3998,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "王淵",
+          "cid": 3998,
+          "name": "王淵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "若水王淵畫",
+      "author": "王淵"
+    },
+    {
+      "authorcid": 28113,
+      "authoraid": "A020089",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "若水",
+          "cid": 12420,
+          "name": "張漪",
+          "aid": "A019808"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "澹軒",
+          "cid": 128568,
+          "name": "林文",
+          "aid": "A004816"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 15,
+          "span": "花卉草蟲"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "前輩"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 32,
+          "span": "禽魚蟬蝶"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 40,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 69,
+          "span": "楊士奇",
+          "cid": 28113,
+          "name": "楊士奇",
+          "aid": "A020089"
+        }
+      ],
+      "sentence": "王若水別號澹軒。業精於花卉草蟲。其筆意追跡前輩。寓興戲作禽魚蟬蝶。多有佳致。此卷特其一斑。烏足以盡其技哉。當珍襲笥中。永為世寶。廬陵楊士奇。",
+      "author": "楊士奇"
+    },
+    {
+      "authorcid": 28113,
+      "authoraid": "A020089",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "廬陵",
+          "aid": "PL000000042437",
+          "cid": 5479
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "楊士奇",
+          "cid": 28113,
+          "name": "楊士奇",
+          "aid": "A020089"
+        }
+      ],
+      "sentence": "廬陵楊士奇",
+      "author": "楊士奇"
+    },
+    {
+      "authorcid": 33202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "若水",
+          "cid": 12420,
+          "name": "張漪",
+          "aid": "A019808"
+        },
+        {
+          "type": "Location",
+          "start": 9,
+          "end": 15,
+          "span": "清容袁氏齋頭"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 27,
+          "span": "林周氏",
+          "aid": "PL000000055493",
+          "cid": 2282
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 29,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "濬仲",
+          "cid": 27985,
+          "name": "吳沉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "余曩歲見王若水卷於清容袁氏齋頭。今日得觀是卷於武林周氏。余聞此公畫流傳人間甚少。宜永為世寶云。丘濬仲深識。",
+      "author": "丘濬"
+    },
+    {
+      "authorcid": 33202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "濬仲",
+          "cid": 27985,
+          "name": "吳沉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "丘濬仲深識",
+      "author": "丘濬"
+    },
+    {
+      "authorcid": 30681,
+      "authoraid": "A018696",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "風"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "園林"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 14,
+          "span": "鼠"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "捷爪"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "雪"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 39,
+          "span": "弘治二年夏六月"
+        },
+        {
+          "type": "Location",
+          "start": 43,
+          "end": 47,
+          "span": "世德堂中"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "皇甫"
+        }
+      ],
+      "sentence": "風輕日暖園林潔。俯首凝眸捕鼠心。捷爪利牙身似雪。尋常日日傍花陰。弘治二年夏六月。戲題於世德堂中。百泉皇甫汸。",
+      "author": "皇甫汸"
+    },
+    {
+      "authorcid": 30681,
+      "authoraid": "A018696",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "弘治二年夏六月"
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 15,
+          "span": "世德堂中"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "皇甫"
+        }
+      ],
+      "sentence": "弘治二年夏六月。戲題於世德堂中。百泉皇甫汸。",
+      "author": "皇甫汸"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 5,
+          "span": "陸氏五美堂"
+        }
+      ],
+      "sentence": "陸氏五美堂珍藏。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 5,
+          "span": "陸氏五美堂"
+        }
+      ],
+      "sentence": "陸氏五美堂珍藏",
+      "author": ""
+    }
+  ]
+}

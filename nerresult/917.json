@@ -1,0 +1,279 @@
+{
+  "filefroms": "917.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "大德二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一二九八年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "大德二年（西元一二九八年）春日畫。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "東坡先生",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Person",
+          "start": 15,
+          "end": 17,
+          "span": "後人"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 20,
+          "span": "圖寫者"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 77,
+          "span": "李昌期",
+          "cid": 68177,
+          "name": "李昌期",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "東坡先生赤壁二賦。為古來絕唱。後人圖寫者不一而足。或能傳其景象而不能摹其神情。獨松雪翁此卷。併其胸中浩然不平之氣。躍躍筆端。此圖此賦。堪與並傳不朽。李昌期。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李昌期",
+          "cid": 68177,
+          "name": "李昌期",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "李昌期",
+      "author": ""
+    },
+    {
+      "authorcid": 25005,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "長江"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "扁舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "眉山",
+          "cid": 2030
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "長生",
+          "cid": 31644,
+          "name": "苻生",
+          "aid": "A043816"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 41,
+          "span": "曹瞞"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "羆熊"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 55,
+          "span": "旌旗"
+        },
+        {
+          "type": "LocationName",
+          "start": 66,
+          "end": 68,
+          "span": "江東",
+          "aid": "PL000000000197",
+          "cid": 400071
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 73,
+          "span": "周郎"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 97,
+          "span": "烈焰"
+        },
+        {
+          "type": "Person",
+          "start": 101,
+          "end": 103,
+          "span": "英雄"
+        },
+        {
+          "type": "PersonName",
+          "start": 119,
+          "end": 121,
+          "span": "劉郎",
+          "cid": 392139,
+          "name": "劉郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 137,
+          "span": "東坡先生",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Person",
+          "start": 138,
+          "end": 140,
+          "span": "奇士"
+        },
+        {
+          "type": "Location",
+          "start": 141,
+          "end": 143,
+          "span": "雪中"
+        },
+        {
+          "type": "Thing",
+          "start": 146,
+          "end": 148,
+          "span": "飛鴻"
+        },
+        {
+          "type": "Person",
+          "start": 181,
+          "end": 182,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 213,
+          "end": 217,
+          "span": "江風山月"
+        },
+        {
+          "type": "Thing",
+          "start": 222,
+          "end": 223,
+          "span": "酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 226,
+          "end": 228,
+          "span": "坡翁",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 233,
+          "end": 235,
+          "span": "王守",
+          "cid": 25005,
+          "name": "王守",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "長江浩浩山矗空。前峰片月生瞳朧。扁舟載酒者誰子。云是眉山蘇長生（點去）公。憶昔曹瞞破荊日。水軍百萬如羆熊。旌旗蔽天白日暗。眼中那復有江東。年少周郎一揮手。呼吸之際分雌雄。舳艫千艘片時盡。但見烈焰燒江紅。英雄易老時代速。風景不易山川同。曹郎劉郎了莫識。時有折戟沉沙中。東坡先生好奇士。雪中偶爾留飛鴻。興來作賦亦何意。卻與造化爭無窮。乃知功名本幻物。嗟彼汲汲何愚蒙。我觀此圖發深慨。援筆欲賦難為工。平生弔古興不淺。便欲買棹尋遺踪。江風山月涼無暑。把酒一酹東坡翁。涵峰山人王守。",
+      "author": "王守"
+    },
+    {
+      "authorcid": 25005,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "王守",
+          "cid": 25005,
+          "name": "王守",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "涵峰山人王守",
+      "author": "王守"
+    }
+  ]
+}

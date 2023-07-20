@@ -1,0 +1,243 @@
+{
+  "filefroms": "589.json",
+  "sentences": [
+    {
+      "authorcid": 25534,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "伯駒",
+          "cid": 75892,
+          "name": "紀鉅維",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "千里伯駒",
+      "author": "趙伯駒"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 11,
+          "end": 13,
+          "span": "蜀郡",
+          "cid": 26145
+        }
+      ],
+      "sentence": "（楷書禹貢。文不錄）。蜀郡虞集書。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [],
+      "sentence": "蜀郡虞集書",
+      "author": "虞集"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "嶺"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 93,
+          "span": "山泥"
+        },
+        {
+          "type": "Person",
+          "start": 102,
+          "end": 104,
+          "span": "神禹"
+        }
+      ],
+      "sentence": "觀禹之治水也。鑿嶺開山。決江濟川。疏河瀹漯。何神化之弗測也。上世所不有也。後世所不克追也。此今古一聖而已矣。而千里之繪是圖也。其中懷襄而滔天者洚水。箕塊鋤堅為之導引者人力。乘四載。涉山泥。水陸相便宜以治者神禹。至于鮮食粒食民遷民安。而象形肖狀。孰有善于此圖。予知千里之筆。亦神化而不可測也。鄞姚安道題。",
+      "author": "姚安道"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "鄞姚安道題",
+      "author": "姚安道"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A016663",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 2,
+          "span": "禹",
+          "cid": "unknow",
+          "name": "大禹",
+          "aid": "A002761"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "天公",
+          "cid": "unknow",
+          "name": "玉皇大帝",
+          "aid": "A019364"
+        },
+        {
+          "type": "Metric",
+          "start": 16,
+          "end": 18,
+          "span": "千里"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 78,
+          "span": "觀者"
+        },
+        {
+          "type": "PersonName",
+          "start": 85,
+          "end": 87,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 91,
+          "span": "楊維禎",
+          "cid": "unknow",
+          "name": "楊維禎",
+          "aid": "A016663"
+        }
+      ],
+      "sentence": "夫禹以回天撼地之才。暗符于天公。千里則以回天撼地之手。默契其神化。殆千祀絕倡（當作唱）。今昔一巧而已。余不佞幸一識于此圖。敢不贅數言以逭褻玩之愆歟。後有觀者不可忽諸。銕篴道人。楊維禎。",
+      "author": "楊維禎"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A016663",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "楊維禎",
+          "cid": "unknow",
+          "name": "楊維禎",
+          "aid": "A016663"
+        }
+      ],
+      "sentence": "銕篴道人。楊維禎。",
+      "author": "楊維禎"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "趙千里",
+          "cid": 39590,
+          "name": "趙千里",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "山水"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 45,
+          "span": "片楮尺"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "烟江"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 61,
+          "span": "洚水"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "神禹"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "山川"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 89,
+          "span": "後君"
+        },
+        {
+          "type": "Person",
+          "start": 102,
+          "end": 104,
+          "span": "後人"
+        }
+      ],
+      "sentence": "宋趙千里伯駒。優于山水。而精細穠麗真足為千載絕技。金碧燦爛。惜歷世久遠。流傳甚罕。故片楮尺縑貴若拱璧。矧此卷烟江疊嶂。洚水滔天。神禹以莫大之功。開闢山川。為萬冀之業。甚為後君所欽。非千里之筆。不足以傳後人之大觀也。後學詹禾記。",
+      "author": "詹禾"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "後學詹禾記",
+      "author": "詹禾"
+    }
+  ]
+}

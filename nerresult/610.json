@@ -1,0 +1,687 @@
+{
+  "filefroms": "610.json",
+  "sentences": [
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "（索字小號）",
+      "author": "項元汴"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "子貢",
+          "cid": "unknow",
+          "name": "子貢",
+          "aid": "A017911"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 7,
+          "span": "原憲圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "二子",
+          "cid": 67499,
+          "name": "朱見潾",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "夫子",
+          "cid": "unknow",
+          "name": "孔丘",
+          "aid": "A002174"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "右子貢見原憲圖。要見貧無諂。富無驕之意。乃為盡其能事耳。然二子同出夫子之門。以道德為悅。豈以貧富為嫌哉。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 48436,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 14,
+          "span": "貨殖"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "先生"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "北村"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "湯炳龍",
+          "cid": 48436,
+          "name": "湯炳龍",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "一從辭宰粟。飢餓隱空山。貨殖門前客。先生不啟關。北村老民湯炳龍題。",
+      "author": "湯炳龍"
+    },
+    {
+      "authorcid": 48436,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "北村"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "湯炳龍",
+          "cid": 48436,
+          "name": "湯炳龍",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "北村老民湯炳龍題",
+      "author": "湯炳龍"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "雲石"
+        }
+      ],
+      "sentence": "處以道。雖得天下不足為富也。何必但以貧為羨耶。雲石。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "雲石"
+        }
+      ],
+      "sentence": "雲石",
+      "author": ""
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 23,
+          "span": "瓢顏氏子"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "陋巷"
+        }
+      ],
+      "sentence": "賜也貨殖憲也貧。憲貧非病衣已鶉。未若簞瓢顏氏子。陋巷所樂皆天真。倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "倪瓚",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "Location",
+          "start": 1,
+          "end": 4,
+          "span": "甕牖下"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 24,
+          "span": "張天雨",
+          "cid": "unknow",
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "坐甕牖下。見貧居而無病色。此畫史用意所在。張天雨觀。",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 28391,
+      "authoraid": "A003994",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "張天雨",
+          "cid": "unknow",
+          "name": "張雨",
+          "aid": "A003994"
+        }
+      ],
+      "sentence": "張天雨觀",
+      "author": "張雨"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 36,
+          "span": "金粟道人",
+          "cid": 113490,
+          "name": "顧德輝",
+          "aid": "A018684"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "道之不行謂之病。財之不給謂之貧。賜也能言心未識。虛勞結駟踏清塵。金粟道人顧阿瑛。",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "金粟道人",
+          "cid": 113490,
+          "name": "顧德輝",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "金粟道人顧阿瑛",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 100239,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 7,
+          "span": "聖門高弟"
+        },
+        {
+          "type": "Person",
+          "start": 46,
+          "end": 48,
+          "span": "貨殖"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 67,
+          "span": "陶文",
+          "cid": 264435,
+          "name": "陶文",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 73,
+          "span": "趙伯駒",
+          "cid": 25534,
+          "name": "趙伯駒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 74,
+          "span": "圖"
+        },
+        {
+          "type": "Person",
+          "start": 79,
+          "end": 81,
+          "span": "前輩"
+        },
+        {
+          "type": "PersonName",
+          "start": 93,
+          "end": 95,
+          "span": "知言",
+          "cid": 17481,
+          "name": "劉讜",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 97,
+          "end": 103,
+          "span": "成化己亥十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "姚綬",
+          "cid": 100239,
+          "name": "姚綬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "賜憲皆聖門高弟。重裀列鼎。甕牖繩樞。曰有命焉。富不為富所移。貧不為貧所困。皆可語於道也。若以貨殖病賜。則其晚聞性與天道者何如。因觀陶文式所藏趙伯駒圖一幅。兼誦前輩之作。末附此論。尚有待於知言者。成化己亥十月望姚綬書。",
+      "author": "姚綬"
+    },
+    {
+      "authorcid": 100239,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "成化己亥十月"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "姚綬",
+          "cid": 100239,
+          "name": "姚綬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "成化己亥十月望姚綬書",
+      "author": "姚綬"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "錢舜舉",
+          "cid": 429657,
+          "name": "錢舜舉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "舜舉",
+          "cid": 7113,
+          "name": "高繼宣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 54,
+          "span": "公綬",
+          "cid": 545442,
+          "name": "陳繼袓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 61,
+          "span": "趙伯駒",
+          "cid": 25534,
+          "name": "趙伯駒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 93,
+          "end": 95,
+          "span": "松雪"
+        },
+        {
+          "type": "PersonName",
+          "start": 105,
+          "end": 107,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "余嘗見錢舜舉作此圖。今又見是卷。運筆傅色人指謂松雪學士。非其手不能臻妙如此。豈舜舉當時亦愛此而仿為之耶。公綬先生鑒為趙伯駒。其直家製耳。至乎無諂無驕之意。又非胸中固有其象而後能言之。此是松雪度越人處。可不尚哉。沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "沈周",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 34601,
+      "authoraid": "A044382",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "弘治六年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 13,
+          "span": "癸丑冬十有二月"
+        },
+        {
+          "type": "LocationName",
+          "start": 15,
+          "end": 19,
+          "span": "陵史鑑觀",
+          "aid": "PL000000010215"
+        }
+      ],
+      "sentence": "弘治六年歲次癸丑冬十有二月。松陵史鑑觀。",
+      "author": "史鑑"
+    },
+    {
+      "authorcid": 34601,
+      "authoraid": "A044382",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 5,
+          "span": "陵史鑑觀",
+          "aid": "PL000000010215"
+        }
+      ],
+      "sentence": "松陵史鑑觀",
+      "author": "史鑑"
+    },
+    {
+      "authorcid": 100239,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "甕牖圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "姚綬",
+          "cid": 100239,
+          "name": "姚綬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "甕牖圖。賜進士中臺歸叟姚綬書。",
+      "author": "姚綬"
+    },
+    {
+      "authorcid": 100239,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 1,
+          "end": 3,
+          "span": "進士"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "姚綬",
+          "cid": 100239,
+          "name": "姚綬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "賜進士中臺歸叟姚綬書",
+      "author": "姚綬"
+    },
+    {
+      "authorcid": 128733,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "甕牖圖"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 6,
+          "span": "四明"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 13,
+          "span": "金湜書"
+        }
+      ],
+      "sentence": "甕牖圖。四明八十一叟金湜書。",
+      "author": "金湜"
+    },
+    {
+      "authorcid": 128733,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "四明"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 9,
+          "span": "金湜書"
+        }
+      ],
+      "sentence": "四明八十一叟金湜書",
+      "author": "金湜"
+    },
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "明嘉靖卅年秋八月"
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 14,
+          "span": "天籟閣"
+        }
+      ],
+      "sentence": "明嘉靖卅年秋八月重裝于天籟閣。",
+      "author": "項元汴"
+    },
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "趙松雪",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "趙千里",
+          "cid": 467028,
+          "name": "趙千里",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "元趙松雪倣趙千里刷色畫原憲甕牖圖逸品。",
+      "author": "項元汴"
+    },
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "項元汴",
+          "cid": 30328,
+          "name": "項元汴",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "墨林項元汴珍祕。",
+      "author": "項元汴"
+    },
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "明崇禎甲戌年夏"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 13,
+          "span": "樂志堂"
+        }
+      ],
+      "sentence": "明崇禎甲戌年夏重裱于樂志堂。",
+      "author": "項元汴"
+    },
+    {
+      "authorcid": 30328,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 2,
+          "end": 5,
+          "span": "五十兩"
+        }
+      ],
+      "sentence": "原價五十兩。",
+      "author": "項元汴"
+    }
+  ]
+}

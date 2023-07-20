@@ -1,0 +1,172 @@
+{
+  "filefroms": "1421.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "謝惠連",
+          "cid": "unknow",
+          "name": "謝惠連",
+          "aid": "A005103"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 13,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "王摩詰",
+          "cid": "unknow",
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "雪溪圖"
+        },
+        {
+          "type": "Time",
+          "start": 50,
+          "end": 52,
+          "span": "今日"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "佳紙"
+        },
+        {
+          "type": "Metric",
+          "start": 70,
+          "end": 72,
+          "span": "三載"
+        },
+        {
+          "type": "PersonName",
+          "start": 77,
+          "end": 79,
+          "span": "惠連",
+          "cid": 108564,
+          "name": "惠連",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 89,
+          "span": "前人"
+        },
+        {
+          "type": "PersonName",
+          "start": 100,
+          "end": 101,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 106,
+          "end": 111,
+          "span": "嘉靖十八年"
+        },
+        {
+          "type": "Time",
+          "start": 112,
+          "end": 119,
+          "span": "西元一五三九年"
+        },
+        {
+          "type": "Time",
+          "start": 122,
+          "end": 129,
+          "span": "己亥夏五月十日"
+        },
+        {
+          "type": "LocationName",
+          "start": 129,
+          "end": 131,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 131,
+          "end": 134,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "（謝惠連雪賦。文不錄。）余早歲曾見王摩詰雪溪圖。筆法妙絕。未嘗少忘。每形諸夢寐。幾欲模倣。輒以事阻。今日偶有佳紙。漫用其筆法為之。或作或止。三載始就。并書惠連此篇。雖不能媲美前人。稍有生色處。亦庶幾似人之喜也。時嘉靖十八年（西元一五三九年）歲在己亥夏五月十日長洲文徵明識。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A009421",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "康熙三十四年二月晦"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "吳江",
+          "aid": "PL000000008560",
+          "cid": 4599
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "秀水",
+          "cid": 5345
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "朱彝尊",
+          "cid": "unknow",
+          "name": "朱彝尊",
+          "aid": "A009421"
+        },
+        {
+          "type": "Location",
+          "start": 28,
+          "end": 30,
+          "span": "蘐城"
+        },
+        {
+          "type": "Location",
+          "start": 33,
+          "end": 36,
+          "span": "茹古樓"
+        }
+      ],
+      "sentence": "康熙三十四年二月晦。吳江徐釚電發。秀水朱彝尊鍚鬯。同觀於蘐城給事之茹古樓。",
+      "author": "朱彝尊"
+    }
+  ]
+}

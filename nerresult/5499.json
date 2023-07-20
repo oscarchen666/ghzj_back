@@ -1,0 +1,54 @@
+{
+  "filefroms": "5499.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 18,
+          "span": "西元一三０九年）二月廿六日"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 23,
+          "span": "舟中"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大二年（西元一三０九年）二月廿六日。寫于舟中。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "柴桑"
+        }
+      ],
+      "sentence": "柴桑高韻。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

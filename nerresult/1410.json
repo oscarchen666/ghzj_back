@@ -1,0 +1,323 @@
+{
+  "filefroms": "1410.json",
+  "sentences": [
+    {
+      "authorcid": 24737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "靜華翁"
+        }
+      ],
+      "sentence": "靜華翁",
+      "author": "趙淇"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "趙氏",
+          "cid": 50030,
+          "name": "趙氏",
+          "aid": "A019412"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "周氏",
+          "cid": 121705,
+          "name": "周氏",
+          "aid": "A011631"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 50,
+          "span": "御園"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 74,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 78,
+          "span": "新正月"
+        }
+      ],
+      "sentence": "趙氏為圖周氏書。浮邱妙趣寫無餘。性情雖賴一篇著。翔翥猶資幾筆攄。雲去籠存自殊矣。淇懐琦思可眀諸。御園放弗翮翎翦。昔日題詞此意如。己酉（西元一七八九年）新正月上澣御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "新正月"
+        }
+      ],
+      "sentence": "己酉（西元一七八九年）新正月上澣御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 129762,
+      "authoraid": "A004644",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "元德",
+          "cid": 114881,
+          "name": "吉雅謨丁",
+          "aid": "A016417"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "伯溫",
+          "cid": 27948,
+          "name": "劉基",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 30,
+          "span": "希世之寶"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "石芝"
+        }
+      ],
+      "sentence": "跋。趙元德畫。予未之覯。周伯溫篆。止見蘭言堂謙卦。皆希世之寶。何意獲此合璧。雖連城不是過也。石芝。",
+      "author": "孫隆"
+    },
+    {
+      "authorcid": 129762,
+      "authoraid": "A004644",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "石芝"
+        }
+      ],
+      "sentence": "石芝",
+      "author": "孫隆"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "文惠",
+          "cid": 65225,
+          "name": "文惠",
+          "aid": "A016382"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "神仙"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "鶴"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 33,
+          "span": "伯溫",
+          "cid": 3103,
+          "name": "程珦",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "石芝",
+          "cid": 72919,
+          "name": "石如璉",
+          "aid": "A000601"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "石芝",
+          "cid": 72919,
+          "name": "石如璉",
+          "aid": "A000601"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "從吉",
+          "cid": 110058,
+          "name": "鄒伯顏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "都癡",
+          "cid": 561097,
+          "name": "孫隆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 79,
+          "span": "新安太守"
+        },
+        {
+          "type": "Time",
+          "start": 84,
+          "end": 88,
+          "span": "天啟四年"
+        },
+        {
+          "type": "Time",
+          "start": 89,
+          "end": 99,
+          "span": "西元一六二四年）八月"
+        }
+      ],
+      "sentence": "學古錄載文惠飄然有神仙之思。所以能得鶴之性。不徒貌似而已。又得伯溫書相鶴經於後。書畫雙絕。宜孫石芝重如合璧。什襲藏之也。石芝名隆。字從吉。又號都癡。官新安太守。亦善畫。天啟四年（西元一六二四年）八月。世通識。",
+      "author": "張世通"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "天啟四年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一六二四年）八月"
+        }
+      ],
+      "sentence": "天啟四年（西元一六二四年）八月。世通識。",
+      "author": "張世通"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "子厚",
+          "cid": 333,
+          "name": "章惇",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "仁甫",
+          "cid": 1094,
+          "name": "李燾",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 14,
+          "span": "芙蓉草堂",
+          "aid": "PL000000011645",
+          "cid": 16085
+        }
+      ],
+      "sentence": "邢子厚同梁仁甫觀于七芙蓉草堂。",
+      "author": ""
+    },
+    {
+      "authorcid": 65797,
+      "authoraid": "A044397",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "周伯琦",
+          "cid": 28695,
+          "name": "周伯琦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 10,
+          "span": "相鶴圖經"
+        }
+      ],
+      "sentence": "元趙淇周伯琦相鶴圖經合璧。櫟園鑑藏。",
+      "author": "周亮工"
+    },
+    {
+      "authorcid": 65797,
+      "authoraid": "A044397",
+      "output": [],
+      "sentence": "櫟園鑑藏",
+      "author": "周亮工"
+    }
+  ]
+}

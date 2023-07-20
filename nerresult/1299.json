@@ -1,0 +1,41 @@
+{
+  "filefroms": "1299.json",
+  "sentences": [
+    {
+      "authorcid": 39138,
+      "authoraid": "A002688",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "松窗讀易圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 12,
+          "span": "至正辛未秋日"
+        },
+        {
+          "type": "LocationName",
+          "start": 13,
+          "end": 16,
+          "span": "黃鶴山",
+          "aid": "PL000000011008"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "王蒙",
+          "cid": 39138,
+          "name": "王蒙",
+          "aid": "A002688"
+        }
+      ],
+      "sentence": "松窗讀易圖。至正辛未秋日。黃鶴山人王蒙。",
+      "author": "王蒙"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "filefroms": "3562.json",
+  "sentences": [
+    {
+      "authorcid": 65886,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "平溪"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "茅屋"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 14,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "橫橋"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "群峰"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 38,
+          "span": "汀沙葭渚"
+        },
+        {
+          "type": "Time",
+          "start": 72,
+          "end": 74,
+          "span": "丁酉"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 82,
+          "span": "西元一七一七年"
+        },
+        {
+          "type": "LocationName",
+          "start": 87,
+          "end": 90,
+          "span": "目山中",
+          "aid": "PL000000010125"
+        },
+        {
+          "type": "PersonName",
+          "start": 91,
+          "end": 93,
+          "span": "王翬",
+          "cid": 65886,
+          "name": "王翬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "一帶平溪。數叢茅屋。背山臨水。曲磵橫橋。掩暎重林鬱阜間。而群峰遙接。汀沙葭渚。迴合多姿。此卷皴染布格。差近巨然。而荒寒蕭颯。又彷彿輞川雪意景也。丁酉（西元一七一七年）春正。烏目山中人王翬。",
+      "author": "王翬"
+    },
+    {
+      "authorcid": 76338,
+      "authoraid": "A044398",
+      "output": [
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 6,
+          "span": "先生"
+        },
+        {
+          "type": "LocationName",
+          "start": 12,
+          "end": 14,
+          "span": "吳中",
+          "aid": "PL000000008352"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "王廉州",
+          "cid": 65829,
+          "name": "王鑑",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 34,
+          "end": 36,
+          "span": "前賢"
+        },
+        {
+          "type": "Person",
+          "start": 41,
+          "end": 43,
+          "span": "董巨"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "功臣",
+          "cid": 88471,
+          "name": "梅枚",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 51,
+          "end": 53,
+          "span": "廉州",
+          "cid": 16554
+        },
+        {
+          "type": "Location",
+          "start": 57,
+          "end": 59,
+          "span": "石谷"
+        },
+        {
+          "type": "LocationName",
+          "start": 75,
+          "end": 77,
+          "span": "錫山",
+          "aid": "PL000000009366"
+        },
+        {
+          "type": "PersonName",
+          "start": 77,
+          "end": 80,
+          "span": "嚴繩孫",
+          "cid": 76338,
+          "name": "嚴繩孫",
+          "aid": "A044398"
+        }
+      ],
+      "sentence": "自文沈兩先生各自名其家。吳中後學宗之。然頗不復見古法矣。王廉州起而發前賢之藏。源流董巨。實亦文沈功臣。廉州沒。世推石谷。今觀此幀。誠所謂尚有典刑者也。錫山嚴繩孫識。",
+      "author": "嚴繩孫"
+    },
+    {
+      "authorcid": 76338,
+      "authoraid": "A044398",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "錫山",
+          "aid": "PL000000009366"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "嚴繩孫",
+          "cid": 76338,
+          "name": "嚴繩孫",
+          "aid": "A044398"
+        }
+      ],
+      "sentence": "錫山嚴繩孫識",
+      "author": "嚴繩孫"
+    },
+    {
+      "authorcid": 84775,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "積雪"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "燕"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 21,
+          "span": "石谷此圖"
+        },
+        {
+          "type": "LocationName",
+          "start": 25,
+          "end": 28,
+          "span": "山深處",
+          "aid": "PL000000000149"
+        },
+        {
+          "type": "Person",
+          "start": 35,
+          "end": 38,
+          "span": "北宋人"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "白岳",
+          "cid": 71741,
+          "name": "王雨謙",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "積雪連朝。剝啄都絕。燕坐焚香。展閱石谷此圖。如坐萬山深處。更增寒冽。學北宋人畫。那得不讓此老出一頭地。白岳查士標題。",
+      "author": "查士標"
+    },
+    {
+      "authorcid": 84775,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "白岳",
+          "cid": 71741,
+          "name": "王雨謙",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "白岳查士標題",
+      "author": "查士標"
+    },
+    {
+      "authorcid": 38000,
+      "authoraid": "A018580",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "雲煙"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 14,
+          "span": "王時敏",
+          "cid": 38000,
+          "name": "王時敏",
+          "aid": "A018580"
+        }
+      ],
+      "sentence": "雲煙供養。（八分書）。王時敏書。（行書）。",
+      "author": "王時敏"
+    },
+    {
+      "authorcid": 38000,
+      "authoraid": "A018580",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王時敏",
+          "cid": 38000,
+          "name": "王時敏",
+          "aid": "A018580"
+        }
+      ],
+      "sentence": "王時敏書。（行書）。",
+      "author": "王時敏"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "filefroms": "5491.json",
+  "sentences": [
+    {
+      "authorcid": 123984,
+      "authoraid": "A011625",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "太史公",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A004022"
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 24,
+          "span": "前輩"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 46,
+          "span": "王錫爵",
+          "cid": 123984,
+          "name": "王錫爵",
+          "aid": "A011625"
+        }
+      ],
+      "sentence": "吾鄉往喆文太史公。詞藻妙一世。此卷待詔時作。前輩儒雅風流。冏冏照人。攬之頓生畏媿。太原王錫爵記。",
+      "author": "王錫爵"
+    },
+    {
+      "authorcid": 123984,
+      "authoraid": "A011625",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "太原",
+          "cid": 4724
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王錫爵",
+          "cid": 123984,
+          "name": "王錫爵",
+          "aid": "A011625"
+        }
+      ],
+      "sentence": "太原王錫爵記",
+      "author": "王錫爵"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "雙眼"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 34,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "學文太史書畫者。滔滔是也。未有能為此卷者。雙眼為之一空。弇山人王世貞。",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "弇山人王世貞",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 18171,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "文翁",
+          "cid": 544006,
+          "name": "阮許近",
+          "aid": "A018288"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "書畫"
+        },
+        {
+          "type": "Person",
+          "start": 7,
+          "end": 9,
+          "span": "古人"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "今人"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 33,
+          "span": "德父",
+          "cid": 10614,
+          "name": "洪民師",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 39,
+          "end": 42,
+          "span": "興徐中",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "文翁書畫。動遵古人。惟詩律稍柔麗耳。此卷亦今人古跡。不易得者。德父其善藏之。吳興徐中行識。",
+      "author": "徐中行"
+    },
+    {
+      "authorcid": 18171,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "徐中行",
+          "cid": 18171,
+          "name": "徐中行",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "吳興徐中行識",
+      "author": "徐中行"
+    }
+  ]
+}

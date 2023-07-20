@@ -1,0 +1,40 @@
+{
+  "filefroms": "3505.json",
+  "sentences": [
+    {
+      "authorcid": 68349,
+      "authoraid": "A012572",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "正德九年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 11,
+          "span": "西元一五一四"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 22,
+          "span": "甲戌春三月吉旦"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "白川",
+          "cid": 68349,
+          "name": "周用",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "正德九年（西元一五一四）。龍集甲戌春三月吉旦。白川周用作。",
+      "author": "周用"
+    }
+  ]
+}

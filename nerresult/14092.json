@@ -1,0 +1,523 @@
+{
+  "filefroms": "14092.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "天機活潑",
+      "author": ""
+    },
+    {
+      "authorcid": 561128,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 48,
+          "span": "壬子秋九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 50,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 51,
+          "end": 53,
+          "span": "吳中",
+          "aid": "PL000000008352"
+        },
+        {
+          "type": "Location",
+          "start": 55,
+          "end": 57,
+          "span": "麟洲"
+        },
+        {
+          "type": "LocationName",
+          "start": 58,
+          "end": 60,
+          "span": "西湖",
+          "aid": "PL000000011593"
+        },
+        {
+          "type": "PersonName",
+          "start": 113,
+          "end": 115,
+          "span": "麟洲",
+          "cid": 34719,
+          "name": "王世懋",
+          "aid": "A044411"
+        },
+        {
+          "type": "Thing",
+          "start": 148,
+          "end": 149,
+          "span": "卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 150,
+          "end": 153,
+          "span": "范安仁",
+          "cid": 44100,
+          "name": "范安仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 155,
+          "end": 157,
+          "span": "安仁",
+          "cid": 201204,
+          "name": "安仁",
+          "aid": "A014135"
+        },
+        {
+          "type": "Person",
+          "start": 158,
+          "end": 161,
+          "span": "宋名家"
+        }
+      ],
+      "sentence": "品類之生囿於形。可以求其亦。幾於化。不可以窮其妙。妙在筆先。斯又參贊之大端倪也。歲壬子秋九月。余來吳中。謁麟洲於西湖之曲。暇出所藏天機活潑卷示余。浮沈泳躍。纖悉無遺。展閱再四。幡然有丙穴濠梁之思。殆亦幾於化而能窮其妙者也。麟洲公方會試北上。行當鼓鬣禹門。吹香挑浪。淵起藻發。此卷當為它日徵矣。卷為范安仁筆。安仁為宋名家云。岐雲魯治識。",
+      "author": "魯治"
+    },
+    {
+      "authorcid": 561128,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "岐",
+          "cid": "unknow",
+          "name": "溫庭筠",
+          "aid": "A018417"
+        }
+      ],
+      "sentence": "岐雲魯治識",
+      "author": "魯治"
+    },
+    {
+      "authorcid": 127552,
+      "authoraid": "A009196",
+      "output": [
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 5,
+          "span": "名人"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 9,
+          "span": "書畫墨跡"
+        },
+        {
+          "type": "Time",
+          "start": 26,
+          "end": 30,
+          "span": "千百年餘"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 33,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 97,
+          "end": 100,
+          "span": "范安仁",
+          "cid": 44100,
+          "name": "范安仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 153,
+          "end": 156,
+          "span": "張麟洲"
+        },
+        {
+          "type": "Thing",
+          "start": 179,
+          "end": 180,
+          "span": "書"
+        }
+      ],
+      "sentence": "凡古之名人書畫墨跡。貴乎收藏之家。苟能珍秘寶玩。傳之千百年餘。使人展閱之間。宛然猶新。庶見古人游心造藝之極。是亦幸也。若或付之類。一旦瘴以塵（土孛）。污之煙垢。隨就剝落。何能延芳於後世耶。茲宋范安仁天機活潑圖。迺本科之神品。世誠不多有者。其狀形寫氣。曲盡群鱗。煦沬弄藻。聚散縱橫。迎合起伏之妙。況託於吾杭張麟洲賞鑒閣中。自此更垂無窮。豈非幸耳。暇日出觀。因書是於卷末。青門沈仕。",
+      "author": "沈仕"
+    },
+    {
+      "authorcid": 127552,
+      "authoraid": "A009196",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈仕",
+          "cid": 127552,
+          "name": "沈仕",
+          "aid": "A009196"
+        }
+      ],
+      "sentence": "青門沈仕",
+      "author": "沈仕"
+    },
+    {
+      "authorcid": 41717,
+      "authoraid": "A004734",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "莊子",
+          "cid": "unknow",
+          "name": "莊周",
+          "aid": "A002718"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "惠子",
+          "cid": 142276,
+          "name": "韋幾",
+          "aid": "A023330"
+        },
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 9,
+          "span": "魚濠上"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 13,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "惠子",
+          "cid": 142276,
+          "name": "韋幾",
+          "aid": "A023330"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 21,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 27,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 30,
+          "end": 32,
+          "span": "莊子",
+          "cid": "unknow",
+          "name": "莊周",
+          "aid": "A002718"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 35,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 37,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 41,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 51,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 61,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 63,
+          "end": 65,
+          "span": "舜賓",
+          "cid": 112358,
+          "name": "繆穆",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "顧愷",
+          "cid": 296766,
+          "name": "顧愷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "禽魚"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 89,
+          "span": "蠅"
+        },
+        {
+          "type": "PersonName",
+          "start": 92,
+          "end": 94,
+          "span": "孫權",
+          "cid": 20609,
+          "name": "孫權",
+          "aid": "A002169"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 100,
+          "span": "魚"
+        },
+        {
+          "type": "Time",
+          "start": 115,
+          "end": 117,
+          "span": "唐末"
+        },
+        {
+          "type": "Person",
+          "start": 117,
+          "end": 120,
+          "span": "袁峨者"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 123,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 153,
+          "end": 156,
+          "span": "錢舜舉",
+          "cid": 429657,
+          "name": "錢舜舉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 163,
+          "end": 165,
+          "span": "癩子",
+          "cid": 44100,
+          "name": "范安仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 171,
+          "end": 174,
+          "span": "藻魚圖"
+        },
+        {
+          "type": "Thing",
+          "start": 185,
+          "end": 186,
+          "span": "藻"
+        },
+        {
+          "type": "Location",
+          "start": 201,
+          "end": 204,
+          "span": "水渚中"
+        },
+        {
+          "type": "Thing",
+          "start": 206,
+          "end": 208,
+          "span": "水藻"
+        },
+        {
+          "type": "Thing",
+          "start": 219,
+          "end": 220,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 233,
+          "end": 234,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 237,
+          "end": 238,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 240,
+          "end": 242,
+          "span": "錢生",
+          "cid": "unknow",
+          "name": "錢生",
+          "aid": "A018951"
+        },
+        {
+          "type": "PersonName",
+          "start": 260,
+          "end": 263,
+          "span": "韓熙載",
+          "cid": 94724,
+          "name": "韓熙載",
+          "aid": "A010740"
+        },
+        {
+          "type": "Thing",
+          "start": 271,
+          "end": 273,
+          "span": "諸釜"
+        },
+        {
+          "type": "Thing",
+          "start": 274,
+          "end": 276,
+          "span": "雲浪"
+        },
+        {
+          "type": "Thing",
+          "start": 286,
+          "end": 287,
+          "span": "屋"
+        },
+        {
+          "type": "PersonName",
+          "start": 293,
+          "end": 295,
+          "span": "吳淮",
+          "cid": 546890,
+          "name": "吳淮",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 297,
+          "end": 298,
+          "span": "龍"
+        },
+        {
+          "type": "Thing",
+          "start": 318,
+          "end": 322,
+          "span": "神魚龍類"
+        },
+        {
+          "type": "PersonName",
+          "start": 328,
+          "end": 330,
+          "span": "吳炳",
+          "cid": 41717,
+          "name": "吳炳",
+          "aid": "A004734"
+        }
+      ],
+      "sentence": "莊子與惠子觀魚濠上。曰。魚樂乎。惠子曰。子非魚。安知魚之樂。莊子曰。子非我。安知我不知魚之樂。必有知魚之樂者。而後可以畫魚。張舜賓執顧愷之論畫。第末視禽魚。不知曹不興吳墨成蠅。已為孫權所彈。顧畫魚不若吳墨耳。稽古獨未聞。至唐末袁峨者。畫魚窮其變態。得噞喁游泳之狀。非砧几所撰者。趙宋則藉甚矣。然名家錢舜舉所選者三人。范癩子其一也。今觀藻魚圖為物四十有七。其泛泳在藻。出入向背。殊形逞快。宛然見諸水渚中。雖水藻亦復漂搖可手摘。蓋真知魚之樂者。六法謂氣運生動。癩子既得之魚矣。錢生品其妙敓天巧不虛哉。羈史言。有賈畫於韓熙載者。其鄰得之。鬻諸釜。雲浪勃發。恍惚有二物。穿屋飛去。驗之則吳淮所畫龍也。試以是圖效之。必跳躍出釜矣。何則物盡神魚龍類也。白雲莊人吳炳。",
+      "author": "吳炳"
+    },
+    {
+      "authorcid": 41717,
+      "authoraid": "A004734",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "雲莊",
+          "aid": "PL000000013046",
+          "cid": 403715
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "吳炳",
+          "cid": 41717,
+          "name": "吳炳",
+          "aid": "A004734"
+        }
+      ],
+      "sentence": "白雲莊人吳炳",
+      "author": "吳炳"
+    }
+  ]
+}

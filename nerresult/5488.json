@@ -1,0 +1,357 @@
+{
+  "filefroms": "5488.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖甲寅"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一五五四年）中秋"
+        }
+      ],
+      "sentence": "嘉靖甲寅（西元一五五四年）中秋。徵明製。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "長江"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "扁舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 20,
+          "span": "峰閣前",
+          "aid": "PL000000016742",
+          "cid": 1953
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "浪花"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "兩岸"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "奔馬"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 37,
+          "span": "楊柳風"
+        },
+        {
+          "type": "Time",
+          "start": 42,
+          "end": 44,
+          "span": "六月"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "樹"
+        },
+        {
+          "type": "Location",
+          "start": 74,
+          "end": 76,
+          "span": "山腰"
+        },
+        {
+          "type": "Location",
+          "start": 80,
+          "end": 84,
+          "span": "赤岸滄洲"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 102,
+          "span": "嘉靖乙酉二月"
+        }
+      ],
+      "sentence": "長江滔滔向東瀉。憶昔扁舟順流下。雙峰閣前浪花白。兩岸青山似奔馬。兼葭楊柳風颼颼。江行六月疑深秋。歸來已是十年事。看盡偶然思舊游。水聲樹色非邪是。仍見山腰隱高寺。赤岸滄洲杳靄間。只尺悠然起愁思。嘉靖乙酉二月。花朝文彭題。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖乙酉二月"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 8,
+          "span": "花"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖乙酉二月。花朝文彭題。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "陳栝",
+          "cid": 523881,
+          "name": "陳栝",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "許初陳栝同觀",
+      "author": ""
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "文先",
+          "cid": 206418,
+          "name": "劉綺",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "徵仲",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "徵明",
+          "cid": 20106,
+          "name": "王濤",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "君子",
+          "cid": 84870,
+          "name": "鍾懷",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "諸生",
+          "cid": 58787,
+          "name": "江春霖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 75,
+          "span": "翰林",
+          "cid": 145595,
+          "name": "程翰林",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 85,
+          "end": 87,
+          "span": "林谷"
+        },
+        {
+          "type": "Thing",
+          "start": 93,
+          "end": 97,
+          "span": "小圖大軸"
+        },
+        {
+          "type": "Person",
+          "start": 147,
+          "end": 151,
+          "span": "研食之士"
+        },
+        {
+          "type": "Thing",
+          "start": 182,
+          "end": 185,
+          "span": "長江圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 212,
+          "end": 214,
+          "span": "孫孫",
+          "cid": 141359,
+          "name": "李孫孫",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 221,
+          "end": 224,
+          "span": "王穀祥",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "文先生名璧字徵仲。更字徵明。後以字行。金閶世冑。奕葉簪纓。弱齡嶲茂。蜚聲公卿間。好古篤修。大雅君子。書名雄天下。畫師松雪仲圭。翩翩入室。由諸生薦為翰林待詔。未幾謝歸。逍遙林谷。益勤筆墨。小圖大軸。莫非奇致。晚歲德尊行成。海宇欽慕。縑素山積。喧溢里門。寸圖纔出。千臨百摹。家藏市售。真贋縱橫。一時研食之士。沾脂挹香。往往自潤。然慧眼印可。譬之魚目夜光。不別自異也。此長江圖。筆法古雅。設色秀潤。深得松雪齋意。允為真蹟無疑。子子孫孫其永保之。太原王穀祥。",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "太原",
+          "cid": 4724
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王穀祥",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "太原王穀祥",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "衡翁"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "戴進",
+          "cid": 119913,
+          "name": "戴進",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 43,
+          "end": 45,
+          "span": "士人"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 58,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 73,
+          "span": "吳彭年",
+          "cid": 70127,
+          "name": "吳彭年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "衡翁畫本滿世。未有如此卷之卓然驚人者。文雅之趣翩翩自溢豪楮間。非錢唐戴進輩所能彷彿。故士人爭相購求。以為奇玩。若此卷尤稱合作。更宜什襲也。舊吳彭年。",
+      "author": "彭年"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "吳彭年",
+          "cid": 70127,
+          "name": "吳彭年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "舊吳彭年",
+      "author": "彭年"
+    }
+  ]
+}

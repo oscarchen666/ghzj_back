@@ -1,0 +1,28 @@
+{
+  "filefroms": "3641.json",
+  "sentences": [
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "前赤壁圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "文嘉",
+          "cid": 34678,
+          "name": "文嘉",
+          "aid": "A016951"
+        }
+      ],
+      "sentence": "前赤壁圖。文嘉。",
+      "author": "文嘉"
+    }
+  ]
+}

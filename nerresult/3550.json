@@ -1,0 +1,699 @@
+{
+  "filefroms": "3550.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "江南柳"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "渭北",
+          "aid": "PL000000056379"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 17,
+          "span": "黃菊酒"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "黑樓船"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 32,
+          "span": "窮民"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        },
+        {
+          "type": "Person",
+          "start": 57,
+          "end": 59,
+          "span": "鄭儲"
+        },
+        {
+          "type": "Person",
+          "start": 60,
+          "end": 64,
+          "span": "大人先生"
+        }
+      ],
+      "sentence": "別意江南柳。相思渭北天。一盃黃菊酒。五兩黑樓船。故舊情悽切。窮民淚泗漣。傾危望扶植。丹陛莫留連。侍下唐寅詩畫。奉餞鄭儲豸大人先生朝覲之別。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "貞父",
+          "cid": 54133,
+          "name": "黃汝亨",
+          "aid": "A004185"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "花"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "吳門",
+          "aid": "PL000000009816"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "艤舟"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "黃菊"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "青山"
+        },
+        {
+          "type": "Time",
+          "start": 39,
+          "end": 41,
+          "span": "六朝"
+        },
+        {
+          "type": "LocationName",
+          "start": 57,
+          "end": 59,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "Location",
+          "start": 63,
+          "end": 65,
+          "span": "秣陵"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 75,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 77,
+          "end": 79,
+          "span": "薊門",
+          "cid": 400525
+        },
+        {
+          "type": "LocationName",
+          "start": 84,
+          "end": 87,
+          "span": "金臺畔",
+          "cid": 15561
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 88,
+          "span": "草"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 90,
+          "span": "煙"
+        },
+        {
+          "type": "Person",
+          "start": 91,
+          "end": 93,
+          "span": "游俠"
+        },
+        {
+          "type": "Time",
+          "start": 95,
+          "end": 98,
+          "span": "十二年"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 105,
+          "span": "珠履"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 109,
+          "span": "公車"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 113,
+          "span": "黑裘"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 119,
+          "span": "楊柳"
+        },
+        {
+          "type": "Time",
+          "start": 123,
+          "end": 125,
+          "span": "九月"
+        },
+        {
+          "type": "Thing",
+          "start": 125,
+          "end": 127,
+          "span": "鱸魚"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 130,
+          "span": "水船"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 135,
+          "span": "蘇秦",
+          "cid": "unknow",
+          "name": "蘇秦",
+          "aid": "A002599"
+        },
+        {
+          "type": "LocationName",
+          "start": 139,
+          "end": 141,
+          "span": "峴山",
+          "aid": "PL000000012945"
+        },
+        {
+          "type": "Thing",
+          "start": 144,
+          "end": 146,
+          "span": "桑田"
+        },
+        {
+          "type": "PersonName",
+          "start": 150,
+          "end": 152,
+          "span": "元甫",
+          "cid": 127820,
+          "name": "李長春",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 167,
+          "end": 168,
+          "span": "鶴"
+        },
+        {
+          "type": "Person",
+          "start": 175,
+          "end": 178,
+          "span": "三天子"
+        },
+        {
+          "type": "PersonName",
+          "start": 179,
+          "end": 181,
+          "span": "茂宰",
+          "cid": 34751,
+          "name": "李流芳",
+          "aid": "A020635"
+        },
+        {
+          "type": "Thing",
+          "start": 195,
+          "end": 197,
+          "span": "花枝"
+        },
+        {
+          "type": "LocationName",
+          "start": 203,
+          "end": 205,
+          "span": "黃山",
+          "aid": "PL000000009397"
+        },
+        {
+          "type": "PersonName",
+          "start": 222,
+          "end": 224,
+          "span": "貽孫",
+          "cid": 32279,
+          "name": "崔祐甫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 235,
+          "end": 237,
+          "span": "麋鹿"
+        },
+        {
+          "type": "LocationName",
+          "start": 238,
+          "end": 240,
+          "span": "長林",
+          "cid": 17364
+        },
+        {
+          "type": "Thing",
+          "start": 241,
+          "end": 242,
+          "span": "雀"
+        },
+        {
+          "type": "Thing",
+          "start": 249,
+          "end": 250,
+          "span": "菊"
+        },
+        {
+          "type": "Thing",
+          "start": 258,
+          "end": 259,
+          "span": "酒"
+        },
+        {
+          "type": "Person",
+          "start": 261,
+          "end": 264,
+          "span": "孫五世"
+        },
+        {
+          "type": "Thing",
+          "start": 265,
+          "end": 267,
+          "span": "藏書"
+        },
+        {
+          "type": "PersonName",
+          "start": 284,
+          "end": 286,
+          "span": "山隱",
+          "cid": 38914,
+          "name": "龔大明",
+          "aid": "A045434"
+        },
+        {
+          "type": "PersonName",
+          "start": 291,
+          "end": 294,
+          "span": "王胤昌",
+          "cid": 342194,
+          "name": "王胤昌",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 295,
+          "end": 297,
+          "span": "史書"
+        },
+        {
+          "type": "PersonName",
+          "start": 308,
+          "end": 310,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 313,
+          "end": 315,
+          "span": "雲傍",
+          "aid": "PL000000028027"
+        },
+        {
+          "type": "Thing",
+          "start": 318,
+          "end": 321,
+          "span": "別墅棋"
+        },
+        {
+          "type": "PersonName",
+          "start": 336,
+          "end": 338,
+          "span": "王中",
+          "cid": 126475,
+          "name": "王中",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 341,
+          "end": 343,
+          "span": "石渾",
+          "cid": 192594,
+          "name": "石渾",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 344,
+          "end": 346,
+          "span": "李贊",
+          "cid": 128068,
+          "name": "李贊",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 348,
+          "end": 349,
+          "span": "我"
+        },
+        {
+          "type": "LocationName",
+          "start": 352,
+          "end": 355,
+          "span": "潭水上",
+          "aid": "PL000000055694"
+        },
+        {
+          "type": "Thing",
+          "start": 356,
+          "end": 358,
+          "span": "梅花"
+        },
+        {
+          "type": "Thing",
+          "start": 359,
+          "end": 360,
+          "span": "樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 366,
+          "end": 369,
+          "span": "何啟圖",
+          "cid": 63848,
+          "name": "何啟圖",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 372,
+          "end": 374,
+          "span": "銀魚"
+        },
+        {
+          "type": "Location",
+          "start": 376,
+          "end": 379,
+          "span": "碧山中"
+        },
+        {
+          "type": "PersonName",
+          "start": 393,
+          "end": 395,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 401,
+          "end": 403,
+          "span": "仙翁",
+          "cid": 39558,
+          "name": "朱世衡",
+          "aid": "A036965"
+        },
+        {
+          "type": "Thing",
+          "start": 404,
+          "end": 406,
+          "span": "青藜"
+        },
+        {
+          "type": "Thing",
+          "start": 417,
+          "end": 419,
+          "span": "菊叢"
+        },
+        {
+          "type": "Thing",
+          "start": 422,
+          "end": 424,
+          "span": "金莖"
+        },
+        {
+          "type": "PersonName",
+          "start": 478,
+          "end": 479,
+          "span": "王",
+          "cid": 26177,
+          "name": "王",
+          "aid": "A010722"
+        }
+      ],
+      "sentence": "答陳貞父太守。迷花醉月冶城遊。暫向吳門一艤舟。黃菊未吟先欲去。青山如畫豈能留。六朝舊事江聲在。三竺新晴暮靄浮。最是長洲凋敝甚。秣陵休道不宜秋。　張山人歸自薊門見訪作。黃金臺畔草如煙。游俠離家十二年。幸舍已空珠履盡。公車不召黑裘穿。千條楊柳金昌陌。九月鱸魚霅水船。不似蘇秦無負郭。峴山猶有種桑田。　寄丁元甫大令。廳事蕭然上綠苔。衙齋惟有鶴飛來。仙都漫說三天子。茂宰元非百里才。山氣出雲當戶繞。花枝含露滿城栽。黃山白岳煙霞地。鳧舄翱翔日幾回。　贈陸貽孫。甲子泥塗久陸沉。悠然麋鹿愛長林。雀喧門冷秋雲淡。菊瘦籬疎暮雨深。把酒恰看孫五世。藏書都廢產千金。玄纁白璧何須問。誰識南山隱者心。　得王胤昌太史書卻寄。一札飛鴻遠寄將。美人回首碧雲傍。誰家別墅棋堪賭。到處名山書可藏。能詩不數王中允。愛石渾如李贊皇。我亦誅茅潭水上。梅花千樹覆滄浪。　答何啟圖宗伯。銀魚焚向碧山中。薜荔芙容十畝宮。此日周南仍太史。千年河上又仙翁。青藜攜出躋雲壑。綵服成來對菊叢。何必金莖堪愈渴。濁醪元不負秋風。　近作七言律詩六首。偶閱唐解元金昌別意。見其筆法縱放。意態橫絕。欣賞再三。因錄於後。王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王穉登",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "震川",
+          "cid": 34733,
+          "name": "歸有光",
+          "aid": "A017385"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 14,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 61,
+          "span": "桃溪"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "春風"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "紫泥"
+        },
+        {
+          "type": "PersonName",
+          "start": 82,
+          "end": 84,
+          "span": "師竹",
+          "cid": 126631,
+          "name": "王祖嫡",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 84,
+          "end": 86,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 101,
+          "end": 104,
+          "span": "五橋莊"
+        },
+        {
+          "type": "Thing",
+          "start": 105,
+          "end": 107,
+          "span": "林巒"
+        },
+        {
+          "type": "Thing",
+          "start": 113,
+          "end": 115,
+          "span": "花嶼"
+        },
+        {
+          "type": "Thing",
+          "start": 129,
+          "end": 131,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 137,
+          "end": 139,
+          "span": "夔龍"
+        },
+        {
+          "type": "Person",
+          "start": 154,
+          "end": 157,
+          "span": "戚少保"
+        },
+        {
+          "type": "Thing",
+          "start": 163,
+          "end": 164,
+          "span": "雨"
+        },
+        {
+          "type": "LocationName",
+          "start": 168,
+          "end": 170,
+          "span": "寒林",
+          "aid": "PL000000048264"
+        },
+        {
+          "type": "Thing",
+          "start": 171,
+          "end": 175,
+          "span": "濁酒青燈"
+        },
+        {
+          "type": "Thing",
+          "start": 179,
+          "end": 183,
+          "span": "煙水五湖"
+        },
+        {
+          "type": "Thing",
+          "start": 187,
+          "end": 189,
+          "span": "秋風"
+        },
+        {
+          "type": "LocationName",
+          "start": 216,
+          "end": 218,
+          "span": "海上",
+          "aid": "PL000000000156"
+        },
+        {
+          "type": "Thing",
+          "start": 219,
+          "end": 223,
+          "span": "赤松黃石"
+        },
+        {
+          "type": "PersonName",
+          "start": 228,
+          "end": 230,
+          "span": "王庭",
+          "cid": 126632,
+          "name": "王庭",
+          "aid": "A018728"
+        },
+        {
+          "type": "Thing",
+          "start": 236,
+          "end": 238,
+          "span": "石畫"
+        },
+        {
+          "type": "Person",
+          "start": 254,
+          "end": 256,
+          "span": "魏守"
+        },
+        {
+          "type": "Person",
+          "start": 264,
+          "end": 266,
+          "span": "書生"
+        }
+      ],
+      "sentence": "寄題何震川侍郎園居。豈為焚魚戀故蹊。將從求點買山栖。波分汝海疏成治。山學胎簪累作梯。時復談天開碣（脫一字）。非關避地築桃溪。春風未許娛花月。早晚徵書下紫泥。　寄題王師竹太史園居。休沐蹔容違建章。待歸先築五橋莊。林巒晴接青嵩色。花嶼春吹玉署香。紫氣高懸留客處。白雲長護讀書堂。夔龍巢許從吾好。舒卷無心樂未央。　戚少保過山居夜話。雨催小隊到寒林。濁酒青燈話自深。煙水五湖成隱計。秋風一棹見歸心。眼看金盡交難固。身為愁多老易侵。猶喜有家滄海上。赤松黃石可招尋。　王庭久已幕南空。石畫全勝血戰功。自倚條侯專梱外。誰令魏守去雲中。籌邊總誤書生篋。授鉞難承國士風。昨報敵來填黑峪。撫髀應念舊元戎。吳下周天球。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "天球"
+        }
+      ],
+      "sentence": "吳下周天球",
+      "author": "周天球"
+    }
+  ]
+}

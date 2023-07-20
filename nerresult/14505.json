@@ -1,0 +1,796 @@
+{
+  "filefroms": "14505.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "A042987",
+      "output": [],
+      "sentence": "巨然",
+      "author": "巨然"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019252",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "秋鱸春鱖"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "烟波"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 38,
+          "span": "大德辛丑九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 45,
+          "span": "困學民",
+          "cid": 30354,
+          "name": "鮮于樞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 47,
+          "end": 49,
+          "span": "寶婺"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 52,
+          "span": "京舍"
+        }
+      ],
+      "sentence": "秋鱸春鱖足杯羹。萬頃烟波兩棹橫。就史直鉤隨分曲。不將浮世釣浮名。大德辛丑九月望日漁陽困學民題于寶婺之京舍。",
+      "author": "鮮於樞"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019252",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "大德辛丑九月"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "漁陽",
+          "cid": 3026
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "困學民",
+          "cid": 30354,
+          "name": "鮮于樞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 15,
+          "end": 17,
+          "span": "寶婺"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "京舍"
+        }
+      ],
+      "sentence": "大德辛丑九月望日漁陽困學民題于寶婺之京舍",
+      "author": "鮮於樞"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "湘江",
+          "aid": "PL000000028611"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "雁"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "雲"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "君山",
+          "aid": "PL000000009443"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 13,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "扁舟"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 37,
+          "span": "趙子昂",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        }
+      ],
+      "sentence": "湘江霜冷雁初飛。雲滿君山樹影微。秋色天涯元不盡。扁舟何事不知歸。吳興趙子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "趙子昂",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        }
+      ],
+      "sentence": "吳興趙子昂",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A000581",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "宗泐",
+          "cid": "unknow",
+          "name": "宗泐",
+          "aid": "A000581"
+        }
+      ],
+      "sentence": "宗泐同德仁觀。",
+      "author": "宗泐"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A000581",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "宗泐",
+          "cid": "unknow",
+          "name": "宗泐",
+          "aid": "A000581"
+        }
+      ],
+      "sentence": "宗泐同德仁觀",
+      "author": "宗泐"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "晚烟橫樹"
+        },
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "溪灣"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "漁舟"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "門外"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "秋風"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 22,
+          "span": "葉"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 26,
+          "span": "幽人"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "巨然山"
+        }
+      ],
+      "sentence": "晚烟橫樹轉溪灣。何事漁舟罷釣還。門外秋風吹葉老。幽人閒看巨然山。虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [],
+      "sentence": "虞集",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 105658,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "至正十年冬"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "倪瓚",
+          "cid": 256588,
+          "name": "倪瓚",
+          "aid": "A023118"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "子宜",
+          "cid": 67424,
+          "name": "曹義",
+          "aid": "A014700"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "畊漁軒"
+        }
+      ],
+      "sentence": "至正十年冬倪瓚同徐良夫張子宜觀於畊漁軒。",
+      "author": "徐達左"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "右丞",
+          "cid": 64695,
+          "name": "洪良品",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "北苑",
+          "aid": "PL000000042100"
+        },
+        {
+          "type": "LocationName",
+          "start": 29,
+          "end": 31,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 33,
+          "span": "鳥"
+        },
+        {
+          "type": "LocationName",
+          "start": 37,
+          "end": 39,
+          "span": "秋浦",
+          "cid": 15971
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 41,
+          "span": "樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "三老",
+          "cid": 28545,
+          "name": "劉三吾",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "晚生"
+        },
+        {
+          "type": "PersonName",
+          "start": 65,
+          "end": 67,
+          "span": "北苑",
+          "cid": 49698,
+          "name": "董源",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 73,
+          "span": "江南山水"
+        },
+        {
+          "type": "Metric",
+          "start": 105,
+          "end": 107,
+          "span": "千里"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 114,
+          "span": "逸士",
+          "cid": 49100,
+          "name": "程垣",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 144,
+          "end": 147,
+          "span": "虞閣老"
+        },
+        {
+          "type": "Person",
+          "start": 150,
+          "end": 152,
+          "span": "幽人"
+        },
+        {
+          "type": "Thing",
+          "start": 154,
+          "end": 157,
+          "span": "巨然山"
+        },
+        {
+          "type": "Time",
+          "start": 196,
+          "end": 202,
+          "span": "洪武乙亥三月"
+        }
+      ],
+      "sentence": "巨然運筆如龍變。墨氣長為雨氣酣。未讓右丞圖輞口。其猶北苑寫江南。鳥衝舴艋歸秋浦。樹擁屠蘇起夕嵐。三老留題成四絕。晚生有賦不知慚。董北苑多畫江南山水。得其要領者唯巨然一人耳。故其筆意清遠。積墨深潤。點染之間。咫尺千里。正如幽人逸士登高覽遠。境接心會。與之俱化者。豈泥于丹青之流所可同日語哉。虞閣老詩云。幽人閒看巨然山。豈浪虛乎。此卷縑素縝密。收藏得地。故精神具在。尤可寶尚也。因賦詩以寓嘆賞云。洪武乙亥三月既望。後學易恆志。",
+      "author": "易恆志"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "洪武乙亥三月"
+        }
+      ],
+      "sentence": "洪武乙亥三月既望。後學易恆志。",
+      "author": "易恆志"
+    },
+    {
+      "authorcid": 273,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "張紳",
+          "cid": 273,
+          "name": "張紳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲門樵子張紳觀。",
+      "author": "張紳"
+    },
+    {
+      "authorcid": 273,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "張紳",
+          "cid": 273,
+          "name": "張紳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲門樵子張紳觀",
+      "author": "張紳"
+    },
+    {
+      "authorcid": 338612,
+      "authoraid": "A001522",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "巨然",
+          "cid": "unknow",
+          "name": "巨然",
+          "aid": "A042987"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "山水"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "董源",
+          "cid": 49698,
+          "name": "董源",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "惠崇",
+          "cid": "unknow",
+          "name": "惠崇",
+          "aid": "A009558"
+        },
+        {
+          "type": "Time",
+          "start": 57,
+          "end": 64,
+          "span": "洪武丙子夏五月"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 67,
+          "span": "道衍觀"
+        }
+      ],
+      "sentence": "鍾陵巨然善畫山水。以董源為師。而細潤過之。真絕品也。或以柔弱出。源之下豈其然乎。後惟惠崇得其髣髴。特少煙雲變化耳。洪武丙子夏五月道衍觀因題。",
+      "author": "道衍"
+    },
+    {
+      "authorcid": 338612,
+      "authoraid": "A001522",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "洪武丙子夏五月"
+        },
+        {
+          "type": "Location",
+          "start": 7,
+          "end": 10,
+          "span": "道衍觀"
+        }
+      ],
+      "sentence": "洪武丙子夏五月道衍觀因題",
+      "author": "道衍"
+    },
+    {
+      "authorcid": 43082,
+      "authoraid": "A045243",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "老巨"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 8,
+          "span": "紙"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "荊關"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 20,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "層巒"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "雲氣"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "松濤"
+        },
+        {
+          "type": "Location",
+          "start": 39,
+          "end": 41,
+          "span": "林谷"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 44,
+          "span": "曲澗"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 49,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 53,
+          "span": "貝多葉"
+        },
+        {
+          "type": "Location",
+          "start": 56,
+          "end": 59,
+          "span": "夕陽間"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 69,
+          "span": "山"
+        },
+        {
+          "type": "Location",
+          "start": 72,
+          "end": 74,
+          "span": "空中"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "錫杖"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 81,
+          "span": "鶴"
+        }
+      ],
+      "sentence": "老巨三昧筆。脫紙作荊關。僧中有此郎。宜水復宜山。層巒當面起。雲氣隔塵寰。松濤響林谷。曲澗雜潺湲。風將貝多葉。亂落夕陽間。老禪不可尋。雲去山自閒。空中聞錫杖。應與鶴俱還。曾棨。",
+      "author": "曾棨"
+    },
+    {
+      "authorcid": 43082,
+      "authoraid": "A045243",
+      "output": [],
+      "sentence": "曾棨",
+      "author": "曾棨"
+    },
+    {
+      "authorcid": 128670,
+      "authoraid": "A010853",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "南湖"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "湖光"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 17,
+          "span": "門"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "樛木"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "秋風"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "蒲菴"
+        }
+      ],
+      "sentence": "雨過南湖漲綠波。湖光皎皎鏡新磨。門遮樛木無塵到。人對秋風結釣簑。豫章蒲菴來復。",
+      "author": "來復"
+    },
+    {
+      "authorcid": 128670,
+      "authoraid": "A010853",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "蒲菴"
+        }
+      ],
+      "sentence": "豫章蒲菴來復",
+      "author": "來復"
+    },
+    {
+      "authorcid": 23522,
+      "authoraid": "A018682",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 12,
+          "span": "秋山漁艇圖卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 45,
+          "span": "張羽",
+          "cid": 23522,
+          "name": "張羽",
+          "aid": "A018682"
+        }
+      ],
+      "sentence": "雲道人藏巨然秋山漁艇圖卷。絹本小著色。拍塞滿幅。層累無窮。極有意趣。平日所見此為第一。張羽。",
+      "author": "張羽"
+    },
+    {
+      "authorcid": 23522,
+      "authoraid": "A018682",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "張羽",
+          "cid": 23522,
+          "name": "張羽",
+          "aid": "A018682"
+        }
+      ],
+      "sentence": "張羽",
+      "author": "張羽"
+    }
+  ]
+}

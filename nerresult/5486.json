@@ -1,0 +1,461 @@
+{
+  "filefroms": "5486.json",
+  "sentences": [
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 9,
+          "span": "十月"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 16,
+          "span": "雪堂"
+        },
+        {
+          "type": "Location",
+          "start": 20,
+          "end": 22,
+          "span": "臨皋"
+        },
+        {
+          "type": "Person",
+          "start": 23,
+          "end": 25,
+          "span": "二客"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "黃泥"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "霜露"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "木葉"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 45,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 53,
+          "span": "明月"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 71,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 76,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 80,
+          "span": "月"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 91,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 100,
+          "span": "網"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 102,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 107,
+          "span": "巨口細鱗"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 114,
+          "span": "松江之鱸"
+        },
+        {
+          "type": "Thing",
+          "start": 119,
+          "end": 120,
+          "span": "酒"
+        },
+        {
+          "type": "Person",
+          "start": 125,
+          "end": 127,
+          "span": "諸婦"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 129,
+          "span": "婦"
+        },
+        {
+          "type": "Person",
+          "start": 131,
+          "end": 132,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 133,
+          "end": 135,
+          "span": "斗酒"
+        },
+        {
+          "type": "PersonName",
+          "start": 143,
+          "end": 144,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 153,
+          "span": "酒"
+        },
+        {
+          "type": "Thing",
+          "start": 154,
+          "end": 155,
+          "span": "魚"
+        },
+        {
+          "type": "LocationName",
+          "start": 159,
+          "end": 161,
+          "span": "赤壁",
+          "aid": "PL000000027948"
+        },
+        {
+          "type": "Thing",
+          "start": 164,
+          "end": 166,
+          "span": "江流"
+        },
+        {
+          "type": "Thing",
+          "start": 173,
+          "end": 174,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 175,
+          "end": 176,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 179,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 180,
+          "end": 181,
+          "span": "石"
+        },
+        {
+          "type": "Thing",
+          "start": 191,
+          "end": 193,
+          "span": "江山"
+        },
+        {
+          "type": "Person",
+          "start": 199,
+          "end": 200,
+          "span": "予"
+        },
+        {
+          "type": "Thing",
+          "start": 202,
+          "end": 203,
+          "span": "衣"
+        },
+        {
+          "type": "Thing",
+          "start": 207,
+          "end": 209,
+          "span": "巉巖"
+        },
+        {
+          "type": "Thing",
+          "start": 215,
+          "end": 217,
+          "span": "虎豹"
+        },
+        {
+          "type": "Thing",
+          "start": 219,
+          "end": 221,
+          "span": "虯龍"
+        },
+        {
+          "type": "PersonName",
+          "start": 230,
+          "end": 232,
+          "span": "馮夷",
+          "cid": "unknow",
+          "name": "馮夷",
+          "aid": "A007689"
+        },
+        {
+          "type": "Location",
+          "start": 233,
+          "end": 235,
+          "span": "幽宮"
+        },
+        {
+          "type": "Person",
+          "start": 237,
+          "end": 239,
+          "span": "二客"
+        },
+        {
+          "type": "Thing",
+          "start": 249,
+          "end": 251,
+          "span": "草木"
+        },
+        {
+          "type": "Thing",
+          "start": 254,
+          "end": 255,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 259,
+          "end": 260,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 261,
+          "end": 262,
+          "span": "水"
+        },
+        {
+          "type": "Person",
+          "start": 264,
+          "end": 265,
+          "span": "予"
+        },
+        {
+          "type": "Thing",
+          "start": 287,
+          "end": 288,
+          "span": "舟"
+        },
+        {
+          "type": "Thing",
+          "start": 314,
+          "end": 316,
+          "span": "孤鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 324,
+          "end": 326,
+          "span": "車輪"
+        },
+        {
+          "type": "Person",
+          "start": 327,
+          "end": 329,
+          "span": "元裳"
+        },
+        {
+          "type": "PersonName",
+          "start": 346,
+          "end": 347,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 349,
+          "end": 350,
+          "span": "予"
+        },
+        {
+          "type": "PersonName",
+          "start": 356,
+          "end": 358,
+          "span": "道士",
+          "cid": 10131,
+          "name": "吳彥夔",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 359,
+          "end": 361,
+          "span": "羽衣"
+        },
+        {
+          "type": "Location",
+          "start": 365,
+          "end": 367,
+          "span": "臨皋"
+        },
+        {
+          "type": "LocationName",
+          "start": 376,
+          "end": 378,
+          "span": "赤壁",
+          "aid": "PL000000027948"
+        },
+        {
+          "type": "Person",
+          "start": 399,
+          "end": 400,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 413,
+          "end": 414,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 421,
+          "end": 423,
+          "span": "道士",
+          "cid": 10131,
+          "name": "吳彥夔",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 426,
+          "end": 427,
+          "span": "予"
+        },
+        {
+          "type": "Time",
+          "start": 441,
+          "end": 443,
+          "span": "丙戌"
+        },
+        {
+          "type": "Time",
+          "start": 444,
+          "end": 451,
+          "span": "西元一五二六年"
+        },
+        {
+          "type": "Location",
+          "start": 458,
+          "end": 461,
+          "span": "平觀堂"
+        },
+        {
+          "type": "Location",
+          "start": 462,
+          "end": 465,
+          "span": "枝山子"
+        }
+      ],
+      "sentence": "後赤壁賦。是歲十月之望。步自雪堂。將歸于臨皋。二客從予。過黃泥之坂。霜露既降。木葉盡脫。人影在地。仰見明月。顧而樂之。行歌相答。已而歎曰。有客無酒。有酒無肴。月白風清。如此良夜何。客曰。今者薄暮。舉網得魚。巨口細鱗。狀如松江之鱸。顧安所得酒乎。歸而謀諸婦。婦曰。我有斗酒。藏之久矣。以待子不時之需。於是攜酒與魚。復遊於赤壁之下。江流有聲斷岸千尺。山高月小。水落石出。曾日月之幾何。而江山不可復識矣。予乃攝衣而上。覆巉巖。披蒙茸。踞虎豹。登虯龍。攀栖鶻之危巢。俯馮夷之幽宮。蓋二客不能從焉。劃然長嘯。草木振動。山鳴谷應。風起水涌。予亦愀然而悲。肅然而恐。凜乎其不可留也。返而登舟。放乎中流。聽其所止而終焉。時將夜半。曲顧寂寥。適有孤鶴。橫江東來。朝如車輪。元裳縞衣。戛然長鳴。掠予舟而西也。須臾客去。予亦就睡。夢一道士。羽衣翩僊。過臨皋之下。揖予而言曰。赤壁之遊。樂乎。問其姓名。俛而不答。嗚呼憶嘻。我知之矣。疇昔之屆。飛鳴而過我者。非子也耶。道士顧笑。予亦驚悟。開戶視之。不見其處。丙戌（西元一五二六年）冬仲續寫此于平觀堂。枝山子。",
+      "author": "祝允明"
+    },
+    {
+      "authorcid": 30180,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丙戌"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一五二六年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "冬仲"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 20,
+          "span": "平觀堂"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 24,
+          "span": "枝山子"
+        }
+      ],
+      "sentence": "丙戌（西元一五二六年）冬仲續寫此于平觀堂。枝山子。",
+      "author": "祝允明"
+    }
+  ]
+}

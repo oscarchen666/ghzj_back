@@ -1,0 +1,632 @@
+{
+  "filefroms": "1279.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "夏山欲雨圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 10,
+          "span": "至正六年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 22,
+          "span": "西元一三四六年）秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 35,
+          "span": "湖寓舍",
+          "aid": "PL000000011593"
+        }
+      ],
+      "sentence": "夏山欲雨圖。至正六年（西元一三四六年）秋七月既望。梅道人戲墨於西湖寓舍也。",
+      "author": "吳鎮"
+    },
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "夏山欲雨圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 10,
+          "span": "至正六年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 22,
+          "span": "西元一三四六年）秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 32,
+          "end": 35,
+          "span": "湖寓舍",
+          "aid": "PL000000011593"
+        }
+      ],
+      "sentence": "夏山欲雨圖。至正六年（西元一三四六年）秋七月既望。梅道人戲墨於西湖寓舍也。",
+      "author": "吳鎮"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "夏山"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "雨雲"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "幽人"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 29,
+          "span": "綠荷衣"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 33,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "蛟龍"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 58,
+          "span": "水"
+        },
+        {
+          "type": "Time",
+          "start": 87,
+          "end": 91,
+          "span": "乾隆甲子"
+        },
+        {
+          "type": "Time",
+          "start": 92,
+          "end": 99,
+          "span": "西元一七四四年"
+        }
+      ],
+      "sentence": "夏山欲雨雲先凝。晻靄乍失峰崚嶒。幽人杖策獨歸去。已濕綠荷衣上層。我時望雨經春半。披圖聊慰賦雲漢。見說蛟龍筆底飛。繪水有聲茲豈但（小字。葉）。。起視空宇明星爛。掩卷無言祗三歎。乾隆甲子（西元一七四四年）夏御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆甲子"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四四年"
+        }
+      ],
+      "sentence": "乾隆甲子（西元一七四四年）夏御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "王倪"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 53,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 57,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 67,
+          "span": "界畫者"
+        },
+        {
+          "type": "Time",
+          "start": 83,
+          "end": 90,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 91,
+          "end": 93,
+          "span": "仲夏"
+        }
+      ],
+      "sentence": "筆墨未作神韻凝。故致雲氣生崿嶒。因之雨勢亦欲至。不辨崇巒凡幾層。此是全提詎提半。王倪對壘仰霄漢。畫固簡潔人則如。人實高超畫非但。界畫者流金碧爛。見此寧弗慙而歎。癸已（西元一七七三年）仲夏疊舊作韻再題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸已"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "仲夏"
+        }
+      ],
+      "sentence": "癸已（西元一七七三年）仲夏疊舊作韻再題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "梅菴"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 42,
+          "span": "晉人"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 67,
+          "span": "畫卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 84,
+          "end": 91,
+          "span": "正丙申七月晦日"
+        },
+        {
+          "type": "PersonName",
+          "start": 92,
+          "end": 96,
+          "span": "紫芝山人",
+          "cid": 111704,
+          "name": "蔣惠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "梅菴點筆有神助。開卷颯颯薰風涼。巨然去後無何有。屈指於今獨擅長。仲圭品格高絕。有晉人風裁。至於詩文繪理。特其緒餘耳。別來三載。忽見畫卷。不啻見仲圭也。因題短句於左。時至正丙申七月晦日。紫芝山人俞和書。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 9,
+          "span": "正丙申七月晦日"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 14,
+          "span": "紫芝山人",
+          "cid": 111704,
+          "name": "蔣惠",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "時至正丙申七月晦日。紫芝山人俞和書。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 28022,
+      "authoraid": "A007454",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "吳梅",
+          "cid": 212516,
+          "name": "吳梅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 16,
+          "span": "書"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "陶潛",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "A003245"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 54,
+          "span": "其人"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 75,
+          "span": "畫卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 82,
+          "end": 84,
+          "span": "王洽",
+          "cid": 64613,
+          "name": "王洽",
+          "aid": "A002693"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 89,
+          "span": "董巨"
+        },
+        {
+          "type": "PersonName",
+          "start": 103,
+          "end": 105,
+          "span": "梅菴",
+          "cid": 128317,
+          "name": "呂益",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 117,
+          "end": 123,
+          "span": "四月十有一日"
+        },
+        {
+          "type": "LocationName",
+          "start": 124,
+          "end": 126,
+          "span": "臨川",
+          "cid": 5471
+        }
+      ],
+      "sentence": "吳梅菴吾之至友也。有高世之行。書無不讀。而繪事更精。所謂魯之原憲。晉之陶潛。殆其儔乎。予固愛其畫。而更愛其人。予每有所請。無不應之。而悉佳妙。就中畫卷種種入神。即使王洽復起。董巨再生。亦何過焉。書於卷後。使梅菴見之。必以予為知言。是歲四月十有一日。臨川危素。",
+      "author": "危素"
+    },
+    {
+      "authorcid": 28022,
+      "authoraid": "A007454",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 8,
+          "span": "四月十有一日"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "臨川",
+          "cid": 5471
+        }
+      ],
+      "sentence": "是歲四月十有一日。臨川危素。",
+      "author": "危素"
+    },
+    {
+      "authorcid": 29105,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "元明善觀於此靜軒",
+      "author": "元明善"
+    },
+    {
+      "authorcid": 29105,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "元明善觀於此靜軒",
+      "author": "元明善"
+    },
+    {
+      "authorcid": 34580,
+      "authoraid": "A045075",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "元季"
+        },
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "畫家"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "江左",
+          "aid": "PL000000000197"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 30,
+          "end": 32,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "竹石"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 81,
+          "end": 83,
+          "span": "明古",
+          "cid": 34601,
+          "name": "史鑑",
+          "aid": "A044382"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 100,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 122,
+          "end": 124,
+          "span": "仲圭",
+          "cid": 22962,
+          "name": "孟之縉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 128,
+          "end": 130,
+          "span": "邵寶",
+          "cid": 34580,
+          "name": "邵寶",
+          "aid": "A045075"
+        }
+      ],
+      "sentence": "元季畫家。不勝指屈。而散漫四方。唯江左為最。若吳仲圭其一也。仲圭居諸家之右。獨得董家正傳。至於竹石寫生。又稱妙絕。所謂淡而不厭。簡而文。仲圭有之矣。此卷今屬吾友史明古所藏。觀其畫。想其人。固可重。而人尤足重。後之覽者。若止以畫視之。其亦淺之乎知仲圭矣。二泉邵寶。",
+      "author": "邵寶"
+    },
+    {
+      "authorcid": 34580,
+      "authoraid": "A045075",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "邵寶",
+          "cid": 34580,
+          "name": "邵寶",
+          "aid": "A045075"
+        }
+      ],
+      "sentence": "二泉邵寶",
+      "author": "邵寶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "松陵",
+          "aid": "PL000000010215"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 8,
+          "span": "家藏之寶"
+        }
+      ],
+      "sentence": "松陵史氏家藏之寶。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "松陵",
+          "aid": "PL000000010215"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 8,
+          "span": "家藏之寶"
+        }
+      ],
+      "sentence": "松陵史氏家藏之寶",
+      "author": ""
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "吳鎮"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 7,
+          "span": "夏山欲雨圖"
+        }
+      ],
+      "sentence": "吳鎮夏山欲雨圖真蹟內府鑒定神品。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

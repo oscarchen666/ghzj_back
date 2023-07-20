@@ -1,0 +1,348 @@
+{
+  "filefroms": "3565.json",
+  "sentences": [
+    {
+      "authorcid": 438092,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "郎世寧",
+          "cid": 438092,
+          "name": "郎世寧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣郎世寧恭繪。",
+      "author": "郎世寧"
+    },
+    {
+      "authorcid": 57033,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 38,
+          "end": 40,
+          "span": "三月"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 55,
+          "span": "乾隆二十七年冬"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 63,
+          "span": "哈莫特沙"
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 75,
+          "span": "卓密爾漢"
+        },
+        {
+          "type": "Metric",
+          "start": 87,
+          "end": 92,
+          "span": "七尺長八尺"
+        },
+        {
+          "type": "PersonName",
+          "start": 139,
+          "end": 141,
+          "span": "史官",
+          "cid": 204386,
+          "name": "史官",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 206,
+          "end": 208,
+          "span": "貳師"
+        },
+        {
+          "type": "Person",
+          "start": 225,
+          "end": 226,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 299,
+          "end": 300,
+          "span": "臣"
+        },
+        {
+          "type": "PersonName",
+          "start": 366,
+          "end": 369,
+          "span": "竇光鼐",
+          "cid": 57445,
+          "name": "竇光鼐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "國家茂膺穹貺。景爍龐鴻。西極之西。全付所覆。乃愛烏罕回中別部。距拔達克山程逾三月。亘古不通聲教。乾隆二十七年冬。其汗愛哈莫特沙顒慕皇化。遣使和卓密爾漢齎表貢馬。權奇倜儻。皆高七尺長八尺而赢。上寵錫嘉名。下繪院具圖。竝御製四駿長歌紀其事。臣等伏按曩筞所詳。如西旅底貢。光於王會。而史官推考所由。曰明王慎德。四夷咸賓。又曰不寶異物。則遠人格。辭指特為深厚。至漢元鼎太乙升歌。流豔樂府。然跡其端委。則博望始用虛名為市。貳師繼藉兵威相劫。且於服遠之義何居。惟我聖朝戡定濛汜。小大畏懷。比歲方外響臻。視新藩復同舊隸。是以飛黃服皁。徠自不脛。而天章往復。益孳孳於誌實作訓。幸與懼并。以茲昭示方來。洵乎度越前牒。臣等預叨載筆。庸敢取黃池渥洼。曼詞揚詡。而不敬闡夫德致之原本哉。臣劉統勳臣梁詩正臣劉綸臣董邦達臣彭啟豐臣觀保臣于敏中臣錢汝誠臣王際華臣竇光鼐臣蔣檙恭跋。",
+      "author": "于敏中"
+    },
+    {
+      "authorcid": 57033,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 38,
+          "span": "竇光鼐",
+          "cid": 57445,
+          "name": "竇光鼐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣劉統勳臣梁詩正臣劉綸臣董邦達臣彭啟豐臣觀保臣于敏中臣錢汝誠臣王際華臣竇光鼐臣蔣檙恭跋。",
+      "author": "于敏中"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "天山",
+          "aid": "PL000000041993",
+          "cid": 16897
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 35,
+          "span": "愛烏罕"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 45,
+          "span": "拔逹山"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 62,
+          "span": "泥蠟紙金字"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "嘉誠"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 82,
+          "span": "使者"
+        },
+        {
+          "type": "Thing",
+          "start": 100,
+          "end": 102,
+          "span": "菊花"
+        },
+        {
+          "type": "LocationName",
+          "start": 105,
+          "end": 107,
+          "span": "西海",
+          "aid": "PL000000007039",
+          "cid": 404299
+        },
+        {
+          "type": "Metric",
+          "start": 198,
+          "end": 203,
+          "span": "七尺長八尺"
+        },
+        {
+          "type": "Thing",
+          "start": 205,
+          "end": 206,
+          "span": "龍"
+        },
+        {
+          "type": "Metric",
+          "start": 216,
+          "end": 219,
+          "span": "四五尺"
+        },
+        {
+          "type": "Thing",
+          "start": 222,
+          "end": 224,
+          "span": "圖畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 252,
+          "end": 254,
+          "span": "太保",
+          "cid": "unknow",
+          "name": "周寶",
+          "aid": "A010572"
+        },
+        {
+          "type": "Time",
+          "start": 267,
+          "end": 269,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 270,
+          "end": 277,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 278,
+          "end": 280,
+          "span": "暮春"
+        }
+      ],
+      "sentence": "天山左右多回部。聲教古艱通譯鞮。分疆劃界各領衆。其名不可僂指稽。愛烏罕實土著國。遙在拔逹山更西。遣使進表非招致。浡泥蠟紙金字題。先以乘馬色不一。嘉誠那責比物齊。使者郵至早賜遣。按程馬到憐穿蹏。曰驄超洱菊花簇。度西海忽蹀金隄（小字。右超洱驄）。昂蔵之駵若歕玉。用昭徕遠房星低（小字。右徕遠駵）。有騋有騋生月𩨳。一形十影耳竹批（小字。右月𩨳騋）。凌崑之駿色正白。不須鞭策行追霓。（小字。右凌崑白）高逾七尺長八尺。為龍一一皆駃騠。于闐董氊四五尺。伯時圖畫猶艷提。別毛按品予嘉號。永誌底貢無乖暌。所幸在此懼在此。太保作訓吾將徯。愛烏罕四駿歌。癸未（西元一七六三年）暮春御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "暮春"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "癸未（西元一七六三年）暮春御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "超洱驄"
+        },
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 9,
+          "span": "七尺六寸"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 15,
+          "span": "八尺四寸"
+        }
+      ],
+      "sentence": "超洱驄。高七尺六寸。長八尺四寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 9,
+          "span": "七尺七寸"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 15,
+          "span": "八尺四寸"
+        }
+      ],
+      "sentence": "徠遠駵。高七尺七寸。長八尺四寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 7,
+          "end": 11,
+          "span": "七尺八寸"
+        },
+        {
+          "type": "Metric",
+          "start": 13,
+          "end": 17,
+          "span": "八尺三寸"
+        }
+      ],
+      "sentence": "月出骨騋。高七尺八寸。長八尺三寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "凌崑白"
+        },
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 9,
+          "span": "七尺五寸"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 15,
+          "span": "八尺三寸"
+        }
+      ],
+      "sentence": "凌崑白。高七尺五寸。長八尺三寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    }
+  ]
+}

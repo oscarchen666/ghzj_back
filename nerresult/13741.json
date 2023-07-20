@@ -1,0 +1,281 @@
+{
+  "filefroms": "13741.json",
+  "sentences": [
+    {
+      "authorcid": 42866,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "易元吉",
+          "cid": 42866,
+          "name": "易元吉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "易元吉",
+      "author": "易元吉"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "易元吉",
+          "cid": 42866,
+          "name": "易元吉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "慶之",
+          "cid": 106449,
+          "name": "康天錫",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "長沙",
+          "cid": "unknow",
+          "name": "景岑",
+          "aid": "A010618"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "花鳥"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "趙昌",
+          "cid": 110354,
+          "name": "趙昌",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 28,
+          "end": 30,
+          "span": "荊湖"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "猿"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "鹿"
+        },
+        {
+          "type": "LocationName",
+          "start": 61,
+          "end": 64,
+          "span": "沙舍後",
+          "cid": 5622
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "圃"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 69,
+          "span": "池"
+        },
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 79,
+          "span": "亂石聚篁梅竹葭葦"
+        },
+        {
+          "type": "Thing",
+          "start": 83,
+          "end": 87,
+          "span": "水禽山獸"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 109,
+          "span": "獐猿"
+        },
+        {
+          "type": "Person",
+          "start": 110,
+          "end": 112,
+          "span": "評者"
+        },
+        {
+          "type": "PersonName",
+          "start": 113,
+          "end": 115,
+          "span": "徐熙",
+          "cid": 45077,
+          "name": "徐熙",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 121,
+          "end": 128,
+          "span": "至正廿年春二月"
+        },
+        {
+          "type": "Location",
+          "start": 130,
+          "end": 133,
+          "span": "清閟閣"
+        },
+        {
+          "type": "LocationName",
+          "start": 134,
+          "end": 136,
+          "span": "雲林",
+          "cid": 20654
+        },
+        {
+          "type": "PersonName",
+          "start": 137,
+          "end": 139,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "易元吉字慶之。長沙人。初工花鳥。及見趙昌畫。乃乏人。遂游荊湖搜奇訪古。幾與猿冘鹿豖同群。故目習心擊之妙一寫毫端。又於長沙舍後。開圃鑿池。以亂石聚篁梅竹葭葦之。以養水禽山獸。伺其動靜資于思畫。故其生態宛然。尤善畫獐猿。評者謂徐熙以後一人也。至正廿年春二月識于清閟閣。雲林生倪瓚。",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 33468,
+      "authoraid": "A023118",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "雲林",
+          "cid": 20654
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "倪瓚",
+          "cid": 33468,
+          "name": "倪瓚",
+          "aid": "A023118"
+        }
+      ],
+      "sentence": "雲林生倪瓚",
+      "author": "倪瓚"
+    },
+    {
+      "authorcid": 100557,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "過庭",
+          "cid": 160505,
+          "name": "過庭",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 41,
+          "span": "百鹿圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 60,
+          "span": "仲山",
+          "cid": 104544,
+          "name": "俞奕曾",
+          "aid": "A045274"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 68,
+          "span": "金門羽客",
+          "cid": 100557,
+          "name": "方從義",
+          "aid": "A044964"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "方壺"
+        },
+        {
+          "type": "LocationName",
+          "start": 72,
+          "end": 75,
+          "span": "上清宮",
+          "aid": "PL000000019087"
+        }
+      ],
+      "sentence": "孫過庭論書云。專工易得。盡善難求。以此知技欲求其盡善者誠不易也。今偶見易慶之百鹿圖。既盡美而復盡善。所謂形態具備耳。仲山永寶之。金門羽客方壺題於上清宮。",
+      "author": "方從義"
+    },
+    {
+      "authorcid": 100557,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "金門羽客",
+          "cid": 100557,
+          "name": "方從義",
+          "aid": "A044964"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 11,
+          "span": "上清宮",
+          "aid": "PL000000019087"
+        }
+      ],
+      "sentence": "金門羽客方壺題於上清宮",
+      "author": "方從義"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "filefroms": "14029.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "鬥牛圖"
+        }
+      ],
+      "sentence": "劉松年鬥牛圖真蹟。",
+      "author": ""
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "神追集社。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "牛"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 36,
+          "span": "韓戴恵崇"
+        },
+        {
+          "type": "PersonName",
+          "start": 80,
+          "end": 82,
+          "span": "戴嵩",
+          "cid": 403236,
+          "name": "戴嵩",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 88,
+          "end": 90,
+          "span": "牧童"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 122,
+          "span": "長官"
+        },
+        {
+          "type": "Thing",
+          "start": 131,
+          "end": 132,
+          "span": "鼓"
+        },
+        {
+          "type": "PersonName",
+          "start": 144,
+          "end": 146,
+          "span": "僧道",
+          "cid": "unknow",
+          "name": "僧道",
+          "aid": "A002968"
+        },
+        {
+          "type": "Person",
+          "start": 176,
+          "end": 178,
+          "span": "繪者"
+        },
+        {
+          "type": "Time",
+          "start": 262,
+          "end": 278,
+          "span": "乾隆乙巳（西元一七八五年）仲春月"
+        }
+      ],
+      "sentence": "畜之善者莫如牛。秉坤之徳其性柔。柔則近馴應無鬪。而胡鬪牛繪者稠。韓戴恵崇不一足。而獨畫譜未傳劉。是圖却標松年繪。初無名欵及印留。不知題署為誰氏。傳訛徒以筆墨遒。戴嵩鬪牛其自鬪。牧童指謬笑以訧。韓滉實有集社鬪。暗門盖此粉本求。兮疆劃界各部伍。長官坐視如運籌。轟轟擊鼓作進勢。閃閃揚鞭督退休。僧道老幼羣助力。各不相讓如相讐。五溪蠻俗雖有此。殊此集社衣冠儔。繪者自别具神解。未兮勝負方低頭。礪角欲進且伺隙。待賈其勇先定謀。大都争牝弗讓牡。遂致變柔成剛流。是為畫鬪畫將鬪。萬理於是可悟不。設其勝負兩各定。索然乏趣誰回眸。鬪牛歌一首。乾隆乙巳（西元一七八五年）仲春月之上澣御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆乙巳"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七八五年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 16,
+          "span": "仲春月"
+        }
+      ],
+      "sentence": "乾隆乙巳（西元一七八五年）仲春月之上澣御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

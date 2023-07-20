@@ -1,0 +1,177 @@
+{
+  "filefroms": "13758.json",
+  "sentences": [
+    {
+      "authorcid": 9008,
+      "authoraid": "A003935",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "秋塘山鳥圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 8,
+          "span": "丁亥"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 16,
+          "span": "西元一一０七年"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 19,
+          "span": "御畫"
+        }
+      ],
+      "sentence": "秋塘山鳥圖。丁亥（西元一一０七年）御畫。（押字一）。",
+      "author": "趙佶"
+    },
+    {
+      "authorcid": 18726,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "蟲"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "風雪"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 28,
+          "span": "枝頭"
+        }
+      ],
+      "sentence": "花色禽離六合塵。蟲聲遶砌寂無聲。不知風雪幽棲地。開到枝頭別是春。紹彭。",
+      "author": "薛紹彭"
+    },
+    {
+      "authorcid": 18726,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "紹彭",
+      "author": "薛紹彭"
+    },
+    {
+      "authorcid": 28798,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "宣和",
+          "cid": 64383,
+          "name": "愛新覺羅鐸尼",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 15,
+          "span": "玉樓"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 20,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "赤馬"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "青牛"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "艮嶽"
+        },
+        {
+          "type": "LocationName",
+          "start": 37,
+          "end": 39,
+          "span": "玄圃",
+          "aid": "PL000000008623"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "方壺"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "祖洲"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 52,
+          "span": "秋塘"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 60,
+          "span": "瓊花琪樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "王冕",
+          "cid": 28798,
+          "name": "王冕",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "宣和天子昔神遊。鳳駕行空過玉樓。此去有人言赤馬。歸來無處逐青牛。分明艮嶽通玄圃。想像方壺接祖洲。莫把秋塘作圖畫。瓊花琪樹不勝秋。會稽王冕。",
+      "author": "王冕"
+    },
+    {
+      "authorcid": 28798,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "王冕",
+          "cid": 28798,
+          "name": "王冕",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "會稽王冕",
+      "author": "王冕"
+    }
+  ]
+}

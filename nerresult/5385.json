@@ -1,0 +1,256 @@
+{
+  "filefroms": "5385.json",
+  "sentences": [
+    {
+      "authorcid": 388142,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "仇英",
+          "cid": 388142,
+          "name": "仇英",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "仇英實父製",
+      "author": "仇英"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 15,
+          "span": "嘉靖二十一年"
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 23,
+          "span": "西元一五四二年"
+        },
+        {
+          "type": "Time",
+          "start": 26,
+          "end": 28,
+          "span": "壬寅"
+        },
+        {
+          "type": "Time",
+          "start": 29,
+          "end": 35,
+          "span": "九月廿又一日"
+        },
+        {
+          "type": "LocationName",
+          "start": 39,
+          "end": 42,
+          "span": "山舟中",
+          "aid": "PL000000010176",
+          "cid": 4596
+        }
+      ],
+      "sentence": "（心經。文不錄。）嘉靖二十一年（西元一五四二年）歲在壬寅。九月廿又一日。書于崑山舟中。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "鵝"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "松雪"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 23,
+          "span": "茶"
+        },
+        {
+          "type": "Person",
+          "start": 24,
+          "end": 27,
+          "span": "恭上人"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "名公"
+        },
+        {
+          "type": "Person",
+          "start": 60,
+          "end": 62,
+          "span": "于舜"
+        },
+        {
+          "type": "Person",
+          "start": 63,
+          "end": 65,
+          "span": "家君"
+        },
+        {
+          "type": "Time",
+          "start": 74,
+          "end": 78,
+          "span": "癸卯仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 79,
+          "end": 81,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "逸少書換鵝。東坡書易肉。皆成千載奇談。松雪以茶戲恭上人。而一時名公咸播歌詠。其風流雅韻。豈出昔賢下哉。然有其詩而失是經。于舜請家君為補之。遂成完物。癸卯仲夏。文彭謹題。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "癸卯仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "癸卯仲夏。文彭謹題。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "松雪"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "茶葉"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 19,
+          "span": "黃庭易鵝"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 46,
+          "span": "晉人"
+        },
+        {
+          "type": "Person",
+          "start": 54,
+          "end": 56,
+          "span": "家君"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "于舜"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "實甫",
+          "cid": 34260,
+          "name": "顧紹芳",
+          "aid": "A045619"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 82,
+          "span": "書經圖"
+        },
+        {
+          "type": "Time",
+          "start": 94,
+          "end": 100,
+          "span": "癸卯八月八日"
+        },
+        {
+          "type": "PersonName",
+          "start": 101,
+          "end": 103,
+          "span": "文嘉",
+          "cid": 34678,
+          "name": "文嘉",
+          "aid": "A016951"
+        }
+      ],
+      "sentence": "松雪以茶葉換般若。自附於右軍以黃庭易鵝。其風流蘊藉。豈特在此微物哉。蓋亦自負其書法之能繼晉人耳。惜其書已亡。家君遂用黃庭法補之。于舜又請仇君實甫。以龍眠筆意寫書經圖于前。則此事當遂不朽矣。癸卯八月八日。文嘉謹識。",
+      "author": "文嘉"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "癸卯八月八日"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "文嘉",
+          "cid": 34678,
+          "name": "文嘉",
+          "aid": "A016951"
+        }
+      ],
+      "sentence": "癸卯八月八日。文嘉謹識。",
+      "author": "文嘉"
+    }
+  ]
+}

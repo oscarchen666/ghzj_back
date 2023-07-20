@@ -1,0 +1,123 @@
+{
+  "filefroms": "14071.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "錢舜"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "宋進",
+          "cid": 295906,
+          "name": "宋進",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 10,
+          "span": "趙吳興",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 21,
+          "span": "士大夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "舜舉",
+          "cid": 35513,
+          "name": "吳皋",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 33,
+          "span": "隸法者"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 54,
+          "span": "趙千里",
+          "cid": 467028,
+          "name": "趙千里",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 58,
+          "end": 60,
+          "span": "行家"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 64,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 74,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 91,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "錢舜舉宋進士。趙吳興以先進事之。嘗問士大夫畫於舜舉。舜舉曰。隸法者是。吳興甚服膺之。及其自為畫。乃刻畫趙千里。幾於當行家矣。古人作事不肯造次。所謂人巧極天工錯。不獨賦家爾爾也。董其昌題。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "董其昌題",
+      "author": "董其昌"
+    }
+  ]
+}

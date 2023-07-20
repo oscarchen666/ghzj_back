@@ -1,0 +1,215 @@
+{
+  "filefroms": "6.json",
+  "sentences": [
+    {
+      "authorcid": 20929,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈揆",
+          "cid": 20929,
+          "name": "沈揆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 11,
+          "span": "紹熙壬子"
+        },
+        {
+          "type": "Time",
+          "start": 12,
+          "end": 25,
+          "span": "西元一一九二年夏五月十一日"
+        }
+      ],
+      "sentence": "檇李沈揆嘗觀。紹熙壬子(西元一一九二年夏五月十一日。",
+      "author": "沈揆"
+    },
+    {
+      "authorcid": 20929,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "紹熙壬子夏五月十一日"
+        }
+      ],
+      "sentence": "紹熙壬子夏五月十一日。",
+      "author": "沈揆"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 1,
+          "end": 3,
+          "span": "榻僧"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "旁僧"
+        }
+      ],
+      "sentence": "對榻僧靳色可掬。旁僧亦復不悅。僧物果難取哉。敏德。",
+      "author": "敏德"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "敏德。",
+      "author": "敏德"
+    },
+    {
+      "authorcid": 34729,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 4,
+          "end": 7,
+          "span": "三百帖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "蘭亭",
+          "cid": 206052,
+          "name": "陶允宜",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 23,
+          "span": "好事人"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "太宗",
+          "cid": 30151,
+          "name": "朱棣",
+          "aid": "A006663"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "賢君"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "御史"
+        },
+        {
+          "type": "Person",
+          "start": 116,
+          "end": 118,
+          "span": "良工"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 127,
+          "span": "周官王會圖"
+        },
+        {
+          "type": "Time",
+          "start": 128,
+          "end": 134,
+          "span": "大明成化乙未"
+        },
+        {
+          "type": "Time",
+          "start": 135,
+          "end": 148,
+          "span": "西元一四七五年)歲秋孟中旬"
+        }
+      ],
+      "sentence": "右軍雜書三百帖。惟有蘭亭最奇絕。卻令後世好事人。周鼎殷彝重真蹟。太宗唐室號賢君。愛之奚啻古典墳。至令御史作狙詐。挾術巧取欺愚昏。點鉤撇勒堪為法。椎蠟翻油競模搨。古文篆籀化塵埃。石鼓歌辭猶可察。倘移此意崇聖謨。三代禮樂其庶乎。願將此段良工手。改畫周官王會圖。大明成化乙未(西元一四七五年)歲秋孟中旬。長嘯書。",
+      "author": "沈瀚"
+    },
+    {
+      "authorcid": 34729,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 11,
+          "span": "大明成化乙未歲秋孟中旬"
+        }
+      ],
+      "sentence": "大明成化乙未歲秋孟中旬。長嘯書。",
+      "author": "沈瀚"
+    },
+    {
+      "authorcid": 82983,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "雍正九年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一七三一年)七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "金農",
+          "cid": 82983,
+          "name": "金農",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雍正九年(西元一七三一年)七月。之江金農獲觀。",
+      "author": "金農"
+    },
+    {
+      "authorcid": 82983,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "雍正九年七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "金農",
+          "cid": 82983,
+          "name": "金農",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雍正九年七月。之江金農獲觀。",
+      "author": "金農"
+    }
+  ]
+}

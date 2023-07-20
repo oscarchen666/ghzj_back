@@ -1,0 +1,304 @@
+{
+  "filefroms": "590.json",
+  "sentences": [
+    {
+      "authorcid": 25534,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "伯駒",
+          "cid": 75892,
+          "name": "紀鉅維",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "千里伯駒",
+      "author": "趙伯駒"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "滕王閣",
+          "cid": 57400,
+          "name": "蔡士英",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（滕王閣序並詩。文不錄。）",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 12,
+          "span": "至大三年(1310)仲春"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 19,
+          "span": "松雪齋",
+          "aid": "PL000000014219"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大三年(1310)仲春既望書于松雪齋。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 10389,
+      "authoraid": "A008210",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "高閣"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 5,
+          "span": "江渚"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "煙雲"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "水天"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "王子",
+          "cid": 471305,
+          "name": "王子",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "奇才"
+        },
+        {
+          "type": "Location",
+          "start": 51,
+          "end": 54,
+          "span": "滕王閣"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 61,
+          "span": "山水"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 115,
+          "end": 117,
+          "span": "袁桷",
+          "cid": 10389,
+          "name": "袁桷",
+          "aid": "A008210"
+        }
+      ],
+      "sentence": "高閣臨江渚。煙雲滿目來。水天同一色。峰勢接三台。高會真難再。佳圖信妙哉。偶吟王子賦。撫卷嘆奇才。余昔登滕王閣中。愛其間山水之勝。因追慕古人宴會之樂。留連而不忍去。今得千里此圖。恍然如昨。不亦玩物適情之一助與。遂作一律於後。清容居士袁桷。",
+      "author": "袁桷"
+    },
+    {
+      "authorcid": 10389,
+      "authoraid": "A008210",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "清容居士",
+          "cid": "unknow",
+          "name": "袁桷",
+          "aid": "A008210"
+        }
+      ],
+      "sentence": "清容居士袁桷",
+      "author": "袁桷"
+    },
+    {
+      "authorcid": 28022,
+      "authoraid": "A007454",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "人物"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 52,
+          "span": "趙伯駒",
+          "cid": 25534,
+          "name": "趙伯駒",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 83,
+          "end": 85,
+          "span": "二李"
+        }
+      ],
+      "sentence": "畫家以人物為難。人物以工緻為難。至于描寫態度。曲盡形容。苟非胸中自具一境界。則筆下未有不踰矩者也。趙伯駒畫法高妙。而其摹擬人情。往往確當。試閱此卷。知其筆意之精。可與二李並馳矣。危素。",
+      "author": "危素"
+    },
+    {
+      "authorcid": 28022,
+      "authoraid": "A007454",
+      "output": [],
+      "sentence": "危素",
+      "author": "危素"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "雲館",
+          "aid": "PL000000013046",
+          "cid": 403715
+        }
+      ],
+      "sentence": "員嶠山人曾觀于白雲館。",
+      "author": "李倜"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "雲館",
+          "aid": "PL000000013046",
+          "cid": 403715
+        }
+      ],
+      "sentence": "員嶠山人曾觀于白雲館",
+      "author": "李倜"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "皇帝",
+          "cid": 3409,
+          "name": "黃巢",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 5,
+          "span": "青宮"
+        }
+      ],
+      "sentence": "（皇帝青宮時題詩。文不錄。）",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "甲寅(1734"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 11,
+          "span": "立秋日"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 18,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "甲寅(1734)立秋日寶親王長春居士題。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

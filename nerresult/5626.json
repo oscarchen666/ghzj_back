@@ -1,0 +1,454 @@
+{
+  "filefroms": "5626.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 4,
+          "end": 6,
+          "span": "新疆",
+          "aid": "PL000000058589"
+        },
+        {
+          "type": "Metric",
+          "start": 6,
+          "end": 8,
+          "span": "二萬"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "良馬"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "西徠"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "雙耳"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "雲錦"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 91,
+          "span": "天馬"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 111,
+          "span": "五花"
+        },
+        {
+          "type": "Time",
+          "start": 173,
+          "end": 178,
+          "span": "嘉慶癸酉（"
+        },
+        {
+          "type": "Time",
+          "start": 178,
+          "end": 188,
+          "span": "西元一八一三年）冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 190,
+          "end": 192,
+          "span": "趙秉",
+          "cid": 50060,
+          "name": "趙秉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "御製贊。新疆二萬。永沐生成。歲貢良馬。天閑充盈。西徠有驈。上應星精。騰驤安吉。獨冠羣英。雙耳峻峙。四號捷輕。亞乘輿走。如御風行。雲錦燦爛。健骨雄鳴。稱德勝力。王道蕩平。右平安驈。天馬西來。慶雲呈瑞。良驈超羣。才全德備。五花滿身。雙號玉粹。坦蕩蹕途。從容攬轡。造極登峯。如履平地。健足乘風。輕塵不積。大宛儲英。名冠上駟巡狩襄儀。連錢騏驥。右慶雲驈。嘉慶癸酉（西元一八一三年）冬日。臣趙秉沖奉敕敬書。",
+      "author": "趙秉沖"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉慶癸酉"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一八一三年）冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "趙秉",
+          "cid": 50060,
+          "name": "趙秉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉慶癸酉（西元一八一三年）冬日。臣趙秉沖奉敕敬書。",
+      "author": "趙秉沖"
+    },
+    {
+      "authorcid": 362155,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "天驥"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "臣英"
+        }
+      ],
+      "sentence": "天驥呈才。臣英和奉勅敬書。",
+      "author": "英和"
+    },
+    {
+      "authorcid": 362155,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "臣英"
+        }
+      ],
+      "sentence": "臣英和奉勅敬書",
+      "author": "英和"
+    },
+    {
+      "authorcid": 85980,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "尾鬣"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 22,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 24,
+          "span": "燕"
+        },
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 32,
+          "span": "木蘭"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 34,
+          "span": "鹿"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "瑜輪"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "桂芳",
+          "cid": 85980,
+          "name": "桂芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "八駿之四。賜號超閑。銅聲海色。尾鬣含黫。綴花蹴燕。驀澗騰山。木蘭即鹿。喜霽天顏。瑜輪懸光。詎若是班。萬匹在下。斯伏斯跧。恩深芻秣。力不辭艱。馳驅永效。樂囿般般。右超閑驈\n臣桂芳恭贊。",
+      "author": "桂芳"
+    },
+    {
+      "authorcid": 85980,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "桂芳",
+          "cid": 85980,
+          "name": "桂芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣桂芳恭贊",
+      "author": "桂芳"
+    },
+    {
+      "authorcid": 368098,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "青驄天驥"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 21,
+          "span": "龍"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 29,
+          "span": "玉勒金鞍"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "調鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "鶱鸞"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 44,
+          "span": "電"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "聖人"
+        },
+        {
+          "type": "Person",
+          "start": 85,
+          "end": 86,
+          "span": "臣"
+        }
+      ],
+      "sentence": "青驄天驥。視履咸端。鏡分瞳炯。麴印號團。龍鬐鳳臆。玉勒金鞍。馴如調鶴。行若鶱鸞。嘶風逐電。應節和鑾。聖人策馭。惟恬惟安。褒之月。駟豢以星闌。嘉名錫予。神駿榮觀。右履安驄。臣果齊斯歡恭贊。",
+      "author": "果齊斯歡"
+    },
+    {
+      "authorcid": 368098,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 4,
+          "span": "臣果齊斯"
+        }
+      ],
+      "sentence": "臣果齊斯歡恭贊",
+      "author": "果齊斯歡"
+    },
+    {
+      "authorcid": 85980,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 1,
+          "end": 2,
+          "span": "馬"
+        },
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 7,
+          "span": "六尺"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "飛雲"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "聖人"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 37,
+          "span": "馬"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 41,
+          "span": "臣"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "桂芳",
+          "cid": 85980,
+          "name": "桂芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "有馬荏鐵。六尺以長。如碎錦簇。如飛雲翔。聖人乘之。深穩吉康。嘉名一錫。凡馬莫當。臣職司牧。略辨驪黄。請以馬喻。良率不良。泛駕是策。千里騰襄。六轡在手。何用不藏。右雲錦驄。臣桂芳恭贊。",
+      "author": "桂芳"
+    },
+    {
+      "authorcid": 85980,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "桂芳",
+          "cid": 85980,
+          "name": "桂芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣桂芳恭贊",
+      "author": "桂芳"
+    },
+    {
+      "authorcid": 58020,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "驥"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 89,
+          "span": "盧蔭溥",
+          "cid": 58020,
+          "name": "盧蔭溥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲華燦錦。玉采鏤霜。貺精太乙。禀異飛黄。服閑日御。沛艾騰驤。既安且吉。歷試名揚。權奇外峙。俶儻中藏。勿矜趫迅。厥德有常。恩榮錫號。驅策孔長。驥不稱力。無斁斯藏。右安吉黄。臣盧蔭溥恭贊。",
+      "author": "盧蔭溥"
+    },
+    {
+      "authorcid": 58020,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "盧蔭溥",
+          "cid": 58020,
+          "name": "盧蔭溥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣盧蔭溥恭贊",
+      "author": "盧蔭溥"
+    },
+    {
+      "authorcid": 362155,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "樹骨"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "紫燕"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "綠虵"
+        },
+        {
+          "type": "Time",
+          "start": 71,
+          "end": 74,
+          "span": "萬斯年"
+        }
+      ],
+      "sentence": "神駿呈才。騰驤超逸。五花燦文。大宛効質。樹骨附筋。飛慶煥霱。所向無前。與心合一。瑞應榮光。歌傳司律。紫燕追風。綠虵候日。共備天閑。為世間出。於萬斯年。動罔不吉。右吉雲騮。臣英和恭贊。",
+      "author": "英和"
+    },
+    {
+      "authorcid": 362155,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "臣英"
+        }
+      ],
+      "sentence": "臣英和恭贊",
+      "author": "英和"
+    }
+  ]
+}

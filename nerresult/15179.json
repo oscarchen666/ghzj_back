@@ -1,0 +1,346 @@
+{
+  "filefroms": "15179.json",
+  "sentences": [
+    {
+      "authorcid": 165061,
+      "authoraid": "A010757",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        }
+      ],
+      "sentence": "汝南周昉造",
+      "author": "周昉"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "周君",
+          "cid": 467825,
+          "name": "周君",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 22,
+          "end": 27,
+          "span": "簪花圖長軸"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 33,
+          "span": "對鏡寫容圖"
+        },
+        {
+          "type": "Person",
+          "start": 57,
+          "end": 59,
+          "span": "宋人"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 65,
+          "span": "君"
+        }
+      ],
+      "sentence": "景元周君妙跡。世不多見。余所所（點去）見者。簪花圖長軸。對鏡寫容圖一卷。于此三矣。皆真蹟之尤佳者也。或有之迺贗本。宋人摹倣之耳。君宜善寶藏之。員嶠。",
+      "author": "李倜"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "員嶠",
+      "author": "李倜"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "蓮華",
+          "cid": "unknow",
+          "name": "蓮華",
+          "aid": "A009161"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "松風"
+        }
+      ],
+      "sentence": "蓮華博士觀于聽松風處。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019252",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 13,
+          "span": "至正十三年春二月之望前三日"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 19,
+          "span": "城西"
+        },
+        {
+          "type": "Location",
+          "start": 19,
+          "end": 24,
+          "span": "王氏寶玩樓"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 29,
+          "span": "鮮于樞",
+          "cid": 30354,
+          "name": "鮮于樞",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正十三年春二月之望前三日。獲觀於城西王氏寶玩樓中。鮮于樞伯機父記。",
+      "author": "鮮於樞"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A019252",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "鮮于樞",
+          "cid": 30354,
+          "name": "鮮于樞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 6,
+          "span": "父"
+        }
+      ],
+      "sentence": "鮮于樞伯機父記",
+      "author": "鮮於樞"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "右觀燈圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "景元",
+          "cid": 404403,
+          "name": "景元",
+          "aid": "A001241"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "丹青"
+        },
+        {
+          "type": "Person",
+          "start": 33,
+          "end": 35,
+          "span": "仕女"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "韓幹",
+          "cid": 448745,
+          "name": "韓幹",
+          "aid": "A021998"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "此圖"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 61,
+          "span": "仕女"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "嬰孩"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "器皿"
+        },
+        {
+          "type": "Person",
+          "start": 126,
+          "end": 131,
+          "span": "居士蘇又晉"
+        }
+      ],
+      "sentence": "右觀燈圖一卷。神彩生動。氣韻高古。為唐周昉景元真蹟。按傳丹青中最工仕女。尤為得神。韓幹莫能及。今觀此圖。真能發揮其雅。仕女之明眸善睞。嬰孩之嬉戲態度。器皿陳設古雅。宛似上元景象。曲盡其妙。非昉不能也。太樸危公處。借觀旬日不忍釋手。漫識數語而歸之。江左實居士蘇又晉。",
+      "author": "蘇又晉"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "江左",
+          "cid": 83605,
+          "name": "周嘉胄",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "江左實居士蘇又晉",
+      "author": "蘇又晉"
+    },
+    {
+      "authorcid": 3737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "景元",
+          "cid": 298,
+          "name": "張燾",
+          "aid": "A001241"
+        },
+        {
+          "type": "Time",
+          "start": 88,
+          "end": 94,
+          "span": "永樂庚寅夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 94,
+          "end": 96,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "畫擅六藝。各師一家。惟人物最為不易。非寫生在手者。未能善也。余于殆無間言矣。蓋景元作畫。並不輕于落筆而隨物肖形。設色神化。毫無斧鑿之意。故世特寶重之。今觀此圖。信乎名下無虛也。永樂庚寅夏日沈度題。",
+      "author": "沈度"
+    },
+    {
+      "authorcid": 3737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "永樂庚寅夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "永樂庚寅夏日沈度題",
+      "author": "沈度"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "正德丁卯春日"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 12,
+          "span": "昌唐寅觀",
+          "cid": 16756
+        }
+      ],
+      "sentence": "正德丁卯春日。晉昌唐寅觀。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "正德丁卯春日"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 12,
+          "span": "昌唐寅觀",
+          "cid": 16756
+        }
+      ],
+      "sentence": "正德丁卯春日。晉昌唐寅觀。",
+      "author": "唐寅"
+    }
+  ]
+}
