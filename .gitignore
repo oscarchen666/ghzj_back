@@ -2,4 +2,4 @@ data/latest.db
 data/reverse.json
 test.txt
 tiba.pptx
-__pycache__/*
+*.pyc  
