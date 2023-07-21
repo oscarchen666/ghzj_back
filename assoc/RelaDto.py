@@ -45,10 +45,11 @@ class RelaDto():
             bmlist=[out1["c_alt_name_chn"]for out1 in outs1]
             # 籍贯
             if out["c_index_addr_id"]!=None:
-                sql="select c_name_chn from addr_codes\
+                sql="select c_name_chn,x_coord,y_coord from addr_codes\
                         where c_addr_id={}".format(out["c_index_addr_id"])
                 outs2 = select(self.dbpath,sql)
-                jg=outs2[0]["c_name_chn"]
+                jg={"地名":outs2[0]["c_name_chn"],
+                    "坐标":[outs2[0]["x_coord"],outs2[0]["y_coord"]]}
             else: jg=None
             # 朝代
             if not out["c_dy"]:dynasty="unknow"
