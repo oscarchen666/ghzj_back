@@ -48,8 +48,9 @@ class RelaDto():
                 sql="select c_name_chn,x_coord,y_coord from addr_codes\
                         where c_addr_id={}".format(out["c_index_addr_id"])
                 outs2 = select(self.dbpath,sql)
-                jg={"地名":outs2[0]["c_name_chn"],
-                    "坐标":[outs2[0]["x_coord"],outs2[0]["y_coord"]]}
+                # jg={"地名":outs2[0]["c_name_chn"],
+                #     "坐标":[outs2[0]["x_coord"],outs2[0]["y_coord"]]}
+                jg = outs2[0]["c_name_chn"]
             else: jg=None
             # 朝代
             if not out["c_dy"]:dynasty="unknow"
