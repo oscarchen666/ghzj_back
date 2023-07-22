@@ -154,7 +154,7 @@ def getpersonmatrix():
         cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
         result=personmatrix(pid,cname2id)
         return R.ok(result)
-    return R.erro2()
+    return R.erro2(msg ="请先请求/getauthorlist/")
 
 @app.route("/getpersonscore", methods=["GET"])
 @cross_origin(allow_headers="*")
@@ -168,7 +168,7 @@ def getpersonscore():
         cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
         result=personscore(pid,cname2id)
         return R.ok(result)
-    return R.erro2()
+    return R.erro2(msg ="请先请求/getauthorlist/")
 
 @app.route("/getonestringinfo", methods=["GET"])
 @cross_origin(allow_headers="*")

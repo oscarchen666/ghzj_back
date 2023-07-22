@@ -2,1049 +2,523 @@
   "filefroms": "14393.json",
   "sentences": [
     {
-      "authorcid": 55870,
-      "authoraid": "A006727",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "昭慶寺"
+        },
         {
           "type": "Thing",
           "start": 4,
           "end": 7,
-          "span": "十志圖"
+          "span": "錢唐門"
         },
         {
-          "type": "PersonName",
+          "type": "Thing",
           "start": 8,
-          "end": 10,
-          "span": "鄭虔",
-          "cid": 93855,
-          "name": "鄭虔",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 33,
-          "end": 35,
-          "span": "楊周",
-          "cid": 158656,
-          "name": "楊周",
-          "aid": "A012375"
-        },
-        {
-          "type": "LocationName",
-          "start": 38,
-          "end": 40,
-          "span": "清河",
-          "aid": "PL000000005355",
-          "cid": 17012
-        },
-        {
-          "type": "PersonName",
-          "start": 41,
-          "end": 43,
-          "span": "張洽",
-          "cid": 80016,
-          "name": "張洽",
-          "aid": "A045015"
-        },
-        {
-          "type": "PersonName",
-          "start": 49,
-          "end": 51,
-          "span": "師表",
-          "cid": 335251,
-          "name": "師表",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 59,
-          "end": 61,
-          "span": "書畫"
-        },
-        {
-          "type": "Thing",
-          "start": 66,
-          "end": 67,
-          "span": "山"
-        },
-        {
-          "type": "Thing",
-          "start": 68,
-          "end": 69,
-          "span": "宅"
-        },
-        {
-          "type": "Thing",
-          "start": 70,
-          "end": 71,
-          "span": "草"
-        },
-        {
-          "type": "Person",
-          "start": 82,
-          "end": 86,
-          "span": "機士俗人"
-        },
-        {
-          "type": "Person",
-          "start": 90,
-          "end": 93,
-          "span": "先生者"
-        },
-        {
-          "type": "PersonName",
-          "start": 107,
-          "end": 109,
-          "span": "伊人",
-          "cid": 61089,
-          "name": "王廣心",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 115,
-          "end": 117,
-          "span": "江村"
-        }
-      ],
-      "sentence": "十體書成十志圖。鄭虔三絕那稱孤。滄桑顯晦千年閱。丁甲呵持有是乎。\n楊周跋語識清河。張洽臨摹詎足多。師表人倫自有在。寧因書畫辨如何。\n山為宅便草為堂。肥遯千秋姓氏香。機士俗人屢争較。先生者箇未能忘。\n聞說終南捷徑通。伊人隱避乃於嵩。江村題慕盧家事。前後之間同不同。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 4,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
-        },
-        {
-          "type": "PersonName",
-          "start": 9,
           "end": 11,
-          "span": "高士",
-          "cid": 203855,
-          "name": "高士",
-          "aid": "unknow"
+          "span": "寶叔塔"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "來鳳亭"
         },
         {
           "type": "Location",
           "start": 16,
-          "end": 18,
-          "span": "故園"
-        },
-        {
-          "type": "LocationName",
-          "start": 37,
-          "end": 40,
-          "span": "終南山",
-          "aid": "PL000000042627",
-          "cid": 400553
-        },
-        {
-          "type": "Person",
-          "start": 52,
-          "end": 54,
-          "span": "權貴"
-        },
-        {
-          "type": "Person",
-          "start": 60,
-          "end": 62,
-          "span": "時人"
-        },
-        {
-          "type": "PersonName",
-          "start": 69,
-          "end": 71,
-          "span": "盧鴻",
-          "cid": 33754,
-          "name": "盧鴻",
-          "aid": "A009320"
-        },
-        {
-          "type": "LocationName",
-          "start": 74,
-          "end": 76,
-          "span": "嵩山",
-          "aid": "PL000000013571",
-          "cid": 400548
-        },
-        {
-          "type": "LocationName",
-          "start": 84,
-          "end": 87,
-          "span": "堂山中",
-          "aid": "PL000000011645"
-        },
-        {
-          "type": "Person",
-          "start": 91,
-          "end": 93,
-          "span": "二人"
-        },
-        {
-          "type": "PersonName",
-          "start": 104,
-          "end": 106,
-          "span": "士奇",
-          "cid": 1169,
-          "name": "林特",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 143,
-          "end": 145,
-          "span": "老人"
-        }
-      ],
-      "sentence": "按高士奇跋。有尚懷高士之踪。益動故園之念語。意在慕盧。然考盧藏用。初隱居於終南山。尋應徵辟。及登朝。專事權貴。趦趄奢靡。時人詆為終南捷徑。盧鴻則隱於嵩山。徵拜不受。營草堂山中以終老。二人志行。不可同日而語。若士奇附勢通賄。不能以義命自安。祗可同於前之藏用。而不能同後之鴻。且其自署為藏用老人。亦有不期而同者。因借盧家事譏之。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "丙申"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一七七六年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 13,
-          "span": "仲春"
-        }
-      ],
-      "sentence": "丙申（西元一七七六年）仲春上澣御題并識",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Person",
-          "start": 46,
-          "end": 48,
-          "span": "畫家"
-        },
-        {
-          "type": "PersonName",
-          "start": 75,
-          "end": 77,
-          "span": "盧鴻",
-          "cid": 33754,
-          "name": "盧鴻",
-          "aid": "A009320"
-        },
-        {
-          "type": "PersonName",
-          "start": 119,
-          "end": 122,
-          "span": "周必大",
-          "cid": 7197,
-          "name": "周必大",
-          "aid": "A007177"
-        },
-        {
-          "type": "Time",
-          "start": 131,
-          "end": 135,
-          "span": "千有餘年"
-        },
-        {
-          "type": "PersonName",
-          "start": 155,
-          "end": 157,
-          "span": "美人",
-          "cid": 56573,
-          "name": "柳是",
-          "aid": "unknow"
+          "end": 19,
+          "span": "蟾蜍山"
         },
         {
           "type": "Thing",
-          "start": 158,
-          "end": 161,
-          "span": "鸚鵡圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 162,
-          "end": 164,
-          "span": "韓幹",
-          "cid": 448745,
-          "name": "韓幹",
-          "aid": "A021998"
+          "start": 20,
+          "end": 23,
+          "span": "大佛寺"
         },
         {
           "type": "Thing",
-          "start": 177,
-          "end": 179,
-          "span": "紙墨"
-        },
-        {
-          "type": "PersonName",
-          "start": 208,
-          "end": 211,
-          "span": "李公麟",
-          "cid": 19865,
-          "name": "李公麟",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 211,
-          "end": 214,
-          "span": "山莊圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 227,
-          "end": 229,
-          "span": "公麟",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "Thing",
-          "start": 259,
-          "end": 260,
-          "span": "羊"
-        }
-      ],
-      "sentence": "此卷畫法。極工整而不板滯。極繁密而不冗雜。用筆極細。而時露蒼渾。著墨極濃。而自有淺深。可謂盡畫家之能事。字則各體具備。遒峻不群。超然有塵外致。向遂稱為盧鴻真蹟。第通卷無浩然款識。豈肥遯者流。逸其躅。并欲逸其名耶。而其名之僅存。則由於楊凝式周必大二跋。然開元至今。千有餘年。舊蹟流傳。已屬不易。石渠寶笈所弆。周昉美人調鸚鵡圖。韓幹畫照夜白。皆較舊於此。此乃紙墨完好如常。謂為必出浩然之手。其然豈其然乎。因諦視其畫法。與李公麟山莊圖絕相似。是卷縱或仿作。亦非公麟不能。夫龍眠真蹟。已不多覯。即非真盧。而得真李。亦不啻買王得羊矣。又何必復計其名之逸與否耶。故於再題十志之末附及之。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "丙申"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一七七六年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 14,
-          "span": "季夏月"
-        }
-      ],
-      "sentence": "丙申（西元一七七六年）季夏月上澣。御題并識。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 22500,
-      "authoraid": "A013778",
-      "output": [
-        {
-          "type": "Person",
-          "start": 5,
-          "end": 10,
-          "span": "書記左郎中"
-        },
-        {
-          "type": "PersonName",
-          "start": 14,
-          "end": 17,
-          "span": "盧浩然",
-          "cid": 416637,
-          "name": "盧浩然",
-          "aid": "A009320"
-        },
-        {
-          "type": "LocationName",
-          "start": 19,
-          "end": 21,
-          "span": "嵩山",
-          "aid": "PL000000013571",
-          "cid": 400548
-        },
-        {
-          "type": "PersonName",
           "start": 24,
-          "end": 25,
-          "span": "盧",
-          "cid": 20496,
-          "name": "盧",
-          "aid": "A005370"
+          "end": 28,
+          "span": "斷橋殘雪"
         },
         {
-          "type": "PersonName",
+          "type": "Location",
           "start": 29,
           "end": 31,
-          "span": "高士",
-          "cid": 203855,
-          "name": "高士",
-          "aid": "unknow"
+          "span": "葛嶺"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 35,
+          "span": "初陽臺"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "錦帶橋"
         },
         {
           "type": "Thing",
           "start": 40,
-          "end": 44,
-          "span": "山水樹石"
-        },
-        {
-          "type": "LocationName",
-          "start": 47,
-          "end": 49,
-          "span": "嵩山",
-          "aid": "PL000000013571",
-          "cid": 400548
-        },
-        {
-          "type": "Time",
-          "start": 50,
-          "end": 54,
-          "span": "唐開元初"
-        },
-        {
-          "type": "Person",
-          "start": 57,
-          "end": 61,
-          "span": "諫議大夫"
+          "end": 43,
+          "span": "放鶴亭"
         },
         {
           "type": "Thing",
-          "start": 64,
-          "end": 66,
-          "span": "此畫"
-        }
-      ],
-      "sentence": "右覽前晉昌書記左郎中家。舊傳盧浩然隱君嵩山十志。盧本名鴻。高士也。能八分書。善製山水樹石。隱於嵩山。唐開元初。徵拜諫議大夫不受。此畫可珍重也。",
-      "author": "楊凝式"
-    },
-    {
-      "authorcid": 22500,
-      "authoraid": "A013778",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "丁未"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 17,
-          "span": "西元八八七年）歲前七月十八日"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
-          "end": 22,
-          "span": "傅弘",
-          "cid": "unknow",
-          "name": "傅弘",
-          "aid": "A006833"
-        }
-      ],
-      "sentence": "丁未（西元八八七年）歲前七月十八日。老少傅弘農人題。",
-      "author": "楊凝式"
-    },
-    {
-      "authorcid": 7197,
-      "authoraid": "A007177",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "向氏",
-          "cid": "unknow",
-          "name": "向氏",
-          "aid": "A017848"
-        },
-        {
-          "type": "PersonName",
-          "start": 7,
-          "end": 9,
-          "span": "盧浩",
-          "cid": 32167,
-          "name": "盧浩",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 10,
-          "end": 13,
-          "span": "草堂圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 18,
-          "end": 20,
-          "span": "傅弘",
-          "cid": "unknow",
-          "name": "傅弘",
-          "aid": "A006833"
-        },
-        {
-          "type": "PersonName",
-          "start": 59,
-          "end": 61,
-          "span": "伯虎",
-          "cid": 39515,
-          "name": "朱元瑜",
-          "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
-          "start": 63,
-          "end": 65,
-          "span": "廬陵",
-          "aid": "PL000000042437",
-          "cid": 5479
-        },
-        {
-          "type": "Time",
-          "start": 85,
-          "end": 87,
-          "span": "四年"
-        },
-        {
-          "type": "Person",
-          "start": 88,
-          "end": 90,
-          "span": "漢祖"
-        },
-        {
-          "type": "LocationName",
-          "start": 92,
-          "end": 94,
-          "span": "太原",
-          "cid": 4724
-        },
-        {
-          "type": "Time",
-          "start": 102,
-          "end": 104,
-          "span": "七月"
-        },
-        {
-          "type": "Time",
-          "start": 110,
-          "end": 115,
-          "span": "丁未前七月"
-        },
-        {
-          "type": "Person",
-          "start": 121,
-          "end": 123,
-          "span": "六臣"
-        },
-        {
-          "type": "PersonName",
-          "start": 127,
-          "end": 129,
-          "span": "楊涉",
-          "cid": 22499,
-          "name": "楊涉",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 135,
-          "end": 136,
-          "span": "涉",
-          "cid": 145849,
-          "name": "孟涉",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 168,
-          "end": 172,
-          "span": "太子太保",
-          "cid": "unknow",
-          "name": "韓臯",
-          "aid": "A011138"
-        },
-        {
-          "type": "Person",
-          "start": 209,
-          "end": 211,
-          "span": "斯人"
-        },
-        {
-          "type": "Time",
-          "start": 243,
-          "end": 246,
-          "span": "五丁未"
-        },
-        {
-          "type": "Time",
-          "start": 251,
-          "end": 256,
-          "span": "三百有餘年"
-        }
-      ],
-      "sentence": "右薌林向氏所藏盧浩然草堂圖。後有老少傅弘農人題識。不著姓氏。而記爵里。不列紀年。而述甲子。且繫之以時月。而用凝式之章。伯虎來為廬陵郡幕。相過款曲。求為訂之。蓋當石晉開運之四年。漢祖起於太原。復稱天福。是歲七月置閏。其所書丁未前七月者是矣。唐之六臣傳。一曰楊涉。附載其子凝涉（點去）式。早有證羊之直。而不能自安於義命。歷事梁唐晉漢周。晚以太子太保致其政。抑豈當晉漢之際。官尚少傅耶。且楊姓之望出於弘農。即以凝式為文。其為斯人。夫復何疑。此畫歷歲既久。是題也。上溯開運。下逮本朝之淳熙。凡閱五丁未。至於今。三百有餘年。其間經履世變。不為不多。\n是可尚也已。因考其顛末。以識其卷尾而歸之。",
-      "author": "周必大"
-    },
-    {
-      "authorcid": 7197,
-      "authoraid": "A007177",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "慶元己未"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 16,
-          "span": "西元一一九九年）春二月"
-        },
-        {
-          "type": "Person",
-          "start": 20,
-          "end": 24,
-          "span": "老叟周必"
-        }
-      ],
-      "sentence": "慶元己未（西元一一九九年）春二月上日平園老叟周必大書。",
-      "author": "周必大"
-    },
-    {
-      "authorcid": 47111,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "辛酉"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一六二一年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 13,
-          "span": "秋仲"
-        },
-        {
-          "type": "PersonName",
-          "start": 15,
-          "end": 17,
-          "span": "南羽",
-          "cid": 126323,
-          "name": "丁雲鵬",
-          "aid": "A009035"
-        },
-        {
-          "type": "Thing",
-          "start": 22,
-          "end": 24,
-          "span": "此卷"
-        },
-        {
-          "type": "Thing",
-          "start": 30,
-          "end": 34,
-          "span": "希世之寶"
-        }
-      ],
-      "sentence": "辛酉（西元一六二一年）秋仲。丁南羽先生。求觀此卷。捧而歎曰。希世之寶。千金之玩也。人生會覯。實有往因。焚香拜而展之。",
-      "author": "張孝思"
-    },
-    {
-      "authorcid": 47111,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "壬午"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 14,
-          "span": "西元一六四二年）夏六月"
-        }
-      ],
-      "sentence": "壬午（西元一六四二年）夏六月嬾逸張孝思識。",
-      "author": "張孝思"
-    },
-    {
-      "authorcid": 24875,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 5,
-          "span": "丙戌冬十月"
-        },
-        {
-          "type": "PersonName",
-          "start": 8,
-          "end": 10,
-          "span": "昆山",
-          "cid": 34932,
-          "name": "沈鑒",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "丙戌冬十月既望。昆山王同祖觀。",
-      "author": "王同祖"
-    },
-    {
-      "authorcid": 21665,
-      "authoraid": "A034338",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "嘉靖乙酉"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 18,
-          "span": "西元一五二五年）八月廿七日"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
-          "end": 22,
-          "span": "陳沂",
-          "cid": 21665,
-          "name": "陳沂",
-          "aid": "A034338"
-        }
-      ],
-      "sentence": "嘉靖乙酉（西元一五二五年）八月廿七日。鄞陳沂鑒賞。",
-      "author": "陳沂"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 9,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "仙禽"
-        },
-        {
-          "type": "Person",
-          "start": 21,
-          "end": 23,
-          "span": "達人"
-        },
-        {
-          "type": "Thing",
-          "start": 23,
-          "end": 25,
-          "span": "泥土"
-        },
-        {
-          "type": "Thing",
-          "start": 29,
-          "end": 31,
-          "span": "林巒"
-        },
-        {
-          "type": "LocationName",
-          "start": 37,
-          "end": 39,
-          "span": "嵩山",
-          "aid": "PL000000013571",
-          "cid": 400548
+          "start": 44,
+          "end": 48,
+          "span": "平湖秋月"
         },
         {
           "type": "Thing",
           "start": 49,
           "end": 52,
-          "span": "龍門桐"
-        },
-        {
-          "type": "Person",
-          "start": 55,
-          "end": 57,
-          "span": "諫官"
+          "span": "四照亭"
         },
         {
           "type": "Thing",
-          "start": 109,
-          "end": 113,
-          "span": "藤枝薤葉"
+          "start": 53,
+          "end": 56,
+          "span": "聖因寺"
         },
         {
-          "type": "PersonName",
-          "start": 119,
-          "end": 121,
-          "span": "右丞",
-          "cid": 64695,
-          "name": "洪良品",
-          "aid": "unknow"
+          "type": "Thing",
+          "start": 57,
+          "end": 59,
+          "span": "孤山"
         },
         {
-          "type": "Person",
-          "start": 149,
-          "end": 151,
-          "span": "弘農"
+          "type": "Thing",
+          "start": 60,
+          "end": 63,
+          "span": "湖心亭"
         },
         {
-          "type": "Person",
-          "start": 173,
-          "end": 177,
-          "span": "胚渾坡老"
+          "type": "Thing",
+          "start": 64,
+          "end": 67,
+          "span": "六一泉"
         },
         {
-          "type": "PersonName",
-          "start": 178,
-          "end": 180,
-          "span": "涪翁",
-          "cid": 7111,
-          "name": "黃庭堅",
-          "aid": "unknow"
+          "type": "Thing",
+          "start": 68,
+          "end": 71,
+          "span": "西泠橋"
         },
         {
-          "type": "Time",
+          "type": "Thing",
+          "start": 72,
+          "end": 75,
+          "span": "湧金門"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 79,
+          "span": "問水亭"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 84,
+          "span": "曲院風荷"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 89,
+          "span": "岳武穆祠"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 94,
+          "span": "湖山神廟"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 98,
+          "span": "跨虹橋"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 102,
+          "span": "東浦橋"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 106,
+          "span": "玉帶橋"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 110,
+          "span": "賢王祠"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 115,
+          "span": "三潭印月"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 119,
+          "span": "望山橋"
+        },
+        {
+          "type": "LocationName",
+          "start": 120,
+          "end": 122,
+          "span": "蘇堤",
+          "aid": "PL000000011539"
+        },
+        {
+          "type": "Thing",
+          "start": 125,
+          "end": 127,
+          "span": "柳浪"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 129,
+          "span": "鶯"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 133,
+          "span": "壓隄橋"
+        },
+        {
+          "type": "Thing",
+          "start": 134,
+          "end": 137,
+          "span": "北高峰"
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 142,
+          "span": "雙峰插雲"
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 146,
+          "span": "九里松"
+        },
+        {
+          "type": "Thing",
+          "start": 147,
+          "end": 150,
+          "span": "鎖瀾橋"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 154,
+          "span": "蕉石山"
+        },
+        {
+          "type": "Thing",
+          "start": 155,
+          "end": 158,
+          "span": "清波門"
+        },
+        {
+          "type": "Thing",
+          "start": 159,
+          "end": 162,
+          "span": "映波橋"
+        },
+        {
+          "type": "Location",
+          "start": 163,
+          "end": 166,
+          "span": "學士港"
+        },
+        {
+          "type": "Location",
+          "start": 167,
+          "end": 169,
+          "span": "花港"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 171,
+          "span": "魚"
+        },
+        {
+          "type": "LocationName",
+          "start": 172,
+          "end": 175,
+          "span": "雲林寺",
+          "aid": "PL000000011596"
+        },
+        {
+          "type": "Thing",
+          "start": 176,
+          "end": 178,
+          "span": "雷峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 182,
+          "end": 184,
+          "span": "天竺",
+          "aid": "PL000000048207",
+          "cid": 500002
+        },
+        {
+          "type": "Thing",
           "start": 185,
-          "end": 188,
-          "span": "淳熙代"
+          "end": 189,
+          "span": "南屏曉鐘"
+        },
+        {
+          "type": "LocationName",
+          "start": 190,
+          "end": 193,
+          "span": "淨慈寺",
+          "aid": "PL000000011683"
+        },
+        {
+          "type": "Thing",
+          "start": 194,
+          "end": 196,
+          "span": "長橋"
         },
         {
           "type": "Thing",
           "start": 197,
-          "end": 199,
-          "span": "神物"
+          "end": 200,
+          "span": "南高峰"
         },
         {
-          "type": "Location",
+          "type": "Thing",
           "start": 201,
-          "end": 203,
-          "span": "陵谷"
-        },
-        {
-          "type": "PersonName",
-          "start": 209,
-          "end": 212,
-          "span": "益國公",
-          "cid": 15259,
-          "name": "喬行簡",
-          "aid": "A007177"
-        },
-        {
-          "type": "Person",
-          "start": 239,
-          "end": 241,
-          "span": "寶玉"
-        },
-        {
-          "type": "Person",
-          "start": 245,
-          "end": 246,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 269,
-          "end": 270,
-          "span": "甕"
-        },
-        {
-          "type": "Thing",
-          "start": 276,
-          "end": 278,
-          "span": "蒿蓬"
-        },
-        {
-          "type": "Thing",
-          "start": 279,
-          "end": 283,
-          "span": "石廊洞戶"
+          "end": 204,
+          "span": "三台峰"
         },
         {
           "type": "Location",
-          "start": 303,
-          "end": 305,
-          "span": "故園"
-        },
-        {
-          "type": "Thing",
-          "start": 311,
-          "end": 313,
-          "span": "雲煙"
-        },
-        {
-          "type": "Thing",
-          "start": 319,
-          "end": 323,
-          "span": "槐根欹枕"
+          "start": 205,
+          "end": 209,
+          "span": "于忠肅祠"
         },
         {
           "type": "LocationName",
-          "start": 335,
-          "end": 337,
-          "span": "京師",
-          "cid": 4342
+          "start": 210,
+          "end": 213,
+          "span": "萬松嶺",
+          "aid": "PL000000011458"
+        },
+        {
+          "type": "LocationName",
+          "start": 214,
+          "end": 217,
+          "span": "慈雲嶺",
+          "aid": "PL000000055959"
+        },
+        {
+          "type": "LocationName",
+          "start": 218,
+          "end": 221,
+          "span": "玉皇山",
+          "aid": "PL000000011368"
+        },
+        {
+          "type": "LocationName",
+          "start": 222,
+          "end": 226,
+          "span": "敷文書院",
+          "aid": "PL000000011432"
+        }
+      ],
+      "sentence": "昭慶寺。錢唐門。寶叔塔。來鳳亭。蟾蜍山。大佛寺。斷橋殘雪。葛嶺。初陽臺。錦帶橋。放鶴亭。平湖秋月。四照亭。聖因寺。孤山。湖心亭。六一泉。西泠橋。湧金門。問水亭。曲院風荷。岳武穆祠。湖山神廟。跨虹橋。東浦橋。玉帶橋。賢王祠。三潭印月。望山橋。蘇堤春曉。柳浪聞鶯。壓隄橋。北高峰。雙峰插雲。九里松。鎖瀾橋。蕉石山。清波門。映波橋。學士港。花港觀魚。雲林寺。雷峰西照。三天竺。南屏曉鐘。淨慈寺。長橋。南高峰。三台峰。于忠肅祠。萬松嶺。慈雲嶺。玉皇山。敷文書院。",
+      "author": ""
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "西湖"
         },
         {
           "type": "PersonName",
-          "start": 340,
-          "end": 342,
-          "span": "徵君",
-          "cid": 34807,
-          "name": "孫奇逢",
+          "start": 5,
+          "end": 7,
+          "span": "西子",
+          "cid": "unknow",
+          "name": "西施",
+          "aid": "A008915"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "夷光"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "湖山"
+        },
+        {
+          "type": "LocationName",
+          "start": 54,
+          "end": 56,
+          "span": "湖山",
+          "aid": "PL000000026405"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 64,
+          "span": "髯翁",
+          "cid": 29754,
+          "name": "錢瑞徵",
+          "aid": "A023570"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 68,
+          "span": "吾"
+        },
+        {
+          "type": "Thing",
+          "start": 97,
+          "end": 99,
+          "span": "西湖"
+        },
+        {
+          "type": "Time",
+          "start": 110,
+          "end": 112,
+          "span": "二月"
+        },
+        {
+          "type": "Thing",
+          "start": 126,
+          "end": 128,
+          "span": "長卷"
+        },
+        {
+          "type": "Thing",
+          "start": 172,
+          "end": 175,
+          "span": "淀池水"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 179,
+          "span": "山"
+        },
+        {
+          "type": "LocationName",
+          "start": 180,
+          "end": 183,
+          "span": "田盤山",
+          "aid": "PL000000000750"
+        },
+        {
+          "type": "Thing",
+          "start": 186,
+          "end": 187,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 198,
+          "end": 200,
+          "span": "明湖"
+        },
+        {
+          "type": "PersonName",
+          "start": 204,
+          "end": 208,
+          "span": "北門學士",
+          "cid": 26626,
+          "name": "范履冰",
           "aid": "unknow"
         },
         {
-          "type": "Thing",
-          "start": 357,
-          "end": 359,
-          "span": "樹木"
-        },
-        {
-          "type": "Person",
-          "start": 363,
-          "end": 365,
-          "span": "唐人"
-        },
-        {
-          "type": "Person",
-          "start": 370,
-          "end": 373,
-          "span": "楊少師"
-        },
-        {
-          "type": "PersonName",
-          "start": 375,
-          "end": 378,
-          "span": "周益公",
-          "cid": "unknow",
-          "name": "周必大",
-          "aid": "A007177"
-        },
-        {
-          "type": "Time",
-          "start": 384,
-          "end": 388,
-          "span": "二十年來"
+          "type": "LocationName",
+          "start": 209,
+          "end": 211,
+          "span": "臨安",
+          "cid": 9683
         },
         {
           "type": "Thing",
-          "start": 401,
-          "end": 403,
-          "span": "舊圃"
-        },
-        {
-          "type": "LocationName",
-          "start": 405,
-          "end": 408,
-          "span": "湖之北",
-          "aid": "PL000000012868",
-          "cid": 5349
-        },
-        {
-          "type": "Thing",
-          "start": 409,
-          "end": 411,
-          "span": "翠竹"
+          "start": 230,
+          "end": 232,
+          "span": "湖山"
         },
         {
           "type": "Time",
-          "start": 427,
-          "end": 430,
-          "span": "甲戌秋"
-        },
-        {
-          "type": "LocationName",
-          "start": 435,
-          "end": 437,
-          "span": "金門",
-          "aid": "PL000000059449",
-          "cid": 2367
-        },
-        {
-          "type": "LocationName",
-          "start": 440,
-          "end": 442,
-          "span": "京師",
-          "cid": 4342
-        },
-        {
-          "type": "Time",
-          "start": 445,
-          "end": 449,
-          "span": "乙亥長夏"
+          "start": 252,
+          "end": 256,
+          "span": "明年春月"
         },
         {
           "type": "Location",
-          "start": 469,
-          "end": 471,
-          "span": "故園"
+          "start": 257,
+          "end": 259,
+          "span": "翠華"
+        },
+        {
+          "type": "Time",
+          "start": 268,
+          "end": 270,
+          "span": "庚午"
+        },
+        {
+          "type": "Time",
+          "start": 271,
+          "end": 284,
+          "span": "西元一七五０年）立夏前二日"
         }
       ],
-      "sentence": "（第一則）神鬐在水不入篊。仙禽在野不受籠。達人泥土視軒冕。林巒剗迹偕洪濛。嵩山徵君巢許蹤。高柯百尺龍門桐。召拜諫官臥不起。草堂僻徑臨巃嵷。巖姿壑籟有神會。自寫不假丹青工。墨痕迥出濃淡外。絕境直與虛無通。手書十志字健勁。藤枝薤葉紛相蒙。在昔右丞妙詩畫。輞川舊本留清風。徵君絕藝亦兼擅。歸田少室將無同。弘農好古愜真賞。跋尾小印蟠絲紅。筆法獨開元祐派。胚渾坡老兼涪翁。開運下迄淳熙代。五閱丁未雲流空。神物不隨陵谷變。以之嗟感益國公。慶元到今復幾世。暗中呵護煩蒼芎。黯然之光久愈大。何啻寶玉瑤晴虹。我在修門昔曾見。愛此疊巘藏王靈瓏。歸田五載親抱甕。拓湖拓地芟蒿蓬。石廊洞戶頗幽雅。十指媿未嫻皴烘。重來那免猨鶴怨。故園清碧孤芳叢。雲煙一卷快入手。槐根欹枕遊高嵩。（第二則）余向在京師。見盧徵君此卷。字法遒緊。其畫巖壑幽邃。樹木古鬱。非唐人不辦。五代楊少師。宋周益公。皆有題識。二十年來。時勞夢想。歸田後。得馮氏舊圃於平湖之北。翠竹蒼柯。清流環匝。亦既足以娛老矣。甲戌秋。蒙召再入金門。仍於京師得之。乙亥長夏。退食閉門。時一臥遊。尚懷高世之蹤。益動故園之念。因為長句。今年請養南歸。歲暮兀坐簡靜齋。偶展此圖。因書舊作於卷尾。",
-      "author": "高士奇"
+      "sentence": "昔傳西湖比西子。但聞其名知其美。夷光千古以上人。豈有真容遺後世。（小字。叶）未見顔色貴耳食。浪以湖山相比擬。湖山有知應不受。髯翁何以答吾語。（小字。叶）吁嗟吾因感世道。臧否雌黃率如此。豈如即景寫西湖。圖繪真形匪近似。歲維二月巡燕晉。留京結撰親承旨。歸來長卷已搆成。儼置餘杭在棐几。十景東西鬪奇列。兩峰南北争雄峙。晴光雨色無不宜。推敲好句難窮是。淀池水富惜無山。田盤山好詘於水。喜其便近每命遊。具美明湖輒遐企。北門學士家臨安。少長六一烟霞裏。既得其秀忘其筌。呼吸湖山傳神髓。此圖豈獨五合妙。絶妙真教抜萃矣。明年春月駐翠華。親印證之究所以。庚午（西元一七五０年）立夏前二日。御題。",
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": 30853,
-      "authoraid": "A012522",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "Location",
+          "type": "Time",
           "start": 0,
-          "end": 2,
-          "span": "江邨"
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 9,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
+          "end": 7,
+          "span": "庚午立夏前二日"
         }
       ],
-      "sentence": "江邨藏用老人高士奇題并書",
-      "author": "高士奇"
+      "sentence": "庚午立夏前二日御題",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

@@ -2,300 +2,48 @@
   "filefroms": "14097.json",
   "sentences": [
     {
-      "authorcid": "unknow",
+      "authorcid": 8013,
       "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
           "start": 0,
           "end": 2,
-          "span": "咸淳"
+          "span": "戊子"
         },
         {
           "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一二六五年"
-        }
-      ],
-      "sentence": "咸淳改元（西元一二六五年）。牧溪。",
-      "author": "牧溪"
-    },
-    {
-      "authorcid": 30328,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
           "start": 3,
-          "end": 5,
-          "span": "法常",
-          "cid": 93905,
-          "name": "釋法常",
-          "aid": "A002382"
-        },
-        {
-          "type": "Person",
-          "start": 8,
-          "end": 10,
-          "span": "牧谿"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 25,
-          "span": "龍虎猿鶴蘆雁山水樹石人物"
-        },
-        {
-          "type": "PersonName",
-          "start": 44,
-          "end": 45,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 49,
-          "end": 57,
-          "span": "花卉蔬菓翎毛巨卷"
-        },
-        {
-          "type": "PersonName",
-          "start": 106,
-          "end": 109,
-          "span": "項元汴",
-          "cid": 30328,
-          "name": "項元汴",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 111,
-          "end": 114,
-          "span": "天籟閣"
-        }
-      ],
-      "sentence": "右宋僧法常。別號牧谿。喜畫龍虎猿鶴蘆雁山水樹石人物。皆隨筆點墨而成。意思簡當。不假妝飾。余僅得墨戲花卉蔬菓翎毛巨卷。其狀物寫生。殆出天巧。不惟肖似形類。併得其意。京（京字待查）愛不忍置。因述其本末。以備參考。墨林項元汴書于天籟閣。",
-      "author": "項元汴"
-    },
-    {
-      "authorcid": 30328,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "項元汴",
-          "cid": 30328,
-          "name": "項元汴",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 7,
-          "end": 10,
-          "span": "天籟閣"
-        }
-      ],
-      "sentence": "墨林項元汴書于天籟閣",
-      "author": "項元汴"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "筆尖"
-        },
-        {
-          "type": "Location",
-          "start": 13,
-          "end": 15,
-          "span": "那邊"
-        },
-        {
-          "type": "Thing",
-          "start": 15,
-          "end": 19,
-          "span": "鳥鵲花卉"
-        },
-        {
-          "type": "Person",
-          "start": 20,
-          "end": 22,
-          "span": "看者"
-        },
-        {
-          "type": "LocationName",
-          "start": 35,
-          "end": 37,
-          "span": "徑山",
-          "aid": "PL000000011772"
-        }
-      ],
-      "sentence": "這僧筆尖上具眼。流出威音。那邊鳥鵲花卉。看者莫作眼見。亦不離眼。思之。徑山千指菴圓信。",
-      "author": "僧圓信"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "徑山",
-          "aid": "PL000000011772"
-        }
-      ],
-      "sentence": "徑山千指菴圓信",
-      "author": "僧圓信"
-    },
-    {
-      "authorcid": 84775,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 0,
-          "end": 4,
-          "span": "宋僧牧谿"
-        },
-        {
-          "type": "Thing",
-          "start": 14,
-          "end": 16,
-          "span": "花卉"
-        },
-        {
-          "type": "Thing",
-          "start": 48,
-          "end": 49,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 50,
-          "end": 51,
-          "span": "葉"
-        },
-        {
-          "type": "Thing",
-          "start": 79,
-          "end": 83,
-          "span": "幽禽翠羽"
-        },
-        {
-          "type": "Person",
-          "start": 95,
-          "end": 97,
-          "span": "觀者"
-        },
-        {
-          "type": "LocationName",
-          "start": 150,
-          "end": 152,
-          "span": "湖山",
-          "aid": "PL000000026405"
-        },
-        {
-          "type": "Person",
-          "start": 165,
-          "end": 167,
-          "span": "名流"
+          "end": 11,
+          "span": "西元一六四八年）"
         },
         {
           "type": "Time",
-          "start": 174,
-          "end": 176,
-          "span": "明時"
-        },
-        {
-          "type": "PersonName",
-          "start": 180,
-          "end": 182,
-          "span": "包山",
-          "cid": 130737,
-          "name": "陸治",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 184,
-          "end": 186,
-          "span": "花卉"
-        },
-        {
-          "type": "Person",
-          "start": 199,
-          "end": 201,
-          "span": "二公"
-        },
-        {
-          "type": "Location",
-          "start": 214,
-          "end": 217,
-          "span": "沈石田"
-        },
-        {
-          "type": "Thing",
-          "start": 217,
-          "end": 219,
-          "span": "花鳥"
-        },
-        {
-          "type": "Thing",
-          "start": 236,
-          "end": 238,
-          "span": "此卷"
-        },
-        {
-          "type": "Time",
-          "start": 262,
-          "end": 268,
-          "span": "康熙癸酉上巳"
-        },
-        {
-          "type": "PersonName",
-          "start": 272,
-          "end": 275,
-          "span": "查士標",
-          "cid": 84775,
-          "name": "查士標",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "宋僧牧谿。畫兼眾妙。而尤長於花卉寫生。觀畫史所載。稱其點墨而成。不假妝飾。尚未足盡牧谿也。卷中一花一葉。一蓏一實。皆極精緻。有天然運用之妙。無刻畫拘板之勞。而幽禽翠羽。動息飛鳴。曲肖其態。令觀者心曠神怡。對之忘倦。宜項墨林氏珍為甲品。題跋讚歎。若不容口。蓋南渡而後。高孝累朝。篤重翰墨。一時人物熙雍。湖山引勝。風氣興起。即方外亦多名流。負技爭長焉。明時王酉室陸包山皆以花卉寫生。為世所重。今觀此卷。二公俱寢食牧溪。深得其意者。至沈石田花鳥。點染又能出新意於諸家町畦之外。視此卷在離合之間。而工緻差不逮矣。獲觀累日。因識其後。康熙癸酉上巳白岳逋客查士標。",
-      "author": "查士標"
-    },
-    {
-      "authorcid": 84775,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "康熙癸酉上巳"
-        },
-        {
-          "type": "PersonName",
-          "start": 10,
+          "start": 11,
           "end": 13,
-          "span": "查士標",
-          "cid": 84775,
-          "name": "查士標",
+          "span": "春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "田翁",
+          "cid": 128246,
+          "name": "吳勤",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "張宏",
+          "cid": 8013,
+          "name": "張宏",
           "aid": "unknow"
         }
       ],
-      "sentence": "康熙癸酉上巳白岳逋客查士標",
-      "author": "查士標"
+      "sentence": "戊子（西元一六四八年）春日倣石田翁法。張宏。",
+      "author": "張宏"
     }
   ]
 }

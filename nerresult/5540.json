@@ -2,72 +2,27 @@
   "filefroms": "5540.json",
   "sentences": [
     {
-      "authorcid": 57333,
+      "authorcid": 59688,
       "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
-          "start": 2,
-          "end": 7,
-          "span": "壽平十香圖"
+          "start": 0,
+          "end": 4,
+          "span": "萬星漁火"
         },
         {
           "type": "PersonName",
-          "start": 9,
-          "end": 12,
-          "span": "鄒一桂",
-          "cid": 57333,
-          "name": "鄒一桂",
+          "start": 6,
+          "end": 9,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
           "aid": "unknow"
         }
       ],
-      "sentence": "倣惲壽平十香圖。臣鄒一桂。",
-      "author": "鄒一桂"
-    },
-    {
-      "authorcid": 57333,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 4,
-          "span": "鄒一桂",
-          "cid": 57333,
-          "name": "鄒一桂",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "臣鄒一桂",
-      "author": "鄒一桂"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 1,
-          "end": 5,
-          "span": "乾隆甲寅"
-        }
-      ],
-      "sentence": "（乾隆甲寅御題。詩文十則不錄。）",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "甲寅新秋"
-        }
-      ],
-      "sentence": "甲寅新秋御題",
-      "author": "愛新覺羅弘曆"
+      "sentence": "萬星漁火。臣吳應枚。",
+      "author": "吳應枚"
     }
   ]
 }

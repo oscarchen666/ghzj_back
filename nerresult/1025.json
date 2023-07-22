@@ -2,350 +2,57 @@
   "filefroms": "1025.json",
   "sentences": [
     {
-      "authorcid": 17690,
-      "authoraid": "A004030",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "至大三年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一三一０年"
-        },
-        {
-          "type": "Time",
-          "start": 13,
-          "end": 16,
-          "span": "秋九月"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
-          "end": 23,
-          "span": "趙孟頫",
-          "cid": 17690,
-          "name": "趙孟頫",
-          "aid": "A004030"
-        }
-      ],
-      "sentence": "至大三年（西元一三一０年）秋九月望。吳興趙孟頫畫。",
-      "author": "趙孟頫"
-    },
-    {
-      "authorcid": 107703,
-      "authoraid": "A044180",
+      "authorcid": 33891,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "二龍"
+          "start": 2,
+          "end": 4,
+          "span": "白髮"
         },
         {
-          "type": "Location",
+          "type": "Metric",
+          "start": 4,
+          "end": 7,
+          "span": "三千丈"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "清風"
+        },
+        {
+          "type": "Metric",
           "start": 12,
           "end": 15,
-          "span": "渥洼池"
-        },
-        {
-          "type": "PersonName",
-          "start": 16,
-          "end": 18,
-          "span": "將軍",
-          "cid": "unknow",
-          "name": "蒙山道明",
-          "aid": "A010081"
-        },
-        {
-          "type": "Location",
-          "start": 29,
-          "end": 31,
-          "span": "赤墀"
-        },
-        {
-          "type": "PersonName",
-          "start": 33,
-          "end": 35,
-          "span": "□□",
-          "cid": 113278,
-          "name": "釋淨澄",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "瘦骨稜嶒不自持。二龍曾產渥洼池。將軍莫惜功名悞。尤記牽來向赤墀。蘆□□人。",
-      "author": "貫雲石"
-    },
-    {
-      "authorcid": 107703,
-      "authoraid": "A044180",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "□□",
-          "cid": 113278,
-          "name": "釋淨澄",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "蘆□□人",
-      "author": "貫雲石"
-    },
-    {
-      "authorcid": 47937,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "雙驥"
-        },
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 6,
-          "span": "老樹"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "沙塵"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "春草"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 26,
-          "span": "巫馬"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 37,
-          "span": "陳恕可",
-          "cid": 47937,
-          "name": "陳恕可",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "雙驥虺隤老樹濱。垂騣宛頸臥沙塵。不將畫骨孤春草。巫馬能攻相有歅。臨海陳恕可。",
-      "author": "陳恕可"
-    },
-    {
-      "authorcid": 47937,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "臨海",
-          "cid": 18366
-        },
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "陳恕可",
-          "cid": 47937,
-          "name": "陳恕可",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "臨海陳恕可",
-      "author": "陳恕可"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 16,
-          "end": 18,
-          "span": "孫陽",
-          "cid": 516519,
-          "name": "孫陽",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 35,
-          "end": 37,
-          "span": "宗文",
-          "cid": 286077,
-          "name": "宗文",
-          "aid": "A000567"
-        }
-      ],
-      "sentence": "瘦骨非緣乏駿才。奈何踪跡久塵埃。孫陽他日如相見。莫作尋常欵段猜。醉漁夏宗文。",
-      "author": "夏宗文"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "宗文",
-          "cid": 286077,
-          "name": "宗文",
-          "aid": "A000567"
-        }
-      ],
-      "sentence": "醉漁夏宗文",
-      "author": "夏宗文"
-    },
-    {
-      "authorcid": 18007,
-      "authoraid": "A043964",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "東郊"
-        },
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "瘦馬"
+          "span": "五百竿"
         },
         {
           "type": "Person",
-          "start": 5,
-          "end": 6,
-          "span": "我"
+          "start": 18,
+          "end": 20,
+          "span": "穎奴"
         },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "骨骼"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "堵牆"
-        },
-        {
-          "type": "Thing",
-          "start": 48,
-          "end": 50,
-          "span": "皮乾"
-        },
-        {
-          "type": "Thing",
-          "start": 52,
-          "end": 55,
-          "span": "雜泥滓"
-        },
-        {
-          "type": "Thing",
-          "start": 61,
-          "end": 63,
-          "span": "雪霜"
-        },
-        {
-          "type": "Time",
-          "start": 64,
-          "end": 66,
-          "span": "去歲"
-        },
-        {
-          "type": "Person",
-          "start": 80,
-          "end": 82,
-          "span": "士卒"
-        },
-        {
-          "type": "Thing",
-          "start": 84,
-          "end": 87,
-          "span": "內廄馬"
-        },
-        {
-          "type": "PersonName",
-          "start": 113,
-          "end": 114,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 132,
-          "end": 133,
-          "span": "雁"
-        },
-        {
-          "type": "Thing",
-          "start": 140,
-          "end": 141,
-          "span": "鳥"
-        },
-        {
-          "type": "Time",
-          "start": 159,
-          "end": 161,
-          "span": "明年"
-        },
-        {
-          "type": "Thing",
-          "start": 162,
-          "end": 163,
-          "span": "草"
-        },
-        {
-          "type": "Thing",
-          "start": 169,
-          "end": 171,
-          "span": "瘦馬"
-        }
-      ],
-      "sentence": "東郊瘦馬使我傷。骨骼硉兀如堵牆。絆之不動轉欹側。此豈有意仍騰驤。細看六印帶官字。眾道三軍遺路傍。皮乾剝落雜泥滓。毛闇蕭條連雪霜。去歲奔波逐餘寇。驊騮不慣不得將。士卒多騎內廄馬。惆悵恐是瘦乘黃。當時歷塊誤一蹶。委棄非汝能周防。見人慘澹若哀訴。失主錯莫無晶光。天寒遠放雁為伴。日暮不收鳥啄創。誰家願（點去）且養願終惠。更試明年春草長。右杜工部瘦馬行。番昜吳善養浩書。",
-      "author": "吳善"
-    },
-    {
-      "authorcid": 18007,
-      "authoraid": "A043964",
-      "output": [
         {
           "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "番陽"
+          "start": 26,
+          "end": 28,
+          "span": "几上"
         },
         {
           "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "吳善",
-          "cid": 18007,
-          "name": "吳善",
-          "aid": "A043964"
+          "start": 32,
+          "end": 34,
+          "span": "仲圭",
+          "cid": 33891,
+          "name": "吳鎮",
+          "aid": "unknow"
         }
       ],
-      "sentence": "番陽吳善養浩書",
-      "author": "吳善"
+      "sentence": "秋來白髮三千丈。戲寫清風五百竿。幸有穎奴知此意。時來几上弄清寒。仲圭老人。",
+      "author": "吳鎮"
     }
   ]
 }

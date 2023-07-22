@@ -2,465 +2,199 @@
   "filefroms": "5388.json",
   "sentences": [
     {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 17,
-          "end": 19,
-          "span": "趙衷",
-          "cid": 110390,
-          "name": "趙衷",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "（畫中分段書蘭亭詩。自書和句。并署趙衷次韻四字。凡十三段。楷書文不錄。）",
-      "author": "趙原初"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "永和九年"
-        },
-        {
-          "type": "Time",
-          "start": 7,
-          "end": 9,
-          "span": "癸丑"
-        },
-        {
-          "type": "Time",
-          "start": 10,
-          "end": 14,
-          "span": "暮春之初"
-        },
-        {
-          "type": "LocationName",
-          "start": 18,
-          "end": 21,
-          "span": "稽山陰",
-          "cid": 18348,
-          "aid": "PL000000013158"
-        },
-        {
-          "type": "Location",
-          "start": 22,
-          "end": 24,
-          "span": "蘭亭"
-        },
-        {
-          "type": "Person",
-          "start": 30,
-          "end": 32,
-          "span": "群賢"
-        },
-        {
-          "type": "Location",
-          "start": 40,
-          "end": 42,
-          "span": "此地"
-        },
-        {
-          "type": "Thing",
-          "start": 43,
-          "end": 47,
-          "span": "崇山峻嶺"
-        },
-        {
-          "type": "Thing",
-          "start": 48,
-          "end": 52,
-          "span": "茂林脩竹"
-        },
-        {
-          "type": "Thing",
-          "start": 68,
-          "end": 72,
-          "span": "流觴曲水"
-        },
-        {
-          "type": "Thing",
-          "start": 80,
-          "end": 84,
-          "span": "絲竹管絃"
-        },
-        {
-          "type": "Person",
-          "start": 148,
-          "end": 150,
-          "span": "夫人"
-        },
-        {
-          "type": "Person",
-          "start": 272,
-          "end": 274,
-          "span": "古人"
-        },
-        {
-          "type": "Person",
-          "start": 289,
-          "end": 291,
-          "span": "昔人"
-        },
-        {
-          "type": "Person",
-          "start": 351,
-          "end": 353,
-          "span": "時人"
-        }
-      ],
-      "sentence": "永和九年。歲在癸丑。暮春之初。會于會稽山陰之蘭亭。修褉事也。群賢畢至。少長咸集。此地有崇山峻嶺。茂林脩竹。又有清流激湍。暎帶左右。引以為流觴曲水。列坐其次。雖無絲竹管絃之盛。一觴一詠。亦足以暢敘幽情。是日也。天朗氣清。惠風和暢。仰觀宇宙之大。俯察品類之盛。所以遊目騁懷。足以極視聽之娛。信可樂也。夫人之相與俯仰一世。或取諸懐抱。悟言一室之内。或因寄所託。放浪形骸之外。雖趣舍萬殊。靜躁不同。當其欣於所遇。暫得於己。怏然自足。不知老之將至。及其所之既惓。情隨事遷。感慨係之矣。向之所欣。俛仰之間。以為陳迹。猶不能不以之興懷。况脩短隨化。終期於盡。古人云。死生亦大矣。豈不痛哉。毎攬昔人興感之由。若合一契。未嘗不臨文嗟悼。不能喻之於懷。固知一死生為虛誕。齊彭殤為妄作。後之視今。亦由今之視昔□。悲夫。故列叙時人。錄其所述。雖世殊事異。所以興懷其致一也。後之攬者。亦將有感於斯文。",
-      "author": "趙原初"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 5,
-          "span": "蘭亭觴詠圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 11,
-          "end": 13,
-          "span": "晉賢",
-          "cid": 404344,
-          "name": "晉賢",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 23,
-          "end": 25,
-          "span": "君臣",
-          "cid": 553607,
-          "name": "姜弘立",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 53,
-          "end": 55,
-          "span": "諸子"
-        },
-        {
-          "type": "PersonName",
-          "start": 70,
-          "end": 72,
-          "span": "永哥",
-          "cid": 50372,
-          "name": "趙必?",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 104,
-          "end": 107,
-          "span": "親黨同"
-        },
-        {
-          "type": "Person",
-          "start": 119,
-          "end": 121,
-          "span": "父子"
-        },
-        {
-          "type": "Person",
-          "start": 124,
-          "end": 128,
-          "span": "古人父子"
-        },
-        {
-          "type": "PersonName",
-          "start": 155,
-          "end": 159,
-          "span": "龍眠居士",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "Person",
-          "start": 177,
-          "end": 178,
-          "span": "父"
-        },
-        {
-          "type": "Person",
-          "start": 216,
-          "end": 218,
-          "span": "古人"
-        },
-        {
-          "type": "Person",
-          "start": 263,
-          "end": 265,
-          "span": "諸賢"
-        },
-        {
-          "type": "PersonName",
-          "start": 289,
-          "end": 291,
-          "span": "趙衷",
-          "cid": 110390,
-          "name": "趙衷",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "蘭亭觴詠圖。（隷書）。晉賢遊燕。雖尚清虛。而其君臣父子之道。初未嘗廢。世以獻之不賦詩。固有高論。余以獻之在諸子之末。趨承父命。惟恐不及。雖有永哥之懷。豈暇形之於詞翰。而實有所未敢也。況賡倡迭和之道。可以施之於親黨同志之文雅者。而不可施之於父子之間。古人父子不同席。誠斯理也。天理民彝。又豈可以斯須而泯絕哉。余臨龍眠居士觴永圖。約縮為小卷者。故以獻之侍立於父之側。尤見其雍容閒雅之氣象。則又優於高坐之趣深矣。觀此卷者。毋以余臨摹繆戾於古人。但以余言想像昔賢遊燕之所為。自當有得於獻之不賦詩之深意矣。余既臨觴永圖。蘭亭序。又以所和諸賢之詩錄于上。庶以寄千載之遐思焉。并書鄙言以為序。趙衷原初書。",
-      "author": "趙原初"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
+      "authorcid": 16227,
+      "authoraid": "A041551",
       "output": [
         {
           "type": "PersonName",
           "start": 2,
           "end": 4,
-          "span": "野人",
-          "cid": 78598,
-          "name": "吳嘉紀",
+          "span": "錢選",
+          "cid": 16227,
+          "name": "錢選",
+          "aid": "A041551"
+        }
+      ],
+      "sentence": "霅谿錢選畫",
+      "author": "錢選"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 6,
+          "span": "旅貢獒圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "錢舜舉",
+          "cid": 429657,
+          "name": "錢舜舉",
           "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "趙衷",
-          "cid": 110390,
-          "name": "趙衷",
+          "start": 16,
+          "end": 18,
+          "span": "武王",
+          "cid": "unknow",
+          "name": "禿髮烏孤",
+          "aid": "A006560"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "太保",
+          "cid": "unknow",
+          "name": "周寶",
+          "aid": "A010572"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "旅獒"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 46,
+          "span": "武王",
+          "cid": "unknow",
+          "name": "禿髮烏孤",
+          "aid": "A006560"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "此圖"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "獒犬"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 62,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 67,
+          "end": 69,
+          "span": "四尺"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "獒"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 76,
+          "span": "獅"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "首尾"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 88,
+          "span": "使者"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 91,
+          "span": "八人"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "前者"
+        },
+        {
+          "type": "Person",
+          "start": 102,
+          "end": 104,
+          "span": "王者"
+        },
+        {
+          "type": "Person",
+          "start": 105,
+          "end": 108,
+          "span": "餘七人"
+        },
+        {
+          "type": "PersonName",
+          "start": 115,
+          "end": 117,
+          "span": "舜舉",
+          "cid": 35513,
+          "name": "吳皋",
           "aid": "unknow"
         },
         {
           "type": "Person",
-          "start": 19,
-          "end": 21,
-          "span": "群賢"
+          "start": 126,
+          "end": 128,
+          "span": "閻立"
         },
         {
-          "type": "Time",
-          "start": 25,
-          "end": 28,
-          "span": "正甲辰"
+          "type": "Thing",
+          "start": 130,
+          "end": 133,
+          "span": "貢獒圖"
         },
         {
-          "type": "Time",
-          "start": 29,
-          "end": 42,
-          "span": "西元一三六四年）九月初二日"
+          "type": "PersonName",
+          "start": 146,
+          "end": 148,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
         }
       ],
-      "sentence": "東吳野人。趙衷原初臨觴咏圖蘭亭敘。并和群賢詩。時至正甲辰（西元一三六四年）九月初二日識。",
-      "author": "趙原初"
+      "sentence": "右西旅貢獒圖。乃霅川錢舜舉作。昔武王克商。遂通道于九夷八蠻。西旅貢厥獒太保乃作旅獒。用訓武王。此圖蓋出於是。按獒犬類。能知人意。爾雅謂四尺為獒。今所畫獅青色。而首尾則犬類。使者共八人。其前者特偉麗。被服類王者。餘七人各有所執。不知舜舉何所本作。按古云。閻立本有貢獒圖。神妙莫比。豈其源流者歟。俞和。",
+      "author": "俞和"
     },
     {
-      "authorcid": "unknow",
+      "authorcid": 104511,
       "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
           "end": 2,
-          "span": "蘭亭",
-          "cid": 63778,
-          "name": "韓鑅",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 16,
-          "end": 18,
-          "span": "後人"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 28,
-          "span": "文物衣冠"
-        },
-        {
-          "type": "Person",
-          "start": 32,
-          "end": 33,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 52,
-          "end": 55,
-          "span": "河南筆"
-        },
-        {
-          "type": "PersonName",
-          "start": 64,
-          "end": 66,
-          "span": "晉賢",
-          "cid": 404344,
-          "name": "晉賢",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 72,
-          "end": 73,
-          "span": "我"
-        },
-        {
-          "type": "Time",
-          "start": 114,
-          "end": 116,
-          "span": "清朝"
-        },
-        {
-          "type": "Person",
-          "start": 121,
-          "end": 122,
-          "span": "我"
-        },
-        {
-          "type": "LocationName",
-          "start": 133,
-          "end": 135,
-          "span": "江浦",
-          "cid": 4548
-        },
-        {
-          "type": "Thing",
-          "start": 136,
-          "end": 138,
-          "span": "木葉"
-        },
-        {
-          "type": "Location",
-          "start": 141,
-          "end": 143,
-          "span": "庭戶"
-        },
-        {
-          "type": "Thing",
-          "start": 145,
-          "end": 148,
-          "span": "門卷書"
-        },
-        {
-          "type": "Thing",
-          "start": 150,
-          "end": 151,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 160,
-          "end": 162,
-          "span": "鳳凰"
-        },
-        {
-          "type": "Thing",
-          "start": 165,
-          "end": 167,
-          "span": "朝陽"
-        },
-        {
-          "type": "Thing",
-          "start": 168,
-          "end": 170,
-          "span": "梧桐"
-        },
-        {
-          "type": "Location",
-          "start": 173,
-          "end": 175,
-          "span": "高岡"
-        },
-        {
-          "type": "Thing",
-          "start": 186,
-          "end": 188,
-          "span": "落日"
-        },
-        {
-          "type": "Time",
-          "start": 192,
-          "end": 194,
-          "span": "十年"
-        },
-        {
-          "type": "Location",
-          "start": 197,
-          "end": 199,
-          "span": "林野"
-        },
-        {
-          "type": "Person",
-          "start": 221,
-          "end": 223,
-          "span": "來者"
-        },
-        {
-          "type": "PersonName",
-          "start": 228,
-          "end": 230,
-          "span": "趙衷",
-          "cid": 110390,
-          "name": "趙衷",
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
           "aid": "unknow"
         }
       ],
-      "sentence": "蘭亭群賢不復作。山川清氣歸寥廓。後人圖畫想像之。文物衣冠儼如昨。我和五言慕晉風。繪事亦倣龍眠公。摹書豈逮河南筆。聊以規矩求其同。晉賢清虛實高邁。我愛風神本儒雅。此身如欲與之俱。觀圖哦詩特蕭灑。當時盛事亦偶然。豈意千載相流傳。乃知清朝所涵養。使我感慨懷昔賢。驚颷颯颯動江浦。木葉紛飛滿庭戶。閉門卷書淨如水。宴坐尸居守環堵。鳳凰和鳴在朝陽。梧桐生息依高岡。臨風浩歌發長嘯。回首落日天蒼茫。十年韜光在林野。文章翰墨消閑暇。儘將情興寫新圖。更為題詩寄來者。東吳野人趙衷原初并題。",
-      "author": "趙原初"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "山陰",
-          "cid": 18348
-        }
-      ],
-      "sentence": "山陰勝趣。御筆。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "御筆"
-        }
-      ],
-      "sentence": "御筆",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 7,
-          "span": "蘭亭圖"
-        }
-      ],
-      "sentence": "明趙原初蘭亭圖",
-      "author": "愛新覺羅弘曆"
+      "sentence": "俞和",
+      "author": "俞和"
     }
   ]
 }

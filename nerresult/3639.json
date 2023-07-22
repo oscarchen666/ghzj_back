@@ -2,441 +2,272 @@
   "filefroms": "3639.json",
   "sentences": [
     {
-      "authorcid": 65886,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 7,
-          "span": "夏山烟雨圖"
-        },
-        {
-          "type": "Time",
-          "start": 10,
-          "end": 12,
-          "span": "癸亥"
-        },
-        {
-          "type": "Time",
-          "start": 13,
-          "end": 20,
-          "span": "西元一六八三年"
-        },
-        {
-          "type": "Time",
-          "start": 22,
-          "end": 24,
-          "span": "小春"
-        },
-        {
-          "type": "PersonName",
-          "start": 28,
-          "end": 30,
-          "span": "谷王",
-          "cid": 67359,
-          "name": "朱橞",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "巨然夏山烟雨圖。歲次癸亥（西元一六八三年）。小春既望。石谷王翬。",
-      "author": "王翬"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 1,
-          "span": "日"
-        },
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 3,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 5,
-          "span": "雨"
-        },
-        {
-          "type": "Location",
-          "start": 8,
-          "end": 12,
-          "span": "水岸沙洲"
-        },
-        {
-          "type": "Thing",
-          "start": 12,
-          "end": 14,
-          "span": "白鷺"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "山泉"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "松澗"
-        },
-        {
-          "type": "Location",
-          "start": 26,
-          "end": 28,
-          "span": "廬舍"
-        },
-        {
-          "type": "Time",
-          "start": 32,
-          "end": 38,
-          "span": "康熙辛未夏五"
-        },
-        {
-          "type": "PersonName",
-          "start": 42,
-          "end": 45,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
-        }
-      ],
-      "sentence": "日沉雲起雨霏微。水岸沙洲白鷺飛。更愛山泉響松澗。輸他廬舍翠烟圍。康熙辛未夏五。抱甕翁高士奇題并書。",
-      "author": "高士奇"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
+      "authorcid": 17690,
+      "authoraid": "A004030",
       "output": [
         {
           "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "康熙辛未夏五"
-        },
-        {
-          "type": "PersonName",
-          "start": 10,
-          "end": 13,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
-        }
-      ],
-      "sentence": "康熙辛未夏五。抱甕翁高士奇題并書。",
-      "author": "高士奇"
-    },
-    {
-      "authorcid": 30399,
-      "authoraid": "A016731",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "綠樹"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "野亭"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 37,
-          "span": "徐乾學",
-          "cid": 30399,
-          "name": "徐乾學",
-          "aid": "A016731"
-        },
-        {
-          "type": "LocationName",
-          "start": 40,
-          "end": 43,
-          "span": "溪草堂",
-          "aid": "PL000000011645"
-        }
-      ],
-      "sentence": "繞山雲氣玉層層。綠樹濃陰覆野亭。恰似若耶溪上路。數峰秋色雨餘青。崑山徐乾學題於花溪草堂。",
-      "author": "徐乾學"
-    },
-    {
-      "authorcid": 30399,
-      "authoraid": "A016731",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "崑山",
-          "aid": "PL000000010176",
-          "cid": 4596
-        },
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "徐乾學",
-          "cid": 30399,
-          "name": "徐乾學",
-          "aid": "A016731"
-        },
-        {
-          "type": "LocationName",
-          "start": 8,
-          "end": 11,
-          "span": "溪草堂",
-          "aid": "PL000000011645"
-        }
-      ],
-      "sentence": "崑山徐乾學題於花溪草堂",
-      "author": "徐乾學"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 12,
-          "span": "萬山煙霧"
-        },
-        {
-          "type": "PersonName",
-          "start": 17,
-          "end": 18,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 21,
-          "end": 22,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "畫師",
-          "cid": "unknow",
-          "name": "皎然",
-          "aid": "A008833"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 44,
-          "span": "山水"
-        },
-        {
-          "type": "Thing",
-          "start": 46,
-          "end": 47,
-          "span": "紙"
-        },
-        {
-          "type": "PersonName",
-          "start": 65,
-          "end": 67,
-          "span": "山人",
-          "cid": 132499,
-          "name": "鄧儀",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "雨勢欲來來不已。萬山煙霧迷離起。爽人心目動人思。憶得昔時曾樂此。不信畫師心手神。靈奇山水一幅紙。炎熱場中應速來。抱一齋頭清涼世。弗山人氏題并書。",
-      "author": "弗山人氏"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "山人",
-          "cid": 132499,
-          "name": "鄧儀",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "弗山人氏題并書",
-      "author": "弗山人氏"
-    },
-    {
-      "authorcid": 55122,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "墨雨"
-        },
-        {
-          "type": "Thing",
-          "start": 11,
-          "end": 12,
-          "span": "山"
-        },
-        {
-          "type": "Person",
-          "start": 17,
-          "end": 18,
-          "span": "他"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "雲霧"
-        },
-        {
-          "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "神龍"
-        },
-        {
-          "type": "Location",
-          "start": 29,
-          "end": 31,
-          "span": "墨池"
-        },
-        {
-          "type": "PersonName",
-          "start": 33,
-          "end": 37,
-          "span": "烏目山人",
-          "cid": 65886,
-          "name": "王翬",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 37,
-          "end": 39,
-          "span": "石谷"
-        },
-        {
-          "type": "Thing",
-          "start": 39,
-          "end": 43,
-          "span": "夏山長卷"
-        },
-        {
-          "type": "PersonName",
-          "start": 55,
-          "end": 57,
-          "span": "巨公",
-          "cid": 72208,
-          "name": "王履源",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 61,
-          "end": 66,
-          "span": "乙丑夏四月"
-        },
-        {
-          "type": "LocationName",
-          "start": 70,
-          "end": 73,
-          "span": "烟草堂",
-          "aid": "PL000000011645"
-        },
-        {
-          "type": "PersonName",
-          "start": 79,
-          "end": 81,
-          "span": "壽平",
-          "cid": 55122,
-          "name": "惲壽平",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "橫空墨雨正淋漓。何處移山竟不知。怪他几案生雲霧。應有神龍起墨池。觀烏目山人石谷夏山長卷。沈渾蒼莽。靈氣森然。如巨公再來也。乙丑夏四月。觀於耕烟草堂。因題。南田壽平。",
-      "author": "惲壽平"
-    },
-    {
-      "authorcid": 55122,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 5,
-          "span": "乙丑夏四月"
-        },
-        {
-          "type": "LocationName",
-          "start": 9,
-          "end": 12,
-          "span": "烟草堂",
-          "aid": "PL000000011645"
-        },
-        {
-          "type": "PersonName",
-          "start": 18,
-          "end": 20,
-          "span": "壽平",
-          "cid": 55122,
-          "name": "惲壽平",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "乙丑夏四月。觀於耕烟草堂。因題。南田壽平。",
-      "author": "惲壽平"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
           "start": 0,
           "end": 4,
-          "span": "夏山煙雨"
+          "span": "大德辛丑"
         },
         {
           "type": "Time",
-          "start": 10,
-          "end": 14,
-          "span": "辛未中夏"
+          "start": 5,
+          "end": 16,
+          "span": "西元一三０一年）十一月"
         },
         {
           "type": "PersonName",
           "start": 17,
           "end": 19,
-          "span": "迂叟",
-          "cid": 1488,
-          "name": "司馬光",
-          "aid": "A012732"
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
         }
       ],
-      "sentence": "夏山煙雨。（篆書）。辛未中夏。姚江迂叟史章。（行書）。",
-      "author": "史章"
+      "sentence": "大德辛丑（西元一三０一年）十一月。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "柳條"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "東風"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "水荇"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "蒲葉"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "芳草"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "綵霞"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "小橋"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "鳥"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 60,
+          "span": "門"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "落花"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "山中"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "瑤草"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "山花"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 87,
+          "span": "溪水"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 92,
+          "span": "白雲"
+        },
+        {
+          "type": "Location",
+          "start": 104,
+          "end": 106,
+          "span": "重樓"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "松蘿"
+        },
+        {
+          "type": "Person",
+          "start": 122,
+          "end": 123,
+          "span": "誰"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 130,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "柳條搖綠東風軟。水荇初香蒲葉短。千巖萬壑媚春光。芳草芊芊白雲暖。花氣瞳矓合綵霞。小橋西去是誰家。紅塵不到鳥聲寂。童子開門掃落花。山中雨晴瑤草長。山花無數春風香。青山倒景入溪水。一片白雲浮素光。東崦曈曈上初旭。重樓半壁煙光綠。欲挽松蘿招隱淪。不知誰和江南曲。阿瑛。",
+      "author": "瑛寶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "阿瑛",
+      "author": "瑛寶"
+    },
+    {
+      "authorcid": 107605,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "南屏"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 13,
+          "span": "至正壬辰孟春"
+        },
+        {
+          "type": "LocationName",
+          "start": 13,
+          "end": 15,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "南屏快雪齋觀。至正壬辰孟春吳興莫昌。",
+      "author": "莫昌"
+    },
+    {
+      "authorcid": 107605,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正壬辰孟春"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "至正壬辰孟春吳興莫昌",
+      "author": "莫昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "國書"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 49,
+          "span": "至正壬午九月"
+        },
+        {
+          "type": "Person",
+          "start": 51,
+          "end": 53,
+          "span": "男雍"
+        }
+      ],
+      "sentence": "先魏國書既超妙入神。作畫尤有高韻。蓋緣胸次磊落。丘壑自具。登臨俯仰。興至而筆亦隨之也。至正壬午九月望。男雍百拜堇識。",
+      "author": ""
     },
     {
       "authorcid": "unknow",
@@ -445,21 +276,18 @@
         {
           "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "辛未中夏"
+          "end": 6,
+          "span": "至正壬午九月"
         },
         {
-          "type": "PersonName",
-          "start": 7,
-          "end": 9,
-          "span": "迂叟",
-          "cid": 1488,
-          "name": "司馬光",
-          "aid": "A012732"
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "男雍"
         }
       ],
-      "sentence": "辛未中夏。姚江迂叟史章。（行書）。",
-      "author": "史章"
+      "sentence": "至正壬午九月望。男雍百拜堇識。",
+      "author": ""
     }
   ]
 }

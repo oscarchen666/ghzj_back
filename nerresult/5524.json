@@ -2,201 +2,26 @@
   "filefroms": "5524.json",
   "sentences": [
     {
-      "authorcid": 65886,
+      "authorcid": 133136,
       "authoraid": "unknow",
       "output": [
         {
           "type": "LocationName",
           "start": 0,
           "end": 2,
-          "span": "山陰",
-          "cid": 18348
+          "span": "彭城",
+          "aid": "PL000000009494",
+          "cid": 3425
         },
         {
-          "type": "Thing",
-          "start": 3,
-          "end": 4,
-          "span": "雪"
-        },
-        {
-          "type": "Time",
-          "start": 12,
-          "end": 14,
-          "span": "辛亥"
-        },
-        {
-          "type": "Time",
-          "start": 15,
-          "end": 25,
-          "span": "西元一六七一年）冬日"
-        },
-        {
-          "type": "LocationName",
-          "start": 26,
-          "end": 29,
-          "span": "烏目山",
-          "aid": "PL000000010125"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "王翬",
-          "cid": 65886,
-          "name": "王翬",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 37,
-          "end": 39,
-          "span": "右丞",
-          "cid": 64695,
-          "name": "洪良品",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "山陰霽雪。（隸書）。歲次辛亥（西元一六七一年）冬日。烏目山中人石谷子王翬仿右丞筆。（楷書）。",
-      "author": "王翬"
-    },
-    {
-      "authorcid": 30651,
-      "authoraid": "A045321",
-      "output": [
-        {
-          "type": "Location",
+          "type": "Person",
           "start": 2,
           "end": 4,
-          "span": "深山"
-        },
-        {
-          "type": "Thing",
-          "start": 11,
-          "end": 12,
-          "span": "雪"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
-          "end": 22,
-          "span": "王維",
-          "cid": 20100,
-          "name": "王維",
-          "aid": "A004031"
-        },
-        {
-          "type": "Person",
-          "start": 25,
-          "end": 26,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "雙眸"
-        },
-        {
-          "type": "Location",
-          "start": 29,
-          "end": 31,
-          "span": "鬱岡"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "石谷",
-          "cid": 65886,
-          "name": "王翬",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 39,
-          "end": 44,
-          "span": "山陰雪霽圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 49,
-          "end": 51,
-          "span": "楊氏",
-          "cid": 121708,
-          "name": "楊氏",
-          "aid": "A011906"
-        },
-        {
-          "type": "Location",
-          "start": 52,
-          "end": 54,
-          "span": "近園"
-        },
-        {
-          "type": "Location",
-          "start": 55,
-          "end": 57,
-          "span": "江上"
-        },
-        {
-          "type": "Person",
-          "start": 57,
-          "end": 59,
-          "span": "外史"
+          "span": "錢榖"
         }
       ],
-      "sentence": "離得深山有底忙。每思踏雪倍清狂。何當卻藉王維手。送我雙眸到鬱岡。題王石谷臨右丞山陰雪霽圖。時在晉陵楊氏之近園。江上外史笪重光。",
-      "author": "笪重光"
-    },
-    {
-      "authorcid": 30651,
-      "authoraid": "A045321",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "石谷",
-          "cid": 65886,
-          "name": "王翬",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 7,
-          "end": 12,
-          "span": "山陰雪霽圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 17,
-          "end": 19,
-          "span": "楊氏",
-          "cid": 121708,
-          "name": "楊氏",
-          "aid": "A011906"
-        },
-        {
-          "type": "Location",
-          "start": 20,
-          "end": 22,
-          "span": "近園"
-        },
-        {
-          "type": "Location",
-          "start": 23,
-          "end": 25,
-          "span": "江上"
-        },
-        {
-          "type": "Person",
-          "start": 25,
-          "end": 27,
-          "span": "外史"
-        }
-      ],
-      "sentence": "題王石谷臨右丞山陰雪霽圖。時在晉陵楊氏之近園。江上外史笪重光。",
-      "author": "笪重光"
+      "sentence": "彭城錢榖",
+      "author": "錢穀"
     }
   ]
 }

@@ -2,21 +2,38 @@
   "filefroms": "25.json",
   "sentences": [
     {
-      "authorcid": "unknow",
-      "authoraid": "A003935",
+      "authorcid": 34677,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
-          "end": 3,
-          "span": "閻立本",
-          "cid": 94626,
-          "name": "閻立本",
-          "aid": "A009019"
+          "end": 2,
+          "span": "百子",
+          "cid": 71759,
+          "name": "王昌嗣",
+          "aid": "unknow"
         }
       ],
-      "sentence": "閻立本職貢圖",
-      "author": "宋徽宗"
+      "sentence": "百子歡歌。三橋文彭書。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "三橋文彭書",
+      "author": "文彭"
     }
   ]
 }

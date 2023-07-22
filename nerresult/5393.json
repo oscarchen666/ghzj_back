@@ -2,106 +2,74 @@
   "filefroms": "5393.json",
   "sentences": [
     {
-      "authorcid": 30153,
-      "authoraid": "A006682",
+      "authorcid": 59688,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "宣德",
-          "cid": 30153,
-          "name": "朱瞻基",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "宣德御製",
-      "author": "朱瞻基"
-    },
-    {
-      "authorcid": 123973,
-      "authoraid": "A008121",
-      "output": [
-        {
-          "type": "Person",
-          "start": 2,
-          "end": 4,
-          "span": "帝王"
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "乾隆十年"
         },
         {
           "type": "Time",
-          "start": 11,
-          "end": 15,
-          "span": "唐宋兩朝"
+          "start": 10,
+          "end": 17,
+          "span": "西元一七四五年"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 25,
+          "span": "乙丑嘉平月"
         },
         {
           "type": "PersonName",
-          "start": 43,
-          "end": 46,
-          "span": "德皇帝",
-          "cid": 339611,
-          "name": "宇文肱",
+          "start": 27,
+          "end": 30,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
           "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
-          "start": 69,
-          "end": 72,
-          "span": "陬海隅",
-          "cid": 400561
-        },
-        {
-          "type": "Thing",
-          "start": 73,
-          "end": 77,
-          "span": "鱗毛花卉"
-        },
-        {
-          "type": "Thing",
-          "start": 85,
-          "end": 87,
-          "span": "此卷"
-        },
-        {
-          "type": "Person",
-          "start": 88,
-          "end": 90,
-          "span": "徐黃"
         }
       ],
-      "sentence": "自古帝王而善翰墨者。惟唐宋兩朝。代有英明之姿。而擅天縱之才。聲華赫濯。映照千古。迨我宣德皇帝。神文聖武。無美不備。萬幾之暇。游心物理。凡山陬海隅。鱗毛花卉。無不曲臻其妙。此卷得徐黃之精髓。而自開生面者。珍之寶之。申時行。",
-      "author": "申時行"
+      "sentence": "萬里乘風。乾隆十年（西元一七四五年）歲次乙丑嘉平月。臣吳應枚恭進。",
+      "author": "吳應枚"
     },
     {
-      "authorcid": 123973,
-      "authoraid": "A008121",
-      "output": [],
-      "sentence": "申時行",
-      "author": "申時行"
-    },
-    {
-      "authorcid": "unknow",
+      "authorcid": 59688,
       "authoraid": "unknow",
       "output": [
         {
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "乾隆十年"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 17,
+          "span": "西元一七四五年"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 25,
+          "span": "乙丑嘉平月"
+        },
+        {
           "type": "PersonName",
-          "start": 18,
-          "end": 19,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
+          "start": 27,
+          "end": 30,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
           "aid": "unknow"
         }
       ],
-      "sentence": "九重染翰。自不侔於塵世之丹彩。對之令人肅然致敬。華復初。",
-      "author": "華復初"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [],
-      "sentence": "華復初",
-      "author": "華復初"
+      "sentence": "萬里乘風。乾隆十年（西元一七四五年）歲次乙丑嘉平月。臣吳應枚恭進。",
+      "author": "吳應枚"
     }
   ]
 }

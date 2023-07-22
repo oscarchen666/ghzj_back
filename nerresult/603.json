@@ -2,1914 +2,281 @@
   "filefroms": "603.json",
   "sentences": [
     {
-      "authorcid": 39807,
-      "authoraid": "unknow",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
           "start": 1,
-          "end": 4,
-          "span": "謝惠連",
-          "cid": "unknow",
-          "name": "謝惠連",
-          "aid": "A005103"
-        },
-        {
-          "type": "Person",
-          "start": 15,
-          "end": 19,
-          "span": "閨闈婉女"
-        },
-        {
-          "type": "PersonName",
-          "start": 47,
-          "end": 49,
-          "span": "美人",
-          "cid": 56573,
-          "name": "柳是",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 185,
-          "end": 191,
-          "span": "嘉熙庚子良月"
-        },
-        {
-          "type": "PersonName",
-          "start": 196,
-          "end": 198,
-          "span": "牟益",
-          "cid": 39807,
-          "name": "牟益",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "右謝惠連擣衣詩五言十二韻。曲盡閨闈婉女動息矉伸之態。意韻萬千。妙在言外。詠歎不已。因取周昉美人。稍加位置。畫為橫卷。思短筆拙。雖不足以形容謝詩妙處。若曰模章寫句。亦自謂得其仿佛。顧年踰耳順之三。疲敝精神。尚爾兒戲。良可憫笑。志之所好。自忘其勞。不知視苦身疾作。務積而不能用。與夫夜以繼日。思慮善否者。其為樂果何如。得之果惡乎在。寓目者毋徒議筆墨之工拙。試與共商榷之。嘉熙庚子良月既望。蜀客牟益德新書。",
-      "author": "牟益"
-    },
-    {
-      "authorcid": 39807,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "嘉熙庚子良月"
-        },
-        {
-          "type": "PersonName",
-          "start": 11,
-          "end": 13,
-          "span": "牟益",
-          "cid": 39807,
-          "name": "牟益",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "嘉熙庚子良月既望。蜀客牟益德新書。",
-      "author": "牟益"
-    },
-    {
-      "authorcid": 39807,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
           "end": 3,
-          "span": "戊戌春"
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
         },
         {
           "type": "LocationName",
-          "start": 5,
-          "end": 7,
-          "span": "鄱陽",
-          "cid": 5440
-        },
-        {
-          "type": "Location",
           "start": 9,
           "end": 11,
-          "span": "僧舍"
-        },
-        {
-          "type": "Thing",
-          "start": 14,
-          "end": 16,
-          "span": "此圖"
-        },
-        {
-          "type": "Person",
-          "start": 37,
-          "end": 39,
-          "span": "知音"
-        },
-        {
-          "type": "Time",
-          "start": 43,
-          "end": 46,
-          "span": "後二年"
-        },
-        {
-          "type": "LocationName",
-          "start": 49,
-          "end": 51,
-          "span": "豫章",
-          "cid": 15891
+          "span": "噶爾",
+          "cid": 2318
         },
         {
           "type": "PersonName",
-          "start": 56,
-          "end": 58,
-          "span": "文昌",
-          "cid": 37802,
-          "name": "王暨",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 61,
-          "end": 64,
-          "span": "是歲秋"
-        },
-        {
-          "type": "LocationName",
-          "start": 68,
-          "end": 74,
-          "span": "湖董良史圃中",
-          "aid": "PL000000012307",
-          "cid": 8273
-        },
-        {
-          "type": "Thing",
-          "start": 77,
-          "end": 79,
-          "span": "此紙"
-        },
-        {
-          "type": "Thing",
-          "start": 86,
-          "end": 87,
-          "span": "樹"
-        },
-        {
-          "type": "Thing",
-          "start": 89,
-          "end": 91,
-          "span": "砧杵"
-        },
-        {
-          "type": "PersonName",
-          "start": 113,
-          "end": 115,
-          "span": "良史",
-          "cid": 34391,
-          "name": "董紀",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 127,
-          "end": 128,
-          "span": "僕"
-        },
-        {
-          "type": "PersonName",
-          "start": 130,
-          "end": 131,
-          "span": "子",
-          "cid": 138930,
-          "name": "某藥",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 144,
-          "end": 145,
-          "span": "僕"
-        },
-        {
-          "type": "PersonName",
-          "start": 147,
-          "end": 148,
-          "span": "子",
-          "cid": 138930,
-          "name": "某藥",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 149,
-          "end": 150,
-          "span": "我"
-        },
-        {
-          "type": "Person",
-          "start": 174,
-          "end": 176,
-          "span": "朋友"
-        },
-        {
-          "type": "PersonName",
-          "start": 186,
-          "end": 188,
-          "span": "良史",
-          "cid": 34391,
-          "name": "董紀",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 193,
-          "end": 195,
-          "span": "藏書"
-        },
-        {
-          "type": "Thing",
-          "start": 198,
-          "end": 202,
-          "span": "古玩名帖"
-        },
-        {
-          "type": "Thing",
-          "start": 211,
-          "end": 213,
-          "span": "此圖"
-        },
-        {
-          "type": "Thing",
-          "start": 230,
-          "end": 231,
-          "span": "山"
-        },
-        {
-          "type": "Thing",
-          "start": 242,
-          "end": 244,
-          "span": "小道"
-        }
-      ],
-      "sentence": "戊戌春。寓鄱陽安國僧舍。嘗作此圖。積日月而後成。雖不自以為奇。念為之勤。非知音不妄出。後二年。攜至豫章。遂歸連帥文昌吳公。是歲秋。館于東湖董良史圃中。復為此紙。視前增人十。樹四。砧杵之上。又加屋焉。始題數語於後。聊披閱以自娛。良史既見。有欲得之色而不言。僕曰。子欲之乎。曰是所欲而不敢請。僕曰。子以我為難乎。嬉戲鄙事。取之於己（原書我）而不竭者。於朋友又何難。遂舉以遺之。良史好古博雅。藏書萬卷。古玩名帖。羅列几格。乃欲以此圖錯置其間。猶肆筵設席。水陸畢陳。而山肴野蔌。尚所不棄。竊喜小道獨有所偶。於是載書。",
-      "author": "牟益"
-    },
-    {
-      "authorcid": 49680,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "謝惠連",
-          "cid": "unknow",
-          "name": "謝惠連",
-          "aid": "A005103"
-        },
-        {
-          "type": "Thing",
-          "start": 19,
-          "end": 21,
-          "span": "白露"
-        },
-        {
-          "type": "Thing",
-          "start": 22,
-          "end": 24,
-          "span": "園菊"
-        },
-        {
-          "type": "Thing",
-          "start": 25,
-          "end": 27,
-          "span": "秋風"
-        },
-        {
-          "type": "Thing",
-          "start": 28,
-          "end": 30,
-          "span": "庭槐"
-        },
-        {
-          "type": "Thing",
-          "start": 33,
-          "end": 36,
-          "span": "莎雞羽"
-        },
-        {
-          "type": "PersonName",
-          "start": 55,
-          "end": 57,
-          "span": "美人",
-          "cid": 56573,
-          "name": "柳是",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 58,
-          "end": 60,
-          "span": "裳服"
-        },
-        {
-          "type": "Thing",
-          "start": 67,
-          "end": 69,
-          "span": "簪玉"
-        },
-        {
-          "type": "Location",
-          "start": 70,
-          "end": 72,
-          "span": "北房"
-        },
-        {
-          "type": "Thing",
-          "start": 100,
-          "end": 102,
-          "span": "兩袖"
-        },
-        {
-          "type": "PersonName",
-          "start": 115,
-          "end": 117,
-          "span": "君子",
-          "cid": 84870,
-          "name": "鍾懷",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 123,
-          "end": 126,
-          "span": "笥中刀"
-        },
-        {
-          "type": "Thing",
-          "start": 129,
-          "end": 132,
-          "span": "萬里衣"
-        },
-        {
-          "type": "Thing",
-          "start": 145,
-          "end": 147,
-          "span": "腰帶"
-        },
-        {
-          "type": "Thing",
-          "start": 159,
-          "end": 161,
-          "span": "史書"
-        }
-      ],
-      "sentence": "謝惠連擣衣詩。衡紀無淹度。晷運倐如催。白露滋園菊。秋風落庭槐。肅肅莎雞羽。烈烈寒螿啼。夕陰結空幕。宵月皓中閨。美人戒裳服。端飾相招攜。簪玉出北房。鳴金步南階。（此字脫）。櫩高砧響發。楹長杵聲哀。微芳起兩袖。輕汗染雙題。紈素既已成。君子行未歸。裁用笥中刀。縫為萬里衣。盈篋自余手。幽緘候君開。腰帶准疇昔。不知今是非。款。史書。",
-      "author": "董史"
-    },
-    {
-      "authorcid": 49680,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "史書"
-        }
-      ],
-      "sentence": "史書",
-      "author": "董史"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "夜槐"
-        },
-        {
-          "type": "Person",
-          "start": 24,
-          "end": 26,
-          "span": "佳人"
-        },
-        {
-          "type": "Thing",
-          "start": 39,
-          "end": 41,
-          "span": "明月"
-        },
-        {
-          "type": "Person",
-          "start": 72,
-          "end": 74,
-          "span": "女伴"
-        },
-        {
-          "type": "Thing",
-          "start": 98,
-          "end": 101,
-          "span": "雙鴛鴦"
-        },
-        {
-          "type": "Person",
-          "start": 108,
-          "end": 110,
-          "span": "王風"
-        },
-        {
-          "type": "Time",
-          "start": 114,
-          "end": 116,
-          "span": "七月"
-        },
-        {
-          "type": "Time",
-          "start": 144,
-          "end": 148,
-          "span": "乾隆丁卯"
-        },
-        {
-          "type": "Time",
-          "start": 149,
-          "end": 156,
-          "span": "西元一七四七年"
-        },
-        {
-          "type": "LocationName",
-          "start": 163,
-          "end": 166,
-          "span": "春書屋",
-          "cid": 10345
-        }
-      ],
-      "sentence": "凉飈颯蕭瑟。節序忽已催。絡緯吟露莎。鵯鶋棲夜槐。佳人未忍眠。顰眉黯如啼。舉首見明月。攬衾對空閨。憶遠各呻吟。命侣聊招攜。尺素出文笥。平砧列閒階。女伴強笑言。黙喻中懐哀。長短准舊度。袗襲别新題。不裁雙鴛鴦。留待君予歸。王風咏執簧。七月廑授衣。圖史堪起予。往復卷更開。髙咏恵連詩。遑問學歩非。乾隆丁卯（西元一七四七年）首夏御題於長春書屋即用圖間謝恵連擣衣詩韻兼效其體。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "乾隆丁卯"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一七四七年"
-        },
-        {
-          "type": "LocationName",
-          "start": 19,
-          "end": 22,
-          "span": "春書屋",
-          "cid": 10345
-        }
-      ],
-      "sentence": "乾隆丁卯（西元一七四七年）首夏御題於長春書屋即用圖間謝恵連擣衣詩韻兼效其體。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "凉露"
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "雙杵"
-        },
-        {
-          "type": "Location",
-          "start": 48,
-          "end": 50,
-          "span": "江邨"
-        },
-        {
-          "type": "Thing",
-          "start": 60,
-          "end": 61,
-          "span": "樹"
-        },
-        {
-          "type": "Location",
-          "start": 66,
-          "end": 68,
-          "span": "沼宫"
-        },
-        {
-          "type": "Thing",
-          "start": 74,
-          "end": 76,
-          "span": "盆手"
-        },
-        {
-          "type": "Thing",
-          "start": 78,
-          "end": 81,
-          "span": "玉腕提"
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 94,
-          "span": "蠶月"
-        },
-        {
-          "type": "PersonName",
-          "start": 116,
-          "end": 118,
-          "span": "士奇",
-          "cid": 1169,
-          "name": "林特",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 148,
-          "end": 150,
-          "span": "夫人"
-        },
-        {
-          "type": "Time",
-          "start": 177,
-          "end": 179,
-          "span": "戊辰"
-        },
-        {
-          "type": "Time",
-          "start": 180,
-          "end": 193,
-          "span": "西元一七四八年）清和月七日"
-        }
-      ],
-      "sentence": "溶溶凉露濕庭阿。雙杵悲聲散綺羅。暖殿忽思同展玩。頓教霑漬淚痕多。獨旦凄其賦錦衾。横圖觸景痛難禁。江邨題句真清絶。急節曽悲樹下砧。  沼宫靄靄女桑低。盆手曽三玉腕提。盛典即今成往蹟。空憐蠶月冷椒閨。昔曽用謝惠連韻題此圖巻端。毎讀巻尾髙士奇所題三絶句及識語。感其意而悲之。重爲檢閱。則宛然予意中事矣。夫人雖貴賤不同。其爲倫常之情則一也。觸景傷神。次韻再題。時戊辰（西元一七四八年）清和月七日。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 10,
-          "end": 12,
-          "span": "戊辰"
-        },
-        {
-          "type": "Time",
-          "start": 13,
-          "end": 21,
-          "span": "西元一七四八年）"
-        },
-        {
-          "type": "Time",
-          "start": 21,
-          "end": 26,
-          "span": "清和月七日"
-        },
-        {
-          "type": "Time",
-          "start": 29,
-          "end": 31,
-          "span": "戊辰"
-        },
-        {
-          "type": "Time",
-          "start": 32,
-          "end": 45,
-          "span": "西元一七四八年）清和月七日"
-        }
-      ],
-      "sentence": "次韻再題次韻再題。時戊辰（西元一七四八年）清和月七日。。時戊辰（西元一七四八年）清和月七日。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "鴻龍"
-        },
-        {
-          "type": "Thing",
-          "start": 15,
-          "end": 17,
-          "span": "緑榆"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "兔目"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "髙槐"
-        },
-        {
-          "type": "Thing",
-          "start": 28,
-          "end": 29,
-          "span": "雨"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 34,
-          "span": "桑鳩"
-        },
-        {
-          "type": "Location",
-          "start": 45,
-          "end": 47,
-          "span": "椒閨"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 65,
-          "span": "舟"
-        },
-        {
-          "type": "Thing",
-          "start": 66,
-          "end": 68,
-          "span": "銀漢"
-        },
-        {
-          "type": "Person",
-          "start": 108,
-          "end": 110,
-          "span": "佳人"
-        },
-        {
-          "type": "Thing",
-          "start": 126,
-          "end": 129,
-          "span": "親蠶館"
-        },
-        {
-          "type": "Person",
-          "start": 140,
-          "end": 142,
-          "span": "前人"
-        },
-        {
-          "type": "Time",
-          "start": 144,
-          "end": 147,
-          "span": "甲戌（"
-        },
-        {
-          "type": "Time",
-          "start": 147,
-          "end": 161,
-          "span": "西元一七五四年）寒食節前一日"
-        },
-        {
-          "type": "Person",
-          "start": 162,
-          "end": 166,
-          "span": "孝賢皇后"
-        },
-        {
-          "type": "Thing",
-          "start": 204,
-          "end": 206,
-          "span": "繭館"
-        }
-      ],
-      "sentence": "鴻龍運玉斗。紀序相嬗催。新烟引緑榆。兔目吐髙槐。邇日頻望雨。愁卜桑鳩啼。孰謂斷魂節。憶昔别椒閨。東巡禮岱宗。鳳翣聊相擕。大故遭登舟。銀漢不可階。兹辰值忌辰。慼慼余懷悲。遣緒展斯圖。圖間有舊題。傳神擅老牟。宛似秋氣歸。佳人閙掃粧。相聚擣寒衣。即今重織維。親蠶館復開。何當盆手三。愴念前人非。甲戌（西元一七五四年）寒食節前一日值孝賢皇后忌辰。追念前徽。撫懷節序。悲不自已。載展是卷距戊辰舊題又星霜七易。披圖觸緒。繭館猶新。用寫傷情。仍賡舊韻。御筆。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "甲戌"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一七五四年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 17,
-          "span": "寒食節前一日"
-        },
-        {
-          "type": "Person",
-          "start": 18,
-          "end": 22,
-          "span": "孝賢皇后"
-        },
-        {
-          "type": "Time",
-          "start": 45,
-          "end": 47,
-          "span": "戊辰"
-        },
-        {
-          "type": "Thing",
-          "start": 60,
-          "end": 62,
-          "span": "繭館"
-        }
-      ],
-      "sentence": "甲戌（西元一七五四年）寒食節前一日值孝賢皇后忌辰。追念前徽。撫懷節序。悲不自已。載展是卷距戊辰舊題又星霜七易。披圖觸緒。繭館猶新。用寫傷情。仍賡舊韻。御筆。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 1,
-          "span": "蟲"
-        },
-        {
-          "type": "Thing",
-          "start": 5,
-          "end": 7,
-          "span": "衣裘"
-        },
-        {
-          "type": "PersonName",
-          "start": 9,
-          "end": 11,
-          "span": "山谷",
-          "cid": 7111,
-          "name": "黃庭堅",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
           "start": 13,
           "end": 15,
-          "span": "鐵馬"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 19,
-          "span": "草"
-        },
-        {
-          "type": "PersonName",
-          "start": 22,
-          "end": 24,
-          "span": "東坡",
-          "cid": "unknow",
-          "name": "蘇軾",
-          "aid": "A003555"
-        },
-        {
-          "type": "Person",
-          "start": 30,
-          "end": 31,
-          "span": "誰"
-        },
-        {
-          "type": "Person",
-          "start": 35,
-          "end": 37,
-          "span": "荊公"
-        },
-        {
-          "type": "PersonName",
-          "start": 49,
-          "end": 51,
-          "span": "馬公",
-          "cid": 129541,
-          "name": "馬公",
-          "aid": "A009948"
-        }
-      ],
-      "sentence": "蟲聲日夜戒衣裘。（山谷）。鐵馬追風塞草秋。（東坡）。默默此時誰會得。（荊公）。畫成應遣一生愁。（司馬公）。右集句一首。閒中。",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [],
-      "sentence": "閒中",
-      "author": ""
-    },
-    {
-      "authorcid": 21715,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "隙月"
-        },
-        {
-          "type": "Thing",
-          "start": 12,
-          "end": 14,
-          "span": "銀漢"
-        },
-        {
-          "type": "Thing",
-          "start": 15,
-          "end": 17,
-          "span": "碧波"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "白露"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "秋草"
-        },
-        {
-          "type": "PersonName",
-          "start": 26,
-          "end": 28,
-          "span": "美人",
-          "cid": 56573,
-          "name": "柳是",
+          "span": "牧臣",
+          "cid": 71890,
+          "name": "王保建",
           "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 48,
-          "end": 50,
-          "span": "畫欄"
-        },
-        {
-          "type": "Thing",
-          "start": 52,
-          "end": 54,
-          "span": "雙蟬"
-        },
-        {
-          "type": "Person",
-          "start": 69,
-          "end": 70,
-          "span": "誰"
-        },
-        {
-          "type": "Thing",
-          "start": 77,
-          "end": 79,
-          "span": "寒衣"
-        },
-        {
-          "type": "Thing",
-          "start": 82,
-          "end": 84,
-          "span": "纖書"
-        },
-        {
-          "type": "Person",
-          "start": 92,
-          "end": 94,
-          "span": "詩家"
-        },
-        {
-          "type": "PersonName",
-          "start": 109,
-          "end": 110,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 116,
-          "end": 117,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 122,
-          "end": 124,
-          "span": "男兒"
-        }
-      ],
-      "sentence": "隙月漏微光。涼聲入衣早。銀漢迴碧波。白露下秋草。深閨美人思流年。感此煢煢那得眠。鳴環緩步踏幽影。畫欄斜倚雙蟬娟。鸐關音信經年絕。帶綰同心向誰說。并刀旋翦製寒衣。數尺纖書淚成血。良工善得詩家情。筆端描寫逾丹青。至今流落在人手。展翫尤為人所稱。嗟哉男兒有身當報國。共期百歲全令德。功成名就歡相逢。莫為搗衣空歎息。曾鼎。",
-      "author": "曾鼎"
-    },
-    {
-      "authorcid": 21715,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "曾鼎",
-          "cid": 21715,
-          "name": "曾鼎",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "曾鼎",
-      "author": "曾鼎"
-    },
-    {
-      "authorcid": 436595,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 0,
-          "end": 2,
-          "span": "佳人"
-        },
-        {
-          "type": "Thing",
-          "start": 5,
-          "end": 7,
-          "span": "寒衣"
-        },
-        {
-          "type": "Thing",
-          "start": 20,
-          "end": 22,
-          "span": "霜葉"
-        },
-        {
-          "type": "Person",
-          "start": 24,
-          "end": 26,
-          "span": "丁東"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 44,
-          "span": "關山"
-        },
-        {
-          "type": "PersonName",
-          "start": 65,
-          "end": 68,
-          "span": "王右丞",
-          "cid": 32174,
-          "name": "王維",
-          "aid": "A004031"
-        },
-        {
-          "type": "PersonName",
-          "start": 73,
-          "end": 75,
-          "span": "東坡",
-          "cid": "unknow",
-          "name": "蘇軾",
-          "aid": "A003555"
-        },
-        {
-          "type": "Thing",
-          "start": 80,
-          "end": 81,
-          "span": "畫"
-        },
-        {
-          "type": "Thing",
-          "start": 95,
-          "end": 101,
-          "span": "輞川圖陽關圖"
-        },
-        {
-          "type": "Time",
-          "start": 104,
-          "end": 108,
-          "span": "千百年來"
-        },
-        {
-          "type": "Person",
-          "start": 109,
-          "end": 112,
-          "span": "士大夫"
-        },
-        {
-          "type": "PersonName",
-          "start": 189,
-          "end": 191,
-          "span": "德新",
-          "cid": 39807,
-          "name": "牟益",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 193,
-          "end": 196,
-          "span": "搗衣圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 201,
-          "end": 204,
-          "span": "謝惠連",
-          "cid": "unknow",
-          "name": "謝惠連",
-          "aid": "A005103"
-        },
-        {
-          "type": "Thing",
-          "start": 213,
-          "end": 217,
-          "span": "煙露草虫"
-        },
-        {
-          "type": "PersonName",
-          "start": 261,
-          "end": 263,
-          "span": "小謝",
-          "cid": 86258,
-          "name": "顧鳳毛",
-          "aid": "A004513"
-        },
-        {
-          "type": "Person",
-          "start": 279,
-          "end": 282,
-          "span": "內弟子"
-        },
-        {
-          "type": "Person",
-          "start": 286,
-          "end": 288,
-          "span": "聶氏"
-        },
-        {
-          "type": "Location",
-          "start": 288,
-          "end": 290,
-          "span": "故居"
-        },
-        {
-          "type": "Location",
-          "start": 292,
-          "end": 296,
-          "span": "城東別館"
-        },
-        {
-          "type": "Person",
-          "start": 306,
-          "end": 308,
-          "span": "後人"
-        },
-        {
-          "type": "PersonName",
-          "start": 312,
-          "end": 314,
-          "span": "黃榘",
-          "cid": 436595,
-          "name": "黃榘",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "佳人何事搗寒衣。和淚裁縫欲寄誰。惆悵愁隨霜葉墜。丁東聲襍草蛩悲。九秋風露難成夢。萬里關山有所思。一段閑情誰解得。淒涼都付畫兼詩。唐王右丞能詩善畫。東坡謂其詩中有畫。畫中有詩。然而世不多見。惟輞川圖陽關圖有之。千百年來。士大夫學詩畫者。多倣其意。惜乎知此者不知彼。知彼者不知此。得於此者失於彼。得於彼者失於此。求其兼美者。百不一二。吁。此無他。能得詩畫三昧者。乃可與言也。今觀牟祈德新所繪搗衣圖。蓋摹江左謝惠連詩意。其風簷月席。煙露草虫之情。閨房簪珥之態。皆含蓄在（原書多）圖內。非特描寫形容以為工者。真所謂畫中有詩者也。使小謝復生而見之。必賞其能為之傳神云。內弟子昌。自其聶氏故居攜歸城東別館。蓋藏其家已三世矣。後人宜寶之。黃榘。",
-      "author": "黃榘"
-    },
-    {
-      "authorcid": 436595,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "黃榘"
-        }
-      ],
-      "sentence": "黃榘",
-      "author": "黃榘"
-    },
-    {
-      "authorcid": 218145,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 1,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 4,
-          "end": 6,
-          "span": "古人"
-        },
-        {
-          "type": "Person",
-          "start": 10,
-          "end": 12,
-          "span": "先人"
-        },
-        {
-          "type": "PersonName",
-          "start": 33,
-          "end": 34,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 65,
-          "end": 67,
-          "span": "此卷"
-        },
-        {
-          "type": "PersonName",
-          "start": 71,
-          "end": 73,
-          "span": "夏氏",
-          "cid": 67353,
-          "name": "夏氏",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 74,
-          "end": 77,
-          "span": "三友堂"
-        },
-        {
-          "type": "PersonName",
-          "start": 83,
-          "end": 85,
-          "span": "仲修",
-          "cid": 24557,
-          "name": "林茂竹",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 93,
-          "end": 94,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 156,
-          "end": 163,
-          "span": "洪武初元中秋日"
-        }
-      ],
-      "sentence": "余生平愛古人畫。追憶先人所藏。悉燬於壬辰之變。可痛惜哉。兵定之後。余深有以述前志。又值困頓之餘。弗盡如願。雖間得二三。殊無絕筆。獨此卷得之豫章夏氏之三友堂。前太守曹公仲修。嘗撫卷翫嘆而謂余曰。慎勿視其簡淡而輕棄焉。畫史尤工於詩文者也。觀其摹章寫句。曲盡幽閨情態。亦已至矣。想當下筆之初。心融神會。用意豈淺淺哉。時洪武初元中秋日良識。",
-      "author": "黃慶"
-    },
-    {
-      "authorcid": 218145,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 1,
-          "end": 8,
-          "span": "洪武初元中秋日"
-        }
-      ],
-      "sentence": "時洪武初元中秋日良識。",
-      "author": "黃慶"
-    },
-    {
-      "authorcid": 218145,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "履道",
-          "cid": 35364,
-          "name": "周砥",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "仲善",
-          "cid": 130732,
-          "name": "陸中善",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 9,
-          "end": 12,
-          "span": "搗衣圖"
-        },
-        {
-          "type": "Thing",
-          "start": 16,
-          "end": 17,
-          "span": "卷"
         },
         {
           "type": "LocationName",
-          "start": 21,
-          "end": 23,
-          "span": "遼東",
-          "aid": "PL000000056942",
-          "cid": 400545
-        },
-        {
-          "type": "PersonName",
-          "start": 24,
-          "end": 26,
-          "span": "履道",
-          "cid": 35364,
-          "name": "周砥",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 64,
-          "end": 69,
-          "span": "洪武辛未夏"
-        },
-        {
-          "type": "PersonName",
-          "start": 70,
-          "end": 72,
-          "span": "黃慶",
-          "cid": 218145,
-          "name": "黃慶",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 79,
-          "end": 81,
-          "span": "太宇",
-          "cid": 130553,
-          "name": "張道明",
-          "aid": "unknow"
+          "start": 42,
+          "end": 44,
+          "span": "塞外",
+          "aid": "PL000000000129"
         },
         {
           "type": "Location",
-          "start": 83,
-          "end": 85,
-          "span": "湖陰"
+          "start": 48,
+          "end": 51,
+          "span": "薩拉爾"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 66,
+          "span": "銃"
         },
         {
           "type": "Person",
           "start": 85,
           "end": 87,
-          "span": "釣徒"
-        }
-      ],
-      "sentence": "履道藏其父仲善所跋搗衣圖。未書于卷。而謫居遼東。履道珍藏不敢失墜。余在泮。求為書之。余嘉其志。故特書于卷後。若履道可謂知所愛矣。洪武辛未夏。黃慶書。鈐印二。黃太宇氏。湖陰釣徒。",
-      "author": "黃慶"
-    },
-    {
-      "authorcid": 218145,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 5,
-          "span": "洪武辛未夏"
-        },
-        {
-          "type": "PersonName",
-          "start": 7,
-          "end": 9,
-          "span": "慶書",
-          "cid": 79858,
-          "name": "宋邦榮",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "洪武辛未夏。黃慶書。",
-      "author": "黃慶"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 7,
-          "end": 10,
-          "span": "王右丞",
-          "cid": 32174,
-          "name": "王維",
-          "aid": "A004031"
+          "span": "侍衛"
         },
         {
           "type": "Person",
-          "start": 30,
-          "end": 32,
-          "span": "其人"
-        },
-        {
-          "type": "Person",
-          "start": 35,
-          "end": 37,
-          "span": "奇士"
-        },
-        {
-          "type": "PersonName",
-          "start": 49,
-          "end": 51,
-          "span": "王蘇",
-          "cid": 71070,
-          "name": "王蘇",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 61,
-          "end": 63,
-          "span": "公麟",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "Thing",
-          "start": 63,
-          "end": 66,
-          "span": "七月圖"
-        }
-      ],
-      "sentence": "妙畫又善文。自王右丞蘇內翰來。寥寥矣。此牟祈畫。有識語甚佳。其人大宋一奇士。無大名位。可惜。此畫則王蘇不如矣。是可寶也。視公麟七月圖皆民事。髣髴哉。搢紳書。",
-      "author": "搢紳"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 0,
-          "end": 3,
-          "span": "搢紳書"
-        }
-      ],
-      "sentence": "搢紳書",
-      "author": "搢紳"
-    },
-    {
-      "authorcid": 418977,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "池塘"
-        },
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "春水"
-        },
-        {
-          "type": "Thing",
-          "start": 6,
-          "end": 7,
-          "span": "魚"
+          "start": 96,
+          "end": 97,
+          "span": "我"
         },
         {
           "type": "Location",
-          "start": 8,
-          "end": 10,
-          "span": "門外"
+          "start": 101,
+          "end": 103,
+          "span": "伊犁"
         },
         {
           "type": "Thing",
-          "start": 10,
-          "end": 12,
-          "span": "飛花"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "石渠"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "東風"
-        },
-        {
-          "type": "Thing",
-          "start": 28,
-          "end": 29,
-          "span": "雁"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 37,
-          "span": "香雨搗衣圖"
+          "start": 114,
+          "end": 116,
+          "span": "螳臂"
         },
         {
           "type": "Person",
-          "start": 38,
-          "end": 48,
-          "span": "奉議大夫兵部郎中廬陵"
-        }
-      ],
-      "sentence": "池塘春水已生魚。門外飛花點石渠。惆悵東風（點去）近來無過雁。一簾香雨搗衣圖。奉議大夫兵部郎中廬陵習韶書。",
-      "author": "習韶"
-    },
-    {
-      "authorcid": 418977,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 10,
-          "end": 12,
-          "span": "習韶",
-          "cid": 418977,
-          "name": "習韶",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "奉議大夫兵部郎中廬陵習韶書",
-      "author": "習韶"
-    },
-    {
-      "authorcid": 268747,
-      "authoraid": "A016104",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "落葉"
-        },
-        {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "衣裳"
-        },
-        {
-          "type": "Thing",
-          "start": 20,
-          "end": 21,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 22,
-          "end": 23,
-          "span": "海"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 26,
-          "span": "雙杵"
-        },
-        {
-          "type": "Thing",
-          "start": 27,
-          "end": 29,
-          "span": "殘月"
-        },
-        {
-          "type": "Thing",
-          "start": 52,
-          "end": 54,
-          "span": "關山"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 68,
-          "span": "右搗衣圖"
-        },
-        {
-          "type": "Person",
-          "start": 72,
-          "end": 75,
-          "span": "牟祈德"
-        },
-        {
-          "type": "Location",
-          "start": 102,
-          "end": 104,
-          "span": "城南"
-        },
-        {
-          "type": "PersonName",
-          "start": 105,
-          "end": 107,
-          "span": "履道",
-          "cid": 35364,
-          "name": "周砥",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 120,
-          "end": 122,
-          "span": "子昌",
-          "cid": 101301,
-          "name": "王原京",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 130,
-          "end": 132,
-          "span": "此卷"
-        },
-        {
-          "type": "Thing",
-          "start": 144,
-          "end": 146,
-          "span": "此圖"
-        },
-        {
-          "type": "Thing",
-          "start": 215,
-          "end": 217,
-          "span": "布鼓"
-        },
-        {
-          "type": "Time",
-          "start": 227,
-          "end": 231,
-          "span": "永樂廿年"
-        },
-        {
-          "type": "Time",
-          "start": 234,
-          "end": 236,
-          "span": "壬寅"
-        },
-        {
-          "type": "Time",
-          "start": 237,
-          "end": 243,
-          "span": "秋七月中元日"
-        },
-        {
-          "type": "PersonName",
-          "start": 248,
-          "end": 250,
-          "span": "張峻",
-          "cid": 268747,
-          "name": "張峻",
-          "aid": "A016104"
-        }
-      ],
-      "sentence": "落葉蕭蕭風露涼。深閨感此搗衣裳。三邊夢斷雲連海。雙杵敲殘月滿床。聲雜候虫秋慘切。愁隨更漏夜添長。縫成不怕關山阻。惆悵憑誰遠寄將。右搗衣圖一卷。乃牟祈德新所畫。曲盡閨房簪珥之態。皆妙絕一時。信名筆也。昔藏於城南聶履道之家。當時以為至寶。至其子子昌。與益勤善。乃以此卷贈之。暇日俾余題識。余觀此圖。妙在意外。固不容論。而又復覩諸先達之雄文鉅篇。播之詠歌。發揮之至矣。奚庸贅辭。因其請之數。固不容默喙而已也。遂掇拾陳腐。執筆惶悚。所謂持布鼓過雷門。正謂此也。時永樂廿年。龍集壬寅。秋七月中元日。後學秀峰張峻識并書。",
-      "author": "張峻"
-    },
-    {
-      "authorcid": 268747,
-      "authoraid": "A016104",
-      "output": [
-        {
-          "type": "Time",
-          "start": 1,
-          "end": 5,
-          "span": "永樂廿年"
-        },
-        {
-          "type": "Time",
-          "start": 8,
-          "end": 10,
-          "span": "壬寅"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 17,
-          "span": "秋七月中元日"
-        }
-      ],
-      "sentence": "時永樂廿年。龍集壬寅。秋七月中元日。後學秀峰張峻識并書。",
-      "author": "張峻"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "皎月"
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 11,
-          "span": "老槐葉"
-        },
-        {
-          "type": "PersonName",
-          "start": 24,
-          "end": 26,
-          "span": "美人",
-          "cid": 56573,
-          "name": "柳是",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 29,
-          "end": 31,
-          "span": "秋砧"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 34,
-          "span": "宮眉"
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 58,
-          "span": "雙杵"
-        },
-        {
-          "type": "Thing",
-          "start": 72,
-          "end": 76,
-          "span": "金戈鐵馬"
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 95,
-          "span": "雙棲禽"
-        },
-        {
-          "type": "Thing",
-          "start": 112,
-          "end": 114,
-          "span": "燈光"
-        },
-        {
-          "type": "Thing",
-          "start": 120,
-          "end": 122,
-          "span": "羅屏"
-        },
-        {
-          "type": "Time",
-          "start": 149,
-          "end": 151,
-          "span": "南宋"
-        },
-        {
-          "type": "Thing",
-          "start": 188,
-          "end": 191,
-          "span": "雍門琴"
-        },
-        {
-          "type": "Person",
-          "start": 193,
-          "end": 194,
+          "start": 128,
+          "end": 129,
           "span": "我"
         },
         {
           "type": "PersonName",
-          "start": 217,
-          "end": 218,
-          "span": "客",
-          "cid": 139689,
-          "name": "王郎",
+          "start": 130,
+          "end": 132,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "PersonName",
+          "start": 170,
+          "end": 172,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "PersonName",
+          "start": 177,
+          "end": 179,
+          "span": "巴圖",
+          "cid": 495068,
+          "name": "巴圖",
           "aid": "unknow"
         },
         {
-          "type": "Time",
-          "start": 224,
-          "end": 233,
-          "span": "康熙辛未閏七月朔日"
+          "type": "Person",
+          "start": 185,
+          "end": 188,
+          "span": "察哈什"
         },
         {
-          "type": "Location",
-          "start": 236,
-          "end": 239,
-          "span": "信天巢"
+          "type": "PersonName",
+          "start": 193,
+          "end": 195,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Person",
+          "start": 217,
+          "end": 220,
+          "span": "萬祖父"
+        },
+        {
+          "type": "Person",
+          "start": 221,
+          "end": 223,
+          "span": "兒孫"
+        },
+        {
+          "type": "Thing",
+          "start": 227,
+          "end": 228,
+          "span": "馬"
+        },
+        {
+          "type": "Person",
+          "start": 240,
+          "end": 242,
+          "span": "降者"
         },
         {
           "type": "PersonName",
           "start": 249,
           "end": 251,
-          "span": "書宣",
-          "cid": 86310,
-          "name": "顧圖河",
-          "aid": "unknow"
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
         },
         {
           "type": "Person",
-          "start": 252,
-          "end": 257,
-          "span": "同郡王赤抒"
+          "start": 256,
+          "end": 259,
+          "span": "達瓦齊"
         },
         {
           "type": "PersonName",
-          "start": 258,
-          "end": 260,
-          "span": "大兒",
-          "cid": 42619,
-          "name": "邵煥有",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 263,
-          "end": 265,
-          "span": "江屯"
-        },
-        {
-          "type": "PersonName",
-          "start": 270,
-          "end": 273,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
-        }
-      ],
-      "sentence": "玉鋪皎月移秋陰。老槐葉脫孤螿吟。閒庭露冷夜涼入。美人相對鳴秋砧。宮眉倒暈出新樣。晚妝鬧掃橫珠簪。風絃露索響寂歷。雙杵宛中宮商音。暗泉石竇聽決決。金戈鐵馬來駸駸。愁多力少斷復續。可憐驚起雙棲禽。摒當次第入筐篋。鈎縚緜密親縫紝。燈光香灺黯無語。羅屏斜展檐櫳深。小謝詩篇老牟畫。等閒寫出璇閨心。騰聲傳寶自南宋。年將五百留至今。春窓日嫩一披卷。恍如秋夜天橫參。幽噫怨亂百感作。移人那減雍門琴。幸我心無不平事。否則懭悢添胸襟。團窠細錦密包褁。對客誇比雙南金。康熙辛未閏七月朔日。題於信天巢。并書。看書者維揚顧書宣。同郡王赤抒。大兒元受。江屯抱瓮翁高士奇。",
-      "author": "高士奇"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 9,
-          "span": "康熙辛未閏七月朔日"
-        },
-        {
-          "type": "Location",
-          "start": 12,
-          "end": 15,
-          "span": "信天巢"
-        },
-        {
-          "type": "PersonName",
-          "start": 25,
-          "end": 27,
-          "span": "書宣",
-          "cid": 86310,
-          "name": "顧圖河",
-          "aid": "unknow"
+          "start": 293,
+          "end": 295,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
         },
         {
           "type": "Person",
-          "start": 28,
-          "end": 31,
-          "span": "同郡王"
+          "start": 305,
+          "end": 306,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 316,
+          "end": 318,
+          "span": "斯人"
         },
         {
           "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "大兒",
-          "cid": 42619,
-          "name": "邵煥有",
-          "aid": "unknow"
+          "start": 321,
+          "end": 323,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
         },
         {
-          "type": "Location",
-          "start": 39,
-          "end": 41,
-          "span": "江屯"
+          "type": "Time",
+          "start": 324,
+          "end": 331,
+          "span": "今年五月十四夜"
         },
         {
-          "type": "PersonName",
-          "start": 45,
-          "end": 48,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
+          "type": "Time",
+          "start": 346,
+          "end": 349,
+          "span": "秋七月"
+        },
+        {
+          "type": "Person",
+          "start": 356,
+          "end": 358,
+          "span": "畫工"
+        },
+        {
+          "type": "Time",
+          "start": 377,
+          "end": 379,
+          "span": "乙亥"
         }
       ],
-      "sentence": "康熙辛未閏七月朔日。題於信天巢。并書。看書者維揚顧書宣。同郡王赤抒。大兒元受。江屯?抱瓮翁高士奇。",
-      "author": "高士奇"
+      "sentence": "阿玉錫者伊何人。準噶爾屬司牧臣。其法獲罪應剉臂。何不即斬犯厥尊。徒步萬里來向化。育之塞外先朝恩。薩拉爾來述其事。云即彼中勇絕倫。持銃迎面未及發。直進手奪無逡巡。召見賜銀擢侍衛。即命先驅清漠塵。我師直入定伊犁。達瓦齊聚近萬軍。鼓其螳臂欲借一。依山據淖為營屯。我兩將軍重諮議。以此眾戰玉石焚。廟謨本欲安絕域。撻伐毌乃違皇仁。健卒掄選二十二。曰阿玉錫統其群。曰巴圖濟爾噶爾。及察哈什副以進。阿玉錫喜曰固當。廿五人氣摩青旻。銜枚夜襲覘賊向。如萬祖父臨兒孫。大聲策馬入敵壘。厥角披靡相躪奔。降者六千五百騎。阿玉錫手大纛搴。達瓦齊攜近千騎。駾走喙息嗟難存。荊軻孟賁一夫勇。徒以藉甚人稱論。神勇有如阿玉錫。知方亦復知報恩。今我作歌壯生色。千秋以後斯人聞。阿玉錫以今年五月十四夜斫營奏功。捷書至。走筆成此歌。秋七月。命之入覲。俾畫工肖其持矛盪寇之象。即書於後。表其奇卓。乙亥。御筆。",
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": 30853,
-      "authoraid": "A012522",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "暮春"
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
         },
         {
           "type": "Time",
-          "start": 12,
-          "end": 14,
-          "span": "新秋"
+          "start": 4,
+          "end": 11,
+          "span": "今年五月十四夜"
         },
         {
-          "type": "Location",
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "捷書"
+        },
+        {
+          "type": "Time",
+          "start": 26,
+          "end": 29,
+          "span": "秋七月"
+        },
+        {
+          "type": "Person",
           "start": 36,
           "end": 38,
-          "span": "江屯"
-        }
-      ],
-      "sentence": "暮春題此詩後。臥病累月。新秋乘曉涼書之。流光忽忽。漸授衣時矣。良可嘆夫。江屯再題。",
-      "author": "高士奇"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "江屯"
-        }
-      ],
-      "sentence": "江屯再題",
-      "author": "高士奇"
-    },
-    {
-      "authorcid": 30853,
-      "authoraid": "A012522",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "江村"
+          "span": "畫工"
         },
         {
-          "type": "PersonName",
-          "start": 5,
-          "end": 8,
-          "span": "高士奇",
-          "cid": 30853,
-          "name": "高士奇",
-          "aid": "A012522"
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "矛"
+        },
+        {
+          "type": "Time",
+          "start": 57,
+          "end": 59,
+          "span": "乙亥"
         }
       ],
-      "sentence": "江村獨旦翁高士奇",
-      "author": "高士奇"
+      "sentence": "阿玉錫以今年五月十四夜斫營奏功。捷書至。走筆成此歌。秋七月。命之入覲。俾畫工肖其持矛盪寇之象。即書於後。表其奇卓。乙亥。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "英風偉績。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

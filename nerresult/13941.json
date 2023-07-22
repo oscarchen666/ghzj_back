@@ -2,558 +2,98 @@
   "filefroms": "13941.json",
   "sentences": [
     {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "蘇軾",
-          "cid": 3767,
-          "name": "蘇軾",
-          "aid": "A003555"
-        }
-      ],
-      "sentence": "蘇軾東坡。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "蔡肇",
-          "cid": 1648,
-          "name": "蔡肇",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "蔡肇天啟。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "李之儀",
-          "cid": 3484,
-          "name": "李之儀",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "李之儀端叔。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "王詵",
-          "cid": 7376,
-          "name": "王詵",
-          "aid": "A021999"
-        }
-      ],
-      "sentence": "王詵晉卿。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "秦觀",
-          "cid": 3043,
-          "name": "秦觀",
-          "aid": "A003973"
-        }
-      ],
-      "sentence": "秦觀少游。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "碧虛",
-          "cid": "unknow",
-          "name": "陳景元",
-          "aid": "A015898"
-        }
-      ],
-      "sentence": "道士陳碧虛。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "李公麟",
-          "cid": 19865,
-          "name": "李公麟",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "李公麟伯時。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "蘇轍",
-          "cid": 1493,
-          "name": "蘇轍",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "蘇轍子由。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "張耒",
-          "cid": 12354,
-          "name": "張耒",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "張耒文潛。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "黃庭堅",
-          "cid": 7111,
-          "name": "黃庭堅",
-          "aid": "A008471"
-        }
-      ],
-      "sentence": "黃庭堅魯直。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "晁補之",
-          "cid": 13,
-          "name": "晁補之",
-          "aid": "A008918"
-        }
-      ],
-      "sentence": "晁補之无咎。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "鄭靖",
-          "cid": 535896,
-          "name": "鄭靖",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "鄭靖老。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "米芾",
-          "cid": 3676,
-          "name": "米芾",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "米芾元章。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "王欽臣",
-          "cid": 1767,
-          "name": "王欽臣",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "王欽臣仲至。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "劉涇",
-          "cid": 10660,
-          "name": "劉涇",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "劉涇巨濟。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "圓通",
-          "cid": 40425,
-          "name": "釋懷賢",
-          "aid": "A014477"
-        }
-      ],
-      "sentence": "僧曇秀圓通大師。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Person",
-          "start": 13,
-          "end": 15,
-          "span": "宋人"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 34,
-          "span": "衣衫"
-        },
-        {
-          "type": "Thing",
-          "start": 40,
-          "end": 42,
-          "span": "蕉石"
-        },
-        {
-          "type": "Thing",
-          "start": 53,
-          "end": 55,
-          "span": "故紙"
-        },
-        {
-          "type": "Time",
-          "start": 64,
-          "end": 68,
-          "span": "乾隆丁未"
-        },
-        {
-          "type": "Time",
-          "start": 69,
-          "end": 76,
-          "span": "西元一七八七年"
-        }
-      ],
-      "sentence": "公麟然否實公麟。古筆知誠出宋人。跋語奚妨去其贋。長圖益足尚斯真。衣衫如篆渾唐法。蕉石生神異李皴。名欵設惟徵故紙。是為求劍刻舟倫。乾隆丁未（西元一七八七年）清和上澣御題。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "乾隆丁未"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一七八七年"
-        }
-      ],
-      "sentence": "乾隆丁未（西元一七八七年）清和上澣御題。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 57321,
+      "authorcid": 438091,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "右卷"
-        },
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "金廷標",
+          "cid": 438091,
+          "name": "金廷標",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣金廷標奉敕恭臨馬遠筆",
+      "author": "金廷標"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
         {
           "type": "LocationName",
-          "start": 4,
-          "end": 6,
-          "span": "石渠",
-          "cid": 2236
+          "start": 0,
+          "end": 2,
+          "span": "西山",
+          "aid": "PL000000000404"
         },
         {
-          "type": "PersonName",
-          "start": 10,
-          "end": 13,
-          "span": "李公麟",
-          "cid": 19865,
-          "name": "李公麟",
-          "aid": "unknow"
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "南軍"
         },
         {
           "type": "Thing",
-          "start": 13,
-          "end": 18,
-          "span": "西園勝會圖"
+          "start": 21,
+          "end": 23,
+          "span": "左袖"
         },
         {
-          "type": "PersonName",
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "劉滅"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 34,
+          "span": "丙戌"
+        },
+        {
+          "type": "Time",
           "start": 35,
-          "end": 37,
-          "span": "公麟",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
+          "end": 42,
+          "span": "西元一七六六年"
         },
         {
-          "type": "PersonName",
-          "start": 46,
-          "end": 48,
-          "span": "公麟",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "PersonName",
-          "start": 55,
-          "end": 57,
-          "span": "翰臣",
-          "cid": 57935,
-          "name": "龍啟瑞",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 60,
-          "end": 62,
-          "span": "米芾",
-          "cid": 3676,
-          "name": "米芾",
-          "aid": "A004610"
-        },
-        {
-          "type": "Person",
-          "start": 121,
-          "end": 123,
-          "span": "人物"
-        },
-        {
-          "type": "Thing",
-          "start": 123,
-          "end": 125,
-          "span": "衣褶"
-        },
-        {
-          "type": "PersonName",
-          "start": 133,
-          "end": 135,
-          "span": "公麟",
-          "cid": "unknow",
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "Person",
-          "start": 149,
-          "end": 152,
-          "span": "宋名家"
-        },
-        {
-          "type": "Person",
-          "start": 172,
-          "end": 174,
-          "span": "何人"
-        },
-        {
-          "type": "PersonName",
-          "start": 186,
-          "end": 188,
-          "span": "六人",
-          "cid": 531029,
-          "name": "杜彥卿",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 196,
-          "end": 198,
-          "span": "端叔",
-          "cid": 76778,
-          "name": "楊詩南",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 199,
-          "end": 202,
-          "span": "李公擇",
-          "cid": 40291,
-          "name": "李公擇",
-          "aid": "A017808"
-        },
-        {
-          "type": "PersonName",
-          "start": 204,
-          "end": 206,
-          "span": "曇秀",
-          "cid": "unknow",
-          "name": "法芝",
-          "aid": "A001778"
-        },
-        {
-          "type": "PersonName",
-          "start": 207,
-          "end": 209,
-          "span": "道潛",
-          "cid": "unknow",
-          "name": "道潛",
-          "aid": "A004546"
-        },
-        {
-          "type": "PersonName",
-          "start": 214,
-          "end": 216,
-          "span": "東坡",
-          "cid": "unknow",
-          "name": "蘇軾",
-          "aid": "A003555"
-        },
-        {
-          "type": "PersonName",
-          "start": 219,
-          "end": 221,
-          "span": "王銑",
-          "cid": 69399,
-          "name": "王銑",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 270,
-          "end": 272,
-          "span": "宋人"
-        },
-        {
-          "type": "Person",
-          "start": 288,
-          "end": 290,
-          "span": "諸人"
-        },
-        {
-          "type": "PersonName",
-          "start": 318,
-          "end": 320,
-          "span": "董誥",
-          "cid": 57321,
-          "name": "董誥",
-          "aid": "unknow"
+          "type": "Time",
+          "start": 43,
+          "end": 46,
+          "span": "清和月"
         }
       ],
-      "sentence": "右卷續入石渠。舊題為李公麟西園勝會圖。幾暇重加披覽。見其佈景古茂。雖用公麟之事。而畫法則全異公麟蹊徑。因命内廷翰臣等。以米芾西園雅集圖記校之。其人數位置皆合。惟第二第三叚敘次前後不同。盖文章畫趣各適其適。固自無妨也。至用筆蒼秀雄渾。生動開張。人物衣褶有古篆籀遺意。與公麟所畫用筆不類。雖幀中無款自屬宋名家手筆。正不藉假託龍眠以增聲價耳。幀後不知何人捨記而别作識語。且記中十六人僅止十一。又訛李端叔為李公擇。僧曇秀為道潛。甚至兩見東坡。三見王銑。又訛詵作侁。舛謬蕪雜之處。不值一噱。盖陋者偶得是卷。妄為綴識。不自知其蛇足也。爰命截去題跋。改題宋人西園雅集圖籖。以存真面。既於圖中諸人親書其名。並識如右。乾隆丁未（西元一七八七年）清和月。臣董誥奉勅敬書。",
-      "author": "董誥"
+      "sentence": "西山既學採其華。那管人間閒是非。待到南軍袒左袖。尔時劉滅已幾希。丙戌（西元一七六六年）清和月御題",
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": 57321,
-      "authoraid": "unknow",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "乾隆丁未"
+          "end": 2,
+          "span": "丙戌"
         },
         {
           "type": "Time",
-          "start": 5,
-          "end": 16,
-          "span": "西元一七八七年）清和月"
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六六年"
         },
         {
-          "type": "PersonName",
-          "start": 18,
-          "end": 20,
-          "span": "董誥",
-          "cid": 57321,
-          "name": "董誥",
-          "aid": "unknow"
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "清和月"
         }
       ],
-      "sentence": "乾隆丁未（西元一七八七年）清和月。臣董誥奉敕敬書。",
-      "author": "董誥"
+      "sentence": "丙戌（西元一七六六年）清和月御題",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

@@ -2,556 +2,283 @@
   "filefroms": "1159.json",
   "sentences": [
     {
-      "authorcid": 101824,
+      "authorcid": "unknow",
       "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
-          "start": 1,
-          "end": 4,
-          "span": "山道人",
-          "cid": "unknow",
-          "name": "行深",
-          "aid": "A021853"
-        },
-        {
-          "type": "Location",
-          "start": 6,
-          "end": 10,
-          "span": "可詩齋中"
-        }
-      ],
-      "sentence": "月山道人畫於可詩齋中。",
-      "author": "任仁發"
-    },
-    {
-      "authorcid": 101824,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 4,
-          "span": "山道人",
-          "cid": "unknow",
-          "name": "行深",
-          "aid": "A021853"
-        }
-      ],
-      "sentence": "月山道人畫於可詩齋中",
-      "author": "任仁發"
-    },
-    {
-      "authorcid": 10801,
-      "authoraid": "A008211",
-      "output": [
-        {
-          "type": "Person",
-          "start": 2,
-          "end": 4,
-          "span": "八仙"
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 8,
-          "span": "知章",
-          "cid": 48514,
-          "name": "曾文照",
+          "start": 0,
+          "end": 3,
+          "span": "陳居中",
+          "cid": 47873,
+          "name": "陳居中",
           "aid": "unknow"
         },
         {
-          "type": "Thing",
-          "start": 9,
-          "end": 10,
-          "span": "馬"
-        },
-        {
-          "type": "Thing",
-          "start": 12,
-          "end": 13,
-          "span": "船"
-        },
-        {
-          "type": "Thing",
-          "start": 17,
-          "end": 19,
-          "span": "井水"
-        },
-        {
-          "type": "LocationName",
-          "start": 22,
-          "end": 24,
-          "span": "汝陽",
-          "cid": 17387
-        },
-        {
-          "type": "Location",
-          "start": 32,
-          "end": 35,
-          "span": "麴車口"
-        },
-        {
-          "type": "LocationName",
-          "start": 43,
-          "end": 45,
-          "span": "酒泉",
-          "cid": 10912
-        },
-        {
           "type": "Person",
-          "start": 46,
-          "end": 48,
-          "span": "左相"
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 58,
-          "span": "長鯨"
-        },
-        {
-          "type": "PersonName",
-          "start": 67,
-          "end": 69,
-          "span": "世賢",
-          "cid": 11706,
-          "name": "張君冑",
-          "aid": "A001021"
-        },
-        {
-          "type": "Person",
-          "start": 75,
-          "end": 77,
-          "span": "少年"
-        },
-        {
-          "type": "Thing",
-          "start": 83,
-          "end": 85,
-          "span": "青天"
-        },
-        {
-          "type": "Thing",
-          "start": 88,
-          "end": 90,
-          "span": "玉樹"
-        },
-        {
-          "type": "PersonName",
-          "start": 94,
-          "end": 96,
-          "span": "蘇晉",
-          "cid": 31158,
-          "name": "蘇晉",
-          "aid": "A005184"
-        },
-        {
-          "type": "PersonName",
-          "start": 110,
-          "end": 112,
-          "span": "李白",
-          "cid": 32540,
-          "name": "李白",
-          "aid": "A005220"
-        },
-        {
-          "type": "LocationName",
-          "start": 119,
-          "end": 122,
-          "span": "安市上",
-          "aid": "PL000000042492",
-          "cid": 5185
-        },
-        {
-          "type": "Person",
-          "start": 126,
-          "end": 128,
-          "span": "天子"
-        },
-        {
-          "type": "Thing",
-          "start": 132,
-          "end": 133,
-          "span": "船"
-        },
-        {
-          "type": "Person",
-          "start": 136,
-          "end": 137,
-          "span": "臣"
-        },
-        {
-          "type": "PersonName",
-          "start": 139,
-          "end": 141,
-          "span": "中仙",
-          "cid": 35051,
-          "name": "王沂孫",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 142,
-          "end": 144,
-          "span": "張旭",
-          "cid": 29017,
-          "name": "張旭",
-          "aid": "A019218"
-        },
-        {
-          "type": "Thing",
-          "start": 151,
-          "end": 152,
-          "span": "帽"
-        },
-        {
-          "type": "PersonName",
-          "start": 154,
-          "end": 156,
-          "span": "王公",
-          "cid": 139147,
-          "name": "王公",
-          "aid": "A010722"
-        },
-        {
-          "type": "Thing",
-          "start": 161,
-          "end": 162,
-          "span": "紙"
-        },
-        {
-          "type": "Thing",
-          "start": 163,
-          "end": 165,
-          "span": "雲煙"
+          "start": 4,
+          "end": 6,
+          "span": "蘇李"
         },
         {
           "type": "Time",
-          "start": 182,
-          "end": 188,
-          "span": "泰定乙丑七月"
+          "start": 14,
+          "end": 19,
+          "span": "癸亥年許初"
         },
         {
-          "type": "LocationName",
-          "start": 199,
-          "end": 201,
-          "span": "蜀郡",
-          "cid": 26145
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "京邸"
         }
       ],
-      "sentence": "飲中八仙歌。知章騎馬似乘船。眼花落井水底眠。汝陽三斗始朝天。道逢麴車口流涎。恨不移封向酒泉。左相日興費萬錢。飲如長鯨吸百川。銜杯樂聖稱世賢。宗之瀟灑美少年。舉觴白眼望青天。皎如玉樹臨風前。蘇晉長齋繡佛前。醉中往往愛逃禪。李白一斗詩百篇。長安市上酒家眠。天子呼來不上船。自稱臣是酒中仙。張旭三杯草聖傳。脫帽露頂王公前。揮毫落紙如雲煙。焦遂五斗方卓然。高談雄辯驚四筵。泰定乙丑七月。暇日展卷。因書於後。蜀郡虞集。",
-      "author": "虞集"
+      "sentence": "陳居中畫蘇李別意。（篆書）。癸亥年許初為與齋題于京邸。（行書）。",
+      "author": "許初"
     },
     {
-      "authorcid": 10801,
-      "authoraid": "A008211",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 6,
-          "span": "泰定乙丑七月"
+          "end": 5,
+          "span": "癸亥年許初"
         },
         {
-          "type": "LocationName",
-          "start": 17,
-          "end": 19,
-          "span": "蜀郡",
-          "cid": 26145
+          "type": "Location",
+          "start": 10,
+          "end": 12,
+          "span": "京邸"
         }
       ],
-      "sentence": "泰定乙丑七月。暇日展卷。因書於後。蜀郡虞集。",
-      "author": "虞集"
+      "sentence": "癸亥年許初為與齋題于京邸",
+      "author": "許初"
     },
     {
-      "authorcid": 55870,
-      "authoraid": "A006727",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "杜甫",
-          "cid": 3915,
-          "name": "杜甫",
-          "aid": "A005221"
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "河梁卷"
         },
         {
           "type": "PersonName",
           "start": 13,
           "end": 15,
-          "span": "知章",
-          "cid": 48514,
-          "name": "曾文照",
+          "span": "允脩",
+          "cid": 200468,
+          "name": "胡悳",
           "aid": "unknow"
         },
         {
-          "type": "Thing",
-          "start": 16,
-          "end": 17,
-          "span": "馬"
-        },
-        {
-          "type": "Thing",
+          "type": "Person",
           "start": 19,
-          "end": 20,
-          "span": "船"
+          "end": 21,
+          "span": "人馬"
         },
         {
           "type": "Thing",
-          "start": 24,
-          "end": 26,
-          "span": "井水"
+          "start": 27,
+          "end": 29,
+          "span": "沙棘"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "驪馬"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 51,
+          "span": "蘇君"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "子卿",
+          "cid": 3593,
+          "name": "劉荀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 74,
+          "end": 76,
+          "span": "漢使"
+        },
+        {
+          "type": "Location",
+          "start": 79,
+          "end": 82,
+          "span": "荒澤中"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 89,
+          "span": "李隴西"
+        },
+        {
+          "type": "Time",
+          "start": 106,
+          "end": 111,
+          "span": "戊子臘日時"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 113,
+          "span": "韶書"
         }
       ],
-      "sentence": "（第一則）杜甫飲中八仙歌。知章騎馬似乘船。眼花落井水底眠。",
-      "author": "愛新覺羅弘曆"
+      "sentence": "居中河梁卷。昔賢所重。予侄允脩得此圖。人馬皆生動。群羢沙棘。慘澹中亦自別致。而驪馬豎耳顧視。似感聽蘇君之凜冽談者。神故更駿。然細察情端。似是子卿初得漢使。相見荒澤中。未必是李隴西尚作漢衣冠也。畫致簡貴。卓可寶重。戊子臘日時韶書。",
+      "author": "時韶"
     },
     {
-      "authorcid": 55870,
-      "authoraid": "A006727",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "LocationName",
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "戊子臘日時"
+        },
+        {
+          "type": "Thing",
           "start": 5,
           "end": 7,
-          "span": "汝陽",
-          "cid": 17387
+          "span": "韶書"
+        }
+      ],
+      "sentence": "戊子臘日時韶書",
+      "author": "時韶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "蘇李"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "泣別圖"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 11,
+          "span": "祖餞二疏圖"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 30,
+          "span": "宋人"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "它"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 40,
+          "span": "父"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "羊酪"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 52,
+          "span": "江瑤柱"
+        },
+        {
+          "type": "Time",
+          "start": 63,
+          "end": 66,
+          "span": "丁未臘"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 71,
+          "span": "雨蕉居士"
+        },
+        {
+          "type": "Location",
+          "start": 75,
+          "end": 77,
+          "span": "蕉園"
+        },
+        {
+          "type": "Location",
+          "start": 78,
+          "end": 81,
+          "span": "寒香亭"
+        }
+      ],
+      "sentence": "蘇李泣別圖與祖餞二疏圖往往多臨摹古蹟者。此卷經營古澹。真宋人善本也。它作者如傖父飲羊酪啖豕膋。忽覩江瑤柱。冉得不爽然自失。丁未臘盡雨蕉居士馴寓目於蕉園之寒香亭。",
+      "author": "凌馴"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "丁未臘盡"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 8,
+          "span": "雨蕉居士"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "蕉園"
         },
         {
           "type": "Location",
           "start": 15,
           "end": 18,
-          "span": "麴車口"
-        },
-        {
-          "type": "LocationName",
-          "start": 26,
-          "end": 28,
-          "span": "酒泉",
-          "cid": 10912
+          "span": "寒香亭"
         }
       ],
-      "sentence": "（第二則）汝陽三斗始朝天。道逢麴車口流涎。恨不移封向酒泉。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Person",
-          "start": 5,
-          "end": 7,
-          "span": "左相"
-        },
-        {
-          "type": "Thing",
-          "start": 15,
-          "end": 17,
-          "span": "長鯨"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "百川"
-        }
-      ],
-      "sentence": "（第三則）左相日興費萬錢。飲如長鯨吸百川。銜杯樂聖稱避賢。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Person",
-          "start": 10,
-          "end": 12,
-          "span": "少年"
-        },
-        {
-          "type": "Thing",
-          "start": 15,
-          "end": 17,
-          "span": "白眼"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "青天"
-        },
-        {
-          "type": "Thing",
-          "start": 23,
-          "end": 25,
-          "span": "玉樹"
-        }
-      ],
-      "sentence": "（第四則）宗之瀟灑美少年。舉觴白眼望青天。皎如玉樹臨風前。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "蘇晉",
-          "cid": 31158,
-          "name": "蘇晉",
-          "aid": "A005184"
-        }
-      ],
-      "sentence": "（第五則）蘇晉長齋繡佛前。醉中往往愛逃禪。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "李白",
-          "cid": 32540,
-          "name": "李白",
-          "aid": "A005220"
-        },
-        {
-          "type": "LocationName",
-          "start": 14,
-          "end": 17,
-          "span": "安市上",
-          "aid": "PL000000042492",
-          "cid": 5185
-        },
-        {
-          "type": "Location",
-          "start": 17,
-          "end": 19,
-          "span": "酒家"
-        },
-        {
-          "type": "Person",
-          "start": 21,
-          "end": 23,
-          "span": "天子"
-        },
-        {
-          "type": "Thing",
-          "start": 27,
-          "end": 28,
-          "span": "船"
-        },
-        {
-          "type": "Person",
-          "start": 31,
-          "end": 32,
-          "span": "臣"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "中仙",
-          "cid": 35051,
-          "name": "王沂孫",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "（第六則）李白一斗詩百篇。長安市上酒家眠。天子呼來不上船。自稱臣是酒中仙。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "張旭",
-          "cid": 56077,
-          "name": "張旭",
-          "aid": "A019218"
-        },
-        {
-          "type": "Thing",
-          "start": 14,
-          "end": 15,
-          "span": "帽"
-        },
-        {
-          "type": "PersonName",
-          "start": 17,
-          "end": 19,
-          "span": "王公",
-          "cid": 139147,
-          "name": "王公",
-          "aid": "A010722"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 25,
-          "span": "紙"
-        },
-        {
-          "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "雲烟"
-        }
-      ],
-      "sentence": "（第七則）張旭三杯草聖傳。脱帽露頂王公前。揮毫落紙如雲烟。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 21,
-          "end": 25,
-          "span": "乾隆丙午"
-        },
-        {
-          "type": "Time",
-          "start": 26,
-          "end": 34,
-          "span": "西元一七八六年）"
-        },
-        {
-          "type": "Time",
-          "start": 34,
-          "end": 36,
-          "span": "孟冬"
-        }
-      ],
-      "sentence": "（第八則）焦遂五斗方卓然。高談雄辨驚四筵。乾隆丙午（西元一七八六年）孟冬下澣御筆。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "乾隆丙午孟冬"
-        }
-      ],
-      "sentence": "乾隆丙午孟冬下澣御筆",
-      "author": "愛新覺羅弘曆"
+      "sentence": "丁未臘盡雨蕉居士馴寓目於蕉園之寒香亭",
+      "author": "凌馴"
     }
   ]
 }

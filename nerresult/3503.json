@@ -2,58 +2,28 @@
   "filefroms": "3503.json",
   "sentences": [
     {
-      "authorcid": 65840,
-      "authoraid": "unknow",
+      "authorcid": 34868,
+      "authoraid": "A018140",
       "output": [
         {
-          "type": "Thing",
-          "start": 1,
-          "end": 2,
-          "span": "雪"
-        },
-        {
-          "type": "Thing",
-          "start": 7,
-          "end": 9,
-          "span": "梅蘂"
-        },
-        {
           "type": "LocationName",
-          "start": 17,
-          "end": 19,
-          "span": "西湖",
-          "aid": "PL000000011593"
-        },
-        {
-          "type": "Thing",
-          "start": 22,
-          "end": 24,
-          "span": "東閣"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 68,
-          "span": "梅竹小卷"
-        },
-        {
-          "type": "Location",
-          "start": 76,
-          "end": 78,
-          "span": "南沙"
+          "start": 0,
+          "end": 2,
+          "span": "晉昌",
+          "cid": 16756
         },
         {
           "type": "PersonName",
-          "start": 78,
-          "end": 81,
-          "span": "蔣廷錫",
-          "cid": 65840,
-          "name": "蔣廷錫",
-          "aid": "unknow"
+          "start": 2,
+          "end": 4,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
         }
       ],
-      "sentence": "傲雪凌霜。愛他梅蘂。才借春光。步繞西湖。興餘東閣。可索詩腸。娟娟月轉迴廊。悄無處安排暗香。一夜相思。幾枝疎影。落在寒窓。臨揚補之梅竹小卷。并錄其自題作。南沙蔣廷錫。",
-      "author": "蔣廷錫"
+      "sentence": "晉昌唐寅畫",
+      "author": "唐寅"
     }
   ]
 }

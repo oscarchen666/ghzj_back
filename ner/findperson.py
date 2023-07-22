@@ -2,10 +2,10 @@
 import pandas as pd
 # import sqlite3
 from tool import select,delauname,JsonEncoder,ddbc_name2aid,ddbc_personinfo,ddbc_place
-# from ner.getresulthc import infer #单独运行该文件时注释掉这两行,换下两行
-# from ner.dealsent import getsentences,predealh
-from getresulthc import infer
-from dealsent import getsentences,predealh
+from ner.getresulthc import infer #单独运行该文件时注释掉这两行,换下两行
+from ner.dealsent import getsentences,predealh
+# from getresulthc import infer
+# from dealsent import getsentences,predealh
 dbpath = "data/latest.db"
 
 '''

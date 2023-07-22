@@ -2,548 +2,130 @@
   "filefroms": "517.json",
   "sentences": [
     {
-      "authorcid": 39828,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "紹定二年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 15,
-          "span": "西元一二二九年)三月"
-        },
-        {
-          "type": "PersonName",
-          "start": 15,
-          "end": 17,
-          "span": "朱銳",
-          "cid": 39828,
-          "name": "朱銳",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "紹定二年(西元一二二九年)三月朱銳筆",
-      "author": "朱銳"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "A019252",
+      "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "Thing",
-          "start": 1,
-          "end": 2,
-          "span": "酒"
-        },
-        {
-          "type": "Person",
-          "start": 6,
-          "end": 7,
-          "span": "我"
-        },
-        {
-          "type": "PersonName",
-          "start": 32,
-          "end": 34,
-          "span": "雲居",
-          "cid": 123742,
-          "name": "劉曰寧",
-          "aid": "A010588"
-        },
-        {
-          "type": "Metric",
-          "start": 48,
-          "end": 51,
-          "span": "三百杯"
+          "start": 2,
+          "end": 6,
+          "span": "楓林煙雨"
         },
         {
           "type": "Thing",
-          "start": 67,
-          "end": 69,
-          "span": "白雲"
-        },
-        {
-          "type": "Person",
-          "start": 98,
-          "end": 99,
-          "span": "他"
-        },
-        {
-          "type": "Person",
-          "start": 121,
-          "end": 125,
-          "span": "陶阮諸公"
+          "start": 13,
+          "end": 14,
+          "span": "猿"
         },
         {
           "type": "Thing",
-          "start": 154,
-          "end": 156,
-          "span": "亭樹"
+          "start": 26,
+          "end": 28,
+          "span": "雲山"
         },
         {
           "type": "Thing",
-          "start": 169,
-          "end": 170,
-          "span": "酒"
+          "start": 38,
+          "end": 39,
+          "span": "風"
         },
         {
           "type": "Thing",
-          "start": 173,
-          "end": 175,
-          "span": "杯土"
+          "start": 40,
+          "end": 42,
+          "span": "輕舟"
         },
         {
           "type": "Person",
-          "start": 176,
-          "end": 177,
+          "start": 45,
+          "end": 46,
           "span": "君"
         },
         {
-          "type": "Person",
-          "start": 179,
-          "end": 180,
-          "span": "我"
-        },
-        {
           "type": "Thing",
-          "start": 181,
-          "end": 183,
-          "span": "酒船"
-        },
-        {
-          "type": "Person",
-          "start": 184,
-          "end": 185,
-          "span": "我"
-        },
-        {
-          "type": "Person",
-          "start": 187,
-          "end": 188,
-          "span": "君"
-        },
-        {
-          "type": "Person",
-          "start": 194,
-          "end": 196,
-          "span": "天王"
-        },
-        {
-          "type": "Thing",
-          "start": 197,
-          "end": 199,
-          "span": "遙水"
-        },
-        {
-          "type": "Time",
-          "start": 204,
-          "end": 207,
-          "span": "三千年"
-        },
-        {
-          "type": "Time",
-          "start": 208,
-          "end": 213,
-          "span": "至元壬午春"
-        },
-        {
-          "type": "PersonName",
-          "start": 213,
-          "end": 216,
-          "span": "鮮于樞",
-          "cid": 30354,
-          "name": "鮮于樞",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "飲酒有真樂。我昔初未知。十載愁懷困吳楚。酒中之趣方得之。歸來忽遇雲居子。卻怪前身謫仙是。高堂日飲三百杯。一笑相忘醉鄉衣里。散髮歌呼望白雲。舉觴遙酹雲中君。世間得失榮枯擾擾了不顧。但覺六合之內別有他乾坤。吁嗟。末俗惡高潔。晦跡含光乃明哲。當時陶阮諸公是以識其然。往往沉冥物外逃麴蘗。豈不聞侯家昔日喧歌舞。侯家亭樹今榛莽。夜臺長往即冥冥。釃酒何曾入杯土。君當為我買酒船。我亦為君招列僊。載從天王宴遙水。一醒一醉三千年。至元壬午春鮮于樞。",
-      "author": "鮮於樞"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "A019252",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 5,
-          "span": "至元壬午春"
-        },
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 8,
-          "span": "鮮于樞",
-          "cid": 30354,
-          "name": "鮮于樞",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "至元壬午春鮮于樞",
-      "author": "鮮於樞"
-    },
-    {
-      "authorcid": 28143,
-      "authoraid": "A008234",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "荒郊"
-        },
-        {
-          "type": "Thing",
-          "start": 6,
-          "end": 8,
-          "span": "野竹"
-        },
-        {
-          "type": "Thing",
-          "start": 9,
-          "end": 10,
-          "span": "門"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
+          "start": 58,
+          "end": 60,
           "span": "青山"
         },
         {
-          "type": "Thing",
-          "start": 28,
-          "end": 29,
-          "span": "壑"
+          "type": "Location",
+          "start": 66,
+          "end": 68,
+          "span": "仙閣"
         },
         {
-          "type": "Thing",
-          "start": 30,
-          "end": 32,
-          "span": "宿鳥"
-        },
-        {
-          "type": "Thing",
-          "start": 34,
-          "end": 35,
-          "span": "林"
-        },
-        {
-          "type": "Time",
-          "start": 48,
-          "end": 54,
-          "span": "至正四年冬日"
-        },
-        {
-          "type": "LocationName",
-          "start": 54,
-          "end": 56,
-          "span": "金華",
-          "cid": 18339
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 58,
-          "span": "柳貫"
-        }
-      ],
-      "sentence": "荒郊通徑僻。野竹閉門深。白日羲皇世。青山綺皓心。潛蛟多在壑。宿鳥獨歸林。知爾荷鋤倦。莫作醉時唫。至正四年冬日金華柳貫題。",
-      "author": "柳貫"
-    },
-    {
-      "authorcid": 28143,
-      "authoraid": "A008234",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "至正四年冬日"
-        },
-        {
-          "type": "LocationName",
-          "start": 6,
-          "end": 8,
-          "span": "金華",
-          "cid": 18339
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "柳貫"
-        }
-      ],
-      "sentence": "至正四年冬日金華柳貫題",
-      "author": "柳貫"
-    },
-    {
-      "authorcid": 33468,
-      "authoraid": "A023118",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "大江"
-        },
-        {
-          "type": "Thing",
-          "start": 12,
-          "end": 15,
-          "span": "波濤烟"
-        },
-        {
-          "type": "Thing",
-          "start": 16,
-          "end": 18,
-          "span": "波濤"
-        },
-        {
-          "type": "Thing",
-          "start": 22,
-          "end": 23,
-          "span": "海"
-        },
-        {
-          "type": "Person",
-          "start": 24,
-          "end": 26,
-          "span": "古人"
-        },
-        {
-          "type": "Person",
-          "start": 29,
-          "end": 30,
-          "span": "誰"
-        },
-        {
-          "type": "Person",
-          "start": 32,
-          "end": 33,
-          "span": "君"
-        },
-        {
-          "type": "PersonName",
-          "start": 38,
-          "end": 40,
-          "span": "叔齊",
-          "cid": 7208,
-          "name": "鍾璇",
-          "aid": "A003980"
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 59,
-          "span": "周家粟"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 67,
-          "span": "西山蕨"
-        },
-        {
-          "type": "PersonName",
-          "start": 72,
-          "end": 74,
-          "span": "孟嘗",
-          "cid": 397117,
-          "name": "孟嘗",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 82,
-          "end": 84,
-          "span": "劍客",
-          "cid": 72317,
-          "name": "毛乃庸",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 94,
-          "span": "珠履"
-        },
-        {
-          "type": "Person",
-          "start": 96,
-          "end": 98,
-          "span": "牧童"
-        },
-        {
-          "type": "Thing",
-          "start": 101,
-          "end": 103,
-          "span": "黃土"
-        },
-        {
-          "type": "Thing",
-          "start": 132,
-          "end": 135,
-          "span": "尊中酒"
-        },
-        {
-          "type": "Thing",
-          "start": 136,
-          "end": 139,
-          "span": "尊中酒"
-        },
-        {
-          "type": "Person",
-          "start": 144,
-          "end": 146,
-          "span": "少年"
-        },
-        {
-          "type": "Person",
-          "start": 149,
-          "end": 151,
-          "span": "少年"
-        },
-        {
-          "type": "Thing",
-          "start": 155,
-          "end": 156,
-          "span": "酒"
-        },
-        {
-          "type": "Thing",
-          "start": 162,
-          "end": 164,
-          "span": "白日"
-        },
-        {
-          "type": "Thing",
-          "start": 165,
-          "end": 167,
-          "span": "青天"
-        },
-        {
-          "type": "PersonName",
-          "start": 172,
-          "end": 174,
-          "span": "倪瓚",
-          "cid": 33468,
-          "name": "倪瓚",
-          "aid": "A023118"
-        }
-      ],
-      "sentence": "大江西去匯百川。洶湧萬里波濤烟。波濤浩浩東入海。古人紛紛有誰在。君不見。伯夷叔齊尚高潔。辛苦惟知盡清節。避地不食周家粟。可憐飢採西山蕨。又不見。孟嘗禮士何慇懃。三千劍客來如雲。高堂一閉珠履散。牧童躑躅歌黃土。世間萬事果何有。貧富賢愚同一朽。縱使能垂身後名。何如長對尊中酒。尊中酒。斗十千。少年安得長少年。胡為對酒不肯樂。請看白日馳青天。滄浪漫士倪瓚。",
-      "author": "倪瓚"
-    },
-    {
-      "authorcid": 33468,
-      "authoraid": "A023118",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 4,
-          "end": 6,
-          "span": "倪瓚",
-          "cid": 33468,
-          "name": "倪瓚",
-          "aid": "A023118"
-        }
-      ],
-      "sentence": "滄浪漫士倪瓚",
-      "author": "倪瓚"
-    },
-    {
-      "authorcid": 104511,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 2,
-          "end": 4,
-          "span": "田父"
-        },
-        {
-          "type": "Thing",
-          "start": 7,
-          "end": 8,
-          "span": "杯"
-        },
-        {
-          "type": "Person",
-          "start": 54,
-          "end": 55,
-          "span": "我"
-        },
-        {
-          "type": "PersonName",
-          "start": 60,
-          "end": 61,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
-          "start": 72,
-          "end": 74,
-          "span": "錢塘",
-          "cid": 5333
-        },
-        {
-          "type": "Thing",
+          "type": "Location",
           "start": 74,
           "end": 76,
-          "span": "紫芝"
+          "span": "花亭"
         },
         {
-          "type": "PersonName",
-          "start": 77,
-          "end": 79,
-          "span": "俞和",
-          "cid": 104511,
-          "name": "俞和",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "朝與田父飲。舉杯即成歡。念子遠相過。酬酢禮所安。況聞澍甘澤。惟類已摧殘。秋登茲有徵。生計稍不難。既醉各分散。我獨思其端。人心有不豫。天意隨能干。錢塘紫芝生俞和。",
-      "author": "俞和"
-    },
-    {
-      "authorcid": 104511,
-      "authoraid": "unknow",
-      "output": [
+          "type": "Location",
+          "start": 80,
+          "end": 82,
+          "span": "池邊"
+        },
         {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "錢塘",
-          "cid": 5333
+          "type": "Location",
+          "start": 88,
+          "end": 90,
+          "span": "浦口"
         },
         {
           "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "紫芝"
+          "start": 91,
+          "end": 92,
+          "span": "船"
+        },
+        {
+          "type": "Thing",
+          "start": 93,
+          "end": 95,
+          "span": "芰荷"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "西元一六二七年"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 109,
+          "span": "新秋"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 111,
+          "span": "舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 113,
+          "end": 115,
+          "span": "塔院",
+          "aid": "PL000000056118"
         },
         {
           "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "俞和",
-          "cid": 104511,
-          "name": "俞和",
-          "aid": "unknow"
+          "start": 119,
+          "end": 122,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
-      "sentence": "錢塘紫芝生俞和",
-      "author": "俞和"
+      "sentence": "千里楓林煙雨深。無朝無暮有猿吟。停橈靜聽曲中意。好是雲山韶濩音。潮落江平未有風。輕舟濟濟共君同。時時引領望天末。何處青山是越中。朝來仙閣聽弦歌。瞑入花亭見綺羅。池邊命酒憐風月。浦口同船惜芰荷。丁卯（西元一六二七年）新秋泊舟澄照塔院畫并書。董其昌。",
+      "author": "董其昌"
     }
   ]
 }

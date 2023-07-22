@@ -2,177 +2,283 @@
   "filefroms": "894.json",
   "sentences": [
     {
-      "authorcid": "unknow",
+      "authorcid": 68901,
       "authoraid": "unknow",
-      "output": [],
-      "sentence": "妙悟",
-      "author": ""
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "乾隆十九年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 16,
+          "span": "西元一七五四年）四月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 21,
+          "span": "丁觀鵬",
+          "cid": 68901,
+          "name": "丁觀鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "顧愷",
+          "cid": 296766,
+          "name": "顧愷",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆十九年（西元一七五四年）四月。臣丁觀鵬奉勑恭摹顧愷之筆意。",
+      "author": "丁觀鵬"
     },
     {
-      "authorcid": 10879,
-      "authoraid": "A004613",
+      "authorcid": 68901,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "乾隆十九年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 16,
+          "span": "西元一七五四年）四月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 21,
+          "span": "丁觀鵬",
+          "cid": 68901,
+          "name": "丁觀鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆十九年（西元一七五四年）四月。臣丁觀鵬奉勑恭摹。",
+      "author": "丁觀鵬"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "山堂"
+          "start": 9,
+          "end": 11,
+          "span": "桂旗"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "神滸"
         },
         {
           "type": "Thing",
-          "start": 5,
-          "end": 7,
-          "span": "晚鐘"
+          "start": 24,
+          "end": 26,
+          "span": "玄芝"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "玉珮"
+        },
+        {
+          "type": "Person",
+          "start": 73,
+          "end": 75,
+          "span": "佳人"
+        },
+        {
+          "type": "Thing",
+          "start": 236,
+          "end": 238,
+          "span": "明珠"
+        },
+        {
+          "type": "Thing",
+          "start": 241,
+          "end": 243,
+          "span": "翠羽"
+        },
+        {
+          "type": "Location",
+          "start": 245,
+          "end": 247,
+          "span": "南湘"
+        },
+        {
+          "type": "Person",
+          "start": 256,
+          "end": 258,
+          "span": "遊女"
+        },
+        {
+          "type": "Person",
+          "start": 260,
+          "end": 262,
+          "span": "㚿媧"
+        },
+        {
+          "type": "Thing",
+          "start": 269,
+          "end": 270,
+          "span": "牛"
+        },
+        {
+          "type": "Time",
+          "start": 315,
+          "end": 317,
+          "span": "甲戌"
+        },
+        {
+          "type": "Time",
+          "start": 318,
+          "end": 325,
+          "span": "西元一七五四年"
+        },
+        {
+          "type": "Time",
+          "start": 326,
+          "end": 328,
+          "span": "孟夏"
+        }
+      ],
+      "sentence": "嬉。左倚采旄。右蔭桂旗。攘皓捥於神滸兮。採湍瀨之玄芝。余情悅其淑美兮。心悵蕩而不怡。無良媒以接歡兮。託微波以通辭。願誠素之先達兮。解玉珮以要之。嗟佳人之信脩兮。羌習禮而明詩。抗瓊珶以和予兮。指潛淵而爲期。執拳拳之款實兮。懼斯靈之我欺。感交甫之棄言。悵猶豫而狐疑。收和顏以靜志兮。申禮防以自持。於是洛靈感焉。徙倚仿偟。神光離合。乍陰乍陽。擢輕軀以鸐立。若將飛而未翔。踐椒塗之郁烈兮。步衡薄而流芳。超長吟以慕遠兮。聲哀厲而彌長。爾迺眾靈雜遝。命疇嘯侶。或戲清流。或翔神渚。或採明珠。或拾翠羽。從南湘之二姚兮。攜漢濱之遊女。歎㚿媧之無匹兮。詠牽牛之獨處。揚輕袿之倚靡兮。翳脩袖以延佇。體迅飛。偶得宋牋。喜其堅緻宜墨。因臨子敬洛神十三行。甲戌（西元一七五四年）孟夏御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲戌"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七五四年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "孟夏"
         },
         {
           "type": "Thing",
           "start": 13,
           "end": 15,
-          "span": "獰龍"
-        },
-        {
-          "type": "Thing",
-          "start": 20,
-          "end": 22,
-          "span": "龍鱗"
-        },
-        {
-          "type": "Time",
-          "start": 24,
-          "end": 26,
-          "span": "明日"
-        },
-        {
-          "type": "Thing",
-          "start": 29,
-          "end": 31,
-          "span": "老松"
-        },
-        {
-          "type": "Thing",
-          "start": 35,
-          "end": 37,
-          "span": "龍湫"
-        },
-        {
-          "type": "Thing",
-          "start": 41,
-          "end": 42,
-          "span": "風"
-        },
-        {
-          "type": "Thing",
-          "start": 45,
-          "end": 47,
-          "span": "毒龍"
-        },
-        {
-          "type": "Person",
-          "start": 49,
-          "end": 51,
-          "span": "老夫"
-        },
-        {
-          "type": "Location",
-          "start": 65,
-          "end": 67,
-          "span": "山上"
-        },
-        {
-          "type": "Thing",
-          "start": 68,
-          "end": 70,
-          "span": "杉松"
-        },
-        {
-          "type": "Location",
-          "start": 72,
-          "end": 74,
-          "span": "山下"
-        },
-        {
-          "type": "Thing",
-          "start": 75,
-          "end": 76,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 86,
-          "end": 87,
-          "span": "果"
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 94,
-          "span": "擘茶"
-        },
-        {
-          "type": "Thing",
-          "start": 98,
-          "end": 100,
-          "span": "鑽石"
-        },
-        {
-          "type": "Person",
-          "start": 114,
-          "end": 115,
-          "span": "我"
-        },
-        {
-          "type": "PersonName",
-          "start": 116,
-          "end": 119,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
-        },
-        {
-          "type": "Location",
-          "start": 121,
-          "end": 125,
-          "span": "婁江舟次"
-        },
-        {
-          "type": "Time",
-          "start": 127,
-          "end": 131,
-          "span": "丁卯四月"
+          "span": "御筆"
         }
       ],
-      "sentence": "寂寂山堂報晚鐘。繞身三匝見獰龍。戲將帶縛龍鱗上。明日尋來是老松。　百尺龍湫徹底清。風吹一葉毒龍驚。老夫浴罷腥風作。霹靂光中嘯幾聲。山上多杉松。　山下多花果。松老幾千章。果熟垂百顆。擘茶染異香。鑽石傳新火。寫經未終函。已得長生我。陳繼儒書於婁江舟次。時丁卯四月望也。",
-      "author": "陳繼儒"
+      "sentence": "甲戌（西元一七五四年）孟夏御筆。",
+      "author": "愛新覺羅弘曆"
     },
     {
-      "authorcid": 10879,
-      "authoraid": "A004613",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
+          "type": "Metric",
+          "start": 42,
+          "end": 43,
+          "span": "三"
         },
         {
-          "type": "Location",
-          "start": 5,
-          "end": 9,
-          "span": "婁江舟次"
+          "type": "PersonName",
+          "start": 49,
+          "end": 52,
+          "span": "丁觀鵬",
+          "cid": 68901,
+          "name": "丁觀鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 56,
+          "span": "顧愷之",
+          "cid": 433396,
+          "name": "顧愷之",
+          "aid": "A002797"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 59,
+          "span": "洛神圖"
+        },
+        {
+          "type": "Time",
+          "start": 71,
+          "end": 73,
+          "span": "丙子"
+        },
+        {
+          "type": "Time",
+          "start": 74,
+          "end": 81,
+          "span": "西元一七五六年"
+        },
+        {
+          "type": "Time",
+          "start": 82,
+          "end": 84,
+          "span": "初冬"
+        }
+      ],
+      "sentence": "見說後生畏。誰云前藝空。神傳期阿堵。目送易歸鴻。詎在依形肖。堪稱積健雄。緬懷八斗韻。三百有遺風。命丁觀鵬仿顧愷之洛神圖成。即用題顧卷原韻題之。丙子（西元一七五六年）初冬御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丙子"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 11,
+          "span": "西元一七五六年）"
         },
         {
           "type": "Time",
           "start": 11,
+          "end": 13,
+          "span": "初冬"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
           "end": 15,
-          "span": "丁卯四月"
+          "span": "御筆"
         }
       ],
-      "sentence": "陳繼儒書於婁江舟次。時丁卯四月望也",
-      "author": "陳繼儒"
+      "sentence": "丙子（西元一七五六年）初冬御筆。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

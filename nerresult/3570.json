@@ -2,298 +2,39 @@
   "filefroms": "3570.json",
   "sentences": [
     {
-      "authorcid": 34673,
-      "authoraid": "A009194",
+      "authorcid": 438092,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Thing",
+          "type": "Time",
           "start": 0,
-          "end": 3,
-          "span": "一川圖"
-        }
-      ],
-      "sentence": "一川圖。徵明。",
-      "author": "文徵明"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "A006728",
-      "output": [
+          "end": 4,
+          "span": "雍正六年"
+        },
         {
-          "type": "Thing",
-          "start": 10,
+          "type": "Time",
+          "start": 5,
           "end": 12,
-          "span": "春水"
+          "span": "西元一七二八年"
         },
         {
-          "type": "Thing",
-          "start": 19,
-          "end": 20,
-          "span": "樹"
+          "type": "Time",
+          "start": 15,
+          "end": 19,
+          "span": "戊申仲春"
         },
         {
-          "type": "Thing",
+          "type": "PersonName",
           "start": 21,
-          "end": 23,
-          "span": "緋桃"
-        },
-        {
-          "type": "Person",
-          "start": 26,
-          "end": 28,
-          "span": "人家"
-        },
-        {
-          "type": "Location",
-          "start": 29,
-          "end": 31,
-          "span": "岩曲"
-        },
-        {
-          "type": "Person",
-          "start": 32,
-          "end": 34,
-          "span": "老翁"
-        },
-        {
-          "type": "Thing",
-          "start": 44,
-          "end": 46,
-          "span": "良田"
-        },
-        {
-          "type": "Thing",
-          "start": 61,
-          "end": 63,
-          "span": "菽粟"
-        },
-        {
-          "type": "Time",
-          "start": 80,
-          "end": 82,
-          "span": "庚申"
-        },
-        {
-          "type": "Time",
-          "start": 83,
-          "end": 90,
-          "span": "西元一七四０年"
-        },
-        {
-          "type": "Time",
-          "start": 91,
-          "end": 93,
-          "span": "孟夏"
-        }
-      ],
-      "sentence": "三篙新浪雨初足。一川春水縈淺綠。夾溪幾樹吐緋桃。隱約人家在岩曲。老翁課子事始耕。幸有數頃良田沃。韶華遍布澤及時。比戶已兆盈菽粟。披圖恍覩太平風。臥遊神往心相屬。庚申（西元一七四０年）孟夏御題。",
-      "author": "清仁宗"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "A006728",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "庚申"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一七四０年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 13,
-          "span": "孟夏"
-        }
-      ],
-      "sentence": "庚申（西元一七四０年）孟夏御題",
-      "author": "清仁宗"
-    },
-    {
-      "authorcid": 126804,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "清川"
-        },
-        {
-          "type": "Location",
-          "start": 8,
-          "end": 10,
-          "span": "川上"
-        },
-        {
-          "type": "Person",
-          "start": 14,
-          "end": 15,
-          "span": "君"
-        },
-        {
-          "type": "Thing",
-          "start": 17,
-          "end": 18,
-          "span": "柳"
-        },
-        {
-          "type": "Thing",
-          "start": 19,
-          "end": 20,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 27,
-          "end": 28,
-          "span": "鷺"
-        }
-      ],
-      "sentence": "清川一道碧沄沄。川上風光盡屬君。隨柳傍花行處樂。浴鳧飛鷺靜中群。穀祥。",
-      "author": "王穀祥"
-    },
-    {
-      "authorcid": 126804,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 0,
-          "end": 2,
-          "span": "穀祥"
-        }
-      ],
-      "sentence": "穀祥",
-      "author": "王穀祥"
-    },
-    {
-      "authorcid": 30211,
-      "authoraid": "A007417",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "一川",
-          "cid": 67889,
-          "name": "孫燧",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 14,
-          "end": 16,
-          "span": "太史",
-          "cid": 7111,
-          "name": "黃庭堅",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 27,
-          "end": 29,
-          "span": "方子",
-          "cid": 52770,
-          "name": "譚方平",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 72,
-          "end": 74,
-          "span": "魚龍"
-        },
-        {
-          "type": "PersonName",
-          "start": 82,
-          "end": 83,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 90,
-          "end": 92,
-          "span": "仲尼",
-          "cid": "unknow",
-          "name": "孔丘",
-          "aid": "A002174"
-        },
-        {
-          "type": "Location",
-          "start": 94,
-          "end": 96,
-          "span": "南禺"
-        }
-      ],
-      "sentence": "姑蘇張一川。余未識其人也。文太史諸公。為詩傳以頌。少友方子。嘗旅其家。懇余賦其號。遂漫錄之。入目多污濁。憐君操自清。心源涵巨派。游跡迥孤名。獨有魚龍隱。更無風浪攖。余非逐流者。為賦仲尼情。南禺豐道生。",
-      "author": "豐坊"
-    },
-    {
-      "authorcid": 30211,
-      "authoraid": "A007417",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "南禺"
-        },
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "豐道生",
-          "cid": 560945,
-          "name": "豐道生",
-          "aid": "A007417"
-        }
-      ],
-      "sentence": "南禺豐道生",
-      "author": "豐坊"
-    },
-    {
-      "authorcid": 35040,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 12,
-          "end": 15,
-          "span": "王穉登",
-          "cid": 35040,
-          "name": "王穉登",
+          "end": 24,
+          "span": "郎世寧",
+          "cid": 438092,
+          "name": "郎世寧",
           "aid": "unknow"
         }
       ],
-      "sentence": "淵岱之琛。（隸書）。後學王穉登書。（行書）。",
-      "author": "王穉登"
-    },
-    {
-      "authorcid": 35040,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "王穉登",
-          "cid": 35040,
-          "name": "王穉登",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "後學王穉登書",
-      "author": "王穉登"
+      "sentence": "雍正六年（西元一七二八年）歲次戊申仲春。臣郎世寧恭畫。",
+      "author": "郎世寧"
     }
   ]
 }

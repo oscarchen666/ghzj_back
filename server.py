@@ -573,9 +573,32 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    sql = "select * from biog_main where c_name_chn = '盧鴻'"
-    out=select("",sql)
-    print(out)
+    df1 = pd.read_excel("data/paintinglist.xlsx")
+    personlist = []
+    for index,row in df1.iterrows():
+        personlist.extend(row["全部人"].split(","))
+    personlist = list(set(personlist))
+    print(len(personlist))
+    spersonlist = []
+    for person in personlist:
+        sql = f"select c_birthyear,c_deathyear from biog_main where c_name_chn = '{person}'"
+        out=select("",sql)
+        if out:
+            if out[0]["c_birthyear"] or out[0]["c_deathyear"]:
+                 spersonlist.append(person)
+    print(len(spersonlist))
+    df2 = pd.read_excel("data\古籍讨论度new.xlsx")
+    hplist = df2["题跋人"].tolist()
+    for person in spersonlist:
+        if person not in hplist:
+            newrow= {"题跋人":person}
+            df2 = df2.append(newrow, ignore_index=True)
+    df2.to_excel("data\古籍讨论度newnew.xlsx")         
+
+        
+    # sql = "select * from biog_main where c_name_chn = '盧鴻'"
+    # out=select("",sql)
+    # print(out)
           
     
 

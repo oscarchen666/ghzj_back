@@ -2,194 +2,45 @@
   "filefroms": "3649.json",
   "sentences": [
     {
-      "authorcid": 34673,
-      "authoraid": "A009194",
+      "authorcid": 30153,
+      "authoraid": "A006682",
       "output": [
         {
-          "type": "Thing",
+          "type": "Time",
           "start": 0,
-          "end": 2,
-          "span": "此卷"
+          "end": 4,
+          "span": "宣德三年"
         },
         {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "實甫",
-          "cid": 34260,
-          "name": "顧紹芳",
-          "aid": "A045619"
-        },
-        {
-          "type": "PersonName",
+          "type": "Time",
           "start": 7,
           "end": 9,
-          "span": "王子",
-          "cid": 476738,
-          "name": "王子",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "樹石"
-        },
-        {
-          "type": "Thing",
-          "start": 23,
-          "end": 25,
-          "span": "臺榭"
-        },
-        {
-          "type": "PersonName",
-          "start": 38,
-          "end": 40,
-          "span": "國光",
-          "cid": 126781,
-          "name": "王嘉賓",
-          "aid": "A032656"
-        },
-        {
-          "type": "Person",
-          "start": 53,
-          "end": 54,
-          "span": "予"
+          "span": "戊申"
         },
         {
           "type": "Time",
-          "start": 82,
-          "end": 88,
-          "span": "嘉靖丙午二月"
+          "start": 10,
+          "end": 21,
+          "span": "西元一四二八年）春三月"
         },
         {
-          "type": "Thing",
-          "start": 91,
-          "end": 94,
-          "span": "徵明書"
-        }
-      ],
-      "sentence": "此卷乃實甫所摹王子正筆也。人物清灑。樹石秀雅。臺榭森嚴。畫中三絕。兼得之矣。國光兄寶而藏之。出而示予者三。予遂心會其意。為錄孝經一過。徒知承命之恭。忘續貂之誚何。時嘉靖丙午二月既望。徵明書。",
-      "author": "文徵明"
-    },
-    {
-      "authorcid": 10879,
-      "authoraid": "A004613",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "龍眠",
-          "cid": 72511,
-          "name": "方正玉",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 12,
-          "span": "石刻大卷"
-        },
-        {
-          "type": "PersonName",
+          "type": "Location",
           "start": 21,
-          "end": 23,
-          "span": "太史",
-          "cid": 7111,
-          "name": "黃庭堅",
+          "end": 24,
+          "span": "武英殿"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "馬愉",
+          "cid": 33867,
+          "name": "馬愉",
           "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 45,
-          "end": 47,
-          "span": "祝融",
-          "cid": "unknow",
-          "name": "祝融",
-          "aid": "A010089"
-        },
-        {
-          "type": "Person",
-          "start": 55,
-          "end": 57,
-          "span": "盜賊"
-        },
-        {
-          "type": "PersonName",
-          "start": 88,
-          "end": 91,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
-        },
-        {
-          "type": "Time",
-          "start": 93,
-          "end": 100,
-          "span": "己卯仲春十八日"
         }
       ],
-      "sentence": "宋有李龍眠畫孝經石刻大卷。今仇十洲縮之。文太史因以正書書其下。古孝孝（孝字衍）經所在。能令祝融反風。沉疴去體。盜賊弛兵而不敢過其廬。種種吉祥。過佛氏神通遠甚。宜寶藏之。八十二翁陳繼儒。時己卯仲春十八日。",
-      "author": "陳繼儒"
-    },
-    {
-      "authorcid": 10879,
-      "authoraid": "A004613",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 4,
-          "end": 7,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
-        },
-        {
-          "type": "Time",
-          "start": 9,
-          "end": 16,
-          "span": "己卯仲春十八日"
-        }
-      ],
-      "sentence": "八十二翁陳繼儒。時己卯仲春十八日。",
-      "author": "陳繼儒"
-    },
-    {
-      "authorcid": 33465,
-      "authoraid": "A016096",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "吳寬",
-          "cid": 33465,
-          "name": "吳寬",
-          "aid": "A016096"
-        }
-      ],
-      "sentence": "百行之原。吳寬書。",
-      "author": "吳寬"
-    },
-    {
-      "authorcid": 33465,
-      "authoraid": "A016096",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "吳寬",
-          "cid": 33465,
-          "name": "吳寬",
-          "aid": "A016096"
-        }
-      ],
-      "sentence": "吳寬書",
-      "author": "吳寬"
+      "sentence": "宣德三年。歲在戊申（西元一四二八年）春三月武英殿御製賜狀元馬愉。",
+      "author": "朱瞻基"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "filefroms": "1600.json",
+  "sentences": [
+    {
+      "authorcid": 68901,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆六年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四一年"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "孫祜",
+          "cid": 557213,
+          "name": "孫祜",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "周鯤",
+          "cid": 203056,
+          "name": "周鯤",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 27,
+          "span": "丁觀鵬",
+          "cid": 68901,
+          "name": "丁觀鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆六年（西元一七四一年）長至月。臣孫祜。周鯤。丁觀鵬。奉敕恭畫。",
+      "author": "丁觀鵬"
+    }
+  ]
+}
