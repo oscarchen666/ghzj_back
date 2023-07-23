@@ -1,0 +1,65 @@
+{
+  "filefroms": "5547.json",
+  "sentences": [
+    {
+      "authorcid": 57670,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "松溪",
+          "aid": "PL000000018286",
+          "cid": 18456
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "董邦達",
+          "cid": 57670,
+          "name": "董邦達",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "陸廣",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "松溪煙靄。臣董邦達恭仿陸廣筆意。",
+      "author": "董邦達"
+    },
+    {
+      "authorcid": 57670,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "董邦達",
+          "cid": 57670,
+          "name": "董邦達",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "陸廣",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣董邦達恭仿陸廣筆意",
+      "author": "董邦達"
+    }
+  ]
+}

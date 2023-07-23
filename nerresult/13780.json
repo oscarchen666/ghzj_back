@@ -1,0 +1,39 @@
+{
+  "filefroms": "13780.json",
+  "sentences": [
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "百子",
+          "cid": 71759,
+          "name": "王昌嗣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "百子歡歌。三橋文彭書。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "三橋文彭書",
+      "author": "文彭"
+    }
+  ]
+}

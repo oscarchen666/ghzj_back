@@ -1,0 +1,27 @@
+{
+  "filefroms": "3504.json",
+  "sentences": [
+    {
+      "authorcid": 133136,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "彭城",
+          "aid": "PL000000009494",
+          "cid": 3425
+        },
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "錢榖"
+        }
+      ],
+      "sentence": "彭城錢榖",
+      "author": "錢穀"
+    }
+  ]
+}

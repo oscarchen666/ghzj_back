@@ -1,0 +1,131 @@
+{
+  "filefroms": "5506.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 6,
+          "span": "楓林煙雨"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 14,
+          "span": "猿"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "雲山"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 39,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "輕舟"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 46,
+          "span": "君"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 60,
+          "span": "青山"
+        },
+        {
+          "type": "Location",
+          "start": 66,
+          "end": 68,
+          "span": "仙閣"
+        },
+        {
+          "type": "Location",
+          "start": 74,
+          "end": 76,
+          "span": "花亭"
+        },
+        {
+          "type": "Location",
+          "start": 80,
+          "end": 82,
+          "span": "池邊"
+        },
+        {
+          "type": "Location",
+          "start": 88,
+          "end": 90,
+          "span": "浦口"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 92,
+          "span": "船"
+        },
+        {
+          "type": "Thing",
+          "start": 93,
+          "end": 95,
+          "span": "芰荷"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "西元一六二七年"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 109,
+          "span": "新秋"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 111,
+          "span": "舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 113,
+          "end": 115,
+          "span": "塔院",
+          "aid": "PL000000056118"
+        },
+        {
+          "type": "PersonName",
+          "start": 119,
+          "end": 122,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "千里楓林煙雨深。無朝無暮有猿吟。停橈靜聽曲中意。好是雲山韶濩音。潮落江平未有風。輕舟濟濟共君同。時時引領望天末。何處青山是越中。朝來仙閣聽弦歌。瞑入花亭見綺羅。池邊命酒憐風月。浦口同船惜芰荷。丁卯（西元一六二七年）新秋泊舟澄照塔院畫并書。董其昌。",
+      "author": "董其昌"
+    }
+  ]
+}

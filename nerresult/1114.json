@@ -2,64 +2,331 @@
   "filefroms": "1114.json",
   "sentences": [
     {
-      "authorcid": 57670,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "松溪",
-          "aid": "PL000000018286",
-          "cid": 18456
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 9,
-          "span": "董邦達",
-          "cid": 57670,
-          "name": "董邦達",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 11,
-          "end": 13,
-          "span": "陸廣",
-          "cid": 14111,
-          "name": "陸廣",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "松溪煙靄。臣董邦達恭仿陸廣筆意。",
-      "author": "董邦達"
-    },
-    {
-      "authorcid": 57670,
+      "authorcid": 101309,
       "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
           "start": 1,
           "end": 4,
-          "span": "董邦達",
-          "cid": 57670,
-          "name": "董邦達",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 8,
-          "span": "陸廣",
-          "cid": 14111,
-          "name": "陸廣",
+          "span": "王振鵬",
+          "cid": 101309,
+          "name": "王振鵬",
           "aid": "unknow"
         }
       ],
-      "sentence": "臣董邦達恭仿陸廣筆意",
-      "author": "董邦達"
+      "sentence": "臣王振鵬",
+      "author": "王振鵬"
+    },
+    {
+      "authorcid": 101309,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 3,
+          "span": "崇寧間"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 8,
+          "span": "三月三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 12,
+          "end": 14,
+          "span": "明池",
+          "cid": 11951
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "錦標"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "萬民"
+        },
+        {
+          "type": "Time",
+          "start": 31,
+          "end": 34,
+          "span": "大庚戌"
+        },
+        {
+          "type": "Location",
+          "start": 37,
+          "end": 41,
+          "span": "仁廟青宮"
+        },
+        {
+          "type": "Time",
+          "start": 41,
+          "end": 44,
+          "span": "千春節"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "此圖"
+        },
+        {
+          "type": "Time",
+          "start": 55,
+          "end": 59,
+          "span": "三月三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 60,
+          "end": 62,
+          "span": "明池",
+          "cid": 11951
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "龍驤"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 86,
+          "span": "旌旗"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 89,
+          "span": "錦標"
+        },
+        {
+          "type": "Person",
+          "start": 95,
+          "end": 97,
+          "span": "吳兒"
+        },
+        {
+          "type": "Person",
+          "start": 107,
+          "end": 110,
+          "span": "奔競者"
+        },
+        {
+          "type": "Person",
+          "start": 121,
+          "end": 123,
+          "span": "萬民"
+        },
+        {
+          "type": "Person",
+          "start": 135,
+          "end": 137,
+          "span": "儲皇"
+        },
+        {
+          "type": "PersonName",
+          "start": 170,
+          "end": 172,
+          "span": "長公",
+          "cid": 105615,
+          "name": "徐奇伯",
+          "aid": "A004067"
+        },
+        {
+          "type": "Time",
+          "start": 211,
+          "end": 225,
+          "span": "治癸亥（西元一三二三年）春暮"
+        },
+        {
+          "type": "PersonName",
+          "start": 229,
+          "end": 232,
+          "span": "王振鵬",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "崇寧間。三月三日。開放金明池。出錦標與萬民同樂。詳見夢華錄。至大庚戌。欽遇仁廟青宮千春節。嘗作此圖進呈。題曰。三月三日金明池。龍驤萬斛紛遊嬉。歡聲雷動喧鼓吹。喜色日射明旌旗。錦標濡沫能幾許。吳兒顛倒不自知。因憐世上奔競者。進寸退尺何其癡。但取萬民同樂意。為作一片無聲詩。儲皇簡澹無嗜慾。藝圃書林悅心目。適當今日稱壽觴。敬當千秋金鑑錄。恭惟大長公主嘗覽此圖。閱一紀餘。今奉教再作。但目力減如曩昔。勉而為之。深懼不足呈獻。時至治癸亥（西元一三二三年）春暮。廩給令王振鵬百拜敬畫謹書。",
+      "author": "王振鵬"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "行書"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "御題行書（乾隆御題。詩文不錄）。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "龍池",
+          "aid": "PL000000001240",
+          "cid": 403072
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "龍池競渡。乾隆御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "乾隆",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "乾隆御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 10389,
+      "authoraid": "A008210",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "界畫家"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 10,
+          "span": "郭忠恕",
+          "cid": 480469,
+          "name": "郭忠恕",
+          "aid": "A013475"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 51,
+          "span": "王君",
+          "cid": 139436,
+          "name": "王君",
+          "aid": "A019767"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "墨"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 63,
+          "span": "筆"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "僚丸"
+        },
+        {
+          "type": "PersonName",
+          "start": 79,
+          "end": 81,
+          "span": "孫吳",
+          "cid": 20607,
+          "name": "孫吳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 115,
+          "end": 119,
+          "span": "龍舟之圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 147,
+          "end": 149,
+          "span": "袁桷",
+          "cid": 10389,
+          "name": "袁桷",
+          "aid": "A008210"
+        }
+      ],
+      "sentence": "界畫家以王士元郭忠恕為第一。余嘗聞畫史言尺寸層疊。皆以準繩為則。殆猶修內史法式。分抄不得踰越。今聞王君以墨為濃淡高下。是殆以筆為尺也。僚丸秋奕。未嘗以繩墨論。孫吳之論兵。亦猶是也。然嘗聞鑒古之道。必繇其侈靡者言之。余於畫斷有取焉。龍舟之圖。得無近似。不然。昔之所傳者。安得久遠至是耶。翰林直學士袁桷敬題。",
+      "author": "袁桷"
+    },
+    {
+      "authorcid": 27948,
+      "authoraid": "A016129",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "畫人"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "劉基",
+          "cid": 27948,
+          "name": "劉基",
+          "aid": "A016129"
+        }
+      ],
+      "sentence": "畫人胸次見忠貞。意氣規模一味清。想像當時同樂日。披圖似有舊歡聲。青田劉基題。",
+      "author": "劉基"
     }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "filefroms": "3542.json",
+  "sentences": [
+    {
+      "authorcid": 27922,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "夏昶",
+          "cid": 27922,
+          "name": "夏昶",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "太常卿夏昶筆",
+      "author": "夏昶"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "湘水"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "煙雨"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "太常",
+          "cid": 142006,
+          "name": "何俛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "此君"
+        },
+        {
+          "type": "Time",
+          "start": 70,
+          "end": 72,
+          "span": "新秋"
+        },
+        {
+          "type": "LocationName",
+          "start": 74,
+          "end": 76,
+          "span": "松院",
+          "aid": "PL000000018745"
+        },
+        {
+          "type": "Location",
+          "start": 97,
+          "end": 99,
+          "span": "湘川"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 110,
+          "span": "竹"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "玉釵"
+        },
+        {
+          "type": "Time",
+          "start": 119,
+          "end": 128,
+          "span": "甲午六月廿二新秋日"
+        },
+        {
+          "type": "PersonName",
+          "start": 129,
+          "end": 131,
+          "span": "王穉",
+          "cid": 437559,
+          "name": "王穉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "迴汀疊渚竹猗猗。暝色遙連望欲迷。記得維舟湘水暮。半江煙雨鷓鴣啼。此夏太常自題畫竹詩也。詩既清絕。圖中此君。亦復蕭森。遂錄其後。以當合璧。時方新秋。坐松院。涼颸瑟然。閱此畫。諷此詩。恍若九疑如黛隔湘川。憶天寒翠袖。安得擊竹而歌。令玉釵中斷。甲午六月廿二新秋日。王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "甲午六月廿二新秋日"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "王穉",
+          "cid": 437559,
+          "name": "王穉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "甲午六月廿二新秋日。王穉登。",
+      "author": "王穉登"
+    }
+  ]
+}

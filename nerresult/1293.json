@@ -1,0 +1,484 @@
+{
+  "filefroms": "1293.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "絲綸"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "釣船"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "江頭"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "明月"
+        },
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 15,
+          "span": "團員"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "酒瓶"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "岸花"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青簑"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 36,
+          "span": "輕風細浪"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "漁船"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 44,
+          "span": "遠水斜陽"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "白鳥"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 55,
+          "span": "平川"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "江山"
+        },
+        {
+          "type": "Person",
+          "start": 77,
+          "end": 78,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 81,
+          "span": "波"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 85,
+          "span": "鬢"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 87,
+          "span": "銀"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 92,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 93,
+          "end": 95,
+          "span": "海鱗"
+        },
+        {
+          "type": "Thing",
+          "start": 104,
+          "end": 106,
+          "span": "清波"
+        },
+        {
+          "type": "Thing",
+          "start": 109,
+          "end": 111,
+          "span": "晴霞"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 113,
+          "span": "舟"
+        },
+        {
+          "type": "Location",
+          "start": 122,
+          "end": 124,
+          "span": "汀洲"
+        },
+        {
+          "type": "Location",
+          "start": 126,
+          "end": 127,
+          "span": "家"
+        },
+        {
+          "type": "Person",
+          "start": 130,
+          "end": 132,
+          "span": "何人"
+        },
+        {
+          "type": "Person",
+          "start": 133,
+          "end": 134,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 140,
+          "span": "鳧鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 144,
+          "end": 145,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 148,
+          "end": 149,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 155,
+          "span": "青草煙"
+        },
+        {
+          "type": "PersonName",
+          "start": 158,
+          "end": 159,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 160,
+          "end": 162,
+          "span": "綠楊"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 172,
+          "span": "澄波"
+        },
+        {
+          "type": "Thing",
+          "start": 186,
+          "end": 190,
+          "span": "沙鷗樸鹿"
+        },
+        {
+          "type": "Thing",
+          "start": 194,
+          "end": 197,
+          "span": "長江浪"
+        },
+        {
+          "type": "Thing",
+          "start": 200,
+          "end": 202,
+          "span": "輕舟"
+        },
+        {
+          "type": "Thing",
+          "start": 204,
+          "end": 206,
+          "span": "夕陽"
+        },
+        {
+          "type": "Thing",
+          "start": 213,
+          "end": 215,
+          "span": "長松"
+        },
+        {
+          "type": "Thing",
+          "start": 226,
+          "end": 228,
+          "span": "輕舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 232,
+          "end": 234,
+          "span": "江湖",
+          "aid": "PL000000008364"
+        },
+        {
+          "type": "Thing",
+          "start": 241,
+          "end": 243,
+          "span": "明月"
+        },
+        {
+          "type": "Thing",
+          "start": 245,
+          "end": 247,
+          "span": "長波"
+        },
+        {
+          "type": "Time",
+          "start": 248,
+          "end": 250,
+          "span": "半夜"
+        },
+        {
+          "type": "Thing",
+          "start": 256,
+          "end": 258,
+          "span": "殘霞"
+        },
+        {
+          "type": "Thing",
+          "start": 264,
+          "end": 265,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 266,
+          "end": 267,
+          "span": "雲"
+        },
+        {
+          "type": "Thing",
+          "start": 312,
+          "end": 313,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 314,
+          "end": 315,
+          "span": "魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 346,
+          "end": 348,
+          "span": "嚴光",
+          "cid": 168410,
+          "name": "嚴光",
+          "aid": "A002859"
+        },
+        {
+          "type": "Location",
+          "start": 349,
+          "end": 351,
+          "span": "釣臺"
+        },
+        {
+          "type": "Thing",
+          "start": 352,
+          "end": 355,
+          "span": "桃花水"
+        },
+        {
+          "type": "Thing",
+          "start": 362,
+          "end": 364,
+          "span": "輕舟"
+        },
+        {
+          "type": "LocationName",
+          "start": 377,
+          "end": 380,
+          "span": "北江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Person",
+          "start": 380,
+          "end": 383,
+          "span": "適意人"
+        },
+        {
+          "type": "PersonName",
+          "start": 384,
+          "end": 388,
+          "span": "梅花道人",
+          "cid": 33891,
+          "name": "吳鎮",
+          "aid": "A031120"
+        }
+      ],
+      "sentence": "收卻絲綸歇釣船。江頭明月正團員。酒瓶側。岸花懸。□領青簑踏月眠。輕風細浪漾漁船。遠水斜陽欲暮天。看白鳥。下平川。點破瀟湘萬重煙。閒情聊爾寄絲綸。處處江山著我身。波似練。鬢如銀。懶釣如山載海鱗。極目乾坤夕照斜。清波微影弄晴霞。舟有伴。趣無涯。那個汀洲不是家。近日何人是我鄰。滿川鳧鳥最相親。雲淡淡。水粼粼。青草煙深不見人。綠楊初睡煖風微。萬頃澄波浸落暉。鼓枻去。唱歌歸。驚起沙鷗樸鹿飛。風攬長江浪拍空。輕舟蕩漾夕陽紅。歸別浦。繫長松。正是風恬浪息中。一個輕舟力幾多。江湖隨處戲漁簑。撐明月。下長波。半夜風生不奈何。殘霞返照四山明。雲起雲收陰復晴。風腳動。浪頭生。聽取虛窗夜雨聲。白頭垂釣碧江深。憶得前身是姓任。隨去住。任浮沈。魚少魚多不用心。釣擲萍波綠自開。錦鱗隊隊逐釣來。消歲月。寄幽情。恰似嚴光坐釣臺。桃花水煖五湖春。一個輕舟寄此身。時醉泊。感無綸。江北江南適意人。梅花道人戲墨。",
+      "author": "吳鎮"
+    },
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "梅花道人",
+          "cid": 33891,
+          "name": "吳鎮",
+          "aid": "A031120"
+        }
+      ],
+      "sentence": "梅花道人戲墨",
+      "author": "吳鎮"
+    },
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "關仝",
+          "cid": 561329,
+          "name": "關仝",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "山水"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "荊浩",
+          "cid": 43819,
+          "name": "荊浩",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 29,
+          "span": "唐人漁父圖"
+        },
+        {
+          "type": "Location",
+          "start": 63,
+          "end": 65,
+          "span": "淮中"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "此卷"
+        },
+        {
+          "type": "Time",
+          "start": 85,
+          "end": 88,
+          "span": "十餘年"
+        },
+        {
+          "type": "Time",
+          "start": 98,
+          "end": 111,
+          "span": "至正十二年壬辰秋九月廿一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 114,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 121,
+          "end": 123,
+          "span": "僧舍"
+        }
+      ],
+      "sentence": "余喜關仝山水清勁可愛。觀其筆法出于荊浩。後見荊畫唐人漁父圖。有如此製作。遂倣而為一軸。流散易去。今復見之。乃物有會過時也。一日淮中持此卷來。命識之。吁。昔之畫。今之題。殆十餘年矣。流光易謝。悲夫。至正十二年壬辰秋九月廿一日梅道人書于賦塘慈雲之僧舍。",
+      "author": "吳鎮"
+    },
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 13,
+          "span": "至正十二年壬辰秋九月廿一日"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 23,
+          "end": 25,
+          "span": "僧舍"
+        }
+      ],
+      "sentence": "至正十二年壬辰秋九月廿一日梅道人書于賦塘慈雲之僧舍。",
+      "author": "吳鎮"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "filefroms": "3666.json",
+  "sentences": [
+    {
+      "authorcid": 250028,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆三年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七三八年"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "金昆",
+          "cid": 250028,
+          "name": "金昆",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "盧湛",
+          "cid": 178705,
+          "name": "盧湛",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "至道",
+          "cid": 206296,
+          "name": "閻邦",
+          "aid": "A022327"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "吳桂",
+          "cid": 478186,
+          "name": "吳桂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆三年（西元一七三八年）臣金昆。臣盧湛。臣程至道。臣吳桂。奉敕合筆恭畫。",
+      "author": "金昆"
+    }
+  ]
+}

@@ -2,27 +2,303 @@
   "filefroms": "5427.json",
   "sentences": [
     {
-      "authorcid": 59688,
+      "authorcid": "unknow",
       "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
           "start": 0,
           "end": 2,
-          "span": "萬井"
+          "span": "海天"
+        }
+      ],
+      "sentence": "海天落照。",
+      "author": ""
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "仇英",
+          "cid": 388142,
+          "name": "仇英",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 6,
-          "end": 9,
-          "span": "吳應枚",
-          "cid": 59688,
-          "name": "吳應枚",
+          "start": 4,
+          "end": 7,
+          "span": "李昭道",
+          "cid": 187368,
+          "name": "李昭道",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 61,
+          "end": 63,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "海嶽",
+          "cid": "unknow",
+          "name": "海嶽",
+          "aid": "A013379"
+        },
+        {
+          "type": "Person",
+          "start": 79,
+          "end": 82,
+          "span": "舊觀者"
+        },
+        {
+          "type": "PersonName",
+          "start": 92,
+          "end": 94,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "仇英臨宋李昭道此圖細窮毫髮。精彩燁然。而其峰巒變幻。纖巧奇妙。有非言語可以形容。雅非庸史所能萬一及也。蓋其長于臨摹。能深得古人妙境。米海嶽所云。煥若神明。復還舊觀者。此卷足當之矣。長洲吳寬。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "長洲吳寬",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 14,
+          "span": "丹青絹"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 38,
+          "span": "李昭道",
+          "cid": 187368,
+          "name": "李昭道",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 49,
+          "span": "海天霞照圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "湯氏",
+          "cid": 168656,
+          "name": "湯氏",
+          "aid": "A010898"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 65,
+          "span": "墨林居士",
+          "cid": 30328,
+          "name": "項元汴",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 78,
+          "span": "仇君"
+        },
+        {
+          "type": "Person",
+          "start": 90,
+          "end": 92,
+          "span": "觀者"
+        },
+        {
+          "type": "Location",
+          "start": 99,
+          "end": 101,
+          "span": "禾中"
+        },
+        {
+          "type": "PersonName",
+          "start": 102,
+          "end": 106,
+          "span": "墨林居士",
+          "cid": 30328,
+          "name": "項元汴",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 147,
+          "end": 149,
+          "span": "長安",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "PersonName",
+          "start": 153,
+          "end": 156,
+          "span": "趙千里",
+          "cid": 467028,
+          "name": "趙千里",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 159,
+          "end": 161,
+          "span": "昭道",
+          "cid": 42477,
+          "name": "林天申",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 172,
+          "end": 174,
+          "span": "觀者"
+        },
+        {
+          "type": "PersonName",
+          "start": 179,
+          "end": 183,
+          "span": "小李將軍",
+          "cid": "unknow",
+          "name": "李昇",
+          "aid": "A010228"
+        },
+        {
+          "type": "PersonName",
+          "start": 187,
+          "end": 190,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "大凡海天之景象能兼收於丹青絹素間者。必其筆意神細。方能繪圖萬里。此卷乃李昭道（昭誤作照）海天霞照圖真蹟。向為吳中湯氏所藏。墨林居士多方搆求而得。因倩實父仇君用意臨摹。煥然神明。一時觀者俱稱雙絕。余過禾中。墨林居士出此二本。展觀良久。神飛天外。非絹素新舊。則不能辯其孰為李孰為仇也。嗟乎實父之筆。長安聲價重過趙千里。今摹昭道（昭誤作照）此本。後之觀者又何必獨羨小李將軍耶。長洲文徵明識。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "長洲文徵明識",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖丁亥"
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "高陽",
+          "cid": 100638
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 13,
+          "span": "袁袞"
+        }
+      ],
+      "sentence": "嘉靖丁亥同高陽許初汝南袁袞觀。包山陸治。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "包山",
+          "aid": "PL000000010052"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
           "aid": "unknow"
         }
       ],
-      "sentence": "萬井晨炊。臣吳應枚。",
-      "author": "吳應枚"
+      "sentence": "包山陸治",
+      "author": "陸治"
     }
   ]
 }

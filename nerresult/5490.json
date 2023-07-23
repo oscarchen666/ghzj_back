@@ -2,184 +2,30 @@
   "filefroms": "5490.json",
   "sentences": [
     {
-      "authorcid": 52001,
-      "authoraid": "unknow",
+      "authorcid": 34673,
+      "authoraid": "A009194",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "嘉泰三年"
+          "end": 2,
+          "span": "戊申"
         },
         {
           "type": "Time",
-          "start": 5,
-          "end": 17,
-          "span": "西元一二０三年）八月四日"
+          "start": 3,
+          "end": 10,
+          "span": "西元一五四八年"
         },
         {
-          "type": "PersonName",
-          "start": 17,
-          "end": 20,
-          "span": "劉松年",
-          "cid": 52001,
-          "name": "劉松年",
-          "aid": "unknow"
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "孟秋"
         }
       ],
-      "sentence": "嘉泰三年（西元一二０三年）八月四日劉松年畫。",
-      "author": "劉松年"
-    },
-    {
-      "authorcid": 52001,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 8,
-          "span": "嘉泰三年八月四日"
-        },
-        {
-          "type": "PersonName",
-          "start": 8,
-          "end": 11,
-          "span": "劉松年",
-          "cid": 52001,
-          "name": "劉松年",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "嘉泰三年八月四日劉松年畫",
-      "author": "劉松年"
-    },
-    {
-      "authorcid": 35003,
-      "authoraid": "A004662",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 1,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 1,
-          "end": 5,
-          "span": "二十年前"
-        },
-        {
-          "type": "Thing",
-          "start": 6,
-          "end": 8,
-          "span": "此圖"
-        },
-        {
-          "type": "LocationName",
-          "start": 9,
-          "end": 11,
-          "span": "嘉興",
-          "cid": 18288
-        },
-        {
-          "type": "PersonName",
-          "start": 16,
-          "end": 18,
-          "span": "松年",
-          "cid": 82712,
-          "name": "松年",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 37,
-          "end": 39,
-          "span": "晦伯",
-          "cid": 60004,
-          "name": "李日宣",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 40,
-          "end": 42,
-          "span": "扁舟"
-        },
-        {
-          "type": "PersonName",
-          "start": 43,
-          "end": 44,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 46,
-          "end": 48,
-          "span": "此卷"
-        },
-        {
-          "type": "PersonName",
-          "start": 61,
-          "end": 63,
-          "span": "晦伯",
-          "cid": 60004,
-          "name": "李日宣",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 71,
-          "end": 72,
-          "span": "劍"
-        },
-        {
-          "type": "Person",
-          "start": 77,
-          "end": 79,
-          "span": "余藏"
-        },
-        {
-          "type": "Thing",
-          "start": 80,
-          "end": 83,
-          "span": "戲鴻堂"
-        },
-        {
-          "type": "Time",
-          "start": 88,
-          "end": 90,
-          "span": "辛未"
-        },
-        {
-          "type": "Time",
-          "start": 91,
-          "end": 101,
-          "span": "西元一六三一年）二月"
-        }
-      ],
-      "sentence": "余二十年前見此圖於嘉興項氏。以為松年一生得意筆。每往來於懷。去歲長至日。項晦伯以扁舟訪余。攜此卷相示。互相展玩。咄咄歎賞。晦伯曰。不可使延津之劍久離。遂屬余藏之戲鴻堂。其昌識。辛未（西元一六三一年）二月。",
-      "author": "董其昌"
-    },
-    {
-      "authorcid": 35003,
-      "authoraid": "A004662",
-      "output": [
-        {
-          "type": "Time",
-          "start": 4,
-          "end": 8,
-          "span": "辛未二月"
-        }
-      ],
-      "sentence": "其昌識。辛未二月。",
-      "author": "董其昌"
+      "sentence": "戊申（西元一五四八年）孟秋既望。徵明製。",
+      "author": "文徵明"
     }
   ]
 }

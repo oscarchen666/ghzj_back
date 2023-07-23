@@ -2,139 +2,413 @@
   "filefroms": "15138.json",
   "sentences": [
     {
-      "authorcid": 34687,
-      "authoraid": "A017838",
+      "authorcid": 3676,
+      "authoraid": "A004610",
       "output": [
         {
+          "type": "Thing",
+          "start": 4,
+          "end": 10,
+          "span": "花竹鳥獸禽蟲"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 21,
+          "span": "宮室臺榭園池器"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "山水"
+        },
+        {
           "type": "PersonName",
-          "start": 2,
-          "end": 5,
-          "span": "文伯仁",
-          "cid": 34687,
-          "name": "文伯仁",
-          "aid": "A017838"
+          "start": 41,
+          "end": 43,
+          "span": "王公",
+          "cid": 139147,
+          "name": "王公",
+          "aid": "A010722"
+        },
+        {
+          "type": "Person",
+          "start": 58,
+          "end": 60,
+          "span": "畫工"
+        },
+        {
+          "type": "Person",
+          "start": 66,
+          "end": 68,
+          "span": "詩人"
+        },
+        {
+          "type": "Time",
+          "start": 73,
+          "end": 76,
+          "span": "崇寧歲"
+        },
+        {
+          "type": "Time",
+          "start": 77,
+          "end": 83,
+          "span": "壬午五月二日"
+        },
+        {
+          "type": "LocationName",
+          "start": 84,
+          "end": 86,
+          "span": "襄陽",
+          "cid": 17505
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
+          "aid": "A004610"
         }
       ],
-      "sentence": "五峰文伯仁寫",
-      "author": "文伯仁"
+      "sentence": "畫以人物花竹鳥獸禽蟲為神妙。宮室臺榭園池器用為精巧。獨山水清雄奇富。變態無窮為難。王公之筆。渾然天成。燦然日新。已離畫工之度數。而得詩人之清麗也。崇寧歲在壬午五月二日。襄陽米芾書。",
+      "author": "米芾"
     },
     {
-      "authorcid": 30607,
-      "authoraid": "A022759",
+      "authorcid": 3676,
+      "authoraid": "A004610",
       "output": [
         {
-          "type": "Thing",
-          "start": 33,
-          "end": 34,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 35,
-          "end": 36,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 37,
-          "end": 38,
-          "span": "火"
-        },
-        {
-          "type": "Thing",
-          "start": 39,
-          "end": 40,
-          "span": "火"
-        },
-        {
-          "type": "Thing",
-          "start": 49,
-          "end": 50,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 53,
-          "end": 54,
-          "span": "火"
-        },
-        {
-          "type": "Thing",
-          "start": 73,
-          "end": 74,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 94,
-          "end": 96,
-          "span": "泥丸"
-        },
-        {
-          "type": "Person",
-          "start": 114,
-          "end": 116,
-          "span": "黃婆"
-        },
-        {
-          "type": "Person",
-          "start": 118,
-          "end": 120,
-          "span": "姹女"
+          "type": "Time",
+          "start": 0,
+          "end": 3,
+          "span": "崇寧歲"
         },
         {
           "type": "Time",
-          "start": 129,
-          "end": 132,
-          "span": "一日內"
+          "start": 4,
+          "end": 10,
+          "span": "壬午五月二日"
         },
         {
-          "type": "Time",
-          "start": 133,
-          "end": 136,
-          "span": "十二時"
+          "type": "LocationName",
+          "start": 11,
+          "end": 13,
+          "span": "襄陽",
+          "cid": 17505
         },
         {
           "type": "PersonName",
-          "start": 233,
-          "end": 237,
-          "span": "天池居士",
+          "start": 13,
+          "end": 15,
+          "span": "米芾",
+          "cid": 3676,
+          "name": "米芾",
+          "aid": "A004610"
+        }
+      ],
+      "sentence": "崇寧歲在壬午五月二日。襄陽米芾書。",
+      "author": "米芾"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "政和三年秋八月"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 18,
+          "span": "濮陽",
+          "cid": 10172
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "孝彥",
+          "cid": 504952,
+          "name": "李遷哲",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 21,
+          "end": 23,
+          "span": "晉陵",
+          "cid": 12722
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "吳繼",
+          "cid": 274059,
+          "name": "吳繼",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "政和三年秋八月既望（原書倒置）。濮陽李孝彥晉陵吳繼同觀。",
+      "author": "李孝彥"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "右山陰圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "許玄度",
           "cid": "unknow",
-          "name": "凌弘憲",
-          "aid": "A000897"
+          "name": "許詢",
+          "aid": "A002695"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 24,
+          "span": "王逸少",
+          "cid": "unknow",
+          "name": "王羲之",
+          "aid": "A002704"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 28,
+          "span": "謝安石",
+          "cid": "unknow",
+          "name": "謝安",
+          "aid": "A002691"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 32,
+          "span": "支道林",
+          "cid": "unknow",
+          "name": "支遁",
+          "aid": "A002205"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 42,
+          "span": "右丞",
+          "cid": 64695,
+          "name": "洪良品",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 54,
+          "end": 62,
+          "span": "政和丙申臘月二日"
+        },
+        {
+          "type": "Person",
+          "start": 63,
+          "end": 65,
+          "span": "賈洵"
+        }
+      ],
+      "sentence": "右山陰圖。王右丞筆也。圖中四像。為許玄度。王逸少。謝安石。支道林。其風流可想見。右丞作此。其亦有景慕之心哉。政和丙申臘月二日。賈洵題。",
+      "author": "賈洵"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "政和丙申臘月二日"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "賈洵"
+        }
+      ],
+      "sentence": "政和丙申臘月二日。賈洵題。",
+      "author": "賈洵"
+    },
+    {
+      "authorcid": 52190,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "元仲",
+          "cid": 608,
+          "name": "馮方",
+          "aid": "unknow"
         },
         {
           "type": "Location",
-          "start": 241,
-          "end": 244,
-          "span": "梅花館"
+          "start": 10,
+          "end": 14,
+          "span": "寬夫芝房"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 23,
+          "span": "癸卯五月二十七日"
         }
       ],
-      "sentence": "在乾。（上文缺）。但至誠。法自然。盜天地。壽造化。攢五行。會八卦。水真水。火真火。水火交。永不老。水能流。火能焰。在身中。自可驗。是性命。非神氣。水□鉛。具一味。歸命竅。復命關。灌尾閭。通泥丸。真橐籥。真鼎爐。無中有。有中無。托黃婆。嫁姹女。輕輕地。默默舉。一日內。十二時。意所到。皆可為。飲刀圭。窺天竅。辨朔望。知昏曉。識浮沈。明主客。要聚合。莫間隔。採華時。調火功。受來吉。防成凶。火候足。莫傷身。天地靈。造化慳。初結胎。看本命。終脫胎。看口正。默默行。句句應。天池居士渭寶書於梅花館。",
-      "author": "徐渭"
+      "sentence": "贊元仲藏似矩。同觀於寬夫芝房。癸卯五月二十七日。",
+      "author": "盧襄"
     },
     {
-      "authorcid": 30607,
-      "authoraid": "A022759",
+      "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
-          "end": 4,
-          "span": "天池居士",
-          "cid": "unknow",
-          "name": "凌弘憲",
-          "aid": "A000897"
+          "end": 3,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
         },
         {
-          "type": "Location",
-          "start": 8,
-          "end": 11,
-          "span": "梅花館"
+          "type": "Thing",
+          "start": 3,
+          "end": 8,
+          "span": "山陰高會圖"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 12,
+          "span": "五代時"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "陸瑾",
+          "cid": 33789,
+          "name": "陸瑾",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "道潛",
+          "cid": "unknow",
+          "name": "道潛",
+          "aid": "A004546"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 31,
+          "span": "王羲之",
+          "cid": 25793,
+          "name": "王羲之",
+          "aid": "A002704"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 36,
+          "span": "山陰道士",
+          "cid": 111198,
+          "name": "劉永之",
+          "aid": "A045226"
+        },
+        {
+          "type": "PersonName",
+          "start": 87,
+          "end": 89,
+          "span": "海岳",
+          "cid": 71146,
+          "name": "王洱",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 102,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
-      "sentence": "天池居士渭寶書於梅花館",
-      "author": "徐渭"
+      "sentence": "王右丞山陰高會圖。五代時陸瑾皆祖之。宋僧道潛題詞。止謝安王羲之與山陰道士支公四人耳。此卷題者。加許玄度稍異。觀其畫法。所謂雲峰石色。迥出天機。筆意縱橫。參乎造化者。不虛也。米海岳數行押。尤有獻之法。董其昌題。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "董其昌題",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "王維",
+          "cid": 20100,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "山陰圖"
+        }
+      ],
+      "sentence": "唐王維山陰圖",
+      "author": ""
     }
   ]
 }

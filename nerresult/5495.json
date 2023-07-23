@@ -1,0 +1,368 @@
+{
+  "filefroms": "5495.json",
+  "sentences": [
+    {
+      "authorcid": 560946,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "門渡",
+          "aid": "PL000000012902",
+          "cid": 1928
+        },
+        {
+          "type": "LocationName",
+          "start": 5,
+          "end": 7,
+          "span": "梁洞",
+          "aid": "PL000000012617",
+          "cid": 18093
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "老僧峰"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "小僧峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 19,
+          "span": "石梁寺",
+          "aid": "PL000000014717"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "托硯峰"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 27,
+          "span": "仙掌峰"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "鳳皇峰"
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 35,
+          "span": "黃峰洞"
+        },
+        {
+          "type": "LocationName",
+          "start": 36,
+          "end": 39,
+          "span": "靈峰寺",
+          "aid": "PL000000005178"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 43,
+          "span": "道士峰"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 47,
+          "span": "五雷峰"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 51,
+          "span": "合盤峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 52,
+          "end": 55,
+          "span": "惠照寺",
+          "aid": "PL000000058161"
+        },
+        {
+          "type": "Thing",
+          "start": 56,
+          "end": 59,
+          "span": "捲旗峰"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 63,
+          "span": "龍皋水"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 67,
+          "span": "石屏峰"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 71,
+          "span": "獨秀峰"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 75,
+          "span": "玉女峰"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 79,
+          "span": "卓筆峰"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 83,
+          "span": "天柱峰"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 87,
+          "span": "雙鸞峰"
+        },
+        {
+          "type": "Thing",
+          "start": 88,
+          "end": 91,
+          "span": "合壁峰"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 95,
+          "span": "觀音峰"
+        },
+        {
+          "type": "Location",
+          "start": 96,
+          "end": 99,
+          "span": "馬鞍峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 101,
+          "end": 103,
+          "span": "湫寺",
+          "aid": "PL000000015498"
+        },
+        {
+          "type": "LocationName",
+          "start": 105,
+          "end": 107,
+          "span": "雲臺",
+          "cid": 2974,
+          "aid": "PL000000057412"
+        },
+        {
+          "type": "Thing",
+          "start": 108,
+          "end": 111,
+          "span": "巨郢亭"
+        },
+        {
+          "type": "LocationName",
+          "start": 112,
+          "end": 115,
+          "span": "大龍湫",
+          "aid": "PL000000011778"
+        },
+        {
+          "type": "LocationName",
+          "start": 116,
+          "end": 119,
+          "span": "寶冠寺",
+          "aid": "PL000000055857"
+        },
+        {
+          "type": "Thing",
+          "start": 120,
+          "end": 123,
+          "span": "寶劍石"
+        },
+        {
+          "type": "Thing",
+          "start": 124,
+          "end": 127,
+          "span": "三契峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 129,
+          "end": 131,
+          "span": "泉山",
+          "aid": "PL000000017785"
+        },
+        {
+          "type": "LocationName",
+          "start": 132,
+          "end": 135,
+          "span": "飛泉寺",
+          "aid": "PL000000012628"
+        },
+        {
+          "type": "LocationName",
+          "start": 136,
+          "end": 139,
+          "span": "能仁寺",
+          "aid": "PL000000000300"
+        },
+        {
+          "type": "Location",
+          "start": 140,
+          "end": 143,
+          "span": "火焰山"
+        },
+        {
+          "type": "Location",
+          "start": 144,
+          "end": 148,
+          "span": "四十九盤"
+        },
+        {
+          "type": "Location",
+          "start": 149,
+          "end": 152,
+          "span": "桃仙嶺"
+        },
+        {
+          "type": "LocationName",
+          "start": 154,
+          "end": 156,
+          "span": "蓉鋪",
+          "aid": "PL000000056964",
+          "cid": 16085
+        },
+        {
+          "type": "LocationName",
+          "start": 157,
+          "end": 159,
+          "span": "天臺",
+          "aid": "PL000000016780"
+        },
+        {
+          "type": "Time",
+          "start": 162,
+          "end": 166,
+          "span": "隆慶辛未"
+        },
+        {
+          "type": "Time",
+          "start": 167,
+          "end": 174,
+          "span": "西元一五七一年"
+        },
+        {
+          "type": "Person",
+          "start": 178,
+          "end": 180,
+          "span": "唐子"
+        }
+      ],
+      "sentence": "石門渡。石梁洞。老僧峰。小僧峰。石梁寺。托硯峰。仙掌峰。鳳皇峰。黃峰洞。靈峰寺。道士峰。五雷峰。合盤峰。惠照寺。捲旗峰。龍皋水。石屏峰。獨秀峰。玉女峰。卓筆峰。天柱峰。雙鸞峰。合壁峰。觀音峰。馬鞍峰。龍湫寺。望雲臺。巨郢亭。大龍湫。寶冠寺。寶劍石。三契峰。飛泉山。飛泉寺。能仁寺。火焰山。四十九盤。桃仙嶺。芙蓉鋪。天臺一□。隆慶辛未（西元一五七一年）長夏仿唐子畏筆意。居節。",
+      "author": "居節"
+    },
+    {
+      "authorcid": 35190,
+      "authoraid": "A017382",
+      "output": [
+        {
+          "type": "Location",
+          "start": 33,
+          "end": 35,
+          "span": "商谷"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 43,
+          "span": "先生高弟"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 48,
+          "span": "詩書畫筆"
+        },
+        {
+          "type": "PersonName",
+          "start": 73,
+          "end": 74,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 87,
+          "end": 91,
+          "span": "壬子季春"
+        },
+        {
+          "type": "Location",
+          "start": 93,
+          "end": 96,
+          "span": "蘭雪堂"
+        },
+        {
+          "type": "Person",
+          "start": 97,
+          "end": 99,
+          "span": "汪碗"
+        }
+      ],
+      "sentence": "名山奇勝鬱鍾靈。展卷神游列岫橫。安得此中最深處。自脩丹竈學長生。居商谷為文待詔先生高弟。詩書畫筆俱臻絕詣。此卷重巒疊嶂。複澗迴溪。晴窗展玩。步步引人入勝。聊誌小詩漫附於尾云。壬子季春書於蘭雪堂。汪碗。",
+      "author": "汪琬"
+    },
+    {
+      "authorcid": 35190,
+      "authoraid": "A017382",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "壬子季春"
+        },
+        {
+          "type": "Location",
+          "start": 6,
+          "end": 9,
+          "span": "蘭雪堂"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "汪碗"
+        }
+      ],
+      "sentence": "壬子季春書於蘭雪堂。汪碗。",
+      "author": "汪琬"
+    }
+  ]
+}

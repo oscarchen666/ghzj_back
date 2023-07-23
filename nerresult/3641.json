@@ -2,27 +2,42 @@
   "filefroms": "3641.json",
   "sentences": [
     {
-      "authorcid": 34678,
-      "authoraid": "A016951",
+      "authorcid": 65886,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Thing",
-          "start": 0,
-          "end": 4,
-          "span": "前赤壁圖"
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "宗伯",
+          "cid": 147861,
+          "name": "宗伯",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 23,
+          "end": 25,
+          "span": "壬戌"
+        },
+        {
+          "type": "Time",
+          "start": 26,
+          "end": 38,
+          "span": "西元一六八二年）六月朔日"
         },
         {
           "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "文嘉",
-          "cid": 34678,
-          "name": "文嘉",
-          "aid": "A016951"
+          "start": 39,
+          "end": 41,
+          "span": "王翬",
+          "cid": 65886,
+          "name": "王翬",
+          "aid": "unknow"
         }
       ],
-      "sentence": "前赤壁圖。文嘉。",
-      "author": "文嘉"
+      "sentence": "董宗伯臨倪黃合作卷。筆致超遠可師。因用其意。時壬戌（西元一六八二年）六月朔日。王翬。",
+      "author": "王翬"
     }
   ]
 }

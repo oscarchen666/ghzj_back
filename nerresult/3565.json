@@ -2,757 +2,347 @@
   "filefroms": "3565.json",
   "sentences": [
     {
-      "authorcid": 34673,
-      "authoraid": "A009194",
+      "authorcid": 438092,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "郎世寧",
+          "cid": 438092,
+          "name": "郎世寧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣郎世寧恭繪。",
+      "author": "郎世寧"
+    },
+    {
+      "authorcid": 57033,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 38,
+          "end": 40,
+          "span": "三月"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 55,
+          "span": "乾隆二十七年冬"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 63,
+          "span": "哈莫特沙"
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 75,
+          "span": "卓密爾漢"
+        },
+        {
+          "type": "Metric",
+          "start": 87,
+          "end": 92,
+          "span": "七尺長八尺"
+        },
+        {
+          "type": "PersonName",
+          "start": 139,
+          "end": 141,
+          "span": "史官",
+          "cid": 204386,
+          "name": "史官",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 206,
+          "end": 208,
+          "span": "貳師"
+        },
+        {
+          "type": "Person",
+          "start": 225,
+          "end": 226,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 299,
+          "end": 300,
+          "span": "臣"
+        },
+        {
+          "type": "PersonName",
+          "start": 366,
+          "end": 369,
+          "span": "竇光鼐",
+          "cid": 57445,
+          "name": "竇光鼐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "國家茂膺穹貺。景爍龐鴻。西極之西。全付所覆。乃愛烏罕回中別部。距拔達克山程逾三月。亘古不通聲教。乾隆二十七年冬。其汗愛哈莫特沙顒慕皇化。遣使和卓密爾漢齎表貢馬。權奇倜儻。皆高七尺長八尺而赢。上寵錫嘉名。下繪院具圖。竝御製四駿長歌紀其事。臣等伏按曩筞所詳。如西旅底貢。光於王會。而史官推考所由。曰明王慎德。四夷咸賓。又曰不寶異物。則遠人格。辭指特為深厚。至漢元鼎太乙升歌。流豔樂府。然跡其端委。則博望始用虛名為市。貳師繼藉兵威相劫。且於服遠之義何居。惟我聖朝戡定濛汜。小大畏懷。比歲方外響臻。視新藩復同舊隸。是以飛黃服皁。徠自不脛。而天章往復。益孳孳於誌實作訓。幸與懼并。以茲昭示方來。洵乎度越前牒。臣等預叨載筆。庸敢取黃池渥洼。曼詞揚詡。而不敬闡夫德致之原本哉。臣劉統勳臣梁詩正臣劉綸臣董邦達臣彭啟豐臣觀保臣于敏中臣錢汝誠臣王際華臣竇光鼐臣蔣檙恭跋。",
+      "author": "于敏中"
+    },
+    {
+      "authorcid": 57033,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 38,
+          "span": "竇光鼐",
+          "cid": 57445,
+          "name": "竇光鼐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣劉統勳臣梁詩正臣劉綸臣董邦達臣彭啟豐臣觀保臣于敏中臣錢汝誠臣王際華臣竇光鼐臣蔣檙恭跋。",
+      "author": "于敏中"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "天山",
+          "aid": "PL000000041993",
+          "cid": 16897
+        },
+        {
+          "type": "Location",
+          "start": 32,
+          "end": 35,
+          "span": "愛烏罕"
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 45,
+          "span": "拔逹山"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 62,
+          "span": "泥蠟紙金字"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "嘉誠"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 82,
+          "span": "使者"
+        },
+        {
+          "type": "Thing",
+          "start": 100,
+          "end": 102,
+          "span": "菊花"
+        },
+        {
+          "type": "LocationName",
+          "start": 105,
+          "end": 107,
+          "span": "西海",
+          "aid": "PL000000007039",
+          "cid": 404299
+        },
+        {
+          "type": "Metric",
+          "start": 198,
+          "end": 203,
+          "span": "七尺長八尺"
+        },
+        {
+          "type": "Thing",
+          "start": 205,
+          "end": 206,
+          "span": "龍"
+        },
+        {
+          "type": "Metric",
+          "start": 216,
+          "end": 219,
+          "span": "四五尺"
+        },
+        {
+          "type": "Thing",
+          "start": 222,
+          "end": 224,
+          "span": "圖畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 252,
+          "end": 254,
+          "span": "太保",
+          "cid": "unknow",
+          "name": "周寶",
+          "aid": "A010572"
+        },
+        {
+          "type": "Time",
+          "start": 267,
+          "end": 269,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 270,
+          "end": 277,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 278,
+          "end": 280,
+          "span": "暮春"
+        }
+      ],
+      "sentence": "天山左右多回部。聲教古艱通譯鞮。分疆劃界各領衆。其名不可僂指稽。愛烏罕實土著國。遙在拔逹山更西。遣使進表非招致。浡泥蠟紙金字題。先以乘馬色不一。嘉誠那責比物齊。使者郵至早賜遣。按程馬到憐穿蹏。曰驄超洱菊花簇。度西海忽蹀金隄（小字。右超洱驄）。昂蔵之駵若歕玉。用昭徕遠房星低（小字。右徕遠駵）。有騋有騋生月𩨳。一形十影耳竹批（小字。右月𩨳騋）。凌崑之駿色正白。不須鞭策行追霓。（小字。右凌崑白）高逾七尺長八尺。為龍一一皆駃騠。于闐董氊四五尺。伯時圖畫猶艷提。別毛按品予嘉號。永誌底貢無乖暌。所幸在此懼在此。太保作訓吾將徯。愛烏罕四駿歌。癸未（西元一七六三年）暮春御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "暮春"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "癸未（西元一七六三年）暮春御筆",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "超洱驄"
+        },
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 9,
+          "span": "七尺六寸"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 15,
+          "span": "八尺四寸"
+        }
+      ],
+      "sentence": "超洱驄。高七尺六寸。長八尺四寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 5,
+          "end": 9,
+          "span": "七尺七寸"
+        },
+        {
+          "type": "Metric",
+          "start": 11,
+          "end": 15,
+          "span": "八尺四寸"
+        }
+      ],
+      "sentence": "徠遠駵。高七尺七寸。長八尺四寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 7,
+          "end": 11,
+          "span": "七尺八寸"
+        },
+        {
+          "type": "Metric",
+          "start": 13,
+          "end": 17,
+          "span": "八尺三寸"
+        }
+      ],
+      "sentence": "月出骨騋。高七尺八寸。長八尺三寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Person",
           "start": 0,
           "end": 3,
-          "span": "右宋人"
+          "span": "凌崑白"
         },
         {
-          "type": "Thing",
+          "type": "Metric",
           "start": 5,
-          "end": 11,
-          "span": "宮室樓閣亭館"
+          "end": 9,
+          "span": "七尺五寸"
         },
         {
-          "type": "PersonName",
-          "start": 18,
-          "end": 21,
-          "span": "趙伯駒",
-          "cid": 25534,
-          "name": "趙伯駒",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 23,
-          "end": 27,
-          "span": "越王宮圖"
-        },
-        {
-          "type": "Thing",
-          "start": 31,
-          "end": 35,
-          "span": "泥金細書"
-        },
-        {
-          "type": "Thing",
-          "start": 37,
-          "end": 38,
-          "span": "山"
-        },
-        {
-          "type": "LocationName",
-          "start": 39,
-          "end": 41,
-          "span": "嵊縣",
-          "cid": 18352
-        },
-        {
-          "type": "Location",
-          "start": 42,
-          "end": 44,
-          "span": "小山"
-        },
-        {
-          "type": "LocationName",
-          "start": 48,
-          "end": 50,
-          "span": "微山",
-          "cid": 1079
-        },
-        {
-          "type": "LocationName",
-          "start": 51,
-          "end": 54,
-          "span": "大觀閣",
-          "aid": "PL000000041155"
-        },
-        {
-          "type": "Thing",
-          "start": 55,
-          "end": 57,
-          "span": "朝山"
-        },
-        {
-          "type": "LocationName",
-          "start": 58,
-          "end": 60,
-          "span": "稷山",
-          "cid": 9840
-        },
-        {
-          "type": "Thing",
-          "start": 62,
-          "end": 65,
-          "span": "太華塔"
-        },
-        {
-          "type": "LocationName",
-          "start": 71,
-          "end": 73,
-          "span": "稷山",
-          "cid": 9840
-        },
-        {
-          "type": "Thing",
-          "start": 78,
-          "end": 80,
-          "span": "偁山"
-        },
-        {
-          "type": "Location",
-          "start": 82,
-          "end": 84,
-          "span": "偁山"
-        },
-        {
-          "type": "Thing",
-          "start": 91,
-          "end": 93,
-          "span": "海峰"
-        },
-        {
-          "type": "Location",
-          "start": 98,
-          "end": 100,
-          "span": "外山"
-        },
-        {
-          "type": "LocationName",
-          "start": 102,
-          "end": 105,
-          "span": "翠微山",
-          "aid": "PL000000000390"
-        },
-        {
-          "type": "Location",
-          "start": 107,
-          "end": 109,
-          "span": "翠微"
-        },
-        {
-          "type": "Thing",
-          "start": 113,
-          "end": 115,
-          "span": "大海"
-        },
-        {
-          "type": "LocationName",
-          "start": 122,
-          "end": 125,
-          "span": "戒珠寺",
-          "aid": "PL000000013218"
-        },
-        {
-          "type": "Location",
-          "start": 126,
-          "end": 128,
-          "span": "寺右"
-        },
-        {
-          "type": "PersonName",
-          "start": 129,
-          "end": 132,
-          "span": "王右軍",
-          "cid": 25793,
-          "name": "王羲之",
-          "aid": "A002704"
-        },
-        {
-          "type": "Location",
-          "start": 143,
-          "end": 146,
-          "span": "戒珠山"
-        },
-        {
-          "type": "Location",
-          "start": 147,
-          "end": 150,
-          "span": "山之下"
-        },
-        {
-          "type": "Location",
-          "start": 151,
-          "end": 154,
-          "span": "朱尉村"
-        },
-        {
-          "type": "LocationName",
-          "start": 156,
-          "end": 167,
-          "span": "道浦青山衛門諸山三江寨",
-          "aid": "PL000000056908",
-          "cid": 100001
-        },
-        {
-          "type": "LocationName",
-          "start": 173,
-          "end": 175,
-          "span": "州界",
-          "cid": 3273
-        },
-        {
-          "type": "LocationName",
-          "start": 179,
-          "end": 181,
-          "span": "江寨",
-          "aid": "PL000000056908",
-          "cid": 100001
-        },
-        {
-          "type": "LocationName",
-          "start": 188,
-          "end": 191,
-          "span": "江海口",
-          "aid": "PL000000056908",
-          "cid": 100001
-        },
-        {
-          "type": "LocationName",
-          "start": 193,
-          "end": 195,
-          "span": "玉山",
-          "aid": "PL000000010012",
-          "cid": 5448
-        },
-        {
-          "type": "Thing",
-          "start": 197,
-          "end": 201,
-          "span": "三江斗門"
-        },
-        {
-          "type": "Location",
-          "start": 218,
-          "end": 220,
-          "span": "長濠"
-        },
-        {
-          "type": "LocationName",
-          "start": 222,
-          "end": 224,
-          "span": "浙江",
-          "aid": "PL000000008367"
-        },
-        {
-          "type": "Location",
-          "start": 237,
-          "end": 239,
-          "span": "北港"
-        },
-        {
-          "type": "LocationName",
-          "start": 241,
-          "end": 243,
-          "span": "府城",
-          "cid": 401750
-        },
-        {
-          "type": "LocationName",
-          "start": 245,
-          "end": 247,
-          "span": "江北",
-          "aid": "PL000000000093",
-          "cid": 2163
-        },
-        {
-          "type": "Location",
-          "start": 250,
-          "end": 254,
-          "span": "湖渡南岸"
-        },
-        {
-          "type": "Location",
-          "start": 262,
-          "end": 265,
-          "span": "萊山峰"
-        },
-        {
-          "type": "Location",
-          "start": 266,
-          "end": 269,
-          "span": "柘林浦"
-        },
-        {
-          "type": "Location",
-          "start": 270,
-          "end": 272,
-          "span": "朱池"
-        },
-        {
-          "type": "LocationName",
-          "start": 277,
-          "end": 280,
-          "span": "清浮橋",
-          "aid": "PL000000056399"
-        },
-        {
-          "type": "LocationName",
-          "start": 282,
-          "end": 285,
-          "span": "馬鞍山",
-          "aid": "PL000000000432"
-        },
-        {
-          "type": "Thing",
-          "start": 288,
-          "end": 293,
-          "span": "長山錢塘江"
-        },
-        {
-          "type": "Thing",
-          "start": 300,
-          "end": 304,
-          "span": "石穴錢清"
-        },
-        {
-          "type": "LocationName",
-          "start": 318,
-          "end": 320,
-          "span": "東宮",
-          "cid": 10680,
-          "aid": "PL000000042278"
-        },
-        {
-          "type": "Thing",
-          "start": 325,
-          "end": 328,
-          "span": "鎮越堂"
-        },
-        {
-          "type": "Location",
-          "start": 329,
-          "end": 331,
-          "span": "堂前"
-        },
-        {
-          "type": "Thing",
-          "start": 331,
-          "end": 333,
-          "span": "二亭"
-        },
-        {
-          "type": "LocationName",
-          "start": 343,
-          "end": 345,
-          "span": "鎮遠",
-          "cid": 6672
-        },
-        {
-          "type": "Location",
-          "start": 349,
-          "end": 351,
-          "span": "越堂"
-        },
-        {
-          "type": "LocationName",
-          "start": 356,
-          "end": 358,
-          "span": "萊閣",
-          "aid": "PL000000055457",
-          "cid": 4946
-        },
-        {
-          "type": "Thing",
-          "start": 361,
-          "end": 364,
-          "span": "鎮山樓"
-        },
-        {
-          "type": "LocationName",
-          "start": 367,
-          "end": 369,
-          "span": "萊館",
-          "aid": "PL000000055457",
-          "cid": 4946
-        },
-        {
-          "type": "Thing",
-          "start": 378,
-          "end": 381,
-          "span": "越王臺"
-        },
-        {
-          "type": "Location",
-          "start": 382,
-          "end": 384,
-          "span": "臺上"
-        },
-        {
-          "type": "Person",
-          "start": 385,
-          "end": 387,
-          "span": "唐人"
-        },
-        {
-          "type": "Thing",
-          "start": 387,
-          "end": 389,
-          "span": "石像"
-        },
-        {
-          "type": "Thing",
-          "start": 394,
-          "end": 397,
-          "span": "烏龍井"
-        },
-        {
-          "type": "Thing",
-          "start": 402,
-          "end": 406,
-          "span": "仁壽羽院"
-        },
-        {
-          "type": "Location",
-          "start": 407,
-          "end": 409,
-          "span": "院前"
-        },
-        {
-          "type": "Thing",
-          "start": 410,
-          "end": 413,
-          "span": "流杯亭"
-        },
-        {
-          "type": "Thing",
-          "start": 414,
-          "end": 417,
-          "span": "越王井"
-        },
-        {
-          "type": "LocationName",
-          "start": 422,
-          "end": 424,
-          "span": "龍坊",
-          "aid": "PL000000059399"
-        },
-        {
-          "type": "Location",
-          "start": 426,
-          "end": 428,
-          "span": "酒庫"
-        },
-        {
-          "type": "Location",
-          "start": 429,
-          "end": 431,
-          "span": "羽院"
-        },
-        {
-          "type": "Location",
-          "start": 434,
-          "end": 436,
-          "span": "院北"
-        },
-        {
-          "type": "Thing",
-          "start": 437,
-          "end": 440,
-          "span": "重奎閣"
-        },
-        {
-          "type": "Thing",
-          "start": 441,
-          "end": 443,
-          "span": "重奎"
-        },
-        {
-          "type": "Thing",
-          "start": 451,
-          "end": 457,
-          "span": "懋德大勳之閣"
-        },
-        {
-          "type": "Location",
-          "start": 458,
-          "end": 460,
-          "span": "閣右"
-        },
-        {
-          "type": "Thing",
-          "start": 461,
-          "end": 465,
-          "span": "瓊花書院"
-        },
-        {
-          "type": "Thing",
-          "start": 472,
-          "end": 478,
-          "span": "石木百香亭"
-        },
-        {
-          "type": "Thing",
-          "start": 479,
-          "end": 482,
-          "span": "烏龍井"
-        },
-        {
-          "type": "Thing",
-          "start": 483,
-          "end": 486,
-          "span": "烏龍池"
-        },
-        {
-          "type": "Thing",
-          "start": 487,
-          "end": 489,
-          "span": "雪堂"
-        },
-        {
-          "type": "LocationName",
-          "start": 500,
-          "end": 502,
-          "span": "樂所",
-          "cid": 14875
-        },
-        {
-          "type": "Location",
-          "start": 504,
-          "end": 506,
-          "span": "後廳"
-        },
-        {
-          "type": "LocationName",
-          "start": 514,
-          "end": 519,
-          "span": "佛稽山書院",
-          "aid": "PL000000013158"
-        },
-        {
-          "type": "Thing",
-          "start": 520,
-          "end": 522,
-          "span": "何山"
-        },
-        {
-          "type": "Thing",
-          "start": 524,
-          "end": 526,
-          "span": "屏障"
-        },
-        {
-          "type": "Location",
-          "start": 533,
-          "end": 535,
-          "span": "後廳"
-        },
-        {
-          "type": "Location",
-          "start": 539,
-          "end": 541,
-          "span": "大池"
-        },
-        {
-          "type": "Location",
-          "start": 542,
-          "end": 545,
-          "span": "王公池"
-        },
-        {
-          "type": "Location",
-          "start": 546,
-          "end": 548,
-          "span": "池南"
-        },
-        {
-          "type": "Location",
-          "start": 553,
-          "end": 555,
-          "span": "節堂"
-        },
-        {
-          "type": "Location",
-          "start": 556,
-          "end": 558,
-          "span": "堂外"
-        },
-        {
-          "type": "Person",
-          "start": 559,
-          "end": 562,
-          "span": "若門者"
-        },
-        {
-          "type": "PersonName",
-          "start": 569,
-          "end": 571,
-          "span": "越王",
-          "cid": 67481,
-          "name": "朱瞻墉",
-          "aid": "A005225"
-        },
-        {
-          "type": "Thing",
-          "start": 577,
-          "end": 578,
-          "span": "井"
-        },
-        {
-          "type": "Location",
-          "start": 591,
-          "end": 594,
-          "span": "越王宮"
-        },
-        {
-          "type": "Time",
-          "start": 598,
-          "end": 601,
-          "span": "南宋時"
-        },
-        {
-          "type": "PersonName",
-          "start": 603,
-          "end": 605,
-          "span": "大臣",
-          "cid": 71904,
-          "name": "王彥賓",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 625,
-          "end": 627,
-          "span": "伯鮈"
-        },
-        {
-          "type": "PersonName",
-          "start": 639,
-          "end": 641,
-          "span": "伯駒",
-          "cid": 75892,
-          "name": "紀鉅維",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 670,
-          "end": 678,
-          "span": "亭臺閣樓堂館廊室"
-        },
-        {
-          "type": "Person",
-          "start": 684,
-          "end": 686,
-          "span": "人物"
-        },
-        {
-          "type": "Person",
-          "start": 707,
-          "end": 709,
-          "span": "古人"
-        },
-        {
-          "type": "Thing",
-          "start": 716,
-          "end": 718,
-          "span": "樹石"
-        },
-        {
-          "type": "Thing",
-          "start": 729,
-          "end": 731,
-          "span": "樹石"
-        },
-        {
-          "type": "Thing",
-          "start": 746,
-          "end": 750,
-          "span": "池魚庭花"
-        },
-        {
-          "type": "Location",
-          "start": 751,
-          "end": 753,
-          "span": "室中"
-        },
-        {
-          "type": "Thing",
-          "start": 753,
-          "end": 755,
-          "span": "器物"
-        },
-        {
-          "type": "PersonName",
-          "start": 779,
-          "end": 781,
-          "span": "伯駒",
-          "cid": 75892,
-          "name": "紀鉅維",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 785,
-          "end": 789,
-          "span": "庚石丁君"
-        },
-        {
-          "type": "LocationName",
-          "start": 803,
-          "end": 805,
-          "span": "吳中",
-          "aid": "PL000000008352"
-        },
-        {
-          "type": "Time",
-          "start": 816,
-          "end": 823,
-          "span": "嘉靖丙辰十二月"
-        },
-        {
-          "type": "LocationName",
-          "start": 825,
-          "end": 827,
-          "span": "長洲",
-          "cid": 4594
-        },
-        {
-          "type": "PersonName",
-          "start": 827,
-          "end": 830,
-          "span": "文徵明",
-          "cid": 34673,
-          "name": "文徵明",
-          "aid": "A009194"
-        }
-      ],
-      "sentence": "右宋人界畫宮室樓閣亭館一卷。相傳以為趙伯駒所作越王宮圖。余驗其泥金細書云。山通嵊縣又小山南入曰少微山。大觀閣。朝山。稷山。而太華塔則在其南。自稷山而西。則有偁山。而偁山之下最高者。曰海峰。其北則曰外山。曰翠微山。而翠微之外已與大海相接。其內則為戒珠寺。寺右則王右軍宅在焉。過此而最鉅者為戒珠山。山之下則朱尉村。海道浦青山衛門諸山三江寨。而極北則沃州界矣。由三江寨而東北。則為三江海口。為玉山。為三江斗門。而其南則有謝公鯉魚錦鮮三橋。橫跨長濠以通浙江。其小江斗門之過江者。則通北港以入府城。而江北諸山過湖渡南岸者。則近埭路。而萊山峰通柘林浦過朱池者。可至錢清浮橋。其馬鞍山及十里長山錢塘江皆繚繞於外。而石穴錢清在其內焉。下此若城闕者。曰鎮東宮。其內則曰鎮越堂。堂前二亭左曰手詔。右曰領春。鎮遠（點去）越堂之後。曰蓬萊閣。前曰鎮山樓。而蓬萊館則在堂之左。其北有越王臺。臺上有唐人石像。稍南則為烏龍井。過此則有仁壽羽院。院前有流杯亭。越王井。其南曰臥龍坊。而酒庫在羽院之西。院北有重奎閣。重奎之稍南而西。則為懋德大勳之閣。閣右則瓊花書院。小蓬萊題壁。石木百香亭。烏龍井。烏龍池。雪堂皆忝列其間。此後則為安樂所。為後廳。而極北以西則石佛稽山書院。何山又若屏障之列於外矣。自後廳而來匯為大池曰王公池。池南之最僻處曰節堂。堂外之若門者曰常喜。而所謂越王者不過曰臺曰井。間見一二而已。豈得遂名為越王宮哉。意者南宋時欲為大臣起第於會稽紹興之間。故擇隙地之可居者。命伯鮈先圖上之如吳中天慶觀。亦伯駒兄伯驌所畫。畫成進上。然後命工依式成造。亦未可知也。不然何亭臺閣樓堂館廊室若是其繁。而人物之充實其中者之甚寡耶。此固不可得而考矣。但古人之工於界畫者。樹石多不能精。此卷不特界畫樹石兼長。而位置遠近莫不得宜。下至池魚庭花。室中器物種種臻妙。抑且行筆秀潤設色古雅。信乎非不（點去）伯駒不能也。庚石丁君以重價購得之。裝池成卷。持至吳中。俾為鑒定漫書此以復。嘉靖丙辰十二月既望長洲文徵明。",
-      "author": "文徵明"
-    },
-    {
-      "authorcid": 34673,
-      "authoraid": "A009194",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 7,
-          "span": "嘉靖丙辰十二月"
-        },
-        {
-          "type": "LocationName",
-          "start": 9,
-          "end": 11,
-          "span": "長洲",
-          "cid": 4594
-        },
-        {
-          "type": "PersonName",
+          "type": "Metric",
           "start": 11,
-          "end": 14,
-          "span": "文徵明",
-          "cid": 34673,
-          "name": "文徵明",
-          "aid": "A009194"
+          "end": 15,
+          "span": "八尺三寸"
         }
       ],
-      "sentence": "嘉靖丙辰十二月既望長洲文徵明。",
-      "author": "文徵明"
+      "sentence": "凌崑白。高七尺五寸。長八尺三寸。（滿洲、蒙古、漢文、回部四種書標）",
+      "author": ""
     }
   ]
 }

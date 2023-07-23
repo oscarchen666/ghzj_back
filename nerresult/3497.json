@@ -1,0 +1,40 @@
+{
+  "filefroms": "3497.json",
+  "sentences": [
+    {
+      "authorcid": 438092,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "雍正六年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七二八年"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 19,
+          "span": "戊申仲春"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 24,
+          "span": "郎世寧",
+          "cid": 438092,
+          "name": "郎世寧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雍正六年（西元一七二八年）歲次戊申仲春。臣郎世寧恭畫。",
+      "author": "郎世寧"
+    }
+  ]
+}

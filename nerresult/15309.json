@@ -1,0 +1,58 @@
+{
+  "filefroms": "15309.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "白髮"
+        },
+        {
+          "type": "Metric",
+          "start": 4,
+          "end": 7,
+          "span": "三千丈"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "清風"
+        },
+        {
+          "type": "Metric",
+          "start": 12,
+          "end": 15,
+          "span": "五百竿"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "穎奴"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 28,
+          "span": "几上"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "仲圭",
+          "cid": 33891,
+          "name": "吳鎮",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "秋來白髮三千丈。戲寫清風五百竿。幸有穎奴知此意。時來几上弄清寒。仲圭老人。",
+      "author": "吳鎮"
+    }
+  ]
+}

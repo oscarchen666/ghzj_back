@@ -1,0 +1,237 @@
+{
+  "filefroms": "899.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "壽春",
+          "cid": 17544
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 10,
+          "span": "大德元年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 23,
+          "span": "西元一二九七年）七月廿日"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "壽春令留犢。大德元年（西元一二九七年）七月廿日書。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "大德元年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 17,
+          "span": "西元一二九七年）七月廿日"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "大德元年（西元一二九七年）七月廿日書。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 127657,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 20,
+          "span": "民"
+        },
+        {
+          "type": "Person",
+          "start": 23,
+          "end": 24,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 36,
+          "span": "趙學士",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 47,
+          "span": "苗魏人"
+        },
+        {
+          "type": "Person",
+          "start": 60,
+          "end": 63,
+          "span": "壽春令"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "牝牛"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 70,
+          "span": "車"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 79,
+          "span": "車"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "牝牛"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 90,
+          "span": "民"
+        },
+        {
+          "type": "Person",
+          "start": 91,
+          "end": 93,
+          "span": "老少"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 112,
+          "span": "赤子",
+          "cid": "unknow",
+          "name": "唐建中",
+          "aid": "A044498"
+        },
+        {
+          "type": "Person",
+          "start": 116,
+          "end": 118,
+          "span": "父母"
+        },
+        {
+          "type": "Person",
+          "start": 122,
+          "end": 123,
+          "span": "吾"
+        },
+        {
+          "type": "LocationName",
+          "start": 124,
+          "end": 126,
+          "span": "壽春",
+          "cid": 17544
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 139,
+          "span": "車"
+        },
+        {
+          "type": "Thing",
+          "start": 146,
+          "end": 147,
+          "span": "犢"
+        },
+        {
+          "type": "Thing",
+          "start": 150,
+          "end": 152,
+          "span": "牝牛"
+        },
+        {
+          "type": "PersonName",
+          "start": 183,
+          "end": 185,
+          "span": "苗能",
+          "cid": 154701,
+          "name": "苗能",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 199,
+          "end": 201,
+          "span": "趙公",
+          "cid": 158443,
+          "name": "趙公",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 210,
+          "end": 212,
+          "span": "宋克",
+          "cid": 127657,
+          "name": "宋克",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "夫廉慎居官之要也。為官不難而難於得心。民心不得吾知其不廉也。哀矣。趙學士畫此指時苗也。蓋苗魏人。素克謹守以廉有名者。嘗為壽春令。惟一牝牛拽車而至。及去亦惟一車一牝牛而已。無他物。民無老少不忍其去。悉頂香以送。號呼悲泣。若赤子之生別其父母然。苗思吾在壽春。於民因未嘗少有所擾。故車無它物。顧茲一犢。雖由牝牛而生。乃長於斯土者。欲留之。此雖一事之微。亦足以徵平日之名矣。苗能人之所不能。萬世可則也。宜乎趙公特圖之以示人。東吳宋克識。",
+      "author": "宋克"
+    },
+    {
+      "authorcid": 127657,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "宋克",
+          "cid": 127657,
+          "name": "宋克",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "東吳宋克識",
+      "author": "宋克"
+    }
+  ]
+}

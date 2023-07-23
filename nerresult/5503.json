@@ -1,0 +1,41 @@
+{
+  "filefroms": "5503.json",
+  "sentences": [
+    {
+      "authorcid": 23464,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "萬曆戊子"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一五八八年）冬日"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 19,
+          "span": "周之冕",
+          "cid": 23464,
+          "name": "周之冕",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 22,
+          "end": 25,
+          "span": "溪客舍",
+          "aid": "PL000000009339"
+        }
+      ],
+      "sentence": "萬曆戊子（西元一五八八年）冬日。周之冕寫于梁溪客舍。",
+      "author": "周之冕"
+    }
+  ]
+}

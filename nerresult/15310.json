@@ -1,0 +1,44 @@
+{
+  "filefroms": "15310.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "中郎",
+          "cid": 35222,
+          "name": "袁宏道",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 31,
+          "span": "柯亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 37,
+          "end": 41,
+          "span": "新亭精舍",
+          "aid": "PL000000008874"
+        }
+      ],
+      "sentence": "森森如玉萬條青。風過聲傳幾度聽。激楚結音多歲月。中郎時有到柯亭。梅道人畫于新亭精舍。",
+      "author": "吳鎮"
+    }
+  ]
+}

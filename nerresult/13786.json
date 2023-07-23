@@ -2,343 +2,184 @@
   "filefroms": "13786.json",
   "sentences": [
     {
-      "authorcid": "unknow",
+      "authorcid": 52001,
       "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 7,
-          "span": "景德元年十二月"
+          "end": 4,
+          "span": "嘉泰三年"
         },
         {
-          "type": "Person",
+          "type": "Time",
+          "start": 5,
+          "end": 17,
+          "span": "西元一二０三年）八月四日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉泰三年（西元一二０三年）八月四日劉松年畫。",
+      "author": "劉松年"
+    },
+    {
+      "authorcid": 52001,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "嘉泰三年八月四日"
+        },
+        {
+          "type": "PersonName",
           "start": 8,
-          "end": 10,
-          "span": "契丹"
-        },
+          "end": 11,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉泰三年八月四日劉松年畫",
+      "author": "劉松年"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
         {
           "type": "PersonName",
-          "start": 12,
-          "end": 14,
-          "span": "韓杞",
-          "cid": 17815,
-          "name": "韓杞",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
           "aid": "unknow"
         },
         {
-          "type": "Location",
-          "start": 35,
-          "end": 38,
-          "span": "關南地"
+          "type": "Time",
+          "start": 1,
+          "end": 5,
+          "span": "二十年前"
         },
         {
-          "type": "PersonName",
-          "start": 39,
-          "end": 41,
-          "span": "真宗",
-          "cid": 9003,
-          "name": "趙恆",
-          "aid": "A000946"
-        },
-        {
-          "type": "Location",
-          "start": 53,
-          "end": 55,
-          "span": "關南"
-        },
-        {
-          "type": "Person",
-          "start": 60,
-          "end": 61,
-          "span": "朕"
-        },
-        {
-          "type": "Person",
-          "start": 62,
-          "end": 64,
-          "span": "祖宗"
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "此圖"
         },
         {
           "type": "LocationName",
-          "start": 84,
-          "end": 86,
-          "span": "河北",
-          "cid": 211039
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 94,
-          "span": "金帛"
-        },
-        {
-          "type": "Person",
-          "start": 108,
-          "end": 110,
-          "span": "國母"
-        },
-        {
-          "type": "Thing",
-          "start": 127,
-          "end": 132,
-          "span": "橫板布食器"
-        },
-        {
-          "type": "Person",
-          "start": 133,
-          "end": 134,
-          "span": "主"
-        },
-        {
-          "type": "Person",
-          "start": 135,
-          "end": 137,
-          "span": "其臣"
-        },
-        {
-          "type": "Person",
-          "start": 152,
-          "end": 155,
-          "span": "北寨兵"
-        },
-        {
-          "type": "Person",
-          "start": 167,
-          "end": 168,
-          "span": "臣"
-        },
-        {
-          "type": "Time",
-          "start": 187,
-          "end": 189,
-          "span": "二年"
-        },
-        {
-          "type": "Time",
-          "start": 190,
-          "end": 195,
-          "span": "十一月癸酉"
-        },
-        {
-          "type": "Person",
-          "start": 196,
-          "end": 199,
-          "span": "國母主"
-        },
-        {
-          "type": "Thing",
-          "start": 209,
-          "end": 211,
-          "span": "御衣"
-        },
-        {
-          "type": "Thing",
-          "start": 217,
-          "end": 221,
-          "span": "珠銀貂裘"
-        },
-        {
-          "type": "Thing",
-          "start": 222,
-          "end": 226,
-          "span": "細錦刻絲"
-        },
-        {
-          "type": "Thing",
-          "start": 229,
-          "end": 231,
-          "span": "紗縠"
-        },
-        {
-          "type": "Thing",
-          "start": 234,
-          "end": 238,
-          "span": "金銀飾箱"
-        },
-        {
-          "type": "Thing",
-          "start": 239,
-          "end": 246,
-          "span": "金玉水晶鞍勒馬"
-        },
-        {
-          "type": "Thing",
-          "start": 248,
-          "end": 250,
-          "span": "散馬"
-        },
-        {
-          "type": "Thing",
-          "start": 253,
-          "end": 258,
-          "span": "弓矢賓鐵刀"
-        },
-        {
-          "type": "Thing",
-          "start": 259,
-          "end": 260,
-          "span": "鷹"
-        },
-        {
-          "type": "Thing",
-          "start": 264,
-          "end": 269,
-          "span": "契丹新羅酒"
-        },
-        {
-          "type": "Thing",
-          "start": 270,
-          "end": 273,
-          "span": "青白鹽"
-        },
-        {
-          "type": "Thing",
-          "start": 274,
-          "end": 278,
-          "span": "果實百品"
-        },
-        {
-          "type": "Thing",
-          "start": 281,
-          "end": 284,
-          "span": "梀欞器"
+          "start": 9,
+          "end": 11,
+          "span": "嘉興",
+          "cid": 18288
         },
         {
           "type": "PersonName",
-          "start": 286,
-          "end": 287,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
+          "start": 16,
+          "end": 18,
+          "span": "松年",
+          "cid": 82712,
+          "name": "松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "晦伯",
+          "cid": 60004,
+          "name": "李日宣",
           "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 293,
-          "end": 300,
-          "span": "氈冠窄袍金䩞鞢"
-        },
-        {
-          "type": "Thing",
-          "start": 309,
-          "end": 315,
-          "span": "幞頭公服金帶"
-        },
-        {
-          "type": "Thing",
-          "start": 319,
-          "end": 325,
-          "span": "衣器帛鞍勒馬"
-        },
-        {
-          "type": "LocationName",
-          "start": 327,
-          "end": 330,
-          "span": "長春殿",
-          "aid": "PL000000008632"
+          "start": 40,
+          "end": 42,
+          "span": "扁舟"
         },
         {
           "type": "PersonName",
-          "start": 352,
-          "end": 355,
-          "span": "李宗諤",
-          "cid": 3541,
-          "name": "李宗諤",
-          "aid": "A044456"
-        },
-        {
-          "type": "Location",
-          "start": 365,
-          "end": 368,
-          "span": "上閤門"
-        },
-        {
-          "type": "Person",
-          "start": 377,
-          "end": 379,
-          "span": "戎人"
-        },
-        {
-          "type": "PersonName",
-          "start": 396,
-          "end": 398,
-          "span": "劉經",
-          "cid": 110997,
-          "name": "劉經",
+          "start": 43,
+          "end": 44,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
           "aid": "unknow"
         },
         {
-          "type": "Person",
-          "start": 400,
-          "end": 402,
-          "span": "聖上"
-        },
-        {
-          "type": "Person",
-          "start": 421,
-          "end": 423,
-          "span": "凶奴"
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "此卷"
         },
         {
           "type": "PersonName",
-          "start": 487,
-          "end": 489,
-          "span": "太祖",
-          "cid": 9001,
-          "name": "趙匡胤",
-          "aid": "A004319"
-        },
-        {
-          "type": "Time",
-          "start": 515,
-          "end": 519,
-          "span": "四五十年"
+          "start": 61,
+          "end": 63,
+          "span": "晦伯",
+          "cid": 60004,
+          "name": "李日宣",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 525,
-          "end": 527,
-          "span": "衣裳"
+          "start": 71,
+          "end": 72,
+          "span": "劍"
+        },
+        {
+          "type": "Person",
+          "start": 77,
+          "end": 79,
+          "span": "余藏"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 83,
+          "span": "戲鴻堂"
+        },
+        {
+          "type": "Time",
+          "start": 88,
+          "end": 90,
+          "span": "辛未"
+        },
+        {
+          "type": "Time",
+          "start": 91,
+          "end": 101,
+          "span": "西元一六三一年）二月"
         }
       ],
-      "sentence": "景德元年十二月。契丹遣使韓杞奉書行宮。請息兵納和。與曹利用偕來。初議求關南地。真宗曰。為民屈已誠所不辭。但關南事極無名。朕守祖宗基業。不敢失墜。必若固求。當決一戰。所念河北重擾。儻歲以金帛濟其不足。於體無傷。利用言。國母一車。別無供帳。親與利用飲食。軛上橫板布食器。主及其臣重行而坐。杞亦私語左右曰。爾見北寨兵否。勁卒利器。前聞不同。臣熟察之。儻求割地。必請會師平蕩。及通好二年。十一月癸酉。國母主各遣使來賀承天節。致御衣十二襲。皆綴珠銀貂裘。細錦刻絲。透背紗縠。貯以金銀飾箱。金玉水晶鞍勒馬八。散馬四百。弓矢賓鐵刀。鷹鶻粆腊。契丹新羅酒。青白鹽。果實百品。貯以梀欞器。使人以戎禮見。賜氈冠窄袍金䩞鞢。其副以華禮見。賜幞頭公服金帶。並加襲衣器帛鞍勒馬。宴長春殿。又擇膳夫齎本國食味。就尚食局撰進。初將見。李宗諤引令式。不許佩刀。至上閤門。欣然解之。上曰。戎人佩刀。是其常禮。傳詔許其自便。副使劉經曰。聖上推心置人腹中。足以示信遐邇也。臣等曰。凶奴為中國害舊矣。歷古備禦之說甚詳。大抵征伐。則誘冦。和親。則損威。惟賂遺有常。聘好有時。保境息民。謂之得策。肆武生事。其鑒不遠。在太祖時。從撫納之。利洎晉。平北略。遂隔朝事。繇景德之盟。四五十年。邊䛉億安。衣裳歲會。蓋式遏之。計不忘豫。備而款接之問。亦為遠馭矣。",
-      "author": ""
+      "sentence": "余二十年前見此圖於嘉興項氏。以為松年一生得意筆。每往來於懷。去歲長至日。項晦伯以扁舟訪余。攜此卷相示。互相展玩。咄咄歎賞。晦伯曰。不可使延津之劍久離。遂屬余藏之戲鴻堂。其昌識。辛未（西元一六三一年）二月。",
+      "author": "董其昌"
     },
     {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
+      "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
         {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "北寨"
+          "type": "Time",
+          "start": 4,
+          "end": 8,
+          "span": "辛未二月"
         }
       ],
-      "sentence": "北寨宴射（文不錄）",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [],
-      "sentence": "輿駕觀汴漲",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "太清"
-        }
-      ],
-      "sentence": "太清觀書",
-      "author": ""
+      "sentence": "其昌識。辛未二月。",
+      "author": "董其昌"
     }
   ]
 }

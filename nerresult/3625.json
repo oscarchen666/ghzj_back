@@ -1,0 +1,48 @@
+{
+  "filefroms": "3625.json",
+  "sentences": [
+    {
+      "authorcid": 30776,
+      "authoraid": "A025198",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸未"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 11,
+          "span": "西元一五八三年）"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "初秋"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "吳彬",
+          "cid": 30776,
+          "name": "吳彬",
+          "aid": "A025198"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 23,
+          "span": "陵客舍",
+          "aid": "PL000000058470",
+          "cid": 402496
+        }
+      ],
+      "sentence": "癸未（西元一五八三年）初秋長洲吳彬圖於金陵客舍。",
+      "author": "吳彬"
+    }
+  ]
+}

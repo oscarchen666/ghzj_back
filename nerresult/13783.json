@@ -1,0 +1,196 @@
+{
+  "filefroms": "13783.json",
+  "sentences": [
+    {
+      "authorcid": 15917,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "林椿",
+          "cid": 15917,
+          "name": "林椿",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "林椿製",
+      "author": "林椿"
+    },
+    {
+      "authorcid": 10389,
+      "authoraid": "A008210",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "小庭"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "幽圃"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "四季花"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "好鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "燭"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 31,
+          "span": "吳娃"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 34,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "壁"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "圖畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 42,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "蚤茶"
+        },
+        {
+          "type": "Location",
+          "start": 61,
+          "end": 63,
+          "span": "山家"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "袁桷",
+          "cid": 10389,
+          "name": "袁桷",
+          "aid": "A008210"
+        }
+      ],
+      "sentence": "小庭幽圃絕清佳。臨牖常開四季花。雨後憑欄聽好鳥。夜深秉燭醉吳娃。喚人掃壁懸圖畫。留客當罏試蚤茶。野興漸多公事少。宛如昔日在山家。清容居士袁桷。",
+      "author": "袁桷"
+    },
+    {
+      "authorcid": 10389,
+      "authoraid": "A008210",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "清容居士",
+          "cid": "unknow",
+          "name": "袁桷",
+          "aid": "A008210"
+        }
+      ],
+      "sentence": "清容居士袁桷",
+      "author": "袁桷"
+    },
+    {
+      "authorcid": 511202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "林椿",
+          "cid": 128639,
+          "name": "林椿",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "花卉"
+        },
+        {
+          "type": "Location",
+          "start": 38,
+          "end": 41,
+          "span": "畫院中"
+        },
+        {
+          "type": "PersonName",
+          "start": 45,
+          "end": 47,
+          "span": "宋燧",
+          "cid": 511202,
+          "name": "宋燧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "宋林椿所作四時花卉。極得迎風帶露之情。妖冶粉艷之趣。足稱傳神妙手。宜其擅名於畫院中也。廣平宋燧識。",
+      "author": "宋燧"
+    },
+    {
+      "authorcid": 511202,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "廣平",
+          "cid": 16991
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "宋燧",
+          "cid": 511202,
+          "name": "宋燧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "廣平宋燧識",
+      "author": "宋燧"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "filefroms": "28991.json",
+  "sentences": [
+    {
+      "authorcid": 73649,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "臣"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 7,
+          "span": "孝陵前"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "松"
+        },
+        {
+          "type": "Metric",
+          "start": 19,
+          "end": 22,
+          "span": "數十丈"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 25,
+          "span": "虬枝"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "羽葆"
+        },
+        {
+          "type": "Time",
+          "start": 50,
+          "end": 53,
+          "span": "數百年"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 87,
+          "span": "神樹"
+        },
+        {
+          "type": "Thing",
+          "start": 89,
+          "end": 91,
+          "span": "橋山"
+        },
+        {
+          "type": "Time",
+          "start": 109,
+          "end": 112,
+          "span": "今年春"
+        },
+        {
+          "type": "LocationName",
+          "start": 114,
+          "end": 116,
+          "span": "金川",
+          "cid": 13391
+        },
+        {
+          "type": "Person",
+          "start": 122,
+          "end": 124,
+          "span": "皇上"
+        },
+        {
+          "type": "Thing",
+          "start": 137,
+          "end": 138,
+          "span": "松"
+        },
+        {
+          "type": "Person",
+          "start": 159,
+          "end": 161,
+          "span": "先烈"
+        },
+        {
+          "type": "Person",
+          "start": 168,
+          "end": 169,
+          "span": "臣"
+        },
+        {
+          "type": "Thing",
+          "start": 193,
+          "end": 198,
+          "span": "萬年瑞松圖"
+        },
+        {
+          "type": "Time",
+          "start": 233,
+          "end": 238,
+          "span": "乾隆丙申（"
+        },
+        {
+          "type": "Time",
+          "start": 238,
+          "end": 248,
+          "span": "西元一七七六年）仲春"
+        },
+        {
+          "type": "Person",
+          "start": 251,
+          "end": 252,
+          "span": "臣"
+        }
+      ],
+      "sentence": "臣伏見。孝陵前有松一株。高僅逾尋。蔭周數十丈。虬枝旁達。承以朱闌。如羽葆下垂。華蕤棽麗。其幹盈圍。盖數百年以上物也。溯厥土臿 土。莫識端倪。洪惟昊蒼眷佑我國家。預培神樹以為橋山拱護。蘢蔥茂蔚。用徵億萬年景運延長。今年春平定金川。集勳奏凱。皇上展謁告功禮成。御製詩云。繖松萬年茂。庇蔭視茲乎。天 章炳爍。信足以紹述先烈。闡揚靈蹟矣。臣瞻誦之下。起敬起感。無能已於忭躍。竊不自揣。敬繪萬年瑞松圖以獻顧。惟筆墨薾弱。弗克摹寫琪柯。而誠積於中。聊以誌景仰欣頌之忱云爾。乾隆丙申（西元一七七六年）仲春上澣。臣弘旿恭畫敬識。",
+      "author": "愛新覺羅弘旿"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "萬年瑞松圖"
+        }
+      ],
+      "sentence": "萬年瑞松圖。弘旿畫。",
+      "author": ""
+    }
+  ]
+}

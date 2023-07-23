@@ -1,0 +1,28 @@
+{
+  "filefroms": "1775.json",
+  "sentences": [
+    {
+      "authorcid": 59688,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "梯雲"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬仞梯雲。臣吳應枚。",
+      "author": "吳應枚"
+    }
+  ]
+}

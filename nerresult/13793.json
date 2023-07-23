@@ -1,0 +1,234 @@
+{
+  "filefroms": "13793.json",
+  "sentences": [
+    {
+      "authorcid": 52001,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 17,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（楷書識文十段。文不錄。）臣劉松年敬畫謹書",
+      "author": "劉松年"
+    },
+    {
+      "authorcid": 27948,
+      "authoraid": "A016129",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 8,
+          "span": "養正圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "劉基",
+          "cid": 27948,
+          "name": "劉基",
+          "aid": "A016129"
+        }
+      ],
+      "sentence": "劉松年所繪養正圖。精細異常。人物有生動可人。一一尊卑。儼然如在威儀之中。且設色雅澹。書法端莊而又秀潤。誠可稱雙絕也。余展閱良久。不覺冰生兩腋。塵慮頓忘矣。收藏之家當珠重之。劉基識。",
+      "author": "劉基"
+    },
+    {
+      "authorcid": 27948,
+      "authoraid": "A016129",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "劉基",
+          "cid": 27948,
+          "name": "劉基",
+          "aid": "A016129"
+        }
+      ],
+      "sentence": "劉基識",
+      "author": "劉基"
+    },
+    {
+      "authorcid": 10097,
+      "authoraid": "A007271",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 25,
+          "end": 28,
+          "span": "瞻玩者"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "宋濂",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A007271"
+        }
+      ],
+      "sentence": "此養正圖劉松年所作。美妙絕倫。不歲月而成。且有補於瞻玩者。可稱閑穴心之佳玩耳。寶之。寶之。宋濂。",
+      "author": "宋濂"
+    },
+    {
+      "authorcid": 10097,
+      "authoraid": "A007271",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "宋濂",
+          "cid": 10097,
+          "name": "宋濂",
+          "aid": "A007271"
+        }
+      ],
+      "sentence": "宋濂",
+      "author": "宋濂"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "忠武",
+          "cid": 3481,
+          "name": "李繼隆",
+          "aid": "A003626"
+        },
+        {
+          "type": "Time",
+          "start": 30,
+          "end": 33,
+          "span": "三國時"
+        },
+        {
+          "type": "Person",
+          "start": 69,
+          "end": 71,
+          "span": "先主"
+        },
+        {
+          "type": "LocationName",
+          "start": 78,
+          "end": 80,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 98,
+          "span": "忠武",
+          "cid": 3481,
+          "name": "李繼隆",
+          "aid": "A003626"
+        },
+        {
+          "type": "Person",
+          "start": 132,
+          "end": 136,
+          "span": "功名之士"
+        },
+        {
+          "type": "Person",
+          "start": 145,
+          "end": 147,
+          "span": "先主"
+        },
+        {
+          "type": "Person",
+          "start": 150,
+          "end": 152,
+          "span": "後君"
+        },
+        {
+          "type": "Metric",
+          "start": 159,
+          "end": 163,
+          "span": "二十餘年"
+        },
+        {
+          "type": "Location",
+          "start": 202,
+          "end": 204,
+          "span": "蜀都"
+        },
+        {
+          "type": "PersonName",
+          "start": 211,
+          "end": 213,
+          "span": "先帝",
+          "cid": 339593,
+          "name": "元羽",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 241,
+          "end": 243,
+          "span": "祁山"
+        },
+        {
+          "type": "PersonName",
+          "start": 277,
+          "end": 279,
+          "span": "宋儒",
+          "cid": 204241,
+          "name": "宋儒",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "余嘗讀史至諸葛忠武傳。未嘗不歎天奪之速。而傷其志業之不遂也。三國時英傑輩出。亡足以當忠武者。觀其初承三顧。慷慨委身。天下大勢定於數言。卒輔先主。連吳破魏。平江南而取益都。跋履艱難。僅成鼎足。使忠武肯降心以事吳魏。其所造又何如也。乃（誤書一字點去）舍難而就易。豈彼時功名之士。所能窺其遠鑒哉。先主崩殂。後君庸弱。擅國專政二十餘年。上不疑偪。下無怨讟。伊周居攝。不是過矣。出師二表。可泣鬼神。觀王業不可偏全於蜀都。故冒危難以奉先帝之遺意。及六不可解之語。忠武早已知之。明而審之。熟其六出祁山。頻歲不息。亦直盡其鞠躬盡瘁。死而後已之志耳。豈成敗利鈍不能逆睹哉。宋儒亦以忠武才並伊周。而其學稍入於申韓。殊非篤論。以申韓之慘刻。豈能以逸道使民。雖勞不怨。生道殺人。雖死不忿。如史所引哉。余竊以忠武之學。特深於易。易之精微。存於象數。故其測往知來。每懸澂於永冀。因時制器。□獨創其精思。非洞悉象數。向能臻此乎。吁。蔑以加矣。越山陳日浴題。",
+      "author": "陳日浴"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 5,
+          "span": "陳日浴"
+        }
+      ],
+      "sentence": "越山陳日浴題",
+      "author": "陳日浴"
+    }
+  ]
+}

@@ -2,138 +2,358 @@
   "filefroms": "3551.json",
   "sentences": [
     {
-      "authorcid": 35003,
-      "authoraid": "A004662",
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 4,
+          "span": "山之麓",
+          "aid": "PL000000009496"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "腴田"
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 18,
+          "span": "昨日"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "三山"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "南山之麓上腴田。長守犁鋤業不遷。昨日三山降除目。長沮同拜地行仙。唐寅為守耕賦。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A006728",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 5,
+          "span": "嘉慶庚申"
+        }
+      ],
+      "sentence": "（嘉慶庚申御題。詩文不錄。）",
+      "author": "清仁宗"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A006728",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "庚申孟夏"
+        }
+      ],
+      "sentence": "庚申孟夏御題",
+      "author": "清仁宗"
+    },
+    {
+      "authorcid": 45823,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 30,
+          "end": 31,
+          "span": "士"
+        },
+        {
+          "type": "Person",
+          "start": 34,
+          "end": 38,
+          "span": "公卿大夫"
+        },
+        {
+          "type": "Person",
+          "start": 43,
+          "end": 47,
+          "span": "農工商賈"
+        },
+        {
+          "type": "PersonName",
+          "start": 72,
+          "end": 74,
+          "span": "平仲",
+          "cid": 891,
+          "name": "康執權",
+          "aid": "A016009"
+        },
+        {
+          "type": "Person",
+          "start": 76,
+          "end": 78,
+          "span": "學者"
+        },
+        {
+          "type": "PersonName",
+          "start": 122,
+          "end": 124,
+          "span": "君子",
+          "cid": 84870,
+          "name": "鍾懷",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 132,
+          "end": 134,
+          "span": "知士"
+        },
+        {
+          "type": "Thing",
+          "start": 188,
+          "end": 190,
+          "span": "黃雲"
+        },
+        {
+          "type": "Thing",
+          "start": 195,
+          "end": 197,
+          "span": "林泉"
+        },
+        {
+          "type": "Time",
+          "start": 316,
+          "end": 322,
+          "span": "己丑季秋廿日"
+        },
+        {
+          "type": "PersonName",
+          "start": 327,
+          "end": 329,
+          "span": "王寵",
+          "cid": 45823,
+          "name": "王寵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "守耕記。夫民屬列四。農擅首何。貴務本也。等而上之。士尤貴焉。士未至於公卿大夫。下不能為農工商賈。雖事各殊。而資生之策爾惟知務本。（句疑有誤）故許平仲曰。學者治生為先務。生既治。則寡欲以養生（生字點去）心。養心以崇學。崇學以致道。士斯得矣。又曰士君子當以農務為生。則知士以農務為本。而從事以尚志也。矧士之志也。卷舒徇其所寓而已。吾郡朝用。家世故族。治畦千畝。候（疑作倏）爾西成。黃雲連野。場圃林泉。杖屨追隨。徜徉物外。迥隔凡俗。聲色絢麗。不眩於外。勢利紛拏。不撼於中。凡有玩好。舉不能奪其志。果哉以隱為高者也。予惟朝用。生以資。欲以寡。心以養。學以崇。道以致。而志以尚焉。於虖。學稼云乎。抑士之務本者歟。別號守耕。允稱其情。於是乎記。己丑季秋廿日。雅宜山人王寵書。",
+      "author": "王寵"
+    },
+    {
+      "authorcid": 45823,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "己丑季秋廿日"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 11,
+          "span": "雅宜山人",
+          "cid": 126867,
+          "name": "王寵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "己丑季秋廿日。雅宜山人王寵書。",
+      "author": "王寵"
+    },
+    {
+      "authorcid": 511650,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
-          "start": 0,
-          "end": 3,
-          "span": "董其昌",
-          "cid": 35003,
-          "name": "董其昌",
-          "aid": "A004662"
+          "start": 3,
+          "end": 5,
+          "span": "陳君",
+          "cid": 324625,
+          "name": "陳君",
+          "aid": "A017746"
         },
         {
-          "type": "LocationName",
-          "start": 6,
-          "end": 8,
-          "span": "鼎齋",
-          "cid": 11930
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "東皋"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 17,
+          "span": "早春"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "王臣",
+          "cid": 126514,
+          "name": "王臣",
+          "aid": "A007491"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 31,
+          "span": "桑"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 53,
+          "span": "問津人"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 59,
+          "span": "皇甫沖",
+          "cid": 511650,
+          "name": "皇甫沖",
+          "aid": "unknow"
         }
       ],
-      "sentence": "董其昌畫于寶鼎齋",
-      "author": "董其昌"
+      "sentence": "贈守耕陳君。負耒從吾事。東皋及早春。居常忘帝力。在野亦王臣。桑落懽開釀。禾登喜薦新。悠然軒冕外。不對問津人。華陽皇甫沖。",
+      "author": "皇甫沖"
     },
     {
-      "authorcid": 35003,
-      "authoraid": "A004662",
+      "authorcid": 511650,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Location",
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "皇甫沖",
+          "cid": 511650,
+          "name": "皇甫沖",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "華陽皇甫沖",
+      "author": "皇甫沖"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
           "start": 0,
-          "end": 3,
-          "span": "黃蘆岸"
+          "end": 2,
+          "span": "野雲"
         },
         {
-          "type": "Location",
-          "start": 4,
-          "end": 8,
-          "span": "白蘋渡口"
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "綠楊"
         },
         {
-          "type": "Location",
-          "start": 9,
-          "end": 12,
-          "span": "綠楊堤"
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "布穀"
         },
         {
-          "type": "Location",
-          "start": 13,
-          "end": 17,
-          "span": "紅蓼灘頭"
+          "type": "Thing",
+          "start": 27,
+          "end": 28,
+          "span": "雨"
         },
         {
-          "type": "Location",
-          "start": 31,
-          "end": 33,
-          "span": "秋江"
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "蒼苔"
         },
         {
           "type": "Thing",
           "start": 34,
-          "end": 38,
-          "span": "白鷺沙鷗"
+          "end": 36,
+          "span": "垂楊"
         },
         {
-          "type": "Person",
-          "start": 47,
-          "end": 48,
-          "span": "我"
-        },
-        {
-          "type": "PersonName",
-          "start": 54,
-          "end": 56,
-          "span": "釣叟",
-          "cid": 65915,
-          "name": "查繼佐",
-          "aid": "unknow"
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "紫煙"
         },
         {
           "type": "Location",
-          "start": 57,
-          "end": 61,
-          "span": "西塞山前"
+          "start": 42,
+          "end": 44,
+          "span": "田地"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "芝蘭"
+        },
+        {
+          "type": "Metric",
+          "start": 52,
+          "end": 55,
+          "span": "三千畝"
         },
         {
           "type": "Thing",
           "start": 61,
           "end": 63,
-          "span": "白鷺"
-        },
-        {
-          "type": "Thing",
-          "start": 65,
-          "end": 69,
-          "span": "桃花流水"
-        },
-        {
-          "type": "Thing",
-          "start": 70,
-          "end": 71,
-          "span": "魚"
-        },
-        {
-          "type": "Thing",
-          "start": 73,
-          "end": 76,
-          "span": "清蒻笠"
-        },
-        {
-          "type": "Thing",
-          "start": 77,
-          "end": 80,
-          "span": "綠蓑衣"
-        },
-        {
-          "type": "Thing",
-          "start": 81,
-          "end": 85,
-          "span": "斜風細雨"
-        },
-        {
-          "type": "PersonName",
-          "start": 89,
-          "end": 92,
-          "span": "董其昌",
-          "cid": 35003,
-          "name": "董其昌",
-          "aid": "A004662"
+          "span": "鶴田"
         }
       ],
-      "sentence": "黃蘆岸。白蘋渡口。綠楊堤。紅蓼灘頭。雖無刎頸交。頗有忘機友。點秋江。白鷺沙鷗。傲教人間萬戶侯。我是不識字煙波釣叟。西塞山前白鷺飛。桃花流水鱖魚肥。清蒻笠。綠蓑衣。斜風細雨不須歸。董其昌書。",
-      "author": "董其昌"
+      "sentence": "野雲彌望日華開。春色平分散六垓。忽聽綠楊啼布穀。一犁帶雨破蒼苔。裊裊垂楊生紫煙。向陽田地得春先。芝蘭且種三千畝。不作尋常養鶴田。萬谿俞國振。",
+      "author": "俞國振"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 5,
+          "span": "俞國振"
+        }
+      ],
+      "sentence": "萬谿俞國振",
+      "author": "俞國振"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "守耕。（隸書）。徵明為朝用書。（行書）。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "徵明為朝用書",
+      "author": "文徵明"
     }
   ]
 }

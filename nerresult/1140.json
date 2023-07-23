@@ -2,199 +2,68 @@
   "filefroms": "1140.json",
   "sentences": [
     {
-      "authorcid": 33891,
+      "authorcid": 101309,
       "authoraid": "unknow",
       "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "孤雲處士王振鵬製",
+      "author": "王振鵬"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "海上"
+        },
         {
           "type": "Thing",
           "start": 2,
           "end": 4,
-          "span": "絲綸"
+          "span": "三山"
         },
         {
           "type": "Thing",
           "start": 5,
           "end": 7,
-          "span": "釣船"
+          "span": "翠鬟"
         },
         {
-          "type": "Location",
+          "type": "LocationName",
           "start": 8,
           "end": 10,
-          "span": "江頭"
+          "span": "天宮",
+          "aid": "PL000000055446"
         },
         {
-          "type": "Thing",
-          "start": 10,
-          "end": 12,
-          "span": "明月"
-        },
-        {
-          "type": "Person",
+          "type": "LocationName",
           "start": 13,
           "end": 15,
-          "span": "團員"
-        },
-        {
-          "type": "Thing",
-          "start": 16,
-          "end": 18,
-          "span": "酒瓶"
+          "span": "雲端",
+          "aid": "PL000000028027"
         },
         {
           "type": "Thing",
           "start": 20,
           "end": 22,
-          "span": "岸花"
-        },
-        {
-          "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "青簑"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 36,
-          "span": "輕風細浪"
-        },
-        {
-          "type": "Thing",
-          "start": 37,
-          "end": 39,
-          "span": "漁船"
-        },
-        {
-          "type": "Thing",
-          "start": 40,
-          "end": 44,
-          "span": "遠水斜陽"
-        },
-        {
-          "type": "Thing",
-          "start": 49,
-          "end": 51,
-          "span": "白鳥"
-        },
-        {
-          "type": "Location",
-          "start": 53,
-          "end": 55,
-          "span": "平川"
-        },
-        {
-          "type": "Thing",
-          "start": 74,
-          "end": 76,
-          "span": "江山"
-        },
-        {
-          "type": "Person",
-          "start": 77,
-          "end": 78,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 80,
-          "end": 81,
-          "span": "波"
-        },
-        {
-          "type": "Thing",
-          "start": 84,
-          "end": 85,
-          "span": "鬢"
-        },
-        {
-          "type": "Thing",
-          "start": 86,
-          "end": 87,
-          "span": "銀"
-        },
-        {
-          "type": "Thing",
-          "start": 91,
-          "end": 92,
-          "span": "山"
-        },
-        {
-          "type": "Thing",
-          "start": 93,
-          "end": 95,
-          "span": "海鱗"
-        },
-        {
-          "type": "Thing",
-          "start": 104,
-          "end": 106,
-          "span": "清波"
-        },
-        {
-          "type": "Thing",
-          "start": 109,
-          "end": 111,
-          "span": "晴霞"
-        },
-        {
-          "type": "Thing",
-          "start": 112,
-          "end": 113,
-          "span": "舟"
-        },
-        {
-          "type": "Location",
-          "start": 122,
-          "end": 124,
-          "span": "汀洲"
-        },
-        {
-          "type": "Location",
-          "start": 126,
-          "end": 127,
-          "span": "家"
-        },
-        {
-          "type": "Person",
-          "start": 130,
-          "end": 132,
-          "span": "何人"
-        },
-        {
-          "type": "Person",
-          "start": 133,
-          "end": 134,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 138,
-          "end": 140,
-          "span": "鳧鳥"
-        },
-        {
-          "type": "Thing",
-          "start": 144,
-          "end": 145,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 148,
-          "end": 149,
-          "span": "水"
-        },
-        {
-          "type": "Thing",
-          "start": 152,
-          "end": 155,
-          "span": "青草煙"
+          "span": "瑤臺"
         },
         {
           "type": "PersonName",
-          "start": 158,
-          "end": 159,
+          "start": 24,
+          "end": 25,
           "span": "人",
           "cid": 132663,
           "name": "劉文耀",
@@ -202,283 +71,345 @@
         },
         {
           "type": "Thing",
-          "start": 160,
-          "end": 162,
-          "span": "綠楊"
+          "start": 32,
+          "end": 37,
+          "span": "落日芙容煙"
         },
         {
           "type": "Thing",
-          "start": 170,
-          "end": 172,
-          "span": "澄波"
+          "start": 40,
+          "end": 45,
+          "span": "秋風桂櫂露"
         },
         {
           "type": "Thing",
-          "start": 186,
-          "end": 190,
-          "span": "沙鷗樸鹿"
+          "start": 59,
+          "end": 60,
+          "span": "笙"
         },
         {
           "type": "Thing",
-          "start": 194,
-          "end": 197,
-          "span": "長江浪"
-        },
-        {
-          "type": "Thing",
-          "start": 200,
-          "end": 202,
-          "span": "輕舟"
-        },
-        {
-          "type": "Thing",
-          "start": 204,
-          "end": 206,
-          "span": "夕陽"
-        },
-        {
-          "type": "Thing",
-          "start": 213,
-          "end": 215,
-          "span": "長松"
-        },
-        {
-          "type": "Thing",
-          "start": 226,
-          "end": 228,
-          "span": "輕舟"
-        },
-        {
-          "type": "LocationName",
-          "start": 232,
-          "end": 234,
-          "span": "江湖",
-          "aid": "PL000000008364"
-        },
-        {
-          "type": "Thing",
-          "start": 241,
-          "end": 243,
-          "span": "明月"
-        },
-        {
-          "type": "Thing",
-          "start": 245,
-          "end": 247,
-          "span": "長波"
+          "start": 61,
+          "end": 63,
+          "span": "綵鸞"
         },
         {
           "type": "Time",
-          "start": 248,
-          "end": 250,
-          "span": "半夜"
-        },
+          "start": 64,
+          "end": 72,
+          "span": "嘉靖辛酉暮春四日"
+        }
+      ],
+      "sentence": "海上三山擁翠鬟。天宮遙在碧雲端。古來漫說瑤臺迥。人世寧知玉宇寒。落日芙容煙裊裊。秋風桂櫂露漙漙。勝遊寂莫前朝事。惟見吹笙駕綵鸞。嘉靖辛酉暮春四日書。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
         {
-          "type": "Thing",
-          "start": 256,
-          "end": 258,
-          "span": "殘霞"
-        },
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "嘉靖辛酉暮春四日"
+        }
+      ],
+      "sentence": "嘉靖辛酉暮春四日書。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
         {
-          "type": "Thing",
-          "start": 264,
-          "end": 265,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 266,
-          "end": 267,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 312,
-          "end": 313,
-          "span": "魚"
-        },
-        {
-          "type": "Thing",
-          "start": 314,
-          "end": 315,
-          "span": "魚"
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "朋梅",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 346,
-          "end": 348,
-          "span": "嚴光",
-          "cid": 168410,
-          "name": "嚴光",
-          "aid": "A002859"
-        },
-        {
-          "type": "Location",
-          "start": 349,
-          "end": 351,
-          "span": "釣臺"
+          "start": 10,
+          "end": 13,
+          "span": "元仁宗",
+          "cid": 100385,
+          "name": "元仁宗",
+          "aid": "A002087"
         },
         {
           "type": "Thing",
-          "start": 352,
-          "end": 355,
-          "span": "桃花水"
+          "start": 19,
+          "end": 24,
+          "span": "五雲樓閣圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 30,
+          "span": "趙千里",
+          "cid": 39590,
+          "name": "趙千里",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "彭年",
+          "cid": 63542,
+          "name": "彭年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "勝國王朋梅精於繪事。元仁宗尤雅重之。此五雲樓閣圖。雖法趙千里。而雅澹之致似覺勝之。不可不寶。隆池山人彭年。",
+      "author": "彭年"
+    },
+    {
+      "authorcid": 63542,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "彭年",
+          "cid": 63542,
+          "name": "彭年",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "隆池山人彭年",
+      "author": "彭年"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "陸師道",
+          "cid": 118777,
+          "name": "陸師道",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "五湖居士陸師道曾觀。",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "陸師道",
+          "cid": 118777,
+          "name": "陸師道",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "五湖居士陸師道曾觀",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王振鵬",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "朋梅",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 13,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "大常",
+          "cid": 199208,
+          "name": "羅經",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 362,
-          "end": 364,
-          "span": "輕舟"
+          "start": 22,
+          "end": 27,
+          "span": "金明奪標圖"
         },
         {
-          "type": "LocationName",
-          "start": 377,
-          "end": 380,
-          "span": "北江南",
-          "aid": "PL000000000197",
-          "cid": 303668
+          "type": "PersonName",
+          "start": 39,
+          "end": 41,
+          "span": "范氏",
+          "cid": 56810,
+          "name": "范氏",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 49,
+          "span": "五雲樓閣圖"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 56,
+          "span": "金明池卷"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 79,
+          "span": "邃閣危樓"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "王君",
+          "cid": 139436,
+          "name": "王君",
+          "aid": "A019767"
         },
         {
           "type": "Person",
-          "start": 380,
-          "end": 383,
-          "span": "適意人"
-        },
-        {
-          "type": "PersonName",
-          "start": 384,
-          "end": 388,
-          "span": "梅花道人",
-          "cid": 33891,
-          "name": "吳鎮",
-          "aid": "A031120"
+          "start": 107,
+          "end": 109,
+          "span": "居士"
         }
       ],
-      "sentence": "收卻絲綸歇釣船。江頭明月正團員。酒瓶側。岸花懸。□領青簑踏月眠。輕風細浪漾漁船。遠水斜陽欲暮天。看白鳥。下平川。點破瀟湘萬重煙。閒情聊爾寄絲綸。處處江山著我身。波似練。鬢如銀。懶釣如山載海鱗。極目乾坤夕照斜。清波微影弄晴霞。舟有伴。趣無涯。那個汀洲不是家。近日何人是我鄰。滿川鳧鳥最相親。雲淡淡。水粼粼。青草煙深不見人。綠楊初睡煖風微。萬頃澄波浸落暉。鼓枻去。唱歌歸。驚起沙鷗樸鹿飛。風攬長江浪拍空。輕舟蕩漾夕陽紅。歸別浦。繫長松。正是風恬浪息中。一個輕舟力幾多。江湖隨處戲漁簑。撐明月。下長波。半夜風生不奈何。殘霞返照四山明。雲起雲收陰復晴。風腳動。浪頭生。聽取虛窗夜雨聲。白頭垂釣碧江深。憶得前身是姓任。隨去住。任浮沈。魚少魚多不用心。釣擲萍波綠自開。錦鱗隊隊逐釣來。消歲月。寄幽情。恰似嚴光坐釣臺。桃花水煖五湖春。一個輕舟寄此身。時醉泊。感無綸。江北江南適意人。梅花道人戲墨。",
-      "author": "吳鎮"
+      "sentence": "王振鵬字朋梅。賜號孤雲處士。嘗被大常公主教寫金明奪標圖。一時傳為神品。今從南橋范氏得閱此五雲樓閣圖。不減金明池卷。偶一展觀。恍若身履其境。而層巒疊巘。邃閣危樓。歷歷在指。顧王君不得穎中三昧。何能入此之神妙也耶。六止居士周天球識。",
+      "author": "周天球"
     },
     {
-      "authorcid": 33891,
+      "authorcid": 128788,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
+          "type": "Person",
           "start": 0,
           "end": 4,
-          "span": "梅花道人",
-          "cid": 33891,
-          "name": "吳鎮",
-          "aid": "A031120"
+          "span": "六止居士"
         }
       ],
-      "sentence": "梅花道人戲墨",
-      "author": "吳鎮"
+      "sentence": "六止居士周天球識",
+      "author": "周天球"
     },
     {
-      "authorcid": 33891,
-      "authoraid": "unknow",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "關仝",
-          "cid": 561329,
-          "name": "關仝",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 6,
-          "span": "山水"
-        },
-        {
-          "type": "PersonName",
-          "start": 17,
-          "end": 19,
-          "span": "荊浩",
-          "cid": 43819,
-          "name": "荊浩",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 29,
-          "span": "唐人漁父圖"
-        },
-        {
-          "type": "Location",
-          "start": 63,
-          "end": 65,
-          "span": "淮中"
-        },
-        {
-          "type": "Thing",
-          "start": 66,
-          "end": 68,
-          "span": "此卷"
-        },
-        {
-          "type": "Time",
-          "start": 85,
-          "end": 88,
-          "span": "十餘年"
-        },
-        {
-          "type": "Time",
-          "start": 98,
-          "end": 111,
-          "span": "至正十二年壬辰秋九月廿一日"
-        },
-        {
-          "type": "PersonName",
-          "start": 112,
-          "end": 114,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 121,
-          "end": 123,
-          "span": "僧舍"
-        }
-      ],
-      "sentence": "余喜關仝山水清勁可愛。觀其筆法出于荊浩。後見荊畫唐人漁父圖。有如此製作。遂倣而為一軸。流散易去。今復見之。乃物有會過時也。一日淮中持此卷來。命識之。吁。昔之畫。今之題。殆十餘年矣。流光易謝。悲夫。至正十二年壬辰秋九月廿一日梅道人書于賦塘慈雲之僧舍。",
-      "author": "吳鎮"
-    },
-    {
-      "authorcid": 33891,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
+          "type": "Person",
           "start": 0,
-          "end": 13,
-          "span": "至正十二年壬辰秋九月廿一日"
+          "end": 2,
+          "span": "仙家"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "雲霞"
+        },
+        {
+          "type": "LocationName",
+          "start": 33,
+          "end": 39,
+          "span": "萊樓閣五雲端",
+          "aid": "PL000000034314",
+          "cid": 4946
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "海日"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "石欄"
+        },
+        {
+          "type": "Person",
+          "start": 50,
+          "end": 52,
+          "span": "仙人"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 54,
+          "span": "鶴"
         },
         {
           "type": "PersonName",
-          "start": 14,
-          "end": 16,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
+          "start": 56,
+          "end": 60,
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
           "aid": "unknow"
         },
         {
-          "type": "Location",
-          "start": 23,
-          "end": 25,
-          "span": "僧舍"
+          "type": "PersonName",
+          "start": 67,
+          "end": 71,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
         }
       ],
-      "sentence": "至正十二年壬辰秋九月廿一日梅道人書于賦塘慈雲之僧舍。",
-      "author": "吳鎮"
+      "sentence": "仙家何事好樓居。應愛雲霞入綺疏。謾笑荒唐傳漢武。只今披卷信非虛。蓬萊樓閣五雲端。海日初升映石欄。多少仙人飛鶴去。孤雲處士畫中看。寶親王長春居士題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 7,
+          "span": "長春居士",
+          "cid": 55870,
+          "name": "愛新覺羅弘曆",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "寶親王長春居士題",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

@@ -1,0 +1,165 @@
+{
+  "filefroms": "1786.json",
+  "sentences": [
+    {
+      "authorcid": 19394,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "乾隆三十七年"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 18,
+          "span": "西元一七七二年）十月朔"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "顧銓",
+          "cid": 19394,
+          "name": "顧銓",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "阮郜"
+        }
+      ],
+      "sentence": "乾隆三十七年（西元一七七二年）十月朔。臣顧銓奉勅恭摹阮郜筆意。",
+      "author": "顧銓"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "行雲"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "虹"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "霞衣"
+        },
+        {
+          "type": "LocationName",
+          "start": 21,
+          "end": 23,
+          "span": "洛浦",
+          "cid": 1431
+        },
+        {
+          "type": "Person",
+          "start": 25,
+          "end": 26,
+          "span": "他"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "黃庭",
+          "cid": 87985,
+          "name": "黃庭",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 59,
+          "end": 61,
+          "span": "天外"
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "周王",
+          "cid": 394996,
+          "name": "周王",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 74,
+          "end": 76,
+          "span": "後生"
+        },
+        {
+          "type": "Person",
+          "start": 79,
+          "end": 81,
+          "span": "前人"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 94,
+          "span": "他"
+        },
+        {
+          "type": "Time",
+          "start": 98,
+          "end": 100,
+          "span": "甲午"
+        },
+        {
+          "type": "Time",
+          "start": 101,
+          "end": 108,
+          "span": "西元一七七四年"
+        },
+        {
+          "type": "Time",
+          "start": 109,
+          "end": 111,
+          "span": "初夏"
+        }
+      ],
+      "sentence": "行雲冉冉步璇空。虹帶霞衣世鮮同。殊彼一時降洛浦。致他八斗賦驚鴻。　黃庭手把静而娟。跳脱輕伊戀世緣。别有雙成翩赴約。飛來天外駕胎仙。　阮學周王顧摹阮。後生師法視前人。不因新舊裝池異。咄咄憐他欲逼真。甲午（西元一七七四年）初夏御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲午"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七七四年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "初夏"
+        }
+      ],
+      "sentence": "甲午（西元一七七四年）初夏御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

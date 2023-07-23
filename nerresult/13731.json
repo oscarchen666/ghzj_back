@@ -1,0 +1,256 @@
+{
+  "filefroms": "13731.json",
+  "sentences": [
+    {
+      "authorcid": 33480,
+      "authoraid": "A013475",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "郭忠恕",
+          "cid": 33480,
+          "name": "郭忠恕",
+          "aid": "A013475"
+        }
+      ],
+      "sentence": "郭忠恕",
+      "author": "郭忠恕"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "慶曆四年春"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "滕子京",
+          "cid": "unknow",
+          "name": "滕宗諒",
+          "aid": "A006884"
+        },
+        {
+          "type": "LocationName",
+          "start": 11,
+          "end": 14,
+          "span": "巴陵郡",
+          "cid": 400417
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 18,
+          "span": "明年"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 35,
+          "span": "岳陽樓"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "唐賢",
+          "cid": 168268,
+          "name": "唐賢",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 63,
+          "end": 65,
+          "span": "巴陵",
+          "cid": 18715
+        },
+        {
+          "type": "Location",
+          "start": 69,
+          "end": 71,
+          "span": "洞庭"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 73,
+          "span": "湖"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "遠山"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 81,
+          "span": "長江"
+        },
+        {
+          "type": "LocationName",
+          "start": 104,
+          "end": 107,
+          "span": "岳陽樓",
+          "aid": "PL000000059949"
+        },
+        {
+          "type": "Person",
+          "start": 112,
+          "end": 114,
+          "span": "前人"
+        },
+        {
+          "type": "LocationName",
+          "start": 123,
+          "end": 125,
+          "span": "巫峽",
+          "aid": "PL000000000081"
+        },
+        {
+          "type": "Person",
+          "start": 131,
+          "end": 135,
+          "span": "遷客騷人"
+        },
+        {
+          "type": "Thing",
+          "start": 153,
+          "end": 155,
+          "span": "霪雨"
+        },
+        {
+          "type": "Thing",
+          "start": 163,
+          "end": 165,
+          "span": "陰風"
+        },
+        {
+          "type": "Thing",
+          "start": 168,
+          "end": 170,
+          "span": "濁浪"
+        },
+        {
+          "type": "Thing",
+          "start": 173,
+          "end": 175,
+          "span": "日星"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 180,
+          "span": "山岳"
+        },
+        {
+          "type": "Thing",
+          "start": 200,
+          "end": 201,
+          "span": "虎"
+        },
+        {
+          "type": "Thing",
+          "start": 202,
+          "end": 203,
+          "span": "猿"
+        },
+        {
+          "type": "Thing",
+          "start": 256,
+          "end": 258,
+          "span": "沙鷗"
+        },
+        {
+          "type": "Thing",
+          "start": 261,
+          "end": 263,
+          "span": "錦鱗"
+        },
+        {
+          "type": "Thing",
+          "start": 266,
+          "end": 270,
+          "span": "岸芷汀蘭"
+        },
+        {
+          "type": "Thing",
+          "start": 283,
+          "end": 285,
+          "span": "皓月"
+        },
+        {
+          "type": "Thing",
+          "start": 326,
+          "end": 327,
+          "span": "酒"
+        },
+        {
+          "type": "Person",
+          "start": 343,
+          "end": 346,
+          "span": "古仁人"
+        },
+        {
+          "type": "Location",
+          "start": 370,
+          "end": 372,
+          "span": "廟堂"
+        },
+        {
+          "type": "Person",
+          "start": 431,
+          "end": 434,
+          "span": "微斯人"
+        },
+        {
+          "type": "Time",
+          "start": 440,
+          "end": 446,
+          "span": "至正九年六月"
+        },
+        {
+          "type": "LocationName",
+          "start": 452,
+          "end": 455,
+          "span": "安寓舍",
+          "aid": "PL000000042492",
+          "cid": 5185
+        }
+      ],
+      "sentence": "慶曆四年春。滕子京謫守巴陵郡。越明年。政通人和。百廢具興。乃重修岳陽樓。增其舊制。刻唐賢今人詩賦於其上。屬予作文以記之。予觀夫巴陵勝狀。在洞庭一湖。銜遠山。吞長江。浩浩湯湯。橫無際涯。朝暉夕陰。氣象萬千。此則岳陽樓之大觀也。前人之述備矣。然則北通巫峽。南極瀟湘。遷客騷人。多會於此。覽物之情。得無異乎。若夫霪雨霏霏。連月不開。陰風怒號。濁浪排空。日星隱耀。山岳潛形。商旅不行。檣傾木戢推。薄暮冥冥。虎嘯猿啼。登斯樓也。則有去國懷鄉。憂讒畏譏。滿目蕭然。感極而悲者矣。至若春和景明。波瀾不驚。上下天光。一碧萬頃。沙鷗翔集。錦鱗游泳。岸芷汀蘭。郁郁青青。而或長烟一空。皓月千里。浮光躍金。靜影沈璧。漁歌互答。此樂何極。登斯樓也。則有心曠神怡。寵辱皆忘。把酒臨風。其喜洋洋者矣。嗟夫。予嘗求古仁人之心。或異二者之為。何哉。不以物喜。不以己悲。居廟堂之高。則憂其民。處江湖之遠。則憂其君。是進亦憂。退亦憂。然則何時而樂耶。其必曰。先天下之憂而憂。後天下之樂而樂與。噫。微斯人。吾誰與歸。至正九年六月既望。書於長安寓舍。虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 12,
+          "span": "至正九年（1349）六月"
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 21,
+          "span": "安寓舍",
+          "aid": "PL000000042492",
+          "cid": 5185
+        }
+      ],
+      "sentence": "至正九年（1349）六月既望。書於長安寓舍。虞集。",
+      "author": "虞集"
+    }
+  ]
+}

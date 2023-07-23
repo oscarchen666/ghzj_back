@@ -1,0 +1,201 @@
+{
+  "filefroms": "90.json",
+  "sentences": [
+    {
+      "authorcid": 44099,
+      "authoraid": "A023089",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "紹興十一年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 13,
+          "span": "西元一一四一年"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 17,
+          "span": "睿思殿"
+        }
+      ],
+      "sentence": "紹興十一年（西元一一四一年）睿思殿奉詔作進",
+      "author": "馬遠"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子瞻",
+          "cid": 3767,
+          "name": "蘇軾",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "赤壁"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "虎爪"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 14,
+          "span": "西風羊角"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 19,
+          "span": "太上蓮舟"
+        },
+        {
+          "type": "Location",
+          "start": 20,
+          "end": 22,
+          "span": "洞庭"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "微風"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 39,
+          "span": "驚濤怒浪"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "春潭"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "大江"
+        },
+        {
+          "type": "Location",
+          "start": 50,
+          "end": 53,
+          "span": "漁浦渡"
+        },
+        {
+          "type": "Location",
+          "start": 54,
+          "end": 57,
+          "span": "西興渡"
+        },
+        {
+          "type": "LocationName",
+          "start": 59,
+          "end": 62,
+          "span": "州蕭山",
+          "cid": 18351,
+          "aid": "PL000000011700"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 66,
+          "span": "錢塘潮"
+        },
+        {
+          "type": "LocationName",
+          "start": 67,
+          "end": 70,
+          "span": "海門山",
+          "aid": "PL000000056968"
+        },
+        {
+          "type": "LocationName",
+          "start": 71,
+          "end": 73,
+          "span": "黃河",
+          "aid": "PL000000000193"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 76,
+          "span": "張騫",
+          "cid": 176395,
+          "name": "張騫",
+          "aid": "A002009"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 88,
+          "span": "禹門"
+        },
+        {
+          "type": "PersonName",
+          "start": 91,
+          "end": 93,
+          "span": "太白",
+          "cid": 32540,
+          "name": "李白",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 94,
+          "end": 95,
+          "span": "鯨"
+        }
+      ],
+      "sentence": "子瞻赤壁。虎爪成波。西風羊角。太上蓮舟。洞庭秋月。秋沍□釣。微風漾波。驚濤怒浪。春潭發蟄。大江悠悠。漁浦渡。西興渡。越州蕭山。錢塘潮。海門山。黃河。張騫乘槎。淙湍驚角。禹門三級。太白騎鯨。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A003564",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "馬遠",
+          "cid": 44099,
+          "name": "馬遠",
+          "aid": "A023089"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "畫水卷"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "內府"
+        }
+      ],
+      "sentence": "馬遠畫水卷二十景內府所藏。（畫押一）。",
+      "author": "宋理宗"
+    }
+  ]
+}

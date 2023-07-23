@@ -1,0 +1,193 @@
+{
+  "filefroms": "1273.json",
+  "sentences": [
+    {
+      "authorcid": 8011,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "顧閎中",
+          "cid": 39098,
+          "name": "顧閎中",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "江南",
+          "cid": 289674,
+          "name": "江南",
+          "aid": "A032791"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "偽主"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "士女"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "後主",
+          "cid": 21303,
+          "name": "陳叔寶",
+          "aid": "A006593"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 36,
+          "span": "韓熙載",
+          "cid": 94724,
+          "name": "韓熙載",
+          "aid": "A010740"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 42,
+          "span": "閎中",
+          "cid": 7187,
+          "name": "鄭穆",
+          "aid": "A019095"
+        },
+        {
+          "type": "PersonName",
+          "start": 57,
+          "end": 59,
+          "span": "周昉",
+          "cid": 165061,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 63,
+          "span": "予"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "嶠南"
+        },
+        {
+          "type": "LocationName",
+          "start": 68,
+          "end": 72,
+          "span": "溪陳子真",
+          "cid": 14042
+        },
+        {
+          "type": "Location",
+          "start": 72,
+          "end": 73,
+          "span": "家"
+        },
+        {
+          "type": "Person",
+          "start": 78,
+          "end": 80,
+          "span": "諸帝"
+        },
+        {
+          "type": "Person",
+          "start": 84,
+          "end": 86,
+          "span": "宮人"
+        },
+        {
+          "type": "PersonName",
+          "start": 93,
+          "end": 95,
+          "span": "李氏",
+          "cid": 67268,
+          "name": "李氏",
+          "aid": "A004552"
+        },
+        {
+          "type": "Thing",
+          "start": 101,
+          "end": 103,
+          "span": "衣冠"
+        },
+        {
+          "type": "Person",
+          "start": 118,
+          "end": 121,
+          "span": "畫家者"
+        },
+        {
+          "type": "Thing",
+          "start": 124,
+          "end": 126,
+          "span": "古畫"
+        },
+        {
+          "type": "Thing",
+          "start": 129,
+          "end": 133,
+          "span": "衣冠車服"
+        },
+        {
+          "type": "Time",
+          "start": 139,
+          "end": 145,
+          "span": "紹興辛酉五月"
+        },
+        {
+          "type": "PersonName",
+          "start": 149,
+          "end": 151,
+          "span": "張澂",
+          "cid": 8011,
+          "name": "張澂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "顧閎中。江南人。事偽主為待詔。作士女體近周昉而加纖麗。嘗為後主每伺韓熙載夜宴。命閎中圖以上之。此圖豐肌長襦君衣。周昉法也。予在嶠南於端溪陳子真家。見其世藏諸帝像。左右宮人梳髻與此略同。李氏自謂。南唐故衣冠多用唐制。然風流實承六朝之餘。畫家者言。辨古畫當先問衣冠車服。蓋謂是也。紹興辛酉五月澹喦居士張澂題。",
+      "author": "張澂"
+    },
+    {
+      "authorcid": 8011,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "紹興辛酉五月"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 11,
+          "span": "居士張"
+        }
+      ],
+      "sentence": "紹興辛酉五月澹喦居士張澂題",
+      "author": "張澂"
+    }
+  ]
+}

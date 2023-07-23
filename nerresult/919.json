@@ -2,237 +2,219 @@
   "filefroms": "919.json",
   "sentences": [
     {
-      "authorcid": 33891,
-      "authoraid": "unknow",
+      "authorcid": 17690,
+      "authoraid": "A004030",
       "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "大德四年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 19,
+          "span": "西元一三００年）十二月廿八日"
+        },
         {
           "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
+          "start": 21,
+          "end": 23,
+          "span": "彥遠",
+          "cid": 48149,
+          "name": "梅致和",
           "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 29,
+          "span": "古木散馬圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 30,
+          "end": 32,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
         }
       ],
-      "sentence": "梅道人",
-      "author": "吳鎮"
+      "sentence": "大德四年（西元一三００年）十二月廿八日。為彥遠作古木散馬圖。子昂。",
+      "author": "趙孟頫"
     },
     {
-      "authorcid": 3737,
+      "authorcid": 1858,
       "authoraid": "unknow",
       "output": [
         {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "詩人"
+        },
+        {
+          "type": "Person",
+          "start": 7,
+          "end": 9,
+          "span": "君王"
+        },
+        {
           "type": "Thing",
-          "start": 8,
-          "end": 10,
-          "span": "雞鶩"
+          "start": 10,
+          "end": 12,
+          "span": "鼓車"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "此馬"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 29,
+          "span": "馬"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 43,
+          "span": "趙文敏",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "古木"
         },
         {
           "type": "LocationName",
-          "start": 19,
-          "end": 22,
-          "span": "蓉城下",
-          "aid": "PL000000060226",
-          "cid": 16085
-        },
-        {
-          "type": "Location",
-          "start": 24,
-          "end": 26,
-          "span": "滿山"
+          "start": 61,
+          "end": 63,
+          "span": "平原",
+          "cid": 16802
         },
         {
           "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "紅葉"
-        },
-        {
-          "type": "Thing",
-          "start": 29,
-          "end": 31,
-          "span": "秋風"
-        },
-        {
-          "type": "Location",
-          "start": 32,
-          "end": 34,
-          "span": "雲間"
+          "start": 68,
+          "end": 70,
+          "span": "野草"
         },
         {
           "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "沈度",
-          "cid": 3737,
-          "name": "沈度",
+          "start": 86,
+          "end": 88,
+          "span": "文敏",
+          "cid": 8082,
+          "name": "李邴",
+          "aid": "A002429"
+        },
+        {
+          "type": "Person",
+          "start": 98,
+          "end": 101,
+          "span": "士大夫"
+        },
+        {
+          "type": "Thing",
+          "start": 115,
+          "end": 116,
+          "span": "鸞"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 118,
+          "span": "鈴"
+        },
+        {
+          "type": "Thing",
+          "start": 127,
+          "end": 129,
+          "span": "菽粟"
+        },
+        {
+          "type": "PersonName",
+          "start": 156,
+          "end": 158,
+          "span": "王賓",
+          "cid": 1858,
+          "name": "王賓",
           "aid": "unknow"
         }
       ],
-      "sentence": "淋漓筆墨獨爭雄。雞鶩從誰辨異同。憶得芙蓉城下醉。滿山紅葉寫秋風。雲間沈度。",
-      "author": "沈度"
+      "sentence": "詩人有言。入為君王駕鼓車。出與將軍靜邊野。此馬之遭奇遇。馬之獲騰驤。馬之光輝也。趙文敏戲筆乃訑訑散行於蕭束古木之下。從平原而息力。就野草以自秣。鞭策之弗加。控勒之無施。文敏之意殆有所喻而然邪。士大夫鞅掌之餘。寧無休逸之思邪。鍚鸞和鈴。韅靷鞅絆。充飫乎菽粟。而雍容于康莊之上。視此知物各有其時。又奚可齊邪。長樂王賓題。",
+      "author": "王賓"
     },
     {
-      "authorcid": 3737,
+      "authorcid": 1858,
       "authoraid": "unknow",
       "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 2,
-          "span": "雲間"
-        },
         {
           "type": "PersonName",
           "start": 2,
           "end": 4,
-          "span": "沈度",
-          "cid": 3737,
-          "name": "沈度",
+          "span": "王賓",
+          "cid": 1858,
+          "name": "王賓",
           "aid": "unknow"
         }
       ],
-      "sentence": "雲間沈度",
-      "author": "沈度"
+      "sentence": "長樂王賓題",
+      "author": "王賓"
     },
     {
-      "authorcid": 34508,
+      "authorcid": "unknow",
       "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
           "start": 0,
-          "end": 2,
-          "span": "梅菴"
-        },
-        {
-          "type": "LocationName",
-          "start": 32,
-          "end": 34,
-          "span": "東海",
-          "aid": "PL000000000151",
-          "cid": 1010
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 37,
-          "span": "徐有貞",
-          "cid": 34508,
-          "name": "徐有貞",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "梅菴點筆有神助。展卷颯颯生風涼。巨然去後無何有。屈指於今獨擅長。東海徐有貞題。",
-      "author": "徐有貞"
-    },
-    {
-      "authorcid": 34508,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "LocationName",
-          "start": 0,
-          "end": 2,
-          "span": "東海",
-          "aid": "PL000000000151",
-          "cid": 1010
-        },
-        {
-          "type": "PersonName",
-          "start": 2,
           "end": 5,
-          "span": "徐有貞",
-          "cid": 34508,
-          "name": "徐有貞",
+          "span": "松雪散馬圖"
+        }
+      ],
+      "sentence": "松雪散馬圖",
+      "author": "俞宗大"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "宗大",
+          "cid": 28499,
+          "name": "俞德鄰",
           "aid": "unknow"
         }
       ],
-      "sentence": "東海徐有貞題",
-      "author": "徐有貞"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Location",
-          "start": 24,
-          "end": 26,
-          "span": "石戸"
-        },
-        {
-          "type": "Location",
-          "start": 27,
-          "end": 29,
-          "span": "巖下"
-        },
-        {
-          "type": "Thing",
-          "start": 30,
-          "end": 32,
-          "span": "烟舟"
-        },
-        {
-          "type": "Location",
-          "start": 33,
-          "end": 35,
-          "span": "水濱"
-        },
-        {
-          "type": "Person",
-          "start": 45,
-          "end": 47,
-          "span": "其人"
-        },
-        {
-          "type": "Time",
-          "start": 48,
-          "end": 50,
-          "span": "癸巳"
-        },
-        {
-          "type": "Time",
-          "start": 51,
-          "end": 58,
-          "span": "西元一七七三年"
-        },
-        {
-          "type": "Time",
-          "start": 59,
-          "end": 61,
-          "span": "仲春"
-        }
-      ],
-      "sentence": "本述巨然法。濟之氣韻臻。何曾鄰率略。惟是足精神。石戸開巖下。烟舟艤水濱。望中多簡潔。真覺似其人。癸巳（西元一七七三年）仲春中澣御題。",
-      "author": "愛新覺羅弘曆"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 2,
-          "span": "癸巳"
-        },
-        {
-          "type": "Time",
-          "start": 3,
-          "end": 10,
-          "span": "西元一七七三年"
-        },
-        {
-          "type": "Time",
-          "start": 11,
-          "end": 13,
-          "span": "仲春"
-        }
-      ],
-      "sentence": "癸巳（西元一七七三年）仲春中澣御題",
-      "author": "愛新覺羅弘曆"
+      "sentence": "吏部主事俞宗大書",
+      "author": "俞宗大"
     }
   ]
 }

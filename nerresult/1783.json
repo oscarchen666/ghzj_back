@@ -1,0 +1,22 @@
+{
+  "filefroms": "1783.json",
+  "sentences": [
+    {
+      "authorcid": 59688,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬卷藏珍。臣吳應枚。",
+      "author": "吳應枚"
+    }
+  ]
+}

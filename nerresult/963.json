@@ -2,485 +2,246 @@
   "filefroms": "963.json",
   "sentences": [
     {
-      "authorcid": 35040,
-      "authoraid": "unknow",
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "子昂",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
       "output": [
         {
           "type": "Thing",
           "start": 0,
-          "end": 3,
-          "span": "高士圖"
-        }
-      ],
-      "sentence": "高士圖（殘闕存半）。",
-      "author": "王穉登"
-    },
-    {
-      "authorcid": 35040,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 1,
-          "end": 4,
-          "span": "王穉登",
-          "cid": 35040,
-          "name": "王穉登",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 26,
-          "end": 27,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
+          "end": 2,
+          "span": "山林"
         },
         {
           "type": "Person",
-          "start": 49,
-          "end": 51,
-          "span": "古者"
-        },
-        {
-          "type": "Time",
-          "start": 90,
-          "end": 95,
-          "span": "萬曆甲午十"
-        },
-        {
-          "type": "Time",
-          "start": 112,
-          "end": 116,
-          "span": "月廿三夜"
-        },
-        {
-          "type": "PersonName",
-          "start": 117,
-          "end": 120,
-          "span": "張德父",
-          "cid": 542201,
-          "name": "張德父",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 120,
-          "end": 122,
-          "span": "齋頭"
-        },
-        {
-          "type": "LocationName",
-          "start": 151,
-          "end": 153,
-          "span": "松院",
-          "aid": "PL000000018745"
-        },
-        {
-          "type": "PersonName",
-          "start": 167,
-          "end": 170,
-          "span": "王穉登",
-          "cid": 35040,
-          "name": "王穉登",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "（王穉登跋亦殘存六行。第一行只存一梁字。第二行存虛令人有凌雲六字。第三行存之氣。可□□心匠意不縛於古者哉。斵輪甘十七字其中三字全泐。第四行完整。文曰。）苦得之神解。豈可以口耳傳也。萬曆甲午十（十七字）。（第五行完整。文曰。）月廿三夜飲張德父齋頭。出此見遺。歸而中（十七字）。（第六行下端殘。文曰。）聖坐松院。燭下展閱捉筆題（十一字下闕王穉登三字）。",
-      "author": "王穉登"
-    },
-    {
-      "authorcid": 87648,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 15,
-          "end": 17,
-          "span": "六如",
-          "cid": 79688,
-          "name": "沈宗湘",
-          "aid": "unknow"
+          "start": 5,
+          "end": 6,
+          "span": "我"
         },
         {
           "type": "Thing",
-          "start": 19,
-          "end": 24,
-          "span": "圖卷高士圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 31,
-          "end": 33,
-          "span": "唐寅",
-          "cid": 34868,
-          "name": "唐寅",
-          "aid": "A018140"
-        },
-        {
-          "type": "Person",
-          "start": 34,
-          "end": 38,
-          "span": "敬泉先生"
-        },
-        {
-          "type": "Person",
-          "start": 44,
-          "end": 46,
-          "span": "唐六"
-        },
-        {
-          "type": "Person",
-          "start": 47,
-          "end": 49,
-          "span": "先生"
+          "start": 16,
+          "end": 18,
+          "span": "長松"
         },
         {
           "type": "Thing",
-          "start": 49,
-          "end": 52,
-          "span": "高士圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 57,
-          "end": 60,
-          "span": "李伯時",
-          "cid": 547642,
-          "name": "李伯時",
-          "aid": "A011507"
-        },
-        {
-          "type": "PersonName",
-          "start": 63,
-          "end": 66,
-          "span": "劉松年",
-          "cid": 52001,
-          "name": "劉松年",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 69,
-          "end": 72,
-          "span": "馬和之",
-          "cid": 44736,
-          "name": "馬和之",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 75,
-          "end": 77,
-          "span": "梁楷",
-          "cid": 356021,
-          "name": "梁楷",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 92,
-          "end": 93,
-          "span": "人",
-          "cid": 132663,
-          "name": "劉文耀",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 109,
-          "end": 111,
-          "span": "古者"
-        },
-        {
-          "type": "Time",
-          "start": 131,
-          "end": 140,
-          "span": "萬曆甲午十月廿三夜"
-        },
-        {
-          "type": "PersonName",
-          "start": 141,
-          "end": 144,
-          "span": "張德父",
-          "cid": 542201,
-          "name": "張德父",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 144,
-          "end": 146,
-          "span": "齋頭"
-        },
-        {
-          "type": "Person",
-          "start": 154,
-          "end": 156,
-          "span": "中聖"
-        },
-        {
-          "type": "LocationName",
-          "start": 157,
-          "end": 159,
-          "span": "松院",
-          "aid": "PL000000018745"
-        },
-        {
-          "type": "PersonName",
-          "start": 167,
-          "end": 170,
-          "span": "王穉登",
-          "cid": 56585,
-          "name": "王穉登",
-          "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 171,
-          "end": 175,
-          "span": "己丑仲冬"
-        },
-        {
-          "type": "Location",
-          "start": 180,
-          "end": 183,
-          "span": "雲起樓"
-        },
-        {
-          "type": "PersonName",
-          "start": 191,
-          "end": 194,
-          "span": "唐宇昭",
-          "cid": 87648,
-          "name": "唐宇昭",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "（唐宇昭錄王穉登原跋文曰）。唐六如高士圖卷高士圖三字隸書。晉昌唐寅為敬泉先生畫。小行楷。唐六如先生高士圖四段。一法李伯時。一法劉松年。一法馬和之。一法梁楷。並筆法飄逸。如漢武讀子虛。令人有凌雲之氣。可謂師心匠意。不縳於古者哉。斵輪甘苦。得之神解。豈可以口耳傳也。萬曆甲午十月廿三夜飲張德父齋頭。出此見遺。歸而中聖坐松院燭下展閱捉筆題。王穉登。己丑仲冬。獲再觀於雲起樓。展玩不忍釋手。唐宇昭。",
-      "author": "唐宇昭"
-    },
-    {
-      "authorcid": 87648,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "己丑仲冬"
-        },
-        {
-          "type": "Location",
-          "start": 9,
-          "end": 12,
-          "span": "雲起樓"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
+          "start": 21,
           "end": 23,
-          "span": "唐宇昭",
-          "cid": 87648,
-          "name": "唐宇昭",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "己丑仲冬。獲再觀於雲起樓。展玩不忍釋手。唐宇昭。",
-      "author": "唐宇昭"
-    },
-    {
-      "authorcid": 531544,
-      "authoraid": "unknow",
-      "output": [
+          "span": "蒼煙"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "山水"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 49,
+          "span": "君"
+        },
         {
           "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "君子",
-          "cid": 84870,
-          "name": "鍾懷",
+          "start": 64,
+          "end": 66,
+          "span": "西谿",
+          "cid": 40716,
+          "name": "李過",
           "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 8,
-          "end": 12,
-          "span": "法書名畫"
-        },
-        {
-          "type": "Person",
-          "start": 51,
-          "end": 53,
-          "span": "先生"
-        },
-        {
-          "type": "Thing",
-          "start": 53,
-          "end": 57,
-          "span": "高士圖卷"
-        },
-        {
-          "type": "LocationName",
-          "start": 59,
-          "end": 61,
-          "span": "荊溪",
-          "aid": "PL000000009435",
-          "cid": 7537
-        },
-        {
-          "type": "Time",
-          "start": 66,
-          "end": 69,
-          "span": "己丑歲"
-        },
-        {
-          "type": "Person",
-          "start": 71,
-          "end": 73,
-          "span": "先君"
+          "start": 72,
+          "end": 74,
+          "span": "此卷"
         },
         {
           "type": "Location",
           "start": 76,
           "end": 79,
-          "span": "雲起樓"
+          "span": "高閣裡"
         },
         {
-          "type": "Time",
-          "start": 80,
+          "type": "Thing",
+          "start": 82,
           "end": 84,
-          "span": "明年庚寅"
-        },
-        {
-          "type": "PersonName",
-          "start": 87,
-          "end": 89,
-          "span": "人翁",
-          "cid": 30211,
-          "name": "豐坊",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 125,
-          "end": 127,
-          "span": "此卷"
-        },
-        {
-          "type": "PersonName",
-          "start": 128,
-          "end": 131,
-          "span": "黃子久",
-          "cid": "unknow",
-          "name": "黃公望",
-          "aid": "A003975"
-        },
-        {
-          "type": "Thing",
-          "start": 131,
-          "end": 134,
-          "span": "富春圖"
-        },
-        {
-          "type": "Time",
-          "start": 158,
-          "end": 161,
-          "span": "癸亥冬"
-        },
-        {
-          "type": "LocationName",
-          "start": 162,
-          "end": 164,
-          "span": "荊溪",
-          "aid": "PL000000009435",
-          "cid": 7537
-        },
-        {
-          "type": "Person",
-          "start": 216,
-          "end": 218,
-          "span": "先君"
-        },
-        {
-          "type": "Time",
-          "start": 246,
-          "end": 249,
-          "span": "甲子冬"
-        },
-        {
-          "type": "LocationName",
-          "start": 250,
-          "end": 252,
-          "span": "嶺南",
-          "aid": "PL000000023027"
-        },
-        {
-          "type": "Person",
-          "start": 255,
-          "end": 258,
-          "span": "翁先生"
-        },
-        {
-          "type": "Person",
-          "start": 259,
-          "end": 261,
-          "span": "先生"
-        },
-        {
-          "type": "Metric",
-          "start": 272,
-          "end": 275,
-          "span": "數千里"
-        },
-        {
-          "type": "Thing",
-          "start": 296,
-          "end": 298,
-          "span": "此卷"
-        },
-        {
-          "type": "Person",
-          "start": 326,
-          "end": 328,
-          "span": "先生"
-        },
-        {
-          "type": "Person",
-          "start": 339,
-          "end": 340,
-          "span": "我"
-        }
-      ],
-      "sentence": "先君子每遇收藏家法書名畫。所賞心者。無不錄其款識。以備稽考。積累成編。為見聞識一。（疑有脫字）。此六如先生高士圖卷。乃荊溪吳氏物也。己丑歲曾侍先君同觀於雲起樓。明年庚寅。其主人翁不達。儗以素所珍愛諸物殉葬。慮不能如願。遂於臨逝時。集置榻前。付之一炬。此卷與黃子久富春圖。同遭厄劫。作罷論久矣。居恆討論及此。輒為浩歎。癸亥冬過荊溪。偶於一俗賈手。獲覩此段。且驚且喜。惜前後盡成灰燼。猶幸存高士圖三字影。暨王跋一段。而款識悉歸烏有。使非先君有抄錄原本在。不幾為千古疑案耶。遂多方購之。以作枕中秘。甲子冬游嶺南。訪出翁先生。先生顧謂予曰。一別數載不遠數千里而來。必當有所割愛以見遺。予無辭以應。勉將此卷。疏明始末而歸之。雖斷簡殘編。而變幻遇合之奇。堪為佳話。先生大鑒家。知必不以菲褻罪我也。時嘉平一日。毗陵後學唐工光識。",
-      "author": "唐光"
-    },
-    {
-      "authorcid": 531544,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 1,
-          "end": 5,
-          "span": "嘉平一日"
+          "span": "幽閣"
         },
         {
           "type": "Location",
-          "start": 6,
-          "end": 8,
-          "span": "毗陵"
+          "start": 85,
+          "end": 87,
+          "span": "水湄"
+        },
+        {
+          "type": "Thing",
+          "start": 96,
+          "end": 98,
+          "span": "綠蘋"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 100,
+          "span": "葉"
         },
         {
           "type": "Person",
-          "start": 11,
-          "end": 14,
-          "span": "工光"
+          "start": 105,
+          "end": 106,
+          "span": "君"
+        },
+        {
+          "type": "LocationName",
+          "start": 106,
+          "end": 108,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "PersonName",
+          "start": 116,
+          "end": 118,
+          "span": "趙子",
+          "cid": 17882,
+          "name": "趙子",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 128,
+          "end": 130,
+          "span": "山屯"
         }
       ],
-      "sentence": "時嘉平一日。毗陵後學唐工光",
-      "author": "唐光"
+      "sentence": "山林忽然在我眼。攬袂欲遊嗟已遠。長松謖謖含蒼煙。平川茫茫際層巘。圖中山水天下稀。把玩竟日迺忘歸。君獨何為甘寂莫。坐對佳境娛清暉。西谿先生賞鑑士。此卷藏之高閣裡。數間幽閣傍水湄。中有神光發奇字。綠蘋齊葉白芷生。送君江南空復情。相與嘆賞趙子筆。時對此圖雙眼明。山屯仇遠題。",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "山屯"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "仇遠",
+          "cid": 28342,
+          "name": "仇遠",
+          "aid": "A044127"
+        }
+      ],
+      "sentence": "山屯仇遠題",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "雲外"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "松下石"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 17,
+          "span": "山中人",
+          "cid": 65688,
+          "name": "趙懷玉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "青青雲外坐。炯炯松下石。顧此山中人。風神照松色。敬中題。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "敬中題",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "胡布",
+          "cid": 104858,
+          "name": "胡布",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "錢塘",
+          "cid": 5333
+        }
+      ],
+      "sentence": "建民胡布觀于錢塘舟次",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "胡布",
+          "cid": 104858,
+          "name": "胡布",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "錢塘",
+          "cid": 5333
+        }
+      ],
+      "sentence": "建民胡布觀于錢塘舟次",
+      "author": ""
     }
   ]
 }

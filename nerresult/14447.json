@@ -2,167 +2,39 @@
   "filefroms": "14447.json",
   "sentences": [
     {
-      "authorcid": 30328,
+      "authorcid": 130737,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Thing",
+          "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "右瑞應圖"
-        },
-        {
-          "type": "PersonName",
-          "start": 8,
-          "end": 11,
-          "span": "宋高宗",
-          "cid": "unknow",
-          "name": "趙構",
-          "aid": "A002088"
+          "end": 2,
+          "span": "庚申"
         },
         {
           "type": "Time",
-          "start": 17,
+          "start": 3,
+          "end": 15,
+          "span": "西元一五六０年）首夏六日"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
           "end": 20,
-          "span": "淳熙間"
-        },
-        {
-          "type": "PersonName",
-          "start": 22,
-          "end": 24,
-          "span": "李嵩",
-          "cid": 60608,
-          "name": "李嵩",
-          "aid": "A006562"
-        },
-        {
-          "type": "Time",
-          "start": 36,
-          "end": 38,
-          "span": "元時"
-        },
-        {
-          "type": "PersonName",
-          "start": 43,
-          "end": 45,
-          "span": "袁清",
-          "cid": 213248,
-          "name": "袁清",
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
           "aid": "unknow"
-        },
-        {
-          "type": "Time",
-          "start": 51,
-          "end": 53,
-          "span": "國初"
-        },
-        {
-          "type": "Location",
-          "start": 55,
-          "end": 57,
-          "span": "魏府"
-        },
-        {
-          "type": "Person",
-          "start": 61,
-          "end": 63,
-          "span": "大賈"
-        },
-        {
-          "type": "Time",
-          "start": 79,
-          "end": 81,
-          "span": "夏日"
-        },
-        {
-          "type": "Time",
-          "start": 90,
-          "end": 96,
-          "span": "嘉靖歲次辛丑"
-        },
-        {
-          "type": "Time",
-          "start": 97,
-          "end": 104,
-          "span": "西元一五四一年"
-        },
-        {
-          "type": "Time",
-          "start": 105,
-          "end": 107,
-          "span": "孟秋"
-        },
-        {
-          "type": "PersonName",
-          "start": 112,
-          "end": 116,
-          "span": "墨林山人",
-          "cid": 30328,
-          "name": "項元汴",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 121,
-          "end": 124,
-          "span": "天籟閣"
-        }
-      ],
-      "sentence": "右瑞應圖一卷。迺宋高宗南渡時事也。淳熙間畫院李嵩寫圖進呈。以紀一時聖瑞。元時散落人間。袁清容物色得之。國初復入魏府。近楚黃大賈舉以示余。而題識割去。遂為易之。夏日重裝。因記歲月云。嘉靖歲次辛丑（西元一五四一年）孟秋上浣。檇李墨林山人項元汴書於天籟閣。",
-      "author": "項元汴"
-    },
-    {
-      "authorcid": 35003,
-      "authoraid": "A004662",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "嵩瑞",
-          "cid": 350065,
-          "name": "嵩瑞",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 13,
-          "end": 16,
-          "span": "賞鑒家"
-        },
-        {
-          "type": "PersonName",
-          "start": 34,
-          "end": 36,
-          "span": "子京",
-          "cid": 30328,
-          "name": "項元汴",
-          "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 59,
-          "end": 61,
-          "span": "古人"
         },
         {
           "type": "Thing",
-          "start": 70,
-          "end": 72,
-          "span": "拱璧"
-        },
-        {
-          "type": "PersonName",
-          "start": 84,
-          "end": 87,
-          "span": "董其昌",
-          "cid": 35003,
-          "name": "董其昌",
-          "aid": "A004662"
+          "start": 21,
+          "end": 24,
+          "span": "蔬圃圖"
         }
       ],
-      "sentence": "宋李嵩瑞應圖。為海內名物。賞鑒家莫不稱之。今觀其用筆設色高古不倫。項子京購得時已遺題識。茲復散軼八幀。余深為惋惜。雖然古人片楮尺幅。獲之已如拱璧。況此卷乎。宜善藏無斁。董其昌鑒定。",
-      "author": "董其昌"
+      "sentence": "庚申（西元一五六０年）首夏六日。包山陸治作蔬圃圖。",
+      "author": "陸治"
     }
   ]
 }

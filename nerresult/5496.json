@@ -1,0 +1,29 @@
+{
+  "filefroms": "5496.json",
+  "sentences": [
+    {
+      "authorcid": 46709,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "海鹽",
+          "cid": 5348
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張紀",
+          "cid": 46709,
+          "name": "張紀",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "海鹽張紀寫",
+      "author": "張紀"
+    }
+  ]
+}

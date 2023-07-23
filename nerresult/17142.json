@@ -2,278 +2,194 @@
   "filefroms": "17142.json",
   "sentences": [
     {
-      "authorcid": 7323,
-      "authoraid": "A018691",
-      "output": [
-        {
-          "type": "Person",
-          "start": 8,
-          "end": 10,
-          "span": "他人"
-        },
-        {
-          "type": "Person",
-          "start": 12,
-          "end": 13,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 44,
-          "span": "藥物"
-        },
-        {
-          "type": "Thing",
-          "start": 48,
-          "end": 52,
-          "span": "高雲茂木"
-        },
-        {
-          "type": "Thing",
-          "start": 66,
-          "end": 68,
-          "span": "白髮"
-        },
-        {
-          "type": "Thing",
-          "start": 72,
-          "end": 74,
-          "span": "鳳雛"
-        },
-        {
-          "type": "Thing",
-          "start": 76,
-          "end": 77,
-          "span": "荷"
-        },
-        {
-          "type": "Thing",
-          "start": 88,
-          "end": 90,
-          "span": "山水"
-        },
-        {
-          "type": "Thing",
-          "start": 91,
-          "end": 92,
-          "span": "酒"
-        },
-        {
-          "type": "Person",
-          "start": 96,
-          "end": 98,
-          "span": "老夫"
-        },
-        {
-          "type": "Thing",
-          "start": 113,
-          "end": 114,
-          "span": "繭"
-        },
-        {
-          "type": "Person",
-          "start": 121,
-          "end": 122,
-          "span": "我"
-        },
-        {
-          "type": "LocationName",
-          "start": 137,
-          "end": 140,
-          "span": "山長谷",
-          "aid": "PL000000056823"
-        }
-      ],
-      "sentence": "尚古老仙心浩然。他人溝渠我巨川。積義積德非一日。積書積金非一年。奇編翻刻惠貧讀。更製藥物疲癃痊。高雲茂木鬱望族。數仞之?千頃田。毿毿白髮被兩肩。鳳雛抱送荷自天。功名染指知薄味。山水載酒脩閒緣。老夫相住縣百里。蔑面未見惟通箋。越繭十丈翻相聯。索我放筆開風煙。谷容山重頗有喻。大山長谷惟其賢。登堂一笑尚有日。還對此卷鳴高絃。（跋云）長卷惡篇不足形容高尚也。",
-      "author": "沈周"
-    },
-    {
-      "authorcid": 133132,
+      "authorcid": "unknow",
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Person",
-          "start": 0,
-          "end": 2,
-          "span": "老兵"
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "陸贄",
+          "cid": 33705,
+          "name": "陸贄",
+          "aid": "A021979"
         },
         {
           "type": "PersonName",
-          "start": 18,
-          "end": 20,
-          "span": "將軍",
-          "cid": "unknow",
-          "name": "蒙山道明",
-          "aid": "A010081"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 26,
-          "span": "戈矛"
+          "start": 6,
+          "end": 8,
+          "span": "陸贄",
+          "cid": 33705,
+          "name": "陸贄",
+          "aid": "A021979"
         },
         {
           "type": "Person",
-          "start": 52,
-          "end": 54,
-          "span": "大官"
+          "start": 9,
+          "end": 11,
+          "span": "吳人"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "進士"
         },
         {
           "type": "PersonName",
-          "start": 64,
-          "end": 66,
-          "span": "石田",
-          "cid": 34784,
-          "name": "沈周",
-          "aid": "A008260"
-        },
-        {
-          "type": "Person",
-          "start": 88,
-          "end": 90,
-          "span": "鄙工"
-        },
-        {
-          "type": "Thing",
-          "start": 106,
-          "end": 108,
-          "span": "牙籤"
-        },
-        {
-          "type": "Thing",
-          "start": 122,
-          "end": 124,
-          "span": "丹青"
-        },
-        {
-          "type": "Person",
-          "start": 154,
-          "end": 156,
-          "span": "韋杜"
-        },
-        {
-          "type": "Location",
-          "start": 160,
-          "end": 162,
-          "span": "江村"
-        },
-        {
-          "type": "Thing",
-          "start": 162,
-          "end": 164,
-          "span": "山屋"
-        },
-        {
-          "type": "Thing",
-          "start": 170,
-          "end": 172,
-          "span": "密竹"
+          "start": 19,
+          "end": 22,
+          "span": "唐德宗",
+          "cid": 182475,
+          "name": "唐德宗",
+          "aid": "A004215"
         },
         {
           "type": "PersonName",
-          "start": 188,
-          "end": 190,
-          "span": "桃源",
-          "cid": 19870,
-          "name": "王說",
+          "start": 25,
+          "end": 27,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
           "aid": "unknow"
         },
         {
-          "type": "PersonName",
-          "start": 237,
-          "end": 239,
-          "span": "天公",
-          "cid": "unknow",
-          "name": "玉皇大帝",
-          "aid": "A019364"
-        },
-        {
-          "type": "Thing",
-          "start": 248,
-          "end": 252,
-          "span": "蠟鞭假髻"
-        },
-        {
-          "type": "Thing",
-          "start": 256,
-          "end": 258,
-          "span": "河圖"
+          "type": "Time",
+          "start": 28,
+          "end": 31,
+          "span": "貞元中"
         },
         {
           "type": "Person",
-          "start": 264,
-          "end": 268,
-          "span": "傅嚴丈人"
-        },
-        {
-          "type": "Person",
-          "start": 272,
-          "end": 274,
-          "span": "凌煙"
-        },
-        {
-          "type": "PersonName",
-          "start": 288,
-          "end": 291,
-          "span": "沈石田",
-          "cid": 511548,
-          "name": "沈石田",
-          "aid": "A018691"
-        },
-        {
-          "type": "PersonName",
-          "start": 303,
-          "end": 305,
-          "span": "古先",
-          "cid": "unknow",
-          "name": "古先",
-          "aid": "A022867"
-        },
-        {
-          "type": "PersonName",
-          "start": 314,
-          "end": 316,
-          "span": "華亭",
-          "cid": 68547,
-          "name": "徐階",
-          "aid": "unknow"
+          "start": 35,
+          "end": 37,
+          "span": "宣公"
         }
       ],
-      "sentence": "老兵戰場拾折戟。磨洗血腥詫無敵。忽隨將軍閱武庫。戈矛耀日生悸慄。饕夫聞味動食指。九鼎一臠有餘旨。偶然醉飽大官烹。乃覺餘缶非盡美。石田詞翰山林英。翊以畫史馳八溟。尺綃短句聊寄興。鄙工執律寸朽評。具眼還歸華光祿。鄴侯牙籤堆萬軸。窮搜遠探書史源。不為丹青混流俗。連篇累幅誰致之。虎頭三絕今除癡。胸吞雲夢十八九。欲與韋杜爭參差。江村山屋無比隣。怪松密竹相主賓。逡迤屬目復卻走。祇愁誤作桃源人。儻蕩藏真復何在。長歌亦足存紀載。論書論畫更評人。此卷可許千金買。豈徒女為悅已容。物聚所好由天公。老予何幸洗肉眼。蠟鞭假髻皆成空。河圖不出獨角死。傅嚴丈人呼不走。凌煙肖像仍自題。肯願孱顏綴其尾。沈石田二詩一畫。妙絕他作。華尚古先生寶之。予為賦此。華亭錢福識。",
-      "author": "錢福"
+      "sentence": "吳人陸贄像。陸贄。吳人。年十八第進士。唐德宗拜翰林學士。貞元中拜相。謚宣公。有疏奏議行于世。",
+      "author": ""
     },
     {
-      "authorcid": 133132,
-      "authoraid": "unknow",
+      "authorcid": 3632,
+      "authoraid": "A007889",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "陸九淵",
+          "cid": 3632,
+          "name": "陸九淵",
+          "aid": "A007889"
+        }
+      ],
+      "sentence": "天不祚唐。胡為生公。遺像凜然。□古清風。陸九淵讚。",
+      "author": "陸九淵"
+    },
+    {
+      "authorcid": 3632,
+      "authoraid": "A007889",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
           "end": 3,
-          "span": "沈石田",
-          "cid": 511548,
-          "name": "沈石田",
-          "aid": "A018691"
-        },
+          "span": "陸九淵",
+          "cid": 3632,
+          "name": "陸九淵",
+          "aid": "A007889"
+        }
+      ],
+      "sentence": "陸九淵讚",
+      "author": "陸九淵"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "公震",
+          "cid": 50268,
+          "name": "趙士雷",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "公震同彥和大監觀。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "□□□再拜觀。",
+      "author": ""
+    },
+    {
+      "authorcid": 1953,
+      "authoraid": "A007247",
+      "output": [
         {
           "type": "Person",
-          "start": 10,
-          "end": 11,
-          "span": "他"
+          "start": 0,
+          "end": 2,
+          "span": "先生"
         },
         {
           "type": "PersonName",
-          "start": 15,
-          "end": 17,
-          "span": "古先",
-          "cid": "unknow",
-          "name": "古先",
-          "aid": "A022867"
+          "start": 7,
+          "end": 9,
+          "span": "君臣",
+          "cid": 553607,
+          "name": "姜弘立",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "丘山"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 25,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
         }
       ],
-      "sentence": "沈石田二詩一畫。妙絕他作。華尚古先生寶之。予為賦此。華亭錢福識。",
-      "author": "錢福"
+      "sentence": "先生風雲際會。君臣合心。武文功大。重若丘山。猶為人愛於千古之下。彥博。",
+      "author": "文彥博"
+    },
+    {
+      "authorcid": 1953,
+      "authoraid": "A007247",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "彥博",
+          "cid": 14111,
+          "name": "陸廣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "彥博",
+      "author": "文彥博"
     }
   ]
 }

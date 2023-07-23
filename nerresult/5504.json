@@ -1,0 +1,22 @@
+{
+  "filefroms": "5504.json",
+  "sentences": [
+    {
+      "authorcid": 23464,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "周之冕",
+          "cid": 23464,
+          "name": "周之冕",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "周之冕",
+      "author": "周之冕"
+    }
+  ]
+}

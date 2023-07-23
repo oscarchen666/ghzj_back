@@ -1,0 +1,37 @@
+{
+  "filefroms": "5595.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "乾隆五十二年"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 17,
+          "span": "西元一七八七年）二月"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "臣謝"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "金陵圖"
+        }
+      ],
+      "sentence": "乾隆五十二年（西元一七八七年）二月。臣謝遂奉敕恭仿宋院本金陵圖。",
+      "author": "謝遂"
+    }
+  ]
+}

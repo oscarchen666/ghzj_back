@@ -1,0 +1,284 @@
+{
+  "filefroms": "13683.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "陳居中",
+          "cid": 47873,
+          "name": "陳居中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 6,
+          "span": "蘇李"
+        },
+        {
+          "type": "Time",
+          "start": 14,
+          "end": 19,
+          "span": "癸亥年許初"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "京邸"
+        }
+      ],
+      "sentence": "陳居中畫蘇李別意。（篆書）。癸亥年許初為與齋題于京邸。（行書）。",
+      "author": "許初"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "癸亥年許初"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 12,
+          "span": "京邸"
+        }
+      ],
+      "sentence": "癸亥年許初為與齋題于京邸",
+      "author": "許初"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "河梁卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "允脩",
+          "cid": 200468,
+          "name": "胡悳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "人馬"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "沙棘"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "驪馬"
+        },
+        {
+          "type": "Person",
+          "start": 49,
+          "end": 51,
+          "span": "蘇君"
+        },
+        {
+          "type": "PersonName",
+          "start": 70,
+          "end": 72,
+          "span": "子卿",
+          "cid": 3593,
+          "name": "劉荀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 74,
+          "end": 76,
+          "span": "漢使"
+        },
+        {
+          "type": "Location",
+          "start": 79,
+          "end": 82,
+          "span": "荒澤中"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 89,
+          "span": "李隴西"
+        },
+        {
+          "type": "Time",
+          "start": 106,
+          "end": 111,
+          "span": "戊子臘日時"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 113,
+          "span": "韶書"
+        }
+      ],
+      "sentence": "居中河梁卷。昔賢所重。予侄允脩得此圖。人馬皆生動。群羢沙棘。慘澹中亦自別致。而驪馬豎耳顧視。似感聽蘇君之凜冽談者。神故更駿。然細察情端。似是子卿初得漢使。相見荒澤中。未必是李隴西尚作漢衣冠也。畫致簡貴。卓可寶重。戊子臘日時韶書。",
+      "author": "時韶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "戊子臘日時"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "韶書"
+        }
+      ],
+      "sentence": "戊子臘日時韶書",
+      "author": "時韶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "蘇李"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "泣別圖"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 11,
+          "span": "祖餞二疏圖"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 30,
+          "span": "宋人"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "它"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 40,
+          "span": "父"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "羊酪"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 52,
+          "span": "江瑤柱"
+        },
+        {
+          "type": "Time",
+          "start": 63,
+          "end": 66,
+          "span": "丁未臘"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 71,
+          "span": "雨蕉居士"
+        },
+        {
+          "type": "Location",
+          "start": 75,
+          "end": 77,
+          "span": "蕉園"
+        },
+        {
+          "type": "Location",
+          "start": 78,
+          "end": 81,
+          "span": "寒香亭"
+        }
+      ],
+      "sentence": "蘇李泣別圖與祖餞二疏圖往往多臨摹古蹟者。此卷經營古澹。真宋人善本也。它作者如傖父飲羊酪啖豕膋。忽覩江瑤柱。冉得不爽然自失。丁未臘盡雨蕉居士馴寓目於蕉園之寒香亭。",
+      "author": "凌馴"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "丁未臘盡"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 8,
+          "span": "雨蕉居士"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "蕉園"
+        },
+        {
+          "type": "Location",
+          "start": 15,
+          "end": 18,
+          "span": "寒香亭"
+        }
+      ],
+      "sentence": "丁未臘盡雨蕉居士馴寓目於蕉園之寒香亭",
+      "author": "凌馴"
+    }
+  ]
+}

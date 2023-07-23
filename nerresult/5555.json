@@ -1,0 +1,37 @@
+{
+  "filefroms": "5555.json",
+  "sentences": [
+    {
+      "authorcid": 54993,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "雲山"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "錢維城",
+          "cid": 54993,
+          "name": "錢維城",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 11,
+          "end": 13,
+          "span": "王翬",
+          "cid": 65886,
+          "name": "王翬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲山深靜。臣錢維城恭摹王翬筆意。",
+      "author": "錢維城"
+    }
+  ]
+}

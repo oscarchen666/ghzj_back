@@ -2,148 +2,1452 @@
   "filefroms": "1300.json",
   "sentences": [
     {
-      "authorcid": 43082,
-      "authoraid": "A045243",
+      "authorcid": 34673,
+      "authoraid": "A009194",
       "output": [
         {
           "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "右小畫"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 10,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 15,
+          "span": "王叔明",
+          "cid": 414023,
+          "name": "王叔明",
+          "aid": "A043089"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "趙魏公",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 30,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "PersonName",
+          "start": 43,
+          "end": 46,
+          "span": "趙善長",
+          "cid": 561283,
+          "name": "趙善長",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 55,
+          "span": "善長",
+          "cid": 130803,
+          "name": "陳元卿",
+          "aid": "A006792"
+        },
+        {
+          "type": "PersonName",
+          "start": 57,
+          "end": 59,
+          "span": "右丞",
+          "cid": 64695,
+          "name": "洪良品",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 63,
+          "end": 65,
+          "span": "作家"
+        },
+        {
+          "type": "Person",
           "start": 72,
           "end": 74,
-          "span": "神龜"
+          "span": "士夫"
         },
         {
-          "type": "LocationName",
-          "start": 76,
+          "type": "Person",
+          "start": 77,
           "end": 78,
-          "span": "黃河",
-          "aid": "PL000000000193"
+          "span": "吾"
         },
         {
-          "type": "Thing",
+          "type": "PersonName",
+          "start": 80,
+          "end": 82,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "PersonName",
           "start": 85,
           "end": 87,
-          "span": "麒麟"
-        },
-        {
-          "type": "Thing",
-          "start": 92,
-          "end": 98,
-          "span": "白鹿嘉禾甘露"
-        },
-        {
-          "type": "PersonName",
-          "start": 113,
-          "end": 115,
-          "span": "學之",
-          "cid": 546753,
-          "name": "林仲龍",
+          "span": "徵明",
+          "cid": 20106,
+          "name": "王濤",
           "aid": "unknow"
-        },
-        {
-          "type": "Person",
-          "start": 123,
-          "end": 126,
-          "span": "贊美者"
-        },
-        {
-          "type": "Person",
-          "start": 186,
-          "end": 189,
-          "span": "繪事者"
-        },
-        {
-          "type": "Thing",
-          "start": 209,
-          "end": 213,
-          "span": "瑞應之圖"
-        },
-        {
-          "type": "Location",
-          "start": 217,
-          "end": 218,
-          "span": "家"
-        },
-        {
-          "type": "Person",
-          "start": 234,
-          "end": 237,
-          "span": "繪畫者"
-        },
-        {
-          "type": "PersonName",
-          "start": 259,
-          "end": 261,
-          "span": "王會",
-          "cid": 1822,
-          "name": "王會",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 302,
-          "end": 306,
-          "span": "天球赤刀"
-        },
-        {
-          "type": "LocationName",
-          "start": 310,
-          "end": 313,
-          "span": "匱石室",
-          "cid": 7535
-        },
-        {
-          "type": "Time",
-          "start": 415,
-          "end": 420,
-          "span": "永樂十二年"
-        },
-        {
-          "type": "Time",
-          "start": 422,
-          "end": 429,
-          "span": "甲午冬十月朔旦"
-        },
-        {
-          "type": "PersonName",
-          "start": 434,
-          "end": 436,
-          "span": "承德",
-          "cid": 83984,
-          "name": "承德",
-          "aid": "A012878"
         }
       ],
-      "sentence": "瑞應圖序。惟古者國家極盛之世。恩澤旁敷。德化周洽。則至和之氣。薰蒸融結。必發為禎祥之物。夫豈偶然而已哉。棨自永樂改元以來。忝官侍從其間。白象至。神龜見。黃河清。騶虞兩出。麒麟再獻。以至白鹿嘉禾甘露之瑞。皆得身親見之。既又得與文學之臣作為歌詩以稱頌贊美者。皆已上徹宸聰藏之天府矣。顧惟窮鄉下邑。越絕萬里。聞其事者莫不延頸企慕。思欲一見而有不可得者。則予之於此又豈非幸歟。因命繪事者圖其形象。且錄嘗所進詩文以附于後。名之曰瑞應之圖。謹藏于家。嗟夫。天地之大。日月之明。誠非繪畫者所能得。然考豳風之圖。有以知成周王業之興。觀王會之作。足以見有唐聲教之盛。則是圖也。誠可以著聖德感應之徵者矣。況蕪陋之辭。亦皆得與天球赤刀並列於金匱石室之間。至於斯圖之有傳。或者遐遠之人得因予之所作。而拜觀于此。恍然如在殿陛之間。輦轂之下。蓋將歎希世之奇逢。慶有生之至幸。豈徒欣一覩之為快也哉。雖然殆未止此也。百世之後有欲求觀我朝治化之盛。尚或徵於斯乎哉。永樂十二年歲在甲午冬十月朔旦。翰林侍講承德郎永豐曾棨謹序。",
-      "author": "曾棨"
+      "sentence": "右小畫。初無名氏。余以為王叔明筆。叔明趙魏公外孫。畫師王右丞。此幅設色行筆皆是。或以為趙善長。而實非也。蓋善長亦師右丞。而微涉作家。不若此幅純用士夫筆也。吾定為叔明無疑。徵明題。",
+      "author": "文徵明"
     },
     {
-      "authorcid": 43082,
-      "authoraid": "A045243",
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [],
+      "sentence": "徵明題",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王叔明",
+          "cid": 414023,
+          "name": "王叔明",
+          "aid": "A043089"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "宋宗",
+          "cid": 538323,
+          "name": "宋宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "衡翁"
+        },
+        {
+          "type": "Time",
+          "start": 77,
+          "end": 83,
+          "span": "嘉靖丙辰四月"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 88,
+          "span": "穀祥"
+        }
+      ],
+      "sentence": "王叔明畫法軼宋宗唐。最為高古。脫去妍媚。特多士氣。余見凡幾矣。此卷尤清雅秀潤可愛。不必款題而知其為真蹟妙品也。況衡翁已有鑒。余復何贅。聊記歲月。以寓欣賞。嘉靖丙辰四月既望。穀祥題。",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 126804,
+      "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 5,
-          "span": "永樂十二年"
+          "end": 6,
+          "span": "嘉靖丙辰四月"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "穀祥"
+        }
+      ],
+      "sentence": "嘉靖丙辰四月既望。穀祥題。",
+      "author": "王穀祥"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 6,
+          "span": "作家"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 37,
+          "span": "王右丞",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "PersonName",
+          "start": 103,
+          "end": 105,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "PersonName",
+          "start": 111,
+          "end": 113,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 126,
+          "end": 128,
+          "span": "識者"
         },
         {
           "type": "Time",
+          "start": 133,
+          "end": 137,
+          "span": "甲辰九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 138,
+          "end": 140,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "叔明謂諸作家精研物態者。傷於工緻。而筆力豪縱者。又多怒張之氣。乃遠宗王右丞。而筆法古淡。如商周款識。雖興象蕭閒。而意思咸在。然非有真見者不能觀之驪黃之外。夫既有真見。則又不待名氏而后辨也。此幅開卷。余已知為叔明真蹟。及觀文太史之所評定。乃知物有定論。在識者賞之而已。甲辰九月。陸治題。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "甲辰九月"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "甲辰九月。陸治題。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
           "start": 7,
-          "end": 14,
-          "span": "甲午冬十月朔旦"
+          "end": 12,
+          "span": "元人諸畫家"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "二老",
+          "cid": 23343,
+          "name": "梁汝昌",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 42,
+          "end": 44,
+          "span": "畫家"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "王二",
+          "cid": 91978,
+          "name": "王無競",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 62,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 103,
+          "end": 104,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 106,
+          "end": 108,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "Thing",
+          "start": 108,
+          "end": 113,
+          "span": "丹山瀛海圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 115,
+          "end": 117,
+          "span": "茂甫",
+          "cid": 205483,
+          "name": "郝汝松",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 146,
+          "end": 149,
+          "span": "黃鶴山",
+          "aid": "PL000000011008"
+        },
+        {
+          "type": "PersonName",
+          "start": 151,
+          "end": 153,
+          "span": "畫師",
+          "cid": "unknow",
+          "name": "皎然",
+          "aid": "A008833"
+        },
+        {
+          "type": "Person",
+          "start": 156,
+          "end": 158,
+          "span": "荊董"
+        },
+        {
+          "type": "PersonName",
+          "start": 178,
+          "end": 181,
+          "span": "謝時臣",
+          "cid": 560933,
+          "name": "謝時臣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "余叨游藝苑。凡元人諸畫家筆法無不學。獨雲林叔明二先生自是難師其妙。且石田衡山二老。入畫家三昧者。嘗云倪王二家不可輕學。宜乎余之拙劣。安得其門困奧。如育龜索板竅。終日不獲一。今觀此小幅。墨清色潤。出自舊格。余曾觀叔明丹山瀛海圖于王茂甫處。其用筆極類此。如玉之清潤而栗然。羡慕之下。益以蕪句云。黃鶴山樵古畫師。直從荊董托階梯。晴窗點染求形似。頓別妍蚩不忍題。謝時臣。",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "謝時臣",
+          "cid": 560933,
+          "name": "謝時臣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "謝時臣",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "Person",
+          "start": 37,
+          "end": 39,
+          "span": "論者"
+        },
+        {
+          "type": "PersonName",
+          "start": 59,
+          "end": 61,
+          "span": "元鎮",
+          "cid": 100369,
+          "name": "元鎮",
+          "aid": "A008279"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "丁丑九月十八日"
+        },
+        {
+          "type": "PersonName",
+          "start": 108,
+          "end": 110,
+          "span": "幼元",
+          "cid": 206830,
+          "name": "徐良選",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 110,
+          "end": 112,
+          "span": "京兆"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 120,
+          "span": "周天球"
+        }
+      ],
+      "sentence": "叔明此卷。良是平生注意之作。諦玩竟日。始得窺其妙境。彼繪事家畦逕脫略已盡。論者多本其師承亦隘矣。大都清絕無纖塵。點染與元鎮伯仲。不當以束密較也。此不待法眼可定。而系以諸名公跋語。則矇賈亦不疑矣。丁丑九月十八日。吳幼元京兆出示漫識。周天球。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "丁丑九月十八日"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "幼元",
+          "cid": 206830,
+          "name": "徐良選",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 13,
+          "span": "京兆"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "天球"
+        }
+      ],
+      "sentence": "丁丑九月十八日。吳幼元京兆出示漫識。周天球。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
         },
         {
           "type": "PersonName",
           "start": 19,
           "end": 21,
-          "span": "承德",
-          "cid": 83984,
-          "name": "承德",
-          "aid": "A012878"
+          "span": "雲林",
+          "cid": 27852,
+          "name": "戴良",
+          "aid": "A008004"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 71,
+          "span": "山水人物"
+        },
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 75,
+          "span": "屋木舟船"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 92,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "Time",
+          "start": 98,
+          "end": 106,
+          "span": "嘉靖辛丑冬仲三日"
+        },
+        {
+          "type": "PersonName",
+          "start": 109,
+          "end": 111,
+          "span": "文嘉",
+          "cid": 34678,
+          "name": "文嘉",
+          "aid": "A016951"
         }
       ],
-      "sentence": "永樂十二年歲在甲午冬十月朔旦。翰林侍講承德郎永豐曾棨謹序。",
-      "author": "曾棨"
+      "sentence": "黃鶴山人王蒙叔明畫無一點塵俗氣。同時倪雲林雖筆法清勁。相與上下。而束株淡墨。斷煙殘渚。則不若叔明之長林巨壑重嵐疊嶂之為尤難耳。此卷山水人物屋木舟船咸備。而命意高古。筆力簡遠。蓋叔明用意之筆也。嘉靖辛丑冬仲三日。茂苑文嘉題。",
+      "author": "文嘉"
+    },
+    {
+      "authorcid": 34678,
+      "authoraid": "A016951",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "嘉靖辛丑冬仲三日"
+        }
+      ],
+      "sentence": "嘉靖辛丑冬仲三日。茂苑文嘉題。",
+      "author": "文嘉"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "元鎮",
+          "cid": 100369,
+          "name": "元鎮",
+          "aid": "A008279"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "王侯",
+          "cid": 148842,
+          "name": "王侯",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 25,
+          "end": 28,
+          "span": "五百年"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "倪迂"
+        },
+        {
+          "type": "Time",
+          "start": 53,
+          "end": 61,
+          "span": "嘉靖丙午八月九日"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 70,
+          "span": "陸師道",
+          "cid": 118777,
+          "name": "陸師道",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "倪元鎮於書畫少所推服。獨於叔明曰。王侯筆力能扛鼎。五百年來無此君。觀此橫卷。行筆命意。則知倪迂自是具眼者。嘉靖丙午八月九日題于得真齋。陸師道。",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 118777,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "嘉靖丙午八月九日"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "陸師",
+          "cid": 81088,
+          "name": "陸師",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖丙午八月九日題于得真齋。陸師道。",
+      "author": "陸師道"
+    },
+    {
+      "authorcid": 133136,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "萬曆丙子五月十三日"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "毘陵"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "幼元",
+          "cid": 206830,
+          "name": "徐良選",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 22,
+          "end": 24,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "錢穀"
+        }
+      ],
+      "sentence": "萬曆丙子五月十三日。觀於毘陵吳幼元之獨倚樓。長洲錢穀。",
+      "author": "錢穀"
+    },
+    {
+      "authorcid": 133136,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "萬曆丙子五月十三日"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "毘陵"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "幼元",
+          "cid": 206830,
+          "name": "徐良選",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 22,
+          "end": 24,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "錢穀"
+        }
+      ],
+      "sentence": "萬曆丙子五月十三日。觀於毘陵吳幼元之獨倚樓。長洲錢穀。",
+      "author": "錢穀"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王叔明",
+          "cid": 414023,
+          "name": "王叔明",
+          "aid": "A043089"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "會阮圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "幼元",
+          "cid": 65942,
+          "name": "黃道周",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 17,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 23,
+          "span": "毘陵"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "幼元",
+          "cid": 65942,
+          "name": "黃道周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 33,
+          "span": "此圖"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 52,
+          "span": "幾三十年"
+        },
+        {
+          "type": "Person",
+          "start": 53,
+          "end": 57,
+          "span": "題畫之人"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 62,
+          "span": "文內翰"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 66,
+          "span": "太僕",
+          "cid": 67331,
+          "name": "黎淳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 70,
+          "span": "王吏部"
+        },
+        {
+          "type": "Person",
+          "start": 71,
+          "end": 76,
+          "span": "謝陸二徵士"
+        },
+        {
+          "type": "Person",
+          "start": 78,
+          "end": 81,
+          "span": "陸尚璽"
+        },
+        {
+          "type": "PersonName",
+          "start": 114,
+          "end": 116,
+          "span": "山人",
+          "cid": 132499,
+          "name": "鄧儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 125,
+          "end": 126,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 127,
+          "end": 129,
+          "span": "幼元",
+          "cid": 65942,
+          "name": "黃道周",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 168,
+          "end": 170,
+          "span": "金石"
+        },
+        {
+          "type": "Time",
+          "start": 179,
+          "end": 187,
+          "span": "己卯八月十又四日"
+        },
+        {
+          "type": "Person",
+          "start": 191,
+          "end": 193,
+          "span": "雨力"
+        },
+        {
+          "type": "Person",
+          "start": 196,
+          "end": 199,
+          "span": "同集者"
+        },
+        {
+          "type": "PersonName",
+          "start": 203,
+          "end": 205,
+          "span": "復生",
+          "cid": 55133,
+          "name": "張曜孫",
+          "aid": "A019719"
+        },
+        {
+          "type": "Person",
+          "start": 206,
+          "end": 208,
+          "span": "余兒"
+        },
+        {
+          "type": "PersonName",
+          "start": 216,
+          "end": 218,
+          "span": "王禾",
+          "cid": 201210,
+          "name": "王禾",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王叔明會阮圖。舊為吳幼元家藏。憶余弱冠歲居毘陵。時時過幼元披閱此圖。賞其畫法清真。題識妙絕。去今幾三十年。題畫之人。如文內翰。許太僕。王吏部。謝陸二徵士。及陸尚璽。皆後先凋落。不勝云亡之戚。巋然魯靈者光。僅一休承丈耳。而況於黃鶴山人與圖中會阮之輩哉。余與幼元。雖升沉異途。山川相間。猶得以其暇輕橈過從。斗酒相命。顧不幸邪。詩不云乎。願保金石軀。與此圖并永耳。己卯八月十又四日尊生齋對雨力疾書。同集者。澄江董復生。余兒無曲無回侍。太原王禾犀登。",
+      "author": "王禾犀登"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "己卯八月十又四日"
+        },
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 14,
+          "span": "雨力"
+        },
+        {
+          "type": "Person",
+          "start": 17,
+          "end": 20,
+          "span": "同集者"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "澄江",
+          "cid": 67539,
+          "name": "尹直",
+          "aid": "A009362"
+        },
+        {
+          "type": "Person",
+          "start": 27,
+          "end": 29,
+          "span": "余兒"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "王禾",
+          "cid": 201210,
+          "name": "王禾",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "己卯八月十又四日尊生齋對雨力疾書。同集者。澄江董復生。余兒無曲無回侍。太原王禾犀登。",
+      "author": "王禾犀登"
+    },
+    {
+      "authorcid": 73738,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 3,
+          "span": "黃鶴山",
+          "aid": "PL000000011008"
+        },
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 7,
+          "span": "樵畫真者"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "元朗",
+          "cid": 77128,
+          "name": "李琪",
+          "aid": "A006512"
+        },
+        {
+          "type": "Person",
+          "start": 15,
+          "end": 19,
+          "span": "元四大家"
+        },
+        {
+          "type": "Metric",
+          "start": 22,
+          "end": 26,
+          "span": "六十餘幀"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "叔明",
+          "cid": 75903,
+          "name": "孫旭",
+          "aid": "A003749"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 40,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "叔明",
+          "cid": 75903,
+          "name": "孫旭",
+          "aid": "A003749"
+        },
+        {
+          "type": "Metric",
+          "start": 45,
+          "end": 48,
+          "span": "三十載"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 53,
+          "span": "掛幅"
+        },
+        {
+          "type": "Thing",
+          "start": 58,
+          "end": 59,
+          "span": "竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "元朗",
+          "cid": 77128,
+          "name": "李琪",
+          "aid": "A006512"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 80,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 93,
+          "span": "輞川圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 107,
+          "end": 109,
+          "span": "文陸",
+          "cid": 54879,
+          "name": "鍾化民",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 116,
+          "end": 119,
+          "span": "兩年前"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 124,
+          "span": "吳門一友"
+        },
+        {
+          "type": "Thing",
+          "start": 126,
+          "end": 128,
+          "span": "此卷"
+        },
+        {
+          "type": "LocationName",
+          "start": 129,
+          "end": 131,
+          "span": "山西",
+          "aid": "PL000000003716"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 135,
+          "span": "嘉禾",
+          "cid": 75002,
+          "name": "劉至健",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 142,
+          "end": 146,
+          "span": "二百餘金"
+        },
+        {
+          "type": "Time",
+          "start": 154,
+          "end": 157,
+          "span": "今夏間"
+        },
+        {
+          "type": "PersonName",
+          "start": 161,
+          "end": 163,
+          "span": "秋塘",
+          "cid": 79702,
+          "name": "沈品蓮",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 167,
+          "end": 169,
+          "span": "嘉禾",
+          "cid": 75002,
+          "name": "劉至健",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 174,
+          "end": 175,
+          "span": "余",
+          "cid": 12621,
+          "name": "余",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 208,
+          "end": 212,
+          "span": "庚戌中秋"
+        }
+      ],
+      "sentence": "黃鶴山樵畫真者絕少。明何元朗收元四大家畫共有六十餘幀。叔明僅一幀。其少可知矣。余留心叔明畫三十載。所得掛幅三幀。內有竹一幀。似較勝於元朗。可不謂幸歟。今又來此卷。觀其用筆。全摹摩詰輞川圖。聲希味淡。非俗眼可識。賴有文陸諸大家鑑定耳。兩年前有吳門一友。見此卷於山西。係嘉禾人攜至者。索價二百餘金。還其半而不果。今夏間。吳門張秋塘持來云。嘉禾人欲售者。余披覽再四。確然信其真跡無疑（者字點去）。遂傾貲得之。以作枕中之祕。庚戌中秋。竹癡畢瀧記。",
+      "author": "畢瀧"
+    },
+    {
+      "authorcid": 73738,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "庚戌中秋"
+        }
+      ],
+      "sentence": "庚戌中秋。竹癡畢瀧記。",
+      "author": "畢瀧"
+    },
+    {
+      "authorcid": 54580,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 4,
+          "span": "黃鶴山",
+          "aid": "PL000000011008"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 8,
+          "span": "會阮圖"
+        },
+        {
+          "type": "LocationName",
+          "start": 20,
+          "end": 22,
+          "span": "衡山",
+          "aid": "PL000000015458",
+          "cid": 18755
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "祿之",
+          "cid": 126804,
+          "name": "王穀祥",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "叔平",
+          "cid": 54104,
+          "name": "翁同龢",
+          "aid": "A014233"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "樗仙",
+          "cid": 125454,
+          "name": "愛新覺羅書諴",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 36,
+          "end": 38,
+          "span": "公瑕",
+          "cid": 438831,
+          "name": "黃國瑾",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 42,
+          "span": "文休承",
+          "cid": "unknow",
+          "name": "文嘉",
+          "aid": "A016951"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 46,
+          "span": "子傳",
+          "cid": 71730,
+          "name": "王其康",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "叔寶",
+          "cid": 3114,
+          "name": "程瑜",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 54,
+          "span": "王百穀",
+          "cid": "unknow",
+          "name": "王稺登",
+          "aid": "A004641"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 61,
+          "span": "癡道人",
+          "cid": 66074,
+          "name": "愛新覺羅福臨",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 62,
+          "end": 64,
+          "span": "今夏"
+        },
+        {
+          "type": "Location",
+          "start": 90,
+          "end": 92,
+          "span": "婁東"
+        },
+        {
+          "type": "LocationName",
+          "start": 94,
+          "end": 96,
+          "span": "吳門",
+          "aid": "PL000000009816"
+        },
+        {
+          "type": "Time",
+          "start": 135,
+          "end": 141,
+          "span": "乾隆五十五年"
+        },
+        {
+          "type": "Time",
+          "start": 143,
+          "end": 149,
+          "span": "庚戌陽生之月"
+        },
+        {
+          "type": "Location",
+          "start": 152,
+          "end": 157,
+          "span": "吳趨經訓堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 162,
+          "end": 165,
+          "span": "王文治",
+          "cid": 54580,
+          "name": "王文治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "右黃鶴山樵會阮圖。未署姓名。卷後有前明文衡山。王祿之。陸叔平。謝樗仙。周公瑕。文休承。陸子傳。錢叔寶。王百穀九跋。竹癡道人於今夏得之。喜不自勝。評之曰聲希味淡。定為真蹟無疑。頃復自婁東攜至吳門見示。竹癡海內精鑑。且自能畫。余何間然。唯幸衰暮之年得觀名蹟。聊識其歲月云爾。乾隆五十五年歲在庚戌陽生之月。觀於吳趨經訓堂并記。丹徒王文治。",
+      "author": "王文治"
+    },
+    {
+      "authorcid": 54580,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "乾隆五十五年"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 14,
+          "span": "庚戌陽生之月"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 22,
+          "span": "吳趨經訓堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 30,
+          "span": "王文治",
+          "cid": 54580,
+          "name": "王文治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "乾隆五十五年歲在庚戌陽生之月。觀於吳趨經訓堂并記。丹徒王文治。",
+      "author": "王文治"
+    },
+    {
+      "authorcid": 54580,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 3,
+          "span": "黃鶴山",
+          "aid": "PL000000011008"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "會阮圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "癡道人",
+          "cid": 66074,
+          "name": "愛新覺羅福臨",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "黃鶴山樵會阮圖。竹癡道人鑑藏。文治。",
+      "author": "王文治"
+    },
+    {
+      "authorcid": 54580,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "文治",
+      "author": "王文治"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "filefroms": "14548.json",
+  "sentences": [
+    {
+      "authorcid": 65496,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "洪綬"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 8,
+          "span": "拭梧書屋"
+        }
+      ],
+      "sentence": "洪綬寫于拭梧書屋",
+      "author": "陳洪綬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "永慶大年"
+        }
+      ],
+      "sentence": "永慶大年",
+      "author": ""
+    }
+  ]
+}

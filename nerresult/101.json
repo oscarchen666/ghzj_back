@@ -1,0 +1,263 @@
+{
+  "filefroms": "101.json",
+  "sentences": [
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Metric",
+          "start": 0,
+          "end": 2,
+          "span": "十里"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "飛塵灰"
+        },
+        {
+          "type": "Metric",
+          "start": 8,
+          "end": 10,
+          "span": "五里"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "丘火"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 20,
+          "span": "谷"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 30,
+          "span": "荔枝龍眼"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 34,
+          "span": "飛車"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 44,
+          "span": "風枝露葉"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 68,
+          "span": "荔枝"
+        },
+        {
+          "type": "LocationName",
+          "start": 69,
+          "end": 71,
+          "span": "交州",
+          "cid": 500026
+        },
+        {
+          "type": "Time",
+          "start": 72,
+          "end": 75,
+          "span": "天寶歲"
+        },
+        {
+          "type": "Thing",
+          "start": 84,
+          "end": 87,
+          "span": "林甫肉"
+        },
+        {
+          "type": "PersonName",
+          "start": 89,
+          "end": 90,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 96,
+          "end": 97,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 98,
+          "end": 100,
+          "span": "天公",
+          "cid": "unknow",
+          "name": "玉皇大帝",
+          "aid": "A019364"
+        },
+        {
+          "type": "PersonName",
+          "start": 101,
+          "end": 103,
+          "span": "赤子",
+          "cid": "unknow",
+          "name": "唐建中",
+          "aid": "A044498"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 113,
+          "span": "雨"
+        },
+        {
+          "type": "Person",
+          "start": 120,
+          "end": 121,
+          "span": "民"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 129,
+          "span": "君"
+        },
+        {
+          "type": "LocationName",
+          "start": 133,
+          "end": 136,
+          "span": "夷谿邊",
+          "aid": "PL000000018268",
+          "cid": 403194
+        },
+        {
+          "type": "Thing",
+          "start": 136,
+          "end": 139,
+          "span": "粟粒芽"
+        },
+        {
+          "type": "Thing",
+          "start": 166,
+          "end": 168,
+          "span": "官茶"
+        },
+        {
+          "type": "Person",
+          "start": 169,
+          "end": 171,
+          "span": "吾君"
+        },
+        {
+          "type": "LocationName",
+          "start": 185,
+          "end": 187,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "Person",
+          "start": 187,
+          "end": 189,
+          "span": "相君"
+        },
+        {
+          "type": "Thing",
+          "start": 197,
+          "end": 200,
+          "span": "姚黃花"
+        },
+        {
+          "type": "Thing",
+          "start": 203,
+          "end": 205,
+          "span": "荔枝"
+        },
+        {
+          "type": "PersonName",
+          "start": 207,
+          "end": 210,
+          "span": "蘇長公",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 215,
+          "end": 216,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 217,
+          "end": 220,
+          "span": "錢舜舉",
+          "cid": 429657,
+          "name": "錢舜舉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 222,
+          "end": 225,
+          "span": "荔枝卷"
+        },
+        {
+          "type": "Time",
+          "start": 233,
+          "end": 235,
+          "span": "戊午"
+        },
+        {
+          "type": "Time",
+          "start": 236,
+          "end": 246,
+          "span": "西元一四九八年）春日"
+        }
+      ],
+      "sentence": "十里一置飛塵灰。五里一堠丘火催。顛坑仆谷相枕藉。知是荔枝龍眼來。飛車跨山鶻橫海。風枝露葉如新採。宮中美人一破顏。驚塵濺血流千載。永元荔枝來交州。天寶歲貢取之涪。至今欲食林甫肉。無人舉觴酹伯游。我願天公憐赤子。莫生尤物為瘡痏。雨順風調百穀登。民不饑寒為上瑞。君不見。武夷谿邊粟粒芽。前丁後蔡相籠加。爭新買寵各出意。今（點去）年年鬪品充官茶。吾君所乏豈此物。致養口體何陋耶。洛陽相君忠孝家。可憐亦進姚黃花。　右荔枝嘆。蘇長公作也。偶有客持錢舜舉所畫荔枝卷索題。因為書此。戊午（西元一四九八年）春日。徵明。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "戊午"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 13,
+          "span": "西元一四九八年）春日"
+        }
+      ],
+      "sentence": "戊午（西元一四九八年）春日。徵明。",
+      "author": "文徵明"
+    }
+  ]
+}

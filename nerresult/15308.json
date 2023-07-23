@@ -1,0 +1,56 @@
+{
+  "filefroms": "15308.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "前朝"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 7,
+          "span": "李薊丘"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "墨君",
+          "cid": 120733,
+          "name": "葉翰仙",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 16,
+          "end": 18,
+          "span": "百年"
+        },
+        {
+          "type": "LocationName",
+          "start": 26,
+          "end": 28,
+          "span": "湘潭",
+          "cid": 5624
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "和尚",
+          "cid": 116183,
+          "name": "和尚",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "長憶前朝李薊丘。墨君天下擅風流。百年遺跡留人世。寫破湘潭夢裡秋。梅花和尚。",
+      "author": "吳鎮"
+    }
+  ]
+}

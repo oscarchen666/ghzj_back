@@ -167,10 +167,10 @@ if __name__ == '__main__':
 
     df = pd.read_excel("data/paintinglist.xlsx")
     pidlist = df["pid"].tolist()
-    filefroms = [str(pid)+".json" for pid in pidlist]
-
+    filelist = [str(pid)+".json" for pid in pidlist]
+    filefroms = []
     # 提取文件
-    for file in filefroms:
+    for file in filelist:
         if os.path.exists("nerresult/"+file):
             print(file+"有了")
             continue
@@ -182,6 +182,8 @@ if __name__ == '__main__':
         forisents.append(ss)
         dealsent = predealh(ss,limit=500)#分句上限，不能超过512，超过模型就炸了
         dealsents.append(dealsent)
+        filefroms.append(file)
+
     # 模型推断
     # results = infer(forisents,dealsents,filefroms,authors)
     # # print(results)
@@ -194,6 +196,8 @@ if __name__ == '__main__':
         result = infer([forisent],[dealsent],[filefrom],[author])
         new_data = searchfen(result[0])
         filefrom = new_data["filefroms"]
+        # print(filefrom)
         with open(f"nerresult/{filefrom}","w",encoding="UTF8")as f:
             json.dump(new_data, f,indent=2, ensure_ascii=False,cls=JsonEncoder)
+        # continue
 

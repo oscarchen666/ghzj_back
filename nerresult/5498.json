@@ -1,0 +1,297 @@
+{
+  "filefroms": "5498.json",
+  "sentences": [
+    {
+      "authorcid": 560933,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "辛亥"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一五五一年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "夏日"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 16,
+          "span": "謝時臣",
+          "cid": 560933,
+          "name": "謝時臣",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "辛亥（西元一五五一年）夏日謝時臣寫",
+      "author": "謝時臣"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Person",
+          "start": 10,
+          "end": 12,
+          "span": "高人"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "三友",
+          "cid": 439080,
+          "name": "徐士俊",
+          "aid": "A043064"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "松竹"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 31,
+          "span": "梅"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 34,
+          "span": "戊寅"
+        },
+        {
+          "type": "Time",
+          "start": 35,
+          "end": 42,
+          "span": "西元一七五八年"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 45,
+          "span": "春月"
+        }
+      ],
+      "sentence": "茆齋商榷共追陪。更有高人杖筞來。三友設教尋姓氏。孰為松竹孰為梅。戊寅（西元一七五八年）春月御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "戊寅"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七五八年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "春月"
+        }
+      ],
+      "sentence": "戊寅（西元一七五八年）春月御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "閒適。文彭。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "文彭",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "五月"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 12,
+          "span": "綠陰庭院"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 17,
+          "span": "茶"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "雪乳"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "蘿岕"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青花"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "斧柯"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 36,
+          "span": "翠竹露梢"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "嬾葉"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "文魚"
+        },
+        {
+          "type": "PersonName",
+          "start": 52,
+          "end": 53,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "仲夏"
+        },
+        {
+          "type": "PersonName",
+          "start": 92,
+          "end": 94,
+          "span": "杜甫",
+          "cid": 3915,
+          "name": "杜甫",
+          "aid": "A005221"
+        },
+        {
+          "type": "PersonName",
+          "start": 96,
+          "end": 98,
+          "span": "石鼎",
+          "cid": 220461,
+          "name": "石鼎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 104,
+          "end": 106,
+          "span": "楷枰"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 114,
+          "span": "新篁"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 118,
+          "span": "芭蕉"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "星星"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 130,
+          "span": "破屋"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 155,
+          "span": "修竹風"
+        }
+      ],
+      "sentence": "五月官衙樂事多。綠陰庭院午風和。茶烹雪乳新蘿岕。研洗青花舊斧柯。翠竹露梢舒嬾葉。文魚依藻泳清波。一枰棋了人初散。小小宣罏爇水磨。仲夏新晴事事宜。定罏香爇海南奇。閒臨淳化羲之帖。細讀開元杜甫詩。石鼎颼飀時鬬茗。楷枰剝啄試圍棋。新篁脫粉芭蕉綠。不怕星星兩髩絲。破屋蕭蕭一事無。午窓睡起客來踈。空庭日轉清陰寂。修竹風輕翠影虛。筆研精良開几案。雲天縹緲淨階除。此生莫謂儒冠誤。養得閒身讀道書。三橋文彭。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "三橋文彭",
+      "author": "文彭"
+    }
+  ]
+}

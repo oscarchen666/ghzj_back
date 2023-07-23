@@ -2,216 +2,227 @@
   "filefroms": "91.json",
   "sentences": [
     {
-      "authorcid": 17690,
-      "authoraid": "A004030",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "至大二年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 14,
-          "span": "西元一三０九年）冬"
-        },
-        {
-          "type": "Location",
-          "start": 16,
-          "end": 19,
-          "span": "漚波亭"
-        },
-        {
-          "type": "PersonName",
-          "start": 20,
-          "end": 22,
-          "span": "子昂",
-          "cid": 17690,
-          "name": "趙孟頫",
-          "aid": "A045743"
-        }
-      ],
-      "sentence": "至大二年（西元一三０九年）冬畫于漚波亭。子昂。",
-      "author": "趙孟頫"
-    },
-    {
-      "authorcid": 30180,
-      "authoraid": "unknow",
+      "authorcid": 10803,
+      "authoraid": "A008213",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
-          "end": 2,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
+          "end": 3,
+          "span": "陳居中",
+          "cid": 47873,
+          "name": "陳居中",
           "aid": "unknow"
         },
         {
-          "type": "Location",
-          "start": 4,
-          "end": 6,
-          "span": "滄洲"
-        },
-        {
-          "type": "Person",
-          "start": 16,
-          "end": 17,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 24,
-          "end": 27,
-          "span": "碧山火"
-        },
-        {
-          "type": "Thing",
-          "start": 30,
-          "end": 32,
-          "span": "五湖"
+          "type": "Time",
+          "start": 7,
+          "end": 10,
+          "span": "慶元間"
         },
         {
           "type": "PersonName",
-          "start": 36,
-          "end": 38,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "道人興與滄洲杳。放棹清谿水自流。我亦收綸歸舊隱。碧山火因月五湖秋。指枝道人祝允明。",
-      "author": "祝允明"
-    },
-    {
-      "authorcid": 30180,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "道人",
-          "cid": 25176,
-          "name": "孫仲鰲",
+          "start": 13,
+          "end": 15,
+          "span": "寧宗",
+          "cid": 339739,
+          "name": "懿璘質班",
           "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 4,
-          "end": 7,
-          "span": "祝允明",
-          "cid": 30180,
-          "name": "祝允明",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "指枝道人祝允明",
-      "author": "祝允明"
-    },
-    {
-      "authorcid": 21665,
-      "authoraid": "A034338",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 2,
-          "end": 6,
-          "span": "苕花春雨"
-        },
-        {
-          "type": "Person",
-          "start": 24,
-          "end": 25,
-          "span": "誰"
-        },
-        {
-          "type": "Thing",
-          "start": 26,
-          "end": 28,
-          "span": "青山"
-        },
-        {
-          "type": "Thing",
-          "start": 32,
-          "end": 35,
-          "span": "岩空谷"
-        },
-        {
-          "type": "Thing",
-          "start": 38,
-          "end": 40,
-          "span": "野雲"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 43,
-          "span": "路"
-        },
-        {
-          "type": "Location",
           "start": 44,
-          "end": 47,
-          "span": "溪橋岸"
-        },
-        {
-          "type": "Person",
-          "start": 52,
-          "end": 54,
-          "span": "幽人"
+          "end": 45,
+          "span": "余",
+          "cid": 113179,
+          "name": "釋克新",
+          "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 60,
-          "end": 62,
-          "span": "茅屋"
+          "start": 57,
+          "end": 59,
+          "span": "梅圖"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "此卷"
+        },
+        {
+          "type": "Location",
+          "start": 89,
+          "end": 92,
+          "span": "畫院中"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "人物"
+        },
+        {
+          "type": "Time",
+          "start": 108,
+          "end": 121,
+          "span": "至元己丑(1289)上巳日"
+        },
+        {
+          "type": "PersonName",
+          "start": 121,
+          "end": 124,
+          "span": "鄧文原",
+          "cid": 10803,
+          "name": "鄧文原",
+          "aid": "A008213"
+        }
+      ],
+      "sentence": "陳居中以寫照名慶元間。曾寫寧宗御容稱旨。遂有時譽。然國亡遺跡流傳人間者。不過殘縑片幅耳。余嘗得居中毛詩一段。作摽有梅圖。筆意精巧。裝為橫幅寶藏之。若見此卷。則神氣索盡矣。乃知當時畫院中。人物自有不易及者。勿泛視之也。至元己丑(1289)上巳日鄧文原題。",
+      "author": "鄧文原"
+    },
+    {
+      "authorcid": 10803,
+      "authoraid": "A008213",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "至元己丑上巳日"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 10,
+          "span": "鄧文原",
+          "cid": 10803,
+          "name": "鄧文原",
+          "aid": "A008213"
+        }
+      ],
+      "sentence": "至元己丑上巳日鄧文原題",
+      "author": "鄧文原"
+    },
+    {
+      "authorcid": 49383,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "內府"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 13,
+          "span": "吾友傅希巖"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 22,
+          "span": "戲嬰圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "長睿",
+          "cid": 7030,
+          "name": "黃伯思",
+          "aid": "unknow"
         },
         {
           "type": "LocationName",
-          "start": 63,
-          "end": 65,
-          "span": "山陰",
-          "cid": 18348
+          "start": 36,
+          "end": 38,
+          "span": "永平",
+          "aid": "PL000000001361",
+          "cid": 18749
         },
         {
-          "type": "Time",
-          "start": 66,
-          "end": 72,
-          "span": "嘉靖壬午陽月"
+          "type": "PersonName",
+          "start": 41,
+          "end": 43,
+          "span": "文姬",
+          "cid": 55278,
+          "name": "戴淩濤",
+          "aid": "unknow"
         },
         {
-          "type": "Location",
-          "start": 75,
-          "end": 77,
-          "span": "石亭"
+          "type": "Thing",
+          "start": 43,
+          "end": 46,
+          "span": "觀獵圖"
+        },
+        {
+          "type": "Person",
+          "start": 90,
+          "end": 92,
+          "span": "鬼神"
+        },
+        {
+          "type": "PersonName",
+          "start": 97,
+          "end": 98,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 104,
+          "end": 105,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 119,
+          "end": 120,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 130,
+          "span": "希巖"
+        },
+        {
+          "type": "PersonName",
+          "start": 136,
+          "end": 138,
+          "span": "楊泰",
+          "cid": 49383,
+          "name": "楊泰",
+          "aid": "unknow"
         }
       ],
-      "sentence": "零落苕花春雨多。舊涇何處問漚波。披圖不盡懷賢意。誰為青山葺薜蘿。岩空谷向野雲深。路繞溪橋岸遶林。何處幽人專一壑。數間茅屋對山陰。嘉靖壬午陽月既望。石亭陳沂。",
-      "author": "陳沂"
+      "sentence": "居中畫悉入內府。吾友傅希巖以善價購得其戲嬰圖一幀。尋為丘長睿攘之。舊曾見永平畫志有文姬觀獵圖。迺賜韓侘冑之物。考其年月。亦正相似。疑即此也。不入內帑。安得完好如斯。亦豈神物流傳自有鬼神呵護耶。今子恭不惜見示。吾且勃勃動長睿之思。以義自止。子恭其善護持。勿為希巖後身耳。蒲姑楊泰敬觀。",
+      "author": "楊泰"
     },
     {
-      "authorcid": 21665,
-      "authoraid": "A034338",
+      "authorcid": 49383,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Time",
-          "start": 0,
-          "end": 6,
-          "span": "嘉靖壬午陽月"
-        },
-        {
-          "type": "Location",
-          "start": 9,
-          "end": 11,
-          "span": "石亭"
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "楊泰",
+          "cid": 49383,
+          "name": "楊泰",
+          "aid": "unknow"
         }
       ],
-      "sentence": "嘉靖壬午陽月既望。石亭陳沂。",
-      "author": "陳沂"
+      "sentence": "蒲姑楊泰敬觀",
+      "author": "楊泰"
     }
   ]
 }

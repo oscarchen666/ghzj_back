@@ -1,0 +1,25 @@
+{
+  "filefroms": "5534.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "松喬"
+        },
+        {
+          "type": "Person",
+          "start": 11,
+          "end": 14,
+          "span": "臣弘旿"
+        }
+      ],
+      "sentence": "松喬拱壽。（八分書）。臣弘旿敬繪。（楷書）。",
+      "author": "弘旿"
+    }
+  ]
+}

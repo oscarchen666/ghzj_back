@@ -1,0 +1,141 @@
+{
+  "filefroms": "1255.json",
+  "sentences": [
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "瀧湫"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "至正乙未"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 19,
+          "span": "西元一三五五年）秋"
+        }
+      ],
+      "sentence": "瀧湫宴坐。至正乙未（西元一三五五年）秋為貞居作。大癡。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": 109158,
+      "authoraid": "A003975",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "瀧湫"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "至正乙未"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 19,
+          "span": "西元一三五五年）秋"
+        }
+      ],
+      "sentence": "瀧湫宴坐。至正乙未（西元一三五五年）秋為貞居作。大癡。",
+      "author": "黃公望"
+    },
+    {
+      "authorcid": 34134,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "大瀧湫"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 5,
+          "span": "雁"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 20,
+          "span": "雁宕全圖長卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "張貞",
+          "cid": 79947,
+          "name": "張貞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 39,
+          "end": 41,
+          "span": "亭上"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 52,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 56,
+          "end": 58,
+          "span": "其人"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 62,
+          "span": "畫"
+        },
+        {
+          "type": "LocationName",
+          "start": 76,
+          "end": 79,
+          "span": "中官署",
+          "aid": "PL000000008352"
+        }
+      ],
+      "sentence": "大瀧湫為雁宕最勝處。一峰曾作雁宕全圖長卷。茲又取貫休句為張貞居寫瀧湫真境。忘歸亭上相見對坐光景。能不令人神往耶。其人其地其畫。皆足千古矣。漫堂識。時在吳中官署。",
+      "author": "宋犖"
+    },
+    {
+      "authorcid": 34134,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 10,
+          "span": "中官署",
+          "aid": "PL000000008352"
+        }
+      ],
+      "sentence": "漫堂識。時在吳中官署。",
+      "author": "宋犖"
+    }
+  ]
+}

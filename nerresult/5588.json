@@ -2,246 +2,70 @@
   "filefroms": "5588.json",
   "sentences": [
     {
-      "authorcid": 17690,
-      "authoraid": "A004030",
+      "authorcid": 442330,
+      "authoraid": "unknow",
       "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 5,
+          "span": "乾隆十七年"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 16,
+          "span": "西元一七五二年）六月"
+        },
         {
           "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "子昂",
-          "cid": 17690,
-          "name": "趙孟頫",
-          "aid": "A045743"
-        }
-      ],
-      "sentence": "子昂",
-      "author": "趙孟頫"
-    },
-    {
-      "authorcid": 28342,
-      "authoraid": "A044127",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "山林"
+          "start": 18,
+          "end": 21,
+          "span": "姚文瀚",
+          "cid": 442330,
+          "name": "姚文瀚",
+          "aid": "unknow"
         },
         {
           "type": "Person",
+          "start": 25,
+          "end": 27,
+          "span": "宋人"
+        }
+      ],
+      "sentence": "乾隆十七年（西元一七五二年）六月，臣姚文瀚奉敕恭摹宋人筆意。",
+      "author": "姚文瀚"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
           "start": 5,
-          "end": 6,
-          "span": "我"
-        },
-        {
-          "type": "Thing",
-          "start": 16,
-          "end": 18,
-          "span": "長松"
-        },
-        {
-          "type": "Thing",
-          "start": 21,
-          "end": 23,
-          "span": "蒼煙"
-        },
-        {
-          "type": "Thing",
-          "start": 34,
-          "end": 36,
-          "span": "山水"
-        },
-        {
-          "type": "Person",
-          "start": 48,
-          "end": 49,
-          "span": "君"
-        },
-        {
-          "type": "PersonName",
-          "start": 64,
-          "end": 66,
-          "span": "西谿",
-          "cid": 40716,
-          "name": "李過",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 72,
-          "end": 74,
-          "span": "此卷"
-        },
-        {
-          "type": "Location",
-          "start": 76,
-          "end": 79,
-          "span": "高閣裡"
-        },
-        {
-          "type": "Thing",
-          "start": 82,
-          "end": 84,
-          "span": "幽閣"
-        },
-        {
-          "type": "Location",
-          "start": 85,
-          "end": 87,
-          "span": "水湄"
-        },
-        {
-          "type": "Thing",
-          "start": 96,
-          "end": 98,
-          "span": "綠蘋"
-        },
-        {
-          "type": "Thing",
-          "start": 99,
-          "end": 100,
-          "span": "葉"
-        },
-        {
-          "type": "Person",
-          "start": 105,
-          "end": 106,
-          "span": "君"
-        },
-        {
-          "type": "LocationName",
-          "start": 106,
-          "end": 108,
-          "span": "江南",
-          "aid": "PL000000000197",
-          "cid": 303668
-        },
-        {
-          "type": "PersonName",
-          "start": 116,
-          "end": 118,
-          "span": "趙子",
-          "cid": 17882,
-          "name": "趙子",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 128,
-          "end": 130,
-          "span": "山屯"
+          "end": 7,
+          "span": "褚亮",
+          "cid": 30936,
+          "name": "褚亮",
+          "aid": "A004993"
         }
       ],
-      "sentence": "山林忽然在我眼。攬袂欲遊嗟已遠。長松謖謖含蒼煙。平川茫茫際層巘。圖中山水天下稀。把玩竟日迺忘歸。君獨何為甘寂莫。坐對佳境娛清暉。西谿先生賞鑑士。此卷藏之高閣裡。數間幽閣傍水湄。中有神光發奇字。綠蘋齊葉白芷生。送君江南空復情。相與嘆賞趙子筆。時對此圖雙眼明。山屯仇遠題。",
-      "author": "仇遠"
+      "sentence": "（分段楷書褚亮贊。文不錄）",
+      "author": "稽璜"
     },
     {
-      "authorcid": 28342,
-      "authoraid": "A044127",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Location",
+          "type": "Person",
           "start": 0,
-          "end": 2,
-          "span": "山屯"
-        },
-        {
-          "type": "PersonName",
-          "start": 4,
-          "end": 6,
-          "span": "仇遠",
-          "cid": 28342,
-          "name": "仇遠",
-          "aid": "A044127"
+          "end": 1,
+          "span": "臣"
         }
       ],
-      "sentence": "山屯仇遠題",
-      "author": "仇遠"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Location",
-          "start": 2,
-          "end": 4,
-          "span": "雲外"
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 11,
-          "span": "松下石"
-        },
-        {
-          "type": "PersonName",
-          "start": 14,
-          "end": 17,
-          "span": "山中人",
-          "cid": 65688,
-          "name": "趙懷玉",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "青青雲外坐。炯炯松下石。顧此山中人。風神照松色。敬中題。",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [],
-      "sentence": "敬中題",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "胡布",
-          "cid": 104858,
-          "name": "胡布",
-          "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
-          "start": 6,
-          "end": 8,
-          "span": "錢塘",
-          "cid": 5333
-        }
-      ],
-      "sentence": "建民胡布觀于錢塘舟次",
-      "author": ""
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "胡布",
-          "cid": 104858,
-          "name": "胡布",
-          "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
-          "start": 6,
-          "end": 8,
-          "span": "錢塘",
-          "cid": 5333
-        }
-      ],
-      "sentence": "建民胡布觀于錢塘舟次",
-      "author": ""
+      "sentence": "臣稽璜敬書",
+      "author": "稽璜"
     }
   ]
 }

@@ -2,21 +2,53 @@
   "filefroms": "15363.json",
   "sentences": [
     {
-      "authorcid": 101309,
-      "authoraid": "unknow",
+      "authorcid": 17690,
+      "authoraid": "A004030",
       "output": [
         {
-          "type": "PersonName",
+          "type": "Time",
           "start": 0,
           "end": 4,
-          "span": "孤雲處士",
-          "cid": 101309,
-          "name": "王振鵬",
-          "aid": "unknow"
+          "span": "至大二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 18,
+          "span": "西元一三０九年）二月廿六日"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 23,
+          "span": "舟中"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
         }
       ],
-      "sentence": "孤雲處士王振鵬畫",
-      "author": "王振鵬"
+      "sentence": "至大二年（西元一三０九年）二月廿六日。寫于舟中。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "柴桑"
+        }
+      ],
+      "sentence": "柴桑高韻。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

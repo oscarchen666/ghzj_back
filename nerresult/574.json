@@ -2,18 +2,409 @@
   "filefroms": "574.json",
   "sentences": [
     {
-      "authorcid": 43819,
+      "authorcid": 3737,
       "authoraid": "unknow",
       "output": [
         {
+          "type": "PersonName",
+          "start": 26,
+          "end": 28,
+          "span": "山谷",
+          "cid": 7111,
+          "name": "黃庭堅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "茲伯"
+        },
+        {
           "type": "Thing",
-          "start": 0,
-          "end": 3,
-          "span": "洪谷子"
+          "start": 64,
+          "end": 66,
+          "span": "長卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 97,
+          "end": 98,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 126,
+          "end": 129,
+          "span": "王摩詰",
+          "cid": "unknow",
+          "name": "王維",
+          "aid": "A004031"
+        },
+        {
+          "type": "Time",
+          "start": 133,
+          "end": 140,
+          "span": "永樂壬寅秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 145,
+          "end": 147,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
+          "aid": "unknow"
         }
       ],
-      "sentence": "洪谷子荊浩",
-      "author": "荊浩"
+      "sentence": "靖節高風。百世景仰。其詩辭家寶。戶傳膾炙人口。至東坡山谷輩尤極讚美。且為之屬和焉。一時傅為勝事。茲伯時以澄心堂紙圖其像。繪其辭作長卷。運巧布奇。纖毫畢具。一種瀟灑清真之氣。能超出筆墨蹊徑之外。溢人目睫。如親見其思致閒雅。稱其所謂沖澹者。駸駸乎。與吳道子王摩詰抗衡矣。永樂壬寅秋七月既望。華亭沈度謹識。",
+      "author": "沈度"
+    },
+    {
+      "authorcid": 3737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "永樂壬寅秋七月"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "永樂壬寅秋七月既望。華亭沈度謹識。",
+      "author": "沈度"
+    },
+    {
+      "authorcid": 128740,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "東方"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "一士",
+          "cid": 65677,
+          "name": "崔景儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 18,
+          "end": 20,
+          "span": "十年"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 37,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 39,
+          "end": 41,
+          "span": "其人"
+        },
+        {
+          "type": "Location",
+          "start": 44,
+          "end": 47,
+          "span": "越河關"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "青松"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "白雲"
+        },
+        {
+          "type": "Location",
+          "start": 57,
+          "end": 59,
+          "span": "簷端"
+        },
+        {
+          "type": "Person",
+          "start": 61,
+          "end": 62,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 68,
+          "span": "琴"
+        },
+        {
+          "type": "Person",
+          "start": 69,
+          "end": 70,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 77,
+          "span": "別鶴"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 88,
+          "span": "君"
+        },
+        {
+          "type": "Location",
+          "start": 96,
+          "end": 98,
+          "span": "雲間"
+        },
+        {
+          "type": "Thing",
+          "start": 98,
+          "end": 101,
+          "span": "金鈍書"
+        }
+      ],
+      "sentence": "東方有一士。被服常不完。三旬九遇食。十年著一冠。辛苦無此比。常有好容顏。我欲觀其人。晨去越河關。青松夾路生。白雲宿簷端。知我故來意。取琴為我彈。上絃驚別鶴。下絃操孤鸞。願留就君住。從今至歲寒。雲間金鈍書。",
+      "author": "金鈍"
+    },
+    {
+      "authorcid": 128740,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "雲間"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "金鈍書"
+        }
+      ],
+      "sentence": "雲間金鈍書",
+      "author": "金鈍"
+    },
+    {
+      "authorcid": 27922,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 1,
+          "end": 4,
+          "span": "田園居"
+        }
+      ],
+      "sentence": "歸田園居。（文不錄）。",
+      "author": "夏昶"
+    },
+    {
+      "authorcid": 27922,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "東吳"
+        },
+        {
+          "type": "Time",
+          "start": 2,
+          "end": 4,
+          "span": "夏日"
+        }
+      ],
+      "sentence": "東吳夏日永仲昭書",
+      "author": "夏昶"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 5,
+          "span": "龍眠居士",
+          "cid": "unknow",
+          "name": "李伯時",
+          "aid": "A011507"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "辭圖"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 27,
+          "span": "宣和六璽"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 34,
+          "span": "紹興小繭印"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 39,
+          "span": "乾卦印鈴"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 51,
+          "span": "內府圖書印"
+        },
+        {
+          "type": "Time",
+          "start": 53,
+          "end": 56,
+          "span": "南渡時"
+        },
+        {
+          "type": "Location",
+          "start": 62,
+          "end": 64,
+          "span": "內府"
+        },
+        {
+          "type": "PersonName",
+          "start": 74,
+          "end": 76,
+          "span": "盧鴻",
+          "cid": 199669,
+          "name": "盧鴻",
+          "aid": "A009320"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 82,
+          "span": "草堂十志圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "元亮",
+          "cid": 204686,
+          "name": "元亮",
+          "aid": "A007279"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 100,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 124,
+          "end": 126,
+          "span": "靖節",
+          "cid": 3835,
+          "name": "陶潛",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 135,
+          "end": 141,
+          "span": "嘉靖丁卯四月"
+        },
+        {
+          "type": "LocationName",
+          "start": 142,
+          "end": 144,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 144,
+          "end": 147,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "右龍眠居士畫歸去來辭圖。按畫譜所載有二。此卷無宣和六璽而有紹興小繭印。乾卦印鈴（應為鈐）縫。內府圖書印。豈南渡時又經剪割以入內府耶。諦觀其布置運筆與盧鴻乙草堂十志圖絕相似。元亮丰神邁往。高曠怡閒。令人顧接不暇。蓋非靖節不足奮龍眠之妙筆。非龍眠不足傅靖節之高標。允矣二絕。嘉靖丁卯四月望長洲文徵明謹題。",
+      "author": "文徵明"
+    },
+    {
+      "authorcid": 34673,
+      "authoraid": "A009194",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖丁卯四月"
+        },
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 9,
+          "span": "長洲",
+          "cid": 4594
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        }
+      ],
+      "sentence": "嘉靖丁卯四月望長洲文徵明謹題",
+      "author": "文徵明"
     }
   ]
 }

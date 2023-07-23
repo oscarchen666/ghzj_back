@@ -1,0 +1,22 @@
+{
+  "filefroms": "3508.json",
+  "sentences": [
+    {
+      "authorcid": 38702,
+      "authoraid": "A013723",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "王式",
+          "cid": 38702,
+          "name": "王式",
+          "aid": "A013723"
+        }
+      ],
+      "sentence": "長洲王式寫",
+      "author": "王式"
+    }
+  ]
+}

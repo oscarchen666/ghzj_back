@@ -1,0 +1,46 @@
+{
+  "filefroms": "5392.json",
+  "sentences": [
+    {
+      "authorcid": 30153,
+      "authoraid": "A006682",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "宣德三年"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 9,
+          "span": "戊申"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 21,
+          "span": "西元一四二八年）春三月"
+        },
+        {
+          "type": "Location",
+          "start": 21,
+          "end": 24,
+          "span": "武英殿"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 31,
+          "span": "馬愉",
+          "cid": 33867,
+          "name": "馬愉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "宣德三年。歲在戊申（西元一四二八年）春三月武英殿御製賜狀元馬愉。",
+      "author": "朱瞻基"
+    }
+  ]
+}

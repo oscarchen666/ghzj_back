@@ -1,0 +1,418 @@
+{
+  "filefroms": "5441.json",
+  "sentences": [
+    {
+      "authorcid": 388142,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "實父",
+          "cid": 388142,
+          "name": "仇英",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "仇英實父",
+      "author": "仇英"
+    },
+    {
+      "authorcid": 71960,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "李白",
+          "cid": 32540,
+          "name": "李白",
+          "aid": "A005220"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 20,
+          "span": "宮中"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "金屋"
+        },
+        {
+          "type": "Location",
+          "start": 35,
+          "end": 37,
+          "span": "紫微"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 40,
+          "span": "山花"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "石竹"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "羅衣"
+        },
+        {
+          "type": "Location",
+          "start": 52,
+          "end": 55,
+          "span": "深宮裡"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "綵雲"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 80,
+          "span": "柳"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 89,
+          "span": "梨花白雪"
+        },
+        {
+          "type": "Thing",
+          "start": 91,
+          "end": 93,
+          "span": "玉樓"
+        },
+        {
+          "type": "LocationName",
+          "start": 97,
+          "end": 99,
+          "span": "金殿",
+          "aid": "PL000000040883"
+        },
+        {
+          "type": "Thing",
+          "start": 100,
+          "end": 102,
+          "span": "鴛鴦"
+        },
+        {
+          "type": "Location",
+          "start": 112,
+          "end": 114,
+          "span": "洞房"
+        },
+        {
+          "type": "Location",
+          "start": 115,
+          "end": 117,
+          "span": "宮中"
+        },
+        {
+          "type": "Thing",
+          "start": 121,
+          "end": 123,
+          "span": "飛燕"
+        },
+        {
+          "type": "Location",
+          "start": 124,
+          "end": 126,
+          "span": "昭陽"
+        },
+        {
+          "type": "Thing",
+          "start": 132,
+          "end": 134,
+          "span": "盧橘"
+        },
+        {
+          "type": "Thing",
+          "start": 135,
+          "end": 137,
+          "span": "秦樹"
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 140,
+          "span": "葡萄"
+        },
+        {
+          "type": "Location",
+          "start": 141,
+          "end": 143,
+          "span": "漢宮"
+        },
+        {
+          "type": "Thing",
+          "start": 144,
+          "end": 146,
+          "span": "煙花"
+        },
+        {
+          "type": "Thing",
+          "start": 150,
+          "end": 152,
+          "span": "絲管"
+        },
+        {
+          "type": "Thing",
+          "start": 156,
+          "end": 157,
+          "span": "笛"
+        },
+        {
+          "type": "Thing",
+          "start": 158,
+          "end": 159,
+          "span": "龍"
+        },
+        {
+          "type": "Thing",
+          "start": 162,
+          "end": 163,
+          "span": "簫"
+        },
+        {
+          "type": "Person",
+          "start": 168,
+          "end": 170,
+          "span": "君王"
+        },
+        {
+          "type": "Thing",
+          "start": 185,
+          "end": 187,
+          "span": "玉樹"
+        },
+        {
+          "type": "Location",
+          "start": 191,
+          "end": 193,
+          "span": "金宮"
+        },
+        {
+          "type": "LocationName",
+          "start": 197,
+          "end": 199,
+          "span": "後庭",
+          "cid": 16769
+        },
+        {
+          "type": "Thing",
+          "start": 223,
+          "end": 225,
+          "span": "明月"
+        },
+        {
+          "type": "Person",
+          "start": 230,
+          "end": 232,
+          "span": "嫦娥"
+        },
+        {
+          "type": "Thing",
+          "start": 250,
+          "end": 252,
+          "span": "紗窗"
+        },
+        {
+          "type": "Thing",
+          "start": 256,
+          "end": 258,
+          "span": "宮花"
+        },
+        {
+          "type": "Thing",
+          "start": 262,
+          "end": 264,
+          "span": "池草"
+        },
+        {
+          "type": "Thing",
+          "start": 268,
+          "end": 270,
+          "span": "綠樹"
+        },
+        {
+          "type": "Thing",
+          "start": 271,
+          "end": 273,
+          "span": "歌鳥"
+        },
+        {
+          "type": "Location",
+          "start": 274,
+          "end": 276,
+          "span": "青樓"
+        },
+        {
+          "type": "Person",
+          "start": 277,
+          "end": 279,
+          "span": "舞人"
+        },
+        {
+          "type": "Location",
+          "start": 280,
+          "end": 282,
+          "span": "昭陽"
+        },
+        {
+          "type": "Thing",
+          "start": 282,
+          "end": 285,
+          "span": "桃李月"
+        },
+        {
+          "type": "Thing",
+          "start": 314,
+          "end": 316,
+          "span": "春風"
+        },
+        {
+          "type": "Location",
+          "start": 317,
+          "end": 319,
+          "span": "紫殿"
+        },
+        {
+          "type": "Location",
+          "start": 323,
+          "end": 325,
+          "span": "珠樓"
+        },
+        {
+          "type": "Person",
+          "start": 353,
+          "end": 355,
+          "span": "宮女"
+        },
+        {
+          "type": "Thing",
+          "start": 364,
+          "end": 367,
+          "span": "寒雪梅"
+        },
+        {
+          "type": "Thing",
+          "start": 370,
+          "end": 373,
+          "span": "春風柳"
+        },
+        {
+          "type": "Thing",
+          "start": 376,
+          "end": 378,
+          "span": "宮鶯"
+        },
+        {
+          "type": "Thing",
+          "start": 382,
+          "end": 384,
+          "span": "簷燕"
+        },
+        {
+          "type": "Thing",
+          "start": 394,
+          "end": 396,
+          "span": "新花"
+        },
+        {
+          "type": "Thing",
+          "start": 422,
+          "end": 423,
+          "span": "水"
+        },
+        {
+          "type": "Location",
+          "start": 424,
+          "end": 427,
+          "span": "南薰殿"
+        },
+        {
+          "type": "Thing",
+          "start": 428,
+          "end": 429,
+          "span": "花"
+        },
+        {
+          "type": "Location",
+          "start": 430,
+          "end": 433,
+          "span": "北闕樓"
+        },
+        {
+          "type": "LocationName",
+          "start": 443,
+          "end": 445,
+          "span": "瀛洲",
+          "aid": "PL000000055472"
+        },
+        {
+          "type": "Person",
+          "start": 446,
+          "end": 448,
+          "span": "素女"
+        },
+        {
+          "type": "Person",
+          "start": 452,
+          "end": 454,
+          "span": "天人"
+        },
+        {
+          "type": "LocationName",
+          "start": 480,
+          "end": 483,
+          "span": "蓮宮中",
+          "aid": "PL000000013279"
+        },
+        {
+          "type": "Time",
+          "start": 495,
+          "end": 500,
+          "span": "庚寅秋八月"
+        }
+      ],
+      "sentence": "（書李白宮中行樂詞八首）。（第一則）宮中行樂詞八首。小小生金屋。盈盈在紫微。山花插寶髻。石竹繡羅衣。每出深宮裡。常隨步輦歸。只愁歌舞散。化作綵雲飛。（第二則）柳色黃金嫩。梨花白雪香。玉樓巢翡翠。金殿鎖鴛鴦。選妓隨雕輦。徵歌出洞房。宮中誰第一。飛燕在昭陽。（第三則）盧橘為秦樹。葡萄入漢宮。煙花宜落日。絲管醉春風。笛奏龍吟水。簫鳴鳳卜空。君王為樂事。還與萬方同。（第四則）玉樹春歸日。金宮樂事多。後庭朝未入。輕輦夜相過。笑出花間語。嬌來竹下歌。莫教明月去。留著醉嫦娥。（行草）。（第五則）。繡戶香風煖。紗窗曙色新。宮花爭笑日。池草暗生春。綠樹聞歌鳥。青樓見舞人。昭陽桃李月。羅綺自相親。（行草）。（第六則）今日明光裡。還須結伴遊。春風開紫殿。天樂下珠樓。艷舞全知巧。嬌（來竹下三字點去）歌半欲羞。更憐花月夜。宮女笑藏鉤。（第七則）寒雪梅中盡。春風柳上歸。宮鶯嬌欲醉。簷燕語還飛。遲日明歌席。新花艷舞衣。晚來移綵仗。行樂泥光輝。（楷書）。（第八則）水綠南薰殿。花紅北闕樓。鶯歌聞太液。鳳吹繞瀛洲。素女鳴珠珮。天人弄綵毬。今朝風日好。宜入未興遊。右於玉輝樓戲八體錄青蓮宮中行樂詞。逢年。（章草）。庚寅秋八月望。（隸書八分書）。",
+      "author": "王逢年"
+    },
+    {
+      "authorcid": 71960,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 13,
+          "span": "蓮宮中",
+          "aid": "PL000000013279"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 25,
+          "span": "庚寅秋八月"
+        }
+      ],
+      "sentence": "右於玉輝樓戲八體錄青蓮宮中行樂詞。逢年。庚寅秋八月望。",
+      "author": "王逢年"
+    }
+  ]
+}

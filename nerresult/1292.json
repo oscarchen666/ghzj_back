@@ -2,276 +2,237 @@
   "filefroms": "1292.json",
   "sentences": [
     {
-      "authorcid": 388142,
+      "authorcid": 33891,
       "authoraid": "unknow",
       "output": [
         {
           "type": "PersonName",
-          "start": 2,
-          "end": 4,
-          "span": "仇英",
-          "cid": 388142,
-          "name": "仇英",
+          "start": 1,
+          "end": 3,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
           "aid": "unknow"
         }
       ],
-      "sentence": "實父仇英",
-      "author": "仇英"
+      "sentence": "梅道人",
+      "author": "吳鎮"
     },
     {
-      "authorcid": 25005,
+      "authorcid": 3737,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
-          "start": 3,
-          "end": 5,
-          "span": "太平",
-          "cid": 116843,
-          "name": "太平",
-          "aid": "unknow"
-        },
-        {
-          "type": "LocationName",
+          "type": "Thing",
           "start": 8,
           "end": 10,
-          "span": "神州",
-          "aid": "PL000000000083"
+          "span": "雞鶩"
         },
         {
           "type": "LocationName",
-          "start": 12,
-          "end": 15,
-          "span": "歲宮中",
-          "aid": "PL000000017981",
-          "cid": 13776
+          "start": 19,
+          "end": 22,
+          "span": "蓉城下",
+          "aid": "PL000000060226",
+          "cid": 16085
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "滿山"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "紅葉"
         },
         {
           "type": "Thing",
           "start": 29,
           "end": 31,
-          "span": "玉殿"
-        },
-        {
-          "type": "Thing",
-          "start": 40,
-          "end": 42,
-          "span": "蓮壺"
-        },
-        {
-          "type": "Thing",
-          "start": 43,
-          "end": 45,
-          "span": "旭日"
+          "span": "秋風"
         },
         {
           "type": "Location",
-          "start": 48,
-          "end": 50,
-          "span": "帝都"
-        },
-        {
-          "type": "Location",
-          "start": 56,
-          "end": 58,
-          "span": "別院"
-        },
-        {
-          "type": "Person",
-          "start": 59,
-          "end": 61,
-          "span": "內官"
-        },
-        {
-          "type": "Location",
-          "start": 67,
-          "end": 69,
-          "span": "御溝"
-        },
-        {
-          "type": "Thing",
-          "start": 71,
-          "end": 72,
-          "span": "雨"
-        },
-        {
-          "type": "Location",
-          "start": 75,
-          "end": 77,
-          "span": "兩岸"
-        },
-        {
-          "type": "Thing",
-          "start": 77,
-          "end": 78,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 93,
-          "end": 95,
-          "span": "紅葉"
+          "start": 32,
+          "end": 34,
+          "span": "雲間"
         },
         {
           "type": "PersonName",
-          "start": 101,
-          "end": 103,
-          "span": "實父",
-          "cid": 39962,
-          "name": "沈夢忠",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 105,
-          "end": 110,
-          "span": "漢宮春曉圖"
-        },
-        {
-          "type": "Time",
-          "start": 117,
-          "end": 127,
-          "span": "嘉靖壬子春三月上巳日"
-        },
-        {
-          "type": "PersonName",
-          "start": 130,
-          "end": 132,
-          "span": "王守",
-          "cid": 25005,
-          "name": "王守",
+          "start": 34,
+          "end": 36,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
           "aid": "unknow"
         }
       ],
-      "sentence": "宮詞。太平天子御神州。萬歲宮中佳氣浮。禮樂百年歸化遠。群瞻玉殿受共球。彤庭春曉靜蓮壺。旭日祥開滿帝都。朝罷至尊歸別院。內官宣賜飲屠蘇。御溝春日雨濛濛。兩岸花飛傍晚風。只為愁多題不盡。空教紅葉落波中。偶觀實父所作漢宮春曉圖。因系以三絕。嘉靖壬子春三月上巳日。涵峰王守識。",
-      "author": "王守"
+      "sentence": "淋漓筆墨獨爭雄。雞鶩從誰辨異同。憶得芙蓉城下醉。滿山紅葉寫秋風。雲間沈度。",
+      "author": "沈度"
     },
     {
-      "authorcid": 207645,
+      "authorcid": 3737,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
-          "start": 27,
-          "end": 29,
-          "span": "實父",
-          "cid": 388142,
-          "name": "仇英",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 94,
-          "end": 96,
-          "span": "吳奕",
-          "cid": 207645,
-          "name": "吳奕",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "夫畫。心華也。亦心靈也。惟靈心運以慧筆則自臻神妙。吳門實父精於繪事。能得入松年居中之堂奧。故其寸楮尺縑。凡一落筆無不為世什襲。況如是卷所作漢宮春曉者耶。傳之後世當與球璧琬琰同乎一珍矣。延陵吳奕。",
-      "author": "吳奕"
-    },
-    {
-      "authorcid": 119182,
-      "authoraid": "A004609",
-      "output": [
-        {
-          "type": "Person",
-          "start": 4,
-          "end": 6,
-          "span": "名人"
-        },
-        {
-          "type": "Time",
-          "start": 8,
-          "end": 10,
-          "span": "宋朝"
-        },
-        {
           "type": "Location",
-          "start": 10,
-          "end": 12,
-          "span": "畫院"
-        },
-        {
-          "type": "Person",
-          "start": 40,
-          "end": 41,
-          "span": "吾"
-        },
-        {
-          "type": "Person",
-          "start": 51,
-          "end": 53,
-          "span": "名人"
-        },
-        {
-          "type": "Thing",
-          "start": 57,
-          "end": 60,
-          "span": "片紙尺"
-        },
-        {
-          "type": "PersonName",
-          "start": 75,
-          "end": 77,
-          "span": "延陵",
-          "cid": 132134,
-          "name": "趙大河",
-          "aid": "unknow"
-        },
-        {
-          "type": "Location",
-          "start": 87,
-          "end": 89,
-          "span": "漢宮"
-        },
-        {
-          "type": "PersonName",
-          "start": 116,
-          "end": 117,
-          "span": "余",
-          "cid": 113101,
-          "name": "釋世愚",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 125,
-          "end": 128,
-          "span": "李日華",
-          "cid": 119182,
-          "name": "李日華",
-          "aid": "A004609"
-        }
-      ],
-      "sentence": "繪事代有名人。自宋朝畫院一開。而賢流濟濟。尤為大備。迨此而欲肇之者。蓋難其人。惟吾朝仇實父之筆。能兼諸名人之妙。故片紙尺縑。流落于世者。不啻球璧琬琰。延陵公之言良非誣矣。是卷漢宮春曉。人物生動。布置精工。設色姸麗。誠有不可思議之妙。余何幸得而拜觀之。李日華識。",
-      "author": "李日華"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
           "start": 0,
           "end": 2,
-          "span": "石公",
-          "cid": 35222,
-          "name": "袁宏道",
-          "aid": "A004719"
+          "span": "雲間"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈度",
+          "cid": 3737,
+          "name": "沈度",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲間沈度",
+      "author": "沈度"
+    },
+    {
+      "authorcid": 34508,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "梅菴"
         },
         {
           "type": "LocationName",
-          "start": 7,
-          "end": 10,
-          "span": "治平寺",
-          "aid": "PL000000008806"
+          "start": 32,
+          "end": 34,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 37,
+          "span": "徐有貞",
+          "cid": 34508,
+          "name": "徐有貞",
+          "aid": "unknow"
         }
       ],
-      "sentence": "石公范允臨觀於治平寺中記之。",
-      "author": "範允臨"
+      "sentence": "梅菴點筆有神助。展卷颯颯生風涼。巨然去後無何有。屈指於今獨擅長。東海徐有貞題。",
+      "author": "徐有貞"
+    },
+    {
+      "authorcid": 34508,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "東海",
+          "aid": "PL000000000151",
+          "cid": 1010
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "徐有貞",
+          "cid": 34508,
+          "name": "徐有貞",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "東海徐有貞題",
+      "author": "徐有貞"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "石戸"
+        },
+        {
+          "type": "Location",
+          "start": 27,
+          "end": 29,
+          "span": "巖下"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "烟舟"
+        },
+        {
+          "type": "Location",
+          "start": 33,
+          "end": 35,
+          "span": "水濱"
+        },
+        {
+          "type": "Person",
+          "start": 45,
+          "end": 47,
+          "span": "其人"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 50,
+          "span": "癸巳"
+        },
+        {
+          "type": "Time",
+          "start": 51,
+          "end": 58,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 59,
+          "end": 61,
+          "span": "仲春"
+        }
+      ],
+      "sentence": "本述巨然法。濟之氣韻臻。何曾鄰率略。惟是足精神。石戸開巖下。烟舟艤水濱。望中多簡潔。真覺似其人。癸巳（西元一七七三年）仲春中澣御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸巳"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七七三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "仲春"
+        }
+      ],
+      "sentence": "癸巳（西元一七七三年）仲春中澣御題",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

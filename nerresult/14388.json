@@ -1,0 +1,171 @@
+{
+  "filefroms": "14388.json",
+  "sentences": [
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "雲"
+        },
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "遙島"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "三山"
+        },
+        {
+          "type": "Location",
+          "start": 10,
+          "end": 14,
+          "span": "寒空兩岸"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 22,
+          "span": "丹楓秋鏡"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "野鷗"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雲開遙島三山出。籟起寒空兩岸聞。落盡丹楓秋鏡闊。野鷗飛點亂沙文。陸治。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "溪亭樹"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "寺閣"
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 20,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 31,
+          "span": "黛螺紋"
+        },
+        {
+          "type": "Time",
+          "start": 47,
+          "end": 49,
+          "span": "甲申"
+        },
+        {
+          "type": "Time",
+          "start": 50,
+          "end": 57,
+          "span": "西元一七六四年"
+        },
+        {
+          "type": "Time",
+          "start": 58,
+          "end": 60,
+          "span": "秋日"
+        }
+      ],
+      "sentence": "溪亭樹色誰為染。寺閣鐘聲儼若聞。卻似江南秋未老。遠峰猶見黛螺紋。治末句沙文之文。應是紋字誤書。甲申（西元一七六四年）秋日並識。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "甲申"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六四年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "秋日"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "御筆"
+        }
+      ],
+      "sentence": "甲申（西元一七六四年）秋日並識。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "丹楓"
+        },
+        {
+          "type": "Location",
+          "start": 7,
+          "end": 9,
+          "span": "內府"
+        }
+      ],
+      "sentence": "陸治丹楓秋色。內府祕玩。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

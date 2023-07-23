@@ -1,0 +1,278 @@
+{
+  "filefroms": "13778.json",
+  "sentences": [
+    {
+      "authorcid": 1096,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "河陽",
+          "cid": 17027
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "李迪",
+          "cid": 1096,
+          "name": "李迪",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "河陽李迪。",
+      "author": "李迪"
+    },
+    {
+      "authorcid": 1096,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "河陽",
+          "cid": 17027
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "李迪",
+          "cid": 1096,
+          "name": "李迪",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "河陽李迪",
+      "author": "李迪"
+    },
+    {
+      "authorcid": 27965,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "李迪",
+          "cid": 102866,
+          "name": "李迪",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 9,
+          "span": "宣和時"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "忠郎",
+          "cid": 24156,
+          "name": "賈渤",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 19,
+          "end": 22,
+          "span": "紹興間"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "副使"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "金帶"
+        },
+        {
+          "type": "Time",
+          "start": 35,
+          "end": 38,
+          "span": "孝光朝"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 49,
+          "span": "鷺鶿花鳥飛禽走獸"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 62,
+          "span": "九鶿圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "公謹",
+          "cid": 10183,
+          "name": "周密",
+          "aid": "A016943"
+        },
+        {
+          "type": "PersonName",
+          "start": 87,
+          "end": 89,
+          "span": "袁清",
+          "cid": 213248,
+          "name": "袁清",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 101,
+          "end": 105,
+          "span": "至正壬辰"
+        },
+        {
+          "type": "Time",
+          "start": 106,
+          "end": 116,
+          "span": "西元一三五二年）九月"
+        },
+        {
+          "type": "LocationName",
+          "start": 117,
+          "end": 119,
+          "span": "遂昌",
+          "cid": 18376
+        },
+        {
+          "type": "PersonName",
+          "start": 119,
+          "end": 122,
+          "span": "鄭元祐",
+          "cid": 27965,
+          "name": "鄭元祐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "李迪河陽人。宣和時蒞職畫院。授成忠郎。紹興間復職畫院副使。賜金帶。歷事孝光朝。工畫鷺鶿花鳥飛禽走獸。頗有生意。此卷所畫九鶿圖。神妙莫及。向藏周公謹家。余得展閱一過。今復從武林袁清容齋中重觀。因索筆題此。至正壬辰（西元一三五二年）九月。遂昌鄭元祐。",
+      "author": "鄭元祐"
+    },
+    {
+      "authorcid": 27965,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正壬辰九月"
+        },
+        {
+          "type": "LocationName",
+          "start": 7,
+          "end": 9,
+          "span": "遂昌",
+          "cid": 18376
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "鄭元祐",
+          "cid": 27965,
+          "name": "鄭元祐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正壬辰九月。遂昌鄭元祐。",
+      "author": "鄭元祐"
+    },
+    {
+      "authorcid": 28334,
+      "authoraid": "A022291",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "鷺"
+        },
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "秋塘"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "霜衣"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 10,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "芙蓉"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "頂絲"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 26,
+          "span": "河東",
+          "cid": 3561
+        }
+      ],
+      "sentence": "鷺宿秋塘晚。霜衣映水明。芙蓉深處見。風動頂絲輕。河東張翥。",
+      "author": "張翥"
+    },
+    {
+      "authorcid": 28334,
+      "authoraid": "A022291",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "河東",
+          "cid": 3561
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "張翥",
+          "cid": 28334,
+          "name": "張翥",
+          "aid": "A022291"
+        }
+      ],
+      "sentence": "河東張翥",
+      "author": "張翥"
+    }
+  ]
+}

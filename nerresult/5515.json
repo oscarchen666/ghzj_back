@@ -1,0 +1,75 @@
+{
+  "filefroms": "5515.json",
+  "sentences": [
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "妝樓"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 12,
+          "span": "筆牀書卷"
+        },
+        {
+          "type": "Person",
+          "start": 29,
+          "end": 31,
+          "span": "珮人"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 38,
+          "span": "癸巳閏月齋頭"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 40,
+          "span": "雨"
+        },
+        {
+          "type": "Person",
+          "start": 42,
+          "end": 44,
+          "span": "馬姬"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "王穉",
+          "cid": 437559,
+          "name": "王穉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "秋老妝樓雨似塵。筆牀書卷鎮相親。一枝寫出湘皋影。仿佛凌波解珮人。癸巳閏月齋頭坐雨。閱馬姬畫蘭走筆戲題。王穉登。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王穉登",
+      "author": "王穉登"
+    }
+  ]
+}

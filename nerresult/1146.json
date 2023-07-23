@@ -2,45 +2,1220 @@
   "filefroms": "1146.json",
   "sentences": [
     {
-      "authorcid": "unknow",
+      "authorcid": 111876,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至正癸巳"
+        },
+        {
+          "type": "Time",
           "start": 5,
-          "end": 7,
-          "span": "公雅",
-          "cid": 1640,
-          "name": "丁度",
+          "end": 12,
+          "span": "西元一二九三年"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "鄭禧",
+          "cid": 111876,
+          "name": "鄭禧",
           "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 28,
-          "end": 32,
-          "span": "龍眠山人",
-          "cid": 19865,
-          "name": "李公麟",
+          "start": 19,
+          "end": 21,
+          "span": "介甫",
+          "cid": 28933,
+          "name": "程思廉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正癸巳（西元一二九三年）。平江鄭禧為介甫作。",
+      "author": "鄭禧"
+    },
+    {
+      "authorcid": 47560,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "聚芳亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 7,
+          "end": 9,
+          "span": "介甫",
+          "cid": 1762,
+          "name": "王安石",
           "aid": "unknow"
         },
         {
           "type": "PersonName",
-          "start": 43,
-          "end": 44,
+          "start": 22,
+          "end": 24,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 31,
+          "end": 33,
+          "span": "名士"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 50,
+          "span": "亭"
+        },
+        {
+          "type": "Person",
+          "start": 81,
+          "end": 83,
+          "span": "數客"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 87,
+          "span": "花木"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 117,
+          "span": "亭"
+        },
+        {
+          "type": "Location",
+          "start": 138,
+          "end": 140,
+          "span": "洞庭"
+        },
+        {
+          "type": "Thing",
+          "start": 157,
+          "end": 158,
+          "span": "樹"
+        },
+        {
+          "type": "Person",
+          "start": 250,
+          "end": 252,
+          "span": "昔人"
+        },
+        {
+          "type": "Thing",
+          "start": 267,
+          "end": 268,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 269,
+          "end": 270,
+          "span": "柳"
+        },
+        {
+          "type": "PersonName",
+          "start": 273,
+          "end": 274,
           "span": "人",
           "cid": 132663,
           "name": "劉文耀",
           "aid": "unknow"
         },
         {
+          "type": "PersonName",
+          "start": 282,
+          "end": 284,
+          "span": "介甫",
+          "cid": 1762,
+          "name": "王安石",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 300,
+          "end": 302,
+          "span": "蘭桂"
+        },
+        {
+          "type": "Thing",
+          "start": 323,
+          "end": 325,
+          "span": "草木"
+        },
+        {
+          "type": "Person",
+          "start": 333,
+          "end": 337,
+          "span": "騷人墨客"
+        },
+        {
+          "type": "Thing",
+          "start": 354,
+          "end": 356,
+          "span": "草木"
+        },
+        {
+          "type": "Person",
+          "start": 373,
+          "end": 375,
+          "span": "夫人"
+        },
+        {
           "type": "Time",
-          "start": 48,
-          "end": 63,
-          "span": "元豐八年（西元一０八五年）六月"
+          "start": 401,
+          "end": 408,
+          "span": "至正乙未九月日"
+        },
+        {
+          "type": "Person",
+          "start": 409,
+          "end": 411,
+          "span": "進士"
         }
       ],
-      "sentence": "鳳閣舍人楊公雅言。孝經關鍵六藝。根本百行。在世訓所重。謂龍眠山人李公麟曰。能圖其事以示人為有補。元豐八年（西元一０八五年）六月。因摭其一二。隨章而圖之。",
+      "sentence": "聚芳亭者。晟溪介甫提舉游息之所也。其扁則九皋學士之所書也。其他名士吟詠。已成鉅軸。其芳之所以聚。與亭之所以名。亦略盡之。顧余蕪陋。何足以道萬一。然觀其亭之大。僅容數客。其花木不過數品。頗有閑雅幽深之趣。似與騷壇麗製。若不相似者。及登亭而望。則翠弁諸毗峨其西。何道諸峰環其西南。洞庭三十六峰迤其北東。其遠則參差火因樹。若圖若畫。其近則掩日英幽花。如錦如繡。凝眸而視。則紛紅駭綠。自獻於几席。屏息而坐。則生香異馥。自呈於鼻觀。曠而夷。穴目而深。一舉而兼有之。信乎斯亭之能聚芳。而眾芳之聚斯亭也。大抵昔人之作亭選勝。必因其自然。其他栽花種柳。出於人為者不與也。而況介甫年高而德劭。富而好禮。棣萼聯輝。蘭桂並秀。風朝月夕。相聚於此亭之上。其聚芳不翅草木之芳而已也。若其騷人墨客。來游來歌。含英咀華。繪辭繡句。聚草木之芳於筆端之下。播之遠而貽之久。使夫人思登此亭而不可得。此又名亭之餘意。因書以序於其端云。至正乙未九月日。進士都省授紹興路儒學正亦山陳遇序。",
+      "author": "陳遇"
+    },
+    {
+      "authorcid": 47560,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "至正乙未九月日"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "進士"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "陳遇",
+          "cid": 47560,
+          "name": "陳遇",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "至正乙未九月日。進士都省授紹興路儒學正亦山陳遇序。",
+      "author": "陳遇"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "聚芳亭"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "幽亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 46,
+          "end": 48,
+          "span": "中人",
+          "cid": 101481,
+          "name": "丘岳",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 57,
+          "end": 59,
+          "span": "苕溪",
+          "aid": "PL000000012969"
+        },
+        {
+          "type": "PersonName",
+          "start": 59,
+          "end": 61,
+          "span": "趙順",
+          "cid": 142522,
+          "name": "趙順",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "敬題聚芳亭。羨此幽亭好。天然萃眾芳。紅光春日日英戶。翠色曉分窗。香襲簾櫳馥。陰過几席涼。其中人自樂。日日醉壺觴。苕溪趙順仁拜。",
+      "author": "趙順仁"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "苕溪",
+          "aid": "PL000000012969"
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "趙順",
+          "cid": 142522,
+          "name": "趙順",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "苕溪趙順仁拜",
+      "author": "趙順仁"
+    },
+    {
+      "authorcid": 431233,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "高人"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "闌干"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "疊瓦"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 36,
+          "span": "青鴛鴦"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 71,
+          "span": "黃蜂"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 75,
+          "span": "蝴蝶"
+        },
+        {
+          "type": "Thing",
+          "start": 81,
+          "end": 82,
+          "span": "鶯"
+        },
+        {
+          "type": "PersonName",
+          "start": 85,
+          "end": 87,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 92,
+          "span": "鏤衣"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 97,
+          "span": "東風"
+        },
+        {
+          "type": "Location",
+          "start": 109,
+          "end": 113,
+          "span": "聚芳亭上"
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 145,
+          "span": "青天"
+        },
+        {
+          "type": "Thing",
+          "start": 147,
+          "end": 148,
+          "span": "紙"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 153,
+          "span": "溪藤"
+        },
+        {
+          "type": "PersonName",
+          "start": 167,
+          "end": 170,
+          "span": "陳明德",
+          "cid": 431233,
+          "name": "陳明德",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "聚芳亭歌。高人有亭名聚芳。巋然結構森畫梁。闌干曲曲護階小。疊瓦吐出青鴛鴦。嬌紅膩白俱拔萃。賸繞茲亭一相會。不許韶光四散濃。舉目繁華於此最。黃蜂飛來蝴蝶舞。為此群芳鶯亦語。美人紅袖金鏤衣。笑入東風勸綠醑。願言四季長是春。聚芳亭上醉閑身。人生有樂不肯樂。何用局束驅紅塵。邇來此亭樂如此。仰面青天一張紙。安得溪藤如此寬。興寫長歌歌不已。吳興陳明德頓首。",
+      "author": "陳明德"
+    },
+    {
+      "authorcid": 431233,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "陳明德",
+          "cid": 431233,
+          "name": "陳明德",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "吳興陳明德頓首",
+      "author": "陳明德"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 5,
+          "span": "豪儁士"
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "漁樵"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "閔子",
+          "cid": "unknow",
+          "name": "閔損",
+          "aid": "A014780"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 62,
+          "span": "水木"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 69,
+          "span": "雲根石"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 77,
+          "span": "嘉花雜異卉"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "餐霞",
+          "cid": 55096,
+          "name": "錢斐仲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 111,
+          "end": 113,
+          "span": "城市"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "古道"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 119,
+          "span": "荊榛"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 125,
+          "span": "巾柴車"
+        },
+        {
+          "type": "Location",
+          "start": 140,
+          "end": 143,
+          "span": "煙水濱"
+        },
+        {
+          "type": "Thing",
+          "start": 146,
+          "end": 148,
+          "span": "白雲"
+        },
+        {
+          "type": "Person",
+          "start": 151,
+          "end": 152,
+          "span": "我"
+        },
+        {
+          "type": "Location",
+          "start": 152,
+          "end": 154,
+          "span": "壺中"
+        },
+        {
+          "type": "LocationName",
+          "start": 156,
+          "end": 158,
+          "span": "峨眉",
+          "cid": 5746
+        },
+        {
+          "type": "Person",
+          "start": 158,
+          "end": 161,
+          "span": "康原壽"
+        }
+      ],
+      "sentence": "惟昔豪儁士。曠達超常倫。遠彼簪組累。樂與漁樵親。閔子足尚友。志道無緇磷。讀書解探賾。霧豹文彬彬。會心遂有得。枕漱臨芳津。水木湛清華。雲根石嶙峋。嘉花雜異卉。秀色隨時新。攬勝采芳潔。一洗胸中塵。澹無聲色干。矯若餐霞人。走也厭城市。古道荒荊榛。行當巾柴車。接歡願卜鄰。振衣風塵表。濯足煙水濱。浩歌白雲謠。醉我壺中春。峨眉康原壽拜手。",
+      "author": "康原壽"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "峨眉",
+          "cid": 5746
+        },
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 5,
+          "span": "康原壽"
+        }
+      ],
+      "sentence": "峨眉康原壽拜手",
+      "author": "康原壽"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 13,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "衣巾"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 26,
+          "span": "桂"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 32,
+          "span": "蘭"
+        },
+        {
+          "type": "Time",
+          "start": 48,
+          "end": 57,
+          "span": "至正戊子八月十三日"
+        },
+        {
+          "type": "PersonName",
+          "start": 58,
+          "end": 60,
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 66,
+          "end": 69,
+          "span": "桱雪齋"
+        },
+        {
+          "type": "PersonName",
+          "start": 72,
+          "end": 74,
+          "span": "聚芳",
+          "cid": "unknow",
+          "name": "聚芳",
+          "aid": "A022880"
+        }
+      ],
+      "sentence": "鑿圃叢嘉植。幽亭景趣真。樹陰清枕簟。花氣馥衣巾。撫桂懷招隱。滋蘭願卜鄰。徜徉多樂事。岸幘笑紅塵。至正戊子八月十三日。吳興沈融頓首書于桱雪齋。謹為聚芳主人賦。",
+      "author": "沈融"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 9,
+          "span": "至正戊子八月十三日"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 21,
+          "span": "桱雪齋"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "聚芳",
+          "cid": "unknow",
+          "name": "聚芳",
+          "aid": "A022880"
+        }
+      ],
+      "sentence": "至正戊子八月十三日。吳興沈融頓首書于桱雪齋。謹為聚芳主人賦。",
+      "author": "沈融"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "花木"
+        },
+        {
+          "type": "Person",
+          "start": 14,
+          "end": 16,
+          "span": "子孫"
+        }
+      ],
+      "sentence": "其亭曰聚芳。非為花木榮。所期子孫盛。千載存斯名。龜谿沈□（梵字不可識）。頓首。",
       "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "龜"
+        }
+      ],
+      "sentence": "龜谿沈□（梵字不可識）。頓首。",
+      "author": ""
+    },
+    {
+      "authorcid": 536217,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "苕水"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "溪山"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "簷楹"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "花木"
+        },
+        {
+          "type": "Person",
+          "start": 44,
+          "end": 47,
+          "span": "宦游人"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "倪駿",
+          "cid": 536217,
+          "name": "倪駿",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "苕水分流去。溪山滿目春。簷楹隨勝立。花木為誰新。展几幽懷適。開尊樂事頻。浩歌天地闊。應笑宦游人。郡人倪駿。",
+      "author": "倪駿"
+    },
+    {
+      "authorcid": 536217,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "倪駿",
+          "cid": 536217,
+          "name": "倪駿",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "郡人倪駿",
+      "author": "倪駿"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 1,
+          "span": "山"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 5,
+          "span": "亭臺水"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "池"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 9,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 11,
+          "span": "花"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "主人"
+        }
+      ],
+      "sentence": "山遶亭臺水滿池。花開花落自知時。荼蘼含笑笑何事。笑與主人知不知。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "昨日"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 6,
+          "span": "花亭下"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 10,
+          "span": "今朝"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "竹"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "眼前"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "深杯"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "淺杯"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "桐生",
+          "cid": 34188,
+          "name": "洪梧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "昨日買花亭下栽。今朝移竹近亭來。眼前正喜群芳聚。贏得深杯與淺杯。古汴趙桐生。",
+      "author": "趙桐生"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "古汴"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "桐生",
+          "cid": 34188,
+          "name": "洪梧",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "古汴趙桐生",
+      "author": "趙桐生"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A004628",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "壬子良月暇日"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "彥舉",
+          "cid": 101128,
+          "name": "王弘鈞",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "文翁",
+          "cid": 19466,
+          "name": "文翁",
+          "aid": "A018288"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "長卷"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 49,
+          "span": "聚芳亭上"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "欄杆"
+        },
+        {
+          "type": "LocationName",
+          "start": 65,
+          "end": 67,
+          "span": "西蜀",
+          "aid": "PL000000000100"
+        },
+        {
+          "type": "LocationName",
+          "start": 73,
+          "end": 75,
+          "span": "洛陽",
+          "aid": "PL000000023642",
+          "cid": 17491
+        },
+        {
+          "type": "Time",
+          "start": 93,
+          "end": 95,
+          "span": "三月"
+        },
+        {
+          "type": "Person",
+          "start": 97,
+          "end": 99,
+          "span": "公子"
+        },
+        {
+          "type": "Thing",
+          "start": 106,
+          "end": 108,
+          "span": "金鞍"
+        },
+        {
+          "type": "PersonName",
+          "start": 110,
+          "end": 113,
+          "span": "隱道人",
+          "cid": "unknow",
+          "name": "密藏",
+          "aid": "A017882"
+        }
+      ],
+      "sentence": "壬子良月暇日。訪彥舉內史。禮畢。出示介甫文翁聚芳亭長卷。索予留題。聊寫拙語。以塞一時命焉。聚芳亭上倚欄杆。收拾春光箇裡安。錦樣何須西蜀覓。華模猶勝洛陽看。簾通細色千般媚。風觸柔香百和寒。三月五陵公子會。幾番留醉宿金鞍。疇隱道人妙湛拜。",
+      "author": "妙湛"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "A004628",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "隱道人",
+          "cid": "unknow",
+          "name": "密藏",
+          "aid": "A017882"
+        }
+      ],
+      "sentence": "疇隱道人妙湛拜",
+      "author": "妙湛"
+    },
+    {
+      "authorcid": 218150,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "介翁",
+          "cid": 132454,
+          "name": "歐陽哲",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 15,
+          "span": "亭後圃"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "萬卉"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "香風"
+        },
+        {
+          "type": "Person",
+          "start": 61,
+          "end": 63,
+          "span": "閔公"
+        },
+        {
+          "type": "PersonName",
+          "start": 78,
+          "end": 80,
+          "span": "黃鉉",
+          "cid": 218150,
+          "name": "黃鉉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "敬題介翁叔祖聚芳亭詩。築亭後圃集春光。萬卉相鮮錦綉場。麗色團團明几席。香風拂拂引壺觴。閒時委順琴書樂。醉裡工夫日月長。眾好閔公多善慶。為言斯地永流芳。族姪孫黃鉉拜。",
+      "author": "黃鉉"
+    },
+    {
+      "authorcid": 218150,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "黃鉉",
+          "cid": 218150,
+          "name": "黃鉉",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "族姪孫黃鉉拜",
+      "author": "黃鉉"
+    },
+    {
+      "authorcid": 110419,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 1,
+          "end": 4,
+          "span": "聚芳亭"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 9,
+          "span": "園亭景物"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 17,
+          "span": "異卉名葩"
+        },
+        {
+          "type": "Person",
+          "start": 21,
+          "end": 23,
+          "span": "羨子"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 56,
+          "span": "舟"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "主人"
+        },
+        {
+          "type": "PersonName",
+          "start": 77,
+          "end": 79,
+          "span": "趙肅",
+          "cid": 110419,
+          "name": "趙肅",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "題聚芳亭。園亭景物信奇哉。異卉名葩滿意栽。羨子高懷能賞勝。直教無日不花開。  亭築名園花繞亭。紅紅白白四時春。舟經晟舍□（字損）維纜。逕造何須問主人。吳興趙肅。",
+      "author": "趙肅"
+    },
+    {
+      "authorcid": 110419,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "趙肅",
+          "cid": 110419,
+          "name": "趙肅",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "吳興趙肅",
+      "author": "趙肅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 7,
+          "span": "林塘"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "壺"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 29,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 33,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "銀燭"
+        },
+        {
+          "type": "PersonName",
+          "start": 40,
+          "end": 41,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "節士"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "仲叔",
+          "cid": 12124,
+          "name": "盛陶",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 78,
+          "end": 80,
+          "span": "節士"
+        },
+        {
+          "type": "PersonName",
+          "start": 82,
+          "end": 84,
+          "span": "華亭",
+          "cid": 64885,
+          "name": "奎英",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "幽亭新結倚林塘。勝日攜壺攬眾芳。金碧相鮮山數點。青黃雜揉樹千章。花搖銀燭胭脂落。人語雕闌錦綉香。節士可知深種德。日英階蘭玉已成行。（閔貢仲叔性資清抗。世稱節士）。華亭衛毅再拜。",
+      "author": "衛毅"
     },
     {
       "authorcid": "unknow",
@@ -49,21 +1224,278 @@
         {
           "type": "PersonName",
           "start": 0,
-          "end": 3,
-          "span": "李公麟",
-          "cid": 19865,
-          "name": "李公麟",
+          "end": 2,
+          "span": "華亭",
+          "cid": 64885,
+          "name": "奎英",
           "aid": "unknow"
+        }
+      ],
+      "sentence": "華亭衛毅再拜",
+      "author": "衛毅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "碧瓦"
         },
         {
           "type": "Thing",
-          "start": 3,
-          "end": 6,
-          "span": "孝經圖"
+          "start": 6,
+          "end": 8,
+          "span": "朱甍"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "闌干"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "花木"
+        },
+        {
+          "type": "LocationName",
+          "start": 38,
+          "end": 40,
+          "span": "池上",
+          "aid": "PL000000059856"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 41,
+          "span": "月"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "金鱗"
+        },
+        {
+          "type": "LocationName",
+          "start": 48,
+          "end": 50,
+          "span": "長城",
+          "cid": 15777
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "志仁",
+          "cid": 15444,
+          "name": "程宏濟",
+          "aid": "A018285"
         }
       ],
-      "sentence": "李公麟孝經圖。",
+      "sentence": "碧瓦麗清晨。朱甍照好春。闌干終日倚。花木四時新。坐近霏霏霧。歌翻簌簌塵。更看池上月。波影漾金鱗。長城丁志仁。",
       "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "長城",
+          "cid": 15777
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "志仁",
+          "cid": 15444,
+          "name": "程宏濟",
+          "aid": "A018285"
+        }
+      ],
+      "sentence": "長城丁志仁",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 7,
+          "span": "晟溪上"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "疊石"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "池"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "芝蘭"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "石宅"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 31,
+          "span": "桃李狄公門"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 35,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 45,
+          "end": 47,
+          "span": "酒尊"
+        },
+        {
+          "type": "PersonName",
+          "start": 84,
+          "end": 86,
+          "span": "行義",
+          "cid": 81846,
+          "name": "陳應辰",
+          "aid": "A002138"
+        }
+      ],
+      "sentence": "聚芳亭構晟溪上。疊石開池春滿園。藹藹芝蘭安石宅。總總桃李狄公門。日蒸花氣盈歌袖。風引蕖香入酒尊。眼底四時生意足。浩歌天地樂無垠。（天地二字原點去。下注勝賞二字）。郡人朱行義。",
+      "author": "朱行義"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "行義",
+          "cid": 81846,
+          "name": "陳應辰",
+          "aid": "A002138"
+        }
+      ],
+      "sentence": "郡人朱行義",
+      "author": "朱行義"
+    },
+    {
+      "authorcid": 14529,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "小苑亭"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "碧窗花"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 22,
+          "span": "朱箔蕙風"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "啼鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "歌扇"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "游蜂"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "桂子"
+        }
+      ],
+      "sentence": "小苑亭初構。群芳暖正繁。碧窗花霧曉。朱箔蕙風暄。啼鳥迎歌扇。游蜂近酒尊。更須添桂子。移致月（點去）月中根。亦山陳恂。",
+      "author": "陳恂"
+    },
+    {
+      "authorcid": 14529,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "陳恂",
+          "cid": 14529,
+          "name": "陳恂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "亦山陳恂",
+      "author": "陳恂"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "林屋山人",
+          "cid": 10137,
+          "name": "俞琰",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 9,
+          "span": "齋趙道汝"
+        }
+      ],
+      "sentence": "林屋山人和齋趙道汝稽首。",
+      "author": "趙道汝"
     }
   ]
 }

@@ -2,175 +2,146 @@
   "filefroms": "1410.json",
   "sentences": [
     {
-      "authorcid": "unknow",
+      "authorcid": 24737,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Location",
-          "start": 5,
-          "end": 7,
-          "span": "田園"
-        },
-        {
           "type": "Person",
-          "start": 37,
-          "end": 39,
-          "span": "來者"
-        },
-        {
-          "type": "Thing",
-          "start": 57,
-          "end": 58,
-          "span": "舟"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 65,
-          "span": "風"
-        },
-        {
-          "type": "PersonName",
-          "start": 72,
-          "end": 74,
-          "span": "征夫",
-          "cid": "unknow",
-          "name": "寂英",
-          "aid": "A006655"
-        },
-        {
-          "type": "Person",
-          "start": 95,
-          "end": 97,
-          "span": "僮僕"
-        },
-        {
-          "type": "PersonName",
-          "start": 100,
-          "end": 102,
-          "span": "稚子",
-          "cid": 72542,
-          "name": "方良孺",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 110,
-          "end": 112,
-          "span": "松菊"
-        },
-        {
-          "type": "Thing",
-          "start": 121,
-          "end": 122,
-          "span": "酒"
-        },
-        {
-          "type": "Thing",
-          "start": 140,
-          "end": 142,
-          "span": "南窗"
-        },
-        {
-          "type": "Thing",
-          "start": 160,
-          "end": 161,
-          "span": "門"
-        },
-        {
-          "type": "Thing",
-          "start": 181,
-          "end": 182,
-          "span": "雲"
-        },
-        {
-          "type": "Thing",
-          "start": 188,
-          "end": 189,
-          "span": "鳥"
-        },
-        {
-          "type": "Thing",
-          "start": 203,
-          "end": 205,
-          "span": "孤松"
-        },
-        {
-          "type": "Person",
-          "start": 223,
-          "end": 224,
-          "span": "我"
-        },
-        {
-          "type": "Person",
-          "start": 236,
-          "end": 238,
-          "span": "親戚"
-        },
-        {
-          "type": "Person",
-          "start": 249,
-          "end": 251,
-          "span": "農人"
-        },
-        {
-          "type": "LocationName",
-          "start": 261,
-          "end": 263,
-          "span": "西疇",
-          "cid": 2656
-        },
-        {
-          "type": "Thing",
-          "start": 266,
-          "end": 268,
-          "span": "巾車"
-        },
-        {
-          "type": "Thing",
-          "start": 271,
-          "end": 273,
-          "span": "孤舟"
-        },
-        {
-          "type": "Thing",
-          "start": 288,
-          "end": 289,
-          "span": "木"
-        },
-        {
-          "type": "Thing",
-          "start": 295,
-          "end": 296,
-          "span": "泉"
-        },
-        {
-          "type": "Location",
-          "start": 372,
-          "end": 374,
-          "span": "東皋"
-        },
-        {
-          "type": "PersonName",
-          "start": 400,
-          "end": 402,
-          "span": "蘭雪",
-          "cid": 54355,
-          "name": "汪韞玉",
-          "aid": "A008281"
-        },
-        {
-          "type": "PersonName",
-          "start": 404,
-          "end": 406,
-          "span": "宜民",
-          "cid": 128597,
-          "name": "林希蔭",
-          "aid": "unknow"
+          "start": 0,
+          "end": 3,
+          "span": "靜華翁"
         }
       ],
-      "sentence": "歸去來兮。田園將蕪。胡不歸。既自以心為形役。奚惆悵而獨悲。悟已往之不諫。知來者之可追。實迷途其未遠。覺今是而昨非。舟遙遙以輕颺。風飄飄而吹衣。問征夫以前路。恨晨光之希微。乃瞻衡宇。載欣載奔。僮僕歡迎。稚子候門。三徑就荒。松菊猶存。攜幼入室。有酒盈樽。引壺觴以自酌。眄庭柯以怡顏。倚南窗以寄傲。審容膝之易安。園日涉而成趣。門雖設而常關。策扶老而流憩。時翹首而遐觀。雲無心而出岫。鳥倦飛而知還。景翳翳其將入。撫孤松而盤桓。歸去來兮。請息交以絕游。世與我而相遺。復駕言兮焉求。悅親戚之情話。樂琴書以消憂。農人告余以春及。將有事於西疇。或命巾車。或棹孤舟。既窈窕以尋壑。亦崎嶇而經丘。木欣欣以向榮。泉涓涓而始流。善萬物之得時。感吾生之行休。已矣乎。寓形宇內復幾時。曷不委心任去留。胡為乎遑遑欲何之。富貴非吾願。帝鄉不可期。懷良晨以孤往。或植杖而耘耔。登東皋以舒嘯。臨清流而賦詩。聊乘化而歸盡。樂夫天命復奚疑。蘭雪軒朱宜民書。",
-      "author": "朱宜民"
+      "sentence": "靜華翁",
+      "author": "趙淇"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "趙氏",
+          "cid": 50030,
+          "name": "趙氏",
+          "aid": "A019412"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "周氏",
+          "cid": 121705,
+          "name": "周氏",
+          "aid": "A011631"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 50,
+          "span": "御園"
+        },
+        {
+          "type": "Time",
+          "start": 64,
+          "end": 66,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 67,
+          "end": 74,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 78,
+          "span": "新正月"
+        }
+      ],
+      "sentence": "趙氏為圖周氏書。浮邱妙趣寫無餘。性情雖賴一篇著。翔翥猶資幾筆攄。雲去籠存自殊矣。淇懐琦思可眀諸。御園放弗翮翎翦。昔日題詞此意如。己酉（西元一七八九年）新正月上澣御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "己酉"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七八九年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "新正月"
+        }
+      ],
+      "sentence": "己酉（西元一七八九年）新正月上澣御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 129762,
+      "authoraid": "A004644",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "元德",
+          "cid": 114881,
+          "name": "吉雅謨丁",
+          "aid": "A016417"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "伯溫",
+          "cid": 27948,
+          "name": "劉基",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 30,
+          "span": "希世之寶"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 48,
+          "span": "石芝"
+        }
+      ],
+      "sentence": "跋。趙元德畫。予未之覯。周伯溫篆。止見蘭言堂謙卦。皆希世之寶。何意獲此合璧。雖連城不是過也。石芝。",
+      "author": "孫隆"
+    },
+    {
+      "authorcid": 129762,
+      "authoraid": "A004644",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "石芝"
+        }
+      ],
+      "sentence": "石芝",
+      "author": "孫隆"
     },
     {
       "authorcid": "unknow",
@@ -180,14 +151,173 @@
           "type": "PersonName",
           "start": 4,
           "end": 6,
-          "span": "宜民",
-          "cid": 128597,
-          "name": "林希蔭",
+          "span": "文惠",
+          "cid": 65225,
+          "name": "文惠",
+          "aid": "A016382"
+        },
+        {
+          "type": "Person",
+          "start": 9,
+          "end": 11,
+          "span": "神仙"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "鶴"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 33,
+          "span": "伯溫",
+          "cid": 3103,
+          "name": "程珦",
           "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 47,
+          "end": 49,
+          "span": "石芝",
+          "cid": 72919,
+          "name": "石如璉",
+          "aid": "A000601"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "石芝",
+          "cid": 72919,
+          "name": "石如璉",
+          "aid": "A000601"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 68,
+          "span": "從吉",
+          "cid": 110058,
+          "name": "鄒伯顏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "都癡",
+          "cid": 561097,
+          "name": "孫隆",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 75,
+          "end": 79,
+          "span": "新安太守"
+        },
+        {
+          "type": "Time",
+          "start": 84,
+          "end": 88,
+          "span": "天啟四年"
+        },
+        {
+          "type": "Time",
+          "start": 89,
+          "end": 99,
+          "span": "西元一六二四年）八月"
         }
       ],
-      "sentence": "蘭雪軒朱宜民書",
-      "author": "朱宜民"
+      "sentence": "學古錄載文惠飄然有神仙之思。所以能得鶴之性。不徒貌似而已。又得伯溫書相鶴經於後。書畫雙絕。宜孫石芝重如合璧。什襲藏之也。石芝名隆。字從吉。又號都癡。官新安太守。亦善畫。天啟四年（西元一六二四年）八月。世通識。",
+      "author": "張世通"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "天啟四年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一六二四年）八月"
+        }
+      ],
+      "sentence": "天啟四年（西元一六二四年）八月。世通識。",
+      "author": "張世通"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "子厚",
+          "cid": 333,
+          "name": "章惇",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "仁甫",
+          "cid": 1094,
+          "name": "李燾",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 14,
+          "span": "芙蓉草堂",
+          "aid": "PL000000011645",
+          "cid": 16085
+        }
+      ],
+      "sentence": "邢子厚同梁仁甫觀于七芙蓉草堂。",
+      "author": ""
+    },
+    {
+      "authorcid": 65797,
+      "authoraid": "A044397",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 6,
+          "span": "周伯琦",
+          "cid": 28695,
+          "name": "周伯琦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 10,
+          "span": "相鶴圖經"
+        }
+      ],
+      "sentence": "元趙淇周伯琦相鶴圖經合璧。櫟園鑑藏。",
+      "author": "周亮工"
+    },
+    {
+      "authorcid": 65797,
+      "authoraid": "A044397",
+      "output": [],
+      "sentence": "櫟園鑑藏",
+      "author": "周亮工"
     }
   ]
 }

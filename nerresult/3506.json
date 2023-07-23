@@ -1,0 +1,22 @@
+{
+  "filefroms": "3506.json",
+  "sentences": [
+    {
+      "authorcid": 126323,
+      "authoraid": "A009035",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "丁雲鵬",
+          "cid": 126323,
+          "name": "丁雲鵬",
+          "aid": "A009035"
+        }
+      ],
+      "sentence": "丁雲鵬敬寫",
+      "author": "丁雲鵬"
+    }
+  ]
+}

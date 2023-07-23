@@ -1,0 +1,137 @@
+{
+  "filefroms": "14450.json",
+  "sentences": [
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "嘉靖戊申"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一五四八年）春三月"
+        },
+        {
+          "type": "LocationName",
+          "start": 17,
+          "end": 19,
+          "span": "包山",
+          "aid": "PL000000010052"
+        }
+      ],
+      "sentence": "嘉靖戊申（西元一五四八年）春三月望包山陸治製。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 3,
+          "end": 5,
+          "span": "錢舜"
+        },
+        {
+          "type": "Time",
+          "start": 8,
+          "end": 10,
+          "span": "昔年"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "京邸"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 19,
+          "span": "貞素先生",
+          "cid": 551348,
+          "name": "胡文壁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 29,
+          "end": 31,
+          "span": "十年"
+        },
+        {
+          "type": "Time",
+          "start": 41,
+          "end": 43,
+          "span": "中年"
+        },
+        {
+          "type": "Time",
+          "start": 66,
+          "end": 69,
+          "span": "十七年"
+        },
+        {
+          "type": "Time",
+          "start": 94,
+          "end": 100,
+          "span": "嘉靖甲子仲秋"
+        },
+        {
+          "type": "LocationName",
+          "start": 102,
+          "end": 104,
+          "span": "包山",
+          "aid": "PL000000010052"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "此卷倣錢舜舉筆。昔年余在京邸為貞素先生作也。不意復見之。恰十年餘矣。恍然如昨。感吾中年不能作此。想物有會期。漫賦短句以致慨。筆墨悠悠十七年。白頭重閱已茫然。蹉跎歲月渾如昨。慚愧聰明不及前。嘉靖甲子仲秋既望包山陸治重題。",
+      "author": "陸治"
+    },
+    {
+      "authorcid": 130737,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖甲子仲秋"
+        },
+        {
+          "type": "LocationName",
+          "start": 8,
+          "end": 10,
+          "span": "包山",
+          "aid": "PL000000010052"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "陸治",
+          "cid": 130737,
+          "name": "陸治",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖甲子仲秋既望包山陸治重題",
+      "author": "陸治"
+    }
+  ]
+}

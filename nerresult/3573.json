@@ -2,190 +2,418 @@
   "filefroms": "3573.json",
   "sentences": [
     {
-      "authorcid": 560977,
-      "authoraid": "unknow",
+      "authorcid": 34673,
+      "authoraid": "A009194",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 2,
-          "span": "己巳"
+          "end": 4,
+          "span": "嘉靖戊午"
         },
         {
           "type": "Time",
-          "start": 3,
-          "end": 13,
-          "span": "西元一六二九年）閏月"
-        },
-        {
-          "type": "Location",
-          "start": 15,
-          "end": 18,
-          "span": "紅蕉館"
+          "start": 5,
+          "end": 17,
+          "span": "西元一五五八年）七月廿日"
         },
         {
           "type": "PersonName",
-          "start": 19,
-          "end": 22,
-          "span": "沈士充",
-          "cid": 560977,
-          "name": "沈士充",
-          "aid": "unknow"
+          "start": 21,
+          "end": 23,
+          "span": "叔明",
+          "cid": 30593,
+          "name": "徐學謨",
+          "aid": "A003749"
         }
       ],
-      "sentence": "己巳（西元一六二九年）閏月寫於紅蕉館。沈士充。",
-      "author": "沈士充"
+      "sentence": "嘉靖戊午（西元一五五八年）七月廿日。徵明倣叔明墨法寫。",
+      "author": "文徵明"
     },
     {
-      "authorcid": 10879,
-      "authoraid": "A004613",
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
-          "type": "Thing",
-          "start": 0,
-          "end": 1,
-          "span": "酒"
-        },
-        {
-          "type": "Thing",
+          "type": "Time",
           "start": 2,
-          "end": 5,
-          "span": "花綺雪"
+          "end": 4,
+          "span": "百年"
         },
         {
           "type": "Thing",
-          "start": 18,
-          "end": 20,
-          "span": "微風"
+          "start": 12,
+          "end": 14,
+          "span": "園圖"
         },
         {
           "type": "Thing",
-          "start": 27,
-          "end": 28,
-          "span": "雪"
+          "start": 24,
+          "end": 26,
+          "span": "書堂"
         },
         {
           "type": "Thing",
-          "start": 29,
-          "end": 31,
-          "span": "梅花"
+          "start": 30,
+          "end": 32,
+          "span": "竹齋"
         },
         {
-          "type": "Location",
-          "start": 40,
+          "type": "Thing",
+          "start": 37,
+          "end": 38,
+          "span": "花"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
           "end": 44,
-          "span": "亂山深處"
+          "span": "水"
         },
         {
           "type": "Thing",
           "start": 45,
-          "end": 47,
-          "span": "茆茨"
-        },
-        {
-          "type": "Thing",
-          "start": 52,
-          "end": 55,
-          "span": "梅千樹"
-        },
-        {
-          "type": "Thing",
-          "start": 58,
-          "end": 59,
-          "span": "花"
-        },
-        {
-          "type": "Person",
-          "start": 64,
-          "end": 66,
-          "span": "先生"
+          "end": 46,
+          "span": "荷"
         },
         {
           "type": "PersonName",
-          "start": 86,
-          "end": 87,
-          "span": "客",
-          "cid": 139689,
-          "name": "王郎",
+          "start": 75,
+          "end": 77,
+          "span": "中人",
+          "cid": 101481,
+          "name": "丘岳",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 99,
+          "end": 101,
+          "span": "衡山",
+          "aid": "PL000000015458",
+          "cid": 18755
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 119,
+          "span": "風牛馬"
+        },
+        {
+          "type": "Thing",
+          "start": 132,
+          "end": 134,
+          "span": "明窗"
+        },
+        {
+          "type": "Time",
+          "start": 156,
+          "end": 160,
+          "span": "乾隆戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 161,
+          "end": 168,
+          "span": "西元一七四八年"
+        },
+        {
+          "type": "PersonName",
+          "start": 176,
+          "end": 179,
+          "span": "蘇東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        }
+      ],
+      "sentence": "闢園百年上。成圖百年下。園圖均可傳。名勝逾綠野。書堂繙簡編。竹齋列樽斚。澆花與物春。弄水知荷夏。遊心飫禮樂。結契招儒雅。每先天下憂。詎效香山社。獨樂園中人。究非獨樂者。藝苑夥如林。設色胡其寡。乃今見衡山。老筆出神冶。如從刻畫求。何異風牛馬。亦足覘其人。展卷誰能捨。明窗適幾餘。黄絢錯緇赭。因讀長公詩。吟情幾欲啞。乾隆戊辰（西元一七四八年）花朝御題。即用蘇東坡獨樂園詩韵。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "乾隆戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一七四八年"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 23,
+          "span": "蘇東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Location",
+          "start": 23,
+          "end": 26,
+          "span": "獨樂園"
+        }
+      ],
+      "sentence": "乾隆戊辰（西元一七四八年）花朝御題。即用蘇東坡獨樂園詩韵。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 58587,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 3,
+          "end": 5,
+          "span": "偉人",
+          "cid": 56849,
+          "name": "王傑",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 20,
+          "end": 22,
+          "span": "野人",
+          "cid": 78598,
+          "name": "吳嘉紀",
           "aid": "unknow"
         },
         {
           "type": "Thing",
-          "start": 90,
-          "end": 92,
-          "span": "香雪"
-        },
-        {
-          "type": "Thing",
-          "start": 96,
-          "end": 100,
-          "span": "疏籬矮屋"
-        },
-        {
-          "type": "Location",
-          "start": 104,
-          "end": 106,
-          "span": "橋畔"
-        },
-        {
-          "type": "Thing",
-          "start": 106,
-          "end": 107,
-          "span": "梅"
-        },
-        {
-          "type": "Thing",
-          "start": 110,
-          "end": 111,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 112,
-          "end": 113,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 114,
-          "end": 115,
-          "span": "雪"
-        },
-        {
-          "type": "Thing",
-          "start": 124,
-          "end": 127,
-          "span": "小春茶"
+          "start": 51,
+          "end": 53,
+          "span": "花竹"
         },
         {
           "type": "PersonName",
-          "start": 128,
-          "end": 131,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
+          "start": 62,
+          "end": 64,
+          "span": "南陽",
+          "cid": 86813,
+          "name": "徐子苓",
+          "aid": "A033957"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 74,
+          "span": "蘇髯"
+        },
+        {
+          "type": "Person",
+          "start": 96,
+          "end": 97,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 119,
+          "span": "野馬"
+        },
+        {
+          "type": "Thing",
+          "start": 150,
+          "end": 152,
+          "span": "懸鐘"
         }
       ],
-      "sentence": "酒清花綺雪交加。睡足春宵春夢賒。夜半微風酒意希。不知是雪是梅花。何處停車午餉時。亂山深處有茆茨。高高下下梅千樹。身在花中香不知。先生杖履故閒閒。每到花時懶下山。縱使下山常送客。不離香雪幾回灣。疏籬矮屋帶路沙。橋畔梅開一樹花。花沁雪中分不出。移來自煮小春茶。陳繼儒。",
-      "author": "陳繼儒"
+      "sentence": "君實宋偉人。仰企拜風下。每憶樂園樂。略似野人野。何幸披是圖。心襟畼浮斚。山色澹橫秋。苔痕濃點夏。千畦襍花竹。一室延文雅。欲認南陽龍。那羨洛中社。蘇髯五字詩。格調誰繼者。雙美喜具并。風流千載寡。我皇精鑑賞。有同金合治。飛豪追險韻。晴窗净野馬。句裏揭高抱。支詞盡所捨。倘起坡老觀。應教面發赭。元音叶宮商。懸鐘無一啞。臣梁詩正恭和。",
+      "author": "梁詩正"
     },
     {
-      "authorcid": 10879,
-      "authoraid": "A004613",
+      "authorcid": 58587,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "梁詩正",
+          "cid": 58587,
+          "name": "梁詩正",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣梁詩正恭和",
+      "author": "梁詩正"
+    },
+    {
+      "authorcid": 59002,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 5,
+          "span": "涑水公"
+        },
+        {
+          "type": "Person",
+          "start": 15,
+          "end": 17,
+          "span": "兒童"
+        },
+        {
+          "type": "Location",
+          "start": 27,
+          "end": 29,
+          "span": "小園"
+        },
+        {
+          "type": "Person",
+          "start": 80,
+          "end": 83,
+          "span": "知心者"
+        },
+        {
+          "type": "LocationName",
+          "start": 84,
+          "end": 86,
+          "span": "眉山",
+          "cid": 2030
+        },
+        {
+          "type": "Thing",
+          "start": 120,
+          "end": 122,
+          "span": "穹碑"
+        },
+        {
+          "type": "Person",
+          "start": 132,
+          "end": 134,
+          "span": "衡翁"
+        }
+      ],
+      "sentence": "堂堂涑水公。憂樂以天下。誠信孚兒童。德望重朝野。投閒闢小園。真率略杯斚。静觀物皆春。高吟時過夏。翛然杖履間。餘事涉風雅。懷古希七君。異代比同社。一時號多賢。疇是知心者。眉山倡高調。不顧和人寡。大厦誰支持。洪罏藉鎔治。為憶入朝時。沿道擁去馬。穹碑照古今。三復詎忍捨。衡翁橫老筆。浄洗鉛粉赭。千載待天章。一振衆音啞。臣汪由敦恭和。",
+      "author": "汪由敦"
+    },
+    {
+      "authorcid": 59002,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "臣汪"
+        }
+      ],
+      "sentence": "臣汪由敦恭和",
+      "author": "汪由敦"
+    },
+    {
+      "authorcid": 54319,
+      "authoraid": "A018533",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "洛下",
+          "aid": "PL000000056561"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "天民",
+          "cid": 35074,
+          "name": "魏兆鳳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "花竹"
+        },
+        {
+          "type": "Location",
+          "start": 63,
+          "end": 65,
+          "span": "榆鄉"
+        },
+        {
+          "type": "Location",
+          "start": 68,
+          "end": 71,
+          "span": "雞豚社"
+        },
+        {
+          "type": "Person",
+          "start": 117,
+          "end": 119,
+          "span": "司馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 157,
+          "end": 160,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        }
+      ],
+      "sentence": "新法諍莫回。翩然歸洛下。此身為天民。進退關朝野。為園襍花竹。招友共罍斚。蕭閒若終身。經歷幾冬夏。史局嚴筆削。唫壇叶風雅。彷彿枌榆鄉。來往雞豚社。一出任險艱。豈真獨樂者。端明吐清辭。寥寥嗣音寡。待詔寫作圖。林泉入鎔冶。空亭把卷人。約略是司馬。閱世歸内廷。不與浮榮舍。天章輝五色。匪獨潤丹赭。敬和鳳律鳴。竊媿寒蟬啞。臣沈德潛恭和。",
+      "author": "沈德潛"
+    },
+    {
+      "authorcid": 54319,
+      "authoraid": "A018533",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "沈德潛",
+          "cid": 54319,
+          "name": "沈德潛",
+          "aid": "A018533"
+        }
+      ],
+      "sentence": "臣沈德潛恭和",
+      "author": "沈德潛"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "PersonName",
           "start": 0,
           "end": 3,
-          "span": "陳繼儒",
-          "cid": 10879,
-          "name": "陳繼儒",
-          "aid": "A004613"
+          "span": "文徵明",
+          "cid": 34673,
+          "name": "文徵明",
+          "aid": "A009194"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "書記"
         }
       ],
-      "sentence": "陳繼儒",
-      "author": "陳繼儒"
+      "sentence": "文徵明獨樂園圖并書記。能品。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

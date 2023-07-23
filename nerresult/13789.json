@@ -1,0 +1,123 @@
+{
+  "filefroms": "13789.json",
+  "sentences": [
+    {
+      "authorcid": 33919,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "劉松年",
+          "cid": 52001,
+          "name": "劉松年",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 10,
+          "span": "紹熙間"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 22,
+          "span": "山水人物"
+        },
+        {
+          "type": "PersonName",
+          "start": 32,
+          "end": 34,
+          "span": "夏珪",
+          "cid": 264477,
+          "name": "夏珪",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 37,
+          "end": 40,
+          "span": "寧宗朝"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 44,
+          "span": "耕織圖"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "金帶"
+        },
+        {
+          "type": "Location",
+          "start": 53,
+          "end": 55,
+          "span": "院中"
+        },
+        {
+          "type": "Person",
+          "start": 79,
+          "end": 81,
+          "span": "觀者"
+        },
+        {
+          "type": "PersonName",
+          "start": 86,
+          "end": 88,
+          "span": "藏者",
+          "cid": 89173,
+          "name": "梁鼎芬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "劉松年浙人。蓋紹熙間畫院待詔也。工畫山水人物。神氣精絕而不在馬遠夏珪之右。寧宗朝進耕織圖稱旨。賜金帶。已為院中之獨步也耶。茲觀流觴曲飲卷。布置幽逸。筆法清奇。觀者神驚目恍。藏者珍之。安成彭時跋。",
+      "author": "彭時"
+    },
+    {
+      "authorcid": 33919,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "安成彭時跋",
+      "author": "彭時"
+    },
+    {
+      "authorcid": 46247,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "髯仙",
+          "cid": 561278,
+          "name": "楊珂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "雪齋篤鑒。髯仙。",
+      "author": "徐霖"
+    },
+    {
+      "authorcid": 46247,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "髯仙",
+          "cid": 561278,
+          "name": "楊珂",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "髯仙",
+      "author": "徐霖"
+    }
+  ]
+}

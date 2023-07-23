@@ -1,0 +1,49 @@
+{
+  "filefroms": "3632.json",
+  "sentences": [
+    {
+      "authorcid": 8013,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "天啟乙丑"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一六二五年）三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "張宏",
+          "cid": 8013,
+          "name": "張宏",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 21,
+          "span": "摩詰",
+          "cid": 32174,
+          "name": "王維",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 27,
+          "span": "華子岡圖"
+        }
+      ],
+      "sentence": "天啟乙丑（西元一六二五年）三月。張宏寫摩詰夜登華子岡圖。",
+      "author": "張宏"
+    }
+  ]
+}

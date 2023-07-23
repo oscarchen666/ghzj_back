@@ -1,0 +1,40 @@
+{
+  "filefroms": "940.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三０九年"
+        },
+        {
+          "type": "Time",
+          "start": 13,
+          "end": 15,
+          "span": "春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大二年（西元一三０九年）春日畫。子昂。",
+      "author": "趙孟頫"
+    }
+  ]
+}

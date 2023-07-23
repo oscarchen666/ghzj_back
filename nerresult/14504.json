@@ -6,151 +6,482 @@
       "authoraid": "unknow",
       "output": [
         {
-          "type": "PersonName",
-          "start": 1,
-          "end": 3,
-          "span": "雲湖",
-          "cid": 61647,
-          "name": "但明倫",
-          "aid": "unknow"
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "魯國",
+          "aid": "PL000000000077",
+          "cid": 25006
         },
         {
-          "type": "Person",
+          "type": "LocationName",
           "start": 4,
           "end": 6,
-          "span": "畫家"
+          "span": "芮國",
+          "aid": "PL000000005137"
         },
         {
-          "type": "Thing",
-          "start": 13,
-          "end": 15,
-          "span": "貓兔"
+          "type": "LocationName",
+          "start": 7,
+          "end": 9,
+          "span": "河南",
+          "aid": "PL000000000079",
+          "cid": 14692
         },
         {
-          "type": "Thing",
+          "type": "LocationName",
+          "start": 10,
+          "end": 13,
+          "span": "中天竺",
+          "aid": "PL000000048208"
+        },
+        {
+          "type": "LocationName",
           "start": 17,
           "end": 20,
-          "span": "群貓圖"
+          "span": "林邑國",
+          "aid": "PL000000055380"
         },
         {
-          "type": "Thing",
+          "type": "LocationName",
+          "start": 21,
+          "end": 24,
+          "span": "師子國",
+          "aid": "PL000000048734"
+        },
+        {
+          "type": "LocationName",
           "start": 25,
-          "end": 27,
-          "span": "此圖"
+          "end": 28,
+          "span": "北天竺",
+          "aid": "PL000000055420"
         },
         {
-          "type": "Thing",
-          "start": 41,
-          "end": 43,
-          "span": "絲毯"
+          "type": "LocationName",
+          "start": 30,
+          "end": 33,
+          "span": "盤陀國",
+          "aid": "PL000000034679"
+        },
+        {
+          "type": "LocationName",
+          "start": 35,
+          "end": 37,
+          "span": "興蕃",
+          "cid": 401331
+        },
+        {
+          "type": "LocationName",
+          "start": 39,
+          "end": 41,
+          "span": "昌國",
+          "cid": 25077
+        },
+        {
+          "type": "Location",
+          "start": 42,
+          "end": 46,
+          "span": "狼牙修國"
         },
         {
           "type": "Location",
           "start": 47,
-          "end": 49,
-          "span": "西樓"
+          "end": 50,
+          "span": "鄧至國"
         },
         {
-          "type": "Person",
-          "start": 52,
+          "type": "LocationName",
+          "start": 51,
           "end": 54,
-          "span": "主人"
+          "span": "波斯國",
+          "aid": "PL000000048412"
         },
         {
-          "type": "Thing",
-          "start": 55,
-          "end": 57,
-          "span": "白魚"
-        },
-        {
-          "type": "Metric",
-          "start": 58,
-          "end": 61,
-          "span": "三尺許"
-        },
-        {
-          "type": "Person",
-          "start": 64,
-          "end": 66,
-          "span": "享客"
-        },
-        {
-          "type": "Person",
-          "start": 69,
-          "end": 71,
-          "span": "眾客"
-        },
-        {
-          "type": "Thing",
-          "start": 79,
-          "end": 81,
-          "span": "群貓"
+          "type": "LocationName",
+          "start": 56,
+          "end": 58,
+          "span": "濟國",
+          "aid": "PL000000048616",
+          "cid": 25091
         },
         {
           "type": "Location",
-          "start": 92,
-          "end": 94,
-          "span": "雲湖"
+          "start": 59,
+          "end": 62,
+          "span": "龜茲國"
         },
         {
-          "type": "Thing",
-          "start": 96,
-          "end": 101,
-          "span": "牡丹群貓圖"
+          "type": "LocationName",
+          "start": 63,
+          "end": 65,
+          "span": "倭國",
+          "aid": "PL000000048414"
         },
         {
-          "type": "Time",
+          "type": "LocationName",
+          "start": 66,
+          "end": 69,
+          "span": "周古柯",
+          "aid": "PL000000047928"
+        },
+        {
+          "type": "Location",
+          "start": 70,
+          "end": 74,
+          "span": "呵跋檀國"
+        },
+        {
+          "type": "LocationName",
+          "start": 76,
+          "end": 79,
+          "span": "密丹國",
+          "aid": "PL000000000025"
+        },
+        {
+          "type": "Location",
+          "start": 80,
+          "end": 83,
+          "span": "白題國"
+        },
+        {
+          "type": "LocationName",
+          "start": 85,
+          "end": 87,
+          "span": "江蠻",
+          "cid": 10354
+        },
+        {
+          "type": "LocationName",
+          "start": 88,
+          "end": 91,
+          "span": "高麗國",
+          "aid": "PL000000048554"
+        },
+        {
+          "type": "LocationName",
+          "start": 93,
+          "end": 95,
+          "span": "昌國",
+          "cid": 25077
+        },
+        {
+          "type": "LocationName",
+          "start": 97,
+          "end": 99,
+          "span": "門蠻",
+          "cid": 8242
+        },
+        {
+          "type": "LocationName",
+          "start": 101,
+          "end": 103,
+          "span": "平蠻",
+          "cid": 403443
+        },
+        {
+          "type": "Location",
+          "start": 104,
+          "end": 106,
+          "span": "滑國"
+        },
+        {
+          "type": "LocationName",
+          "start": 107,
+          "end": 109,
+          "span": "于闐",
+          "cid": 14479
+        },
+        {
+          "type": "LocationName",
           "start": 110,
-          "end": 115,
-          "span": "隆慶丁卯（"
+          "end": 112,
+          "span": "新羅",
+          "aid": "PL000000048606",
+          "cid": 500022
         },
         {
-          "type": "Time",
-          "start": 115,
-          "end": 125,
-          "span": "西元一五六七年）春日"
+          "type": "Location",
+          "start": 113,
+          "end": 116,
+          "span": "干陀國"
         },
         {
-          "type": "PersonName",
-          "start": 131,
-          "end": 133,
-          "span": "敏道",
-          "cid": 10766,
-          "name": "包遜",
-          "aid": "unknow"
+          "type": "LocationName",
+          "start": 117,
+          "end": 120,
+          "span": "扶南國",
+          "aid": "PL000000048491"
         }
       ],
-      "sentence": "陶雲湖在畫家稱神品。然喜貌貓兔。顧群貓圖不四三見。此圖奇姿軼態。曲盡其玅。宛然戲紅絲毯上也。時西樓讌集。主人得白魚長三尺許。烹以享客。予謂眾客曰。無更披圖。恐群貓來噉之也。相對一大笑。雲湖又有牡丹群貓圖一。不知落于誰家。隆慶丁卯（西元一五六七年）春日。射陽畸人吳敏道跋。",
-      "author": "吳敏道"
+      "sentence": "魯國。芮芮國。河南。中天竺。為國。林邑國。師子國。北天竺。渴盤陀國。武興蕃。宕昌國。狼牙修國。鄧至國。波斯國。百濟國。龜茲國。倭國。周古柯。呵跋檀國。胡密丹國。白題國。臨江蠻。高麗國。高昌國。天門蠻。建平蠻。滑國。于闐。新羅。干陀國。扶南國。",
+      "author": ""
     },
     {
       "authorcid": "unknow",
-      "authoraid": "unknow",
+      "authoraid": "A003564",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "元帝",
+          "cid": 30274,
+          "name": "曹奐",
+          "aid": "A002426"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 5,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 16,
+          "span": "顧德謙",
+          "cid": 39092,
+          "name": "顧德謙",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "梁元帝蕃客入朝圖。定為南唐顧德謙所臨。",
+      "author": "宋理宗"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Person",
+          "start": 13,
+          "end": 17,
+          "span": "婆利龜茲"
+        },
+        {
+          "type": "LocationName",
+          "start": 23,
+          "end": 25,
+          "span": "江南",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "LocationName",
+          "start": 30,
+          "end": 32,
+          "span": "河南",
+          "aid": "PL000000000079",
+          "cid": 14692
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 42,
+          "span": "宋理宗",
+          "cid": "unknow",
+          "name": "趙昀",
+          "aid": "A003564"
+        },
+        {
+          "type": "PersonName",
+          "start": 46,
+          "end": 49,
+          "span": "顧德謙",
+          "cid": 39092,
+          "name": "顧德謙",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 51,
+          "end": 53,
+          "span": "元帝",
+          "cid": 30274,
+          "name": "曹奐",
+          "aid": "A002426"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 55,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 63,
+          "end": 65,
+          "span": "武帝",
+          "cid": 12175,
+          "name": "劉裕",
+          "aid": "A004350"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 71,
+          "span": "婆利龜茲"
+        },
+        {
+          "type": "PersonName",
+          "start": 100,
+          "end": 102,
+          "span": "元帝",
+          "cid": 30274,
+          "name": "曹奐",
+          "aid": "A002426"
+        },
+        {
+          "type": "LocationName",
+          "start": 110,
+          "end": 112,
+          "span": "長江",
+          "aid": "PL000000000150",
+          "cid": 13449
+        },
+        {
+          "type": "LocationName",
+          "start": 116,
+          "end": 118,
+          "span": "州界",
+          "aid": "PL000000000140",
+          "cid": 4067
+        },
+        {
+          "type": "LocationName",
+          "start": 121,
+          "end": 123,
+          "span": "武寧",
+          "cid": 18500
+        },
+        {
+          "type": "Location",
+          "start": 126,
+          "end": 128,
+          "span": "峽口"
+        },
+        {
+          "type": "LocationName",
+          "start": 129,
+          "end": 131,
+          "span": "嶺南",
+          "aid": "PL000000023027"
+        },
+        {
+          "type": "PersonName",
+          "start": 132,
+          "end": 134,
+          "span": "蕭勃",
+          "cid": "unknow",
+          "name": "蕭勃",
+          "aid": "A004284"
+        },
+        {
+          "type": "Metric",
+          "start": 144,
+          "end": 146,
+          "span": "千里"
+        },
+        {
+          "type": "Person",
+          "start": 147,
+          "end": 149,
+          "span": "民戶"
+        },
+        {
+          "type": "PersonName",
+          "start": 188,
+          "end": 190,
+          "span": "元帝",
+          "cid": 30274,
+          "name": "曹奐",
+          "aid": "A002426"
+        },
+        {
+          "type": "LocationName",
+          "start": 231,
+          "end": 233,
+          "span": "河南",
+          "aid": "PL000000000079",
+          "cid": 14692
+        },
+        {
+          "type": "Person",
+          "start": 237,
+          "end": 240,
+          "span": "吐谷渾"
+        },
+        {
+          "type": "LocationName",
+          "start": 241,
+          "end": 243,
+          "span": "赤水",
+          "aid": "PL000000055513",
+          "cid": 100560
+        },
+        {
+          "type": "Location",
+          "start": 245,
+          "end": 248,
+          "span": "河之南"
+        },
+        {
+          "type": "LocationName",
+          "start": 258,
+          "end": 260,
+          "span": "涼州",
+          "cid": 16739
+        },
+        {
+          "type": "PersonName",
+          "start": 275,
+          "end": 277,
+          "span": "一人",
+          "cid": 45196,
+          "name": "章以貴",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 324,
+          "end": 328,
+          "span": "乾隆癸丑"
+        },
+        {
+          "type": "Time",
+          "start": 329,
+          "end": 336,
+          "span": "西元一七九三年"
+        }
+      ],
+      "sentence": "自文其弱。梁圖顧倣猶津逮。婆利龜茲務遠奇。可笑江南安撮土。魯河南竟入諸夷。是卷宋理宗題為南唐顧德謙摹梁元帝蕃客入朝圖。按梁書。武帝時。婆利龜茲扶南高麗等十餘圖（應為國）。有獻方物者。至大同以後全無。且元帝於侯景亂後。已以長江為限。荊州界。北盡武寧。西拒峽口。嶺南為蕭勃所據。詔令所行。不過千里。民戶著籍。不盈三萬。豈尚有番夷朝貢之事。未幾。魏遣于謹會蕭詧伐梁。如入無人之境。而元帝臨敵聽講。巡城和詩。愚騃之態。可以概見。何暇繪此圖。誇張遠略哉。圖中所列。乃有魯及河南名目。考吐谷渾居赤水。在河之南。躗以為號。其地近在涼州尚可。然並非外域也。至於卷中第一人書魯。則梁書諸夷傳。更無假借此名者。豈以少皞之墟。判為異國。尤不值一噱矣。因閱是卷。並識詩末。乾隆癸丑（西元一七九三年）新正。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
           "start": 0,
           "end": 4,
-          "span": "隆慶丁卯"
+          "span": "乾隆癸丑"
         },
         {
-          "type": "Time",
-          "start": 5,
-          "end": 15,
-          "span": "西元一五六七年）春日"
-        },
-        {
-          "type": "PersonName",
-          "start": 21,
-          "end": 23,
-          "span": "敏道",
-          "cid": 10766,
-          "name": "包遜",
-          "aid": "unknow"
+          "type": "Thing",
+          "start": 7,
+          "end": 9,
+          "span": "御筆"
         }
       ],
-      "sentence": "隆慶丁卯（西元一五六七年）春日。射陽畸人吳敏道跋。",
-      "author": "吳敏道"
+      "sentence": "乾隆癸丑新正。御筆。",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

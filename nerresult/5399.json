@@ -2,367 +2,493 @@
   "filefroms": "5399.json",
   "sentences": [
     {
-      "authorcid": 560946,
-      "authoraid": "unknow",
+      "authorcid": 7323,
+      "authoraid": "A018691",
       "output": [
         {
-          "type": "LocationName",
-          "start": 1,
-          "end": 3,
-          "span": "門渡",
-          "aid": "PL000000012902",
-          "cid": 1928
-        },
-        {
-          "type": "LocationName",
-          "start": 5,
-          "end": 7,
-          "span": "梁洞",
-          "aid": "PL000000012617",
-          "cid": 18093
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "青松"
         },
         {
           "type": "Thing",
           "start": 8,
-          "end": 11,
-          "span": "老僧峰"
+          "end": 10,
+          "span": "小徑"
         },
         {
           "type": "Thing",
           "start": 12,
-          "end": 15,
-          "span": "小僧峰"
-        },
-        {
-          "type": "LocationName",
-          "start": 16,
-          "end": 19,
-          "span": "石梁寺",
-          "aid": "PL000000014717"
+          "end": 14,
+          "span": "綠樹"
         },
         {
           "type": "Thing",
-          "start": 20,
-          "end": 23,
-          "span": "托硯峰"
+          "start": 26,
+          "end": 28,
+          "span": "書卷"
         },
         {
-          "type": "Thing",
-          "start": 24,
-          "end": 27,
-          "span": "仙掌峰"
-        },
-        {
-          "type": "Thing",
-          "start": 28,
-          "end": 31,
-          "span": "鳳皇峰"
-        },
-        {
-          "type": "Location",
+          "type": "Person",
           "start": 32,
-          "end": 35,
-          "span": "黃峰洞"
+          "end": 36,
+          "span": "公曜丁君"
         },
         {
-          "type": "LocationName",
-          "start": 36,
-          "end": 39,
-          "span": "靈峰寺",
-          "aid": "PL000000005178"
+          "type": "Person",
+          "start": 55,
+          "end": 57,
+          "span": "桂君"
         },
         {
-          "type": "Thing",
-          "start": 40,
-          "end": 43,
-          "span": "道士峰"
-        },
-        {
-          "type": "Thing",
-          "start": 44,
-          "end": 47,
-          "span": "五雷峰"
-        },
-        {
-          "type": "Location",
-          "start": 48,
-          "end": 51,
-          "span": "合盤峰"
-        },
-        {
-          "type": "LocationName",
-          "start": 52,
-          "end": 55,
-          "span": "惠照寺",
-          "aid": "PL000000058161"
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 59,
-          "span": "捲旗峰"
-        },
-        {
-          "type": "Thing",
-          "start": 60,
-          "end": 63,
-          "span": "龍皋水"
-        },
-        {
-          "type": "Thing",
-          "start": 64,
-          "end": 67,
-          "span": "石屏峰"
-        },
-        {
-          "type": "Thing",
-          "start": 68,
-          "end": 71,
-          "span": "獨秀峰"
-        },
-        {
-          "type": "Thing",
-          "start": 72,
-          "end": 75,
-          "span": "玉女峰"
-        },
-        {
-          "type": "Thing",
-          "start": 76,
-          "end": 79,
-          "span": "卓筆峰"
-        },
-        {
-          "type": "Thing",
-          "start": 80,
-          "end": 83,
-          "span": "天柱峰"
-        },
-        {
-          "type": "Thing",
-          "start": 84,
-          "end": 87,
-          "span": "雙鸞峰"
-        },
-        {
-          "type": "Thing",
-          "start": 88,
+          "type": "Person",
+          "start": 89,
           "end": 91,
-          "span": "合壁峰"
+          "span": "生客"
         },
         {
-          "type": "Thing",
-          "start": 92,
+          "type": "LocationName",
+          "start": 93,
           "end": 95,
-          "span": "觀音峰"
-        },
-        {
-          "type": "Location",
-          "start": 96,
-          "end": 99,
-          "span": "馬鞍峰"
-        },
-        {
-          "type": "LocationName",
-          "start": 101,
-          "end": 103,
-          "span": "湫寺",
-          "aid": "PL000000015498"
-        },
-        {
-          "type": "LocationName",
-          "start": 105,
-          "end": 107,
-          "span": "雲臺",
-          "cid": 2974,
-          "aid": "PL000000057412"
-        },
-        {
-          "type": "Thing",
-          "start": 108,
-          "end": 111,
-          "span": "巨郢亭"
-        },
-        {
-          "type": "LocationName",
-          "start": 112,
-          "end": 115,
-          "span": "大龍湫",
-          "aid": "PL000000011778"
-        },
-        {
-          "type": "LocationName",
-          "start": 116,
-          "end": 119,
-          "span": "寶冠寺",
-          "aid": "PL000000055857"
-        },
-        {
-          "type": "Thing",
-          "start": 120,
-          "end": 123,
-          "span": "寶劍石"
-        },
-        {
-          "type": "Thing",
-          "start": 124,
-          "end": 127,
-          "span": "三契峰"
-        },
-        {
-          "type": "LocationName",
-          "start": 129,
-          "end": 131,
-          "span": "泉山",
-          "aid": "PL000000017785"
-        },
-        {
-          "type": "LocationName",
-          "start": 132,
-          "end": 135,
-          "span": "飛泉寺",
-          "aid": "PL000000012628"
-        },
-        {
-          "type": "LocationName",
-          "start": 136,
-          "end": 139,
-          "span": "能仁寺",
-          "aid": "PL000000000300"
-        },
-        {
-          "type": "Location",
-          "start": 140,
-          "end": 143,
-          "span": "火焰山"
-        },
-        {
-          "type": "Location",
-          "start": 144,
-          "end": 148,
-          "span": "四十九盤"
-        },
-        {
-          "type": "Location",
-          "start": 149,
-          "end": 152,
-          "span": "桃仙嶺"
-        },
-        {
-          "type": "LocationName",
-          "start": 154,
-          "end": 156,
-          "span": "蓉鋪",
-          "aid": "PL000000056964",
-          "cid": 16085
-        },
-        {
-          "type": "LocationName",
-          "start": 157,
-          "end": 159,
-          "span": "天臺",
-          "aid": "PL000000016780"
-        },
-        {
-          "type": "Time",
-          "start": 162,
-          "end": 166,
-          "span": "隆慶辛未"
-        },
-        {
-          "type": "Time",
-          "start": 167,
-          "end": 174,
-          "span": "西元一五七一年"
-        },
-        {
-          "type": "Person",
-          "start": 178,
-          "end": 180,
-          "span": "唐子"
-        }
-      ],
-      "sentence": "石門渡。石梁洞。老僧峰。小僧峰。石梁寺。托硯峰。仙掌峰。鳳皇峰。黃峰洞。靈峰寺。道士峰。五雷峰。合盤峰。惠照寺。捲旗峰。龍皋水。石屏峰。獨秀峰。玉女峰。卓筆峰。天柱峰。雙鸞峰。合壁峰。觀音峰。馬鞍峰。龍湫寺。望雲臺。巨郢亭。大龍湫。寶冠寺。寶劍石。三契峰。飛泉山。飛泉寺。能仁寺。火焰山。四十九盤。桃仙嶺。芙蓉鋪。天臺一□。隆慶辛未（西元一五七一年）長夏仿唐子畏筆意。居節。",
-      "author": "居節"
-    },
-    {
-      "authorcid": 35190,
-      "authoraid": "A017382",
-      "output": [
-        {
-          "type": "Location",
-          "start": 33,
-          "end": 35,
-          "span": "商谷"
-        },
-        {
-          "type": "Person",
-          "start": 39,
-          "end": 43,
-          "span": "先生高弟"
-        },
-        {
-          "type": "Thing",
-          "start": 44,
-          "end": 48,
-          "span": "詩書畫筆"
+          "span": "長洲",
+          "cid": 4594
         },
         {
           "type": "PersonName",
-          "start": 73,
-          "end": 74,
+          "start": 95,
+          "end": 97,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "幽居緊並青松住。小徑斜連綠樹深。群聚晏然無個事。或開書卷或調琴。公曜丁君。每談其山居之樂。欲一遊之而未果。因讀桂君南軒記。恍如身入其中。領略諸名勝。予先補圖。他日乘興造之。庶不為生客耳。長洲沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 5,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "丁公",
+          "cid": "unknow",
+          "name": "丁",
+          "aid": "A009953"
+        },
+        {
+          "type": "Person",
+          "start": 40,
+          "end": 41,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 49,
+          "span": "子",
+          "cid": 138930,
+          "name": "某藥",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 62,
+          "end": 63,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 68,
+          "end": 70,
+          "span": "南者"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 77,
+          "span": "陽明",
+          "cid": 72362,
+          "name": "毛燧傳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 102,
+          "end": 104,
+          "span": "南方"
+        },
+        {
+          "type": "Thing",
+          "start": 105,
+          "end": 106,
+          "span": "火"
+        },
+        {
+          "type": "Location",
+          "start": 108,
+          "end": 110,
+          "span": "中央"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "萬物"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "百穀"
+        },
+        {
+          "type": "Person",
+          "start": 131,
+          "end": 133,
+          "span": "聖人"
+        },
+        {
+          "type": "Person",
+          "start": 171,
+          "end": 173,
+          "span": "公曜"
+        },
+        {
+          "type": "PersonName",
+          "start": 189,
+          "end": 191,
+          "span": "陽明",
+          "cid": 72362,
+          "name": "毛燧傳",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 206,
+          "end": 208,
+          "span": "南風"
+        },
+        {
+          "type": "PersonName",
+          "start": 221,
+          "end": 223,
+          "span": "士友",
+          "cid": 20756,
+          "name": "聶周臣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 315,
+          "end": 316,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 336,
+          "end": 337,
           "span": "人",
           "cid": 132663,
           "name": "劉文耀",
           "aid": "unknow"
         },
         {
-          "type": "Time",
-          "start": 87,
-          "end": 91,
-          "span": "壬子季春"
+          "type": "PersonName",
+          "start": 339,
+          "end": 340,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
         },
         {
-          "type": "Location",
-          "start": 93,
-          "end": 96,
-          "span": "蘭雪堂"
+          "type": "PersonName",
+          "start": 379,
+          "end": 380,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Time",
+          "start": 390,
+          "end": 396,
+          "span": "天順四年菊節"
+        },
+        {
+          "type": "LocationName",
+          "start": 397,
+          "end": 399,
+          "span": "慈溪",
+          "cid": 5408
+        }
+      ],
+      "sentence": "南軒記。客有告余曰。儒林丁公曜義士也。嘗作一室於所居之南。曰南軒。而因以為己號。吾不知其所處也。子為之客。必知其所志矣。盍為我言之。予謂南者離火之位。陽明之地也。於方為午。於時為夏。於行為金（點去）火。而南方之火實生中央之土。則萬物以時而暢茂。百穀以時而長成。故聖人則之。治必南面。而陽道行焉。則民物阜蕃。天地交泰。否則非矣。南之為義大矣哉。公曜之為是名。必其知卑辱幽汙之當去。陽明高朗之當陟者矣。觀其天日昭霽。南風扇涼。八窗洞開時。則與二三士友列坐其間。或誦詩。或彈琴。或味周孔之言。既暇則持觴飲醪。醉而後已。斯時也。視天地為一心。覩萬物為一體。有離陽長養之仁。無私陰否塞之氣。陶陶焉。如如焉。尚不知天地萬物其吾乎。吾其天地乎。客曰南軒之樂信樂矣。未聞樂及乎人也。是不然人之為人。道德在己。窮達在天。彼既以南方陽德。自樂於窮齋。則其達而為用。不過推是而已。客曰唯。遂書以為記。時天順四年菊節。慈溪桂新學書。",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "慈溪",
+          "cid": 5408
+        }
+      ],
+      "sentence": "慈溪桂新學書",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "德翁",
+          "cid": 19076,
+          "name": "任伯雨",
+          "aid": "A023133"
+        },
+        {
+          "type": "Metric",
+          "start": 26,
+          "end": 28,
+          "span": "三尺"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "絲桐"
+        },
+        {
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "周召",
+          "cid": 321230,
+          "name": "周召",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "湖山",
+          "aid": "PL000000026405"
         },
         {
           "type": "Person",
-          "start": 97,
-          "end": 99,
-          "span": "汪碗"
+          "start": 52,
+          "end": 54,
+          "span": "天子"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "臥龍"
+        },
+        {
+          "type": "PersonName",
+          "start": 67,
+          "end": 69,
+          "span": "明師",
+          "cid": "unknow",
+          "name": "小明",
+          "aid": "A005613"
         }
       ],
-      "sentence": "名山奇勝鬱鍾靈。展卷神游列岫橫。安得此中最深處。自脩丹竈學長生。居商谷為文待詔先生高弟。詩書畫筆俱臻絕詣。此卷重巒疊嶂。複澗迴溪。晴窗展玩。步步引人入勝。聊誌小詩漫附於尾云。壬子季春書於蘭雪堂。汪碗。",
-      "author": "汪琬"
+      "sentence": "為說南軒碩德翁。平生高潔許誰同。一枰其石局消長夏。三尺絲桐奏凱風。周召性情探不厭。湖山景致樂無窮。只今天子求賢急。指日應來起臥龍。四明師心生。",
+      "author": ""
     },
     {
-      "authorcid": 35190,
-      "authoraid": "A017382",
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "明師",
+          "cid": "unknow",
+          "name": "小明",
+          "aid": "A005613"
+        }
+      ],
+      "sentence": "四明師心生",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "南軒"
+        }
+      ],
+      "sentence": "南軒。（八分書）。易菴。（楷書）。",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "易菴",
+      "author": "桂新學"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "軒榭"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 8,
+          "span": "琴書"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 19,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "活火"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 29,
+          "span": "商鼎"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "枯碁"
+        },
+        {
+          "type": "Thing",
+          "start": 33,
+          "end": 35,
+          "span": "晉枰"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 50,
+          "span": "鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 56,
+          "span": "梅"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 61,
+          "span": "水"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 67,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "梧影"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 80,
+          "span": "苔紋"
+        },
+        {
+          "type": "Time",
+          "start": 96,
+          "end": 98,
+          "span": "丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 99,
+          "end": 106,
+          "span": "西元一七四七年"
+        },
+        {
+          "type": "Time",
+          "start": 107,
+          "end": 109,
+          "span": "新春"
+        }
+      ],
+      "sentence": "軒榭灑然清。琴書許暢情。山蒼仁體現。樹古靜風生。活火烹商鼎。枯碁對晉枰。恍如佺羡侶。聨袂暴南榮。有鶴足稱清。無梅也覺情。水流還似昔。客到不嫌生。梧影團垂幕。苔紋亂㸃枰。古今商榷處。直欲傲桓榮。丁卯（西元一七四七年）新春御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "壬子季春"
+          "end": 2,
+          "span": "丁卯"
         },
         {
-          "type": "Location",
-          "start": 6,
-          "end": 9,
-          "span": "蘭雪堂"
-        },
-        {
-          "type": "Thing",
-          "start": 10,
-          "end": 12,
-          "span": "汪碗"
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七四七年"
         }
       ],
-      "sentence": "壬子季春書於蘭雪堂。汪碗。",
-      "author": "汪琬"
+      "sentence": "丁卯（西元一七四七年）新春御題",
+      "author": "愛新覺羅弘曆"
     }
   ]
 }

@@ -1,0 +1,293 @@
+{
+  "filefroms": "923.json",
+  "sentences": [
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "大德辛丑"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一三０一年）十一月"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 19,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "大德辛丑（西元一三０一年）十一月。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "柳條"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 6,
+          "span": "東風"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "水荇"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "蒲葉"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "芳草"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "白雲"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "綵霞"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "小橋"
+        },
+        {
+          "type": "Thing",
+          "start": 52,
+          "end": 53,
+          "span": "鳥"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "Thing",
+          "start": 59,
+          "end": 60,
+          "span": "門"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "落花"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 66,
+          "span": "山中"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 70,
+          "span": "瑤草"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 74,
+          "span": "山花"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 87,
+          "span": "溪水"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 92,
+          "span": "白雲"
+        },
+        {
+          "type": "Location",
+          "start": 104,
+          "end": 106,
+          "span": "重樓"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "松蘿"
+        },
+        {
+          "type": "Person",
+          "start": 122,
+          "end": 123,
+          "span": "誰"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 130,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "柳條搖綠東風軟。水荇初香蒲葉短。千巖萬壑媚春光。芳草芊芊白雲暖。花氣瞳矓合綵霞。小橋西去是誰家。紅塵不到鳥聲寂。童子開門掃落花。山中雨晴瑤草長。山花無數春風香。青山倒景入溪水。一片白雲浮素光。東崦曈曈上初旭。重樓半壁煙光綠。欲挽松蘿招隱淪。不知誰和江南曲。阿瑛。",
+      "author": "瑛寶"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "阿瑛"
+        }
+      ],
+      "sentence": "阿瑛",
+      "author": "瑛寶"
+    },
+    {
+      "authorcid": 107605,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "南屏"
+        },
+        {
+          "type": "Time",
+          "start": 7,
+          "end": 13,
+          "span": "至正壬辰孟春"
+        },
+        {
+          "type": "LocationName",
+          "start": 13,
+          "end": 15,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "南屏快雪齋觀。至正壬辰孟春吳興莫昌。",
+      "author": "莫昌"
+    },
+    {
+      "authorcid": 107605,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正壬辰孟春"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        }
+      ],
+      "sentence": "至正壬辰孟春吳興莫昌",
+      "author": "莫昌"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "國書"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 49,
+          "span": "至正壬午九月"
+        },
+        {
+          "type": "Person",
+          "start": 51,
+          "end": 53,
+          "span": "男雍"
+        }
+      ],
+      "sentence": "先魏國書既超妙入神。作畫尤有高韻。蓋緣胸次磊落。丘壑自具。登臨俯仰。興至而筆亦隨之也。至正壬午九月望。男雍百拜堇識。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "至正壬午九月"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 10,
+          "span": "男雍"
+        }
+      ],
+      "sentence": "至正壬午九月望。男雍百拜堇識。",
+      "author": ""
+    }
+  ]
+}

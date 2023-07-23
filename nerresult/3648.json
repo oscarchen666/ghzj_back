@@ -1,0 +1,282 @@
+{
+  "filefroms": "3648.json",
+  "sentences": [
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "噶爾",
+          "cid": 2318
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "牧臣",
+          "cid": 71890,
+          "name": "王保建",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "塞外",
+          "aid": "PL000000000129"
+        },
+        {
+          "type": "Location",
+          "start": 48,
+          "end": 51,
+          "span": "薩拉爾"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 66,
+          "span": "銃"
+        },
+        {
+          "type": "Person",
+          "start": 85,
+          "end": 87,
+          "span": "侍衛"
+        },
+        {
+          "type": "Person",
+          "start": 96,
+          "end": 97,
+          "span": "我"
+        },
+        {
+          "type": "Location",
+          "start": 101,
+          "end": 103,
+          "span": "伊犁"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "螳臂"
+        },
+        {
+          "type": "Person",
+          "start": 128,
+          "end": 129,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 130,
+          "end": 132,
+          "span": "將軍",
+          "cid": "unknow",
+          "name": "蒙山道明",
+          "aid": "A010081"
+        },
+        {
+          "type": "PersonName",
+          "start": 170,
+          "end": 172,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "PersonName",
+          "start": 177,
+          "end": 179,
+          "span": "巴圖",
+          "cid": 495068,
+          "name": "巴圖",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 185,
+          "end": 188,
+          "span": "察哈什"
+        },
+        {
+          "type": "PersonName",
+          "start": 193,
+          "end": 195,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Person",
+          "start": 217,
+          "end": 220,
+          "span": "萬祖父"
+        },
+        {
+          "type": "Person",
+          "start": 221,
+          "end": 223,
+          "span": "兒孫"
+        },
+        {
+          "type": "Thing",
+          "start": 227,
+          "end": 228,
+          "span": "馬"
+        },
+        {
+          "type": "Person",
+          "start": 240,
+          "end": 242,
+          "span": "降者"
+        },
+        {
+          "type": "PersonName",
+          "start": 249,
+          "end": 251,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Person",
+          "start": 256,
+          "end": 259,
+          "span": "達瓦齊"
+        },
+        {
+          "type": "PersonName",
+          "start": 293,
+          "end": 295,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Person",
+          "start": 305,
+          "end": 306,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 316,
+          "end": 318,
+          "span": "斯人"
+        },
+        {
+          "type": "PersonName",
+          "start": 321,
+          "end": 323,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Time",
+          "start": 324,
+          "end": 331,
+          "span": "今年五月十四夜"
+        },
+        {
+          "type": "Time",
+          "start": 346,
+          "end": 349,
+          "span": "秋七月"
+        },
+        {
+          "type": "Person",
+          "start": 356,
+          "end": 358,
+          "span": "畫工"
+        },
+        {
+          "type": "Time",
+          "start": 377,
+          "end": 379,
+          "span": "乙亥"
+        }
+      ],
+      "sentence": "阿玉錫者伊何人。準噶爾屬司牧臣。其法獲罪應剉臂。何不即斬犯厥尊。徒步萬里來向化。育之塞外先朝恩。薩拉爾來述其事。云即彼中勇絕倫。持銃迎面未及發。直進手奪無逡巡。召見賜銀擢侍衛。即命先驅清漠塵。我師直入定伊犁。達瓦齊聚近萬軍。鼓其螳臂欲借一。依山據淖為營屯。我兩將軍重諮議。以此眾戰玉石焚。廟謨本欲安絕域。撻伐毌乃違皇仁。健卒掄選二十二。曰阿玉錫統其群。曰巴圖濟爾噶爾。及察哈什副以進。阿玉錫喜曰固當。廿五人氣摩青旻。銜枚夜襲覘賊向。如萬祖父臨兒孫。大聲策馬入敵壘。厥角披靡相躪奔。降者六千五百騎。阿玉錫手大纛搴。達瓦齊攜近千騎。駾走喙息嗟難存。荊軻孟賁一夫勇。徒以藉甚人稱論。神勇有如阿玉錫。知方亦復知報恩。今我作歌壯生色。千秋以後斯人聞。阿玉錫以今年五月十四夜斫營奏功。捷書至。走筆成此歌。秋七月。命之入覲。俾畫工肖其持矛盪寇之象。即書於後。表其奇卓。乙亥。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "玉錫",
+          "cid": "unknow",
+          "name": "王錫",
+          "aid": "A005137"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 11,
+          "span": "今年五月十四夜"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 18,
+          "span": "捷書"
+        },
+        {
+          "type": "Time",
+          "start": 26,
+          "end": 29,
+          "span": "秋七月"
+        },
+        {
+          "type": "Person",
+          "start": 36,
+          "end": 38,
+          "span": "畫工"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 42,
+          "span": "矛"
+        },
+        {
+          "type": "Time",
+          "start": 57,
+          "end": 59,
+          "span": "乙亥"
+        }
+      ],
+      "sentence": "阿玉錫以今年五月十四夜斫營奏功。捷書至。走筆成此歌。秋七月。命之入覲。俾畫工肖其持矛盪寇之象。即書於後。表其奇卓。乙亥。御筆。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [],
+      "sentence": "英風偉績。",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

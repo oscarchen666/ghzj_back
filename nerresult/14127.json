@@ -1,0 +1,102 @@
+{
+  "filefroms": "14127.json",
+  "sentences": [
+    {
+      "authorcid": 67185,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "卞莊子",
+          "cid": "unknow",
+          "name": "卞莊子",
+          "aid": "A019701"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "刺虎圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "龍眠",
+          "cid": 72511,
+          "name": "方正玉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 64,
+          "span": "龍眠",
+          "cid": 72511,
+          "name": "方正玉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 72,
+          "span": "卞莊子",
+          "cid": "unknow",
+          "name": "卞莊子",
+          "aid": "A019701"
+        },
+        {
+          "type": "Person",
+          "start": 114,
+          "end": 116,
+          "span": "他人"
+        },
+        {
+          "type": "Person",
+          "start": 119,
+          "end": 121,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 129,
+          "end": 131,
+          "span": "龍眠",
+          "cid": 72511,
+          "name": "方正玉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 143,
+          "end": 146,
+          "span": "琅邪王",
+          "cid": "unknow",
+          "name": "李沖",
+          "aid": "A019475"
+        }
+      ],
+      "sentence": "右卞莊子刺虎圖。不著畫者名氏。自昔相傳。稱為李龍眠。翫其筆法。軟如綿。勁如鐵。渾是一段浩然之氣。行乎其中。信信（衍一信字）非龍眠不能作也。卞莊子刺虎事。具國策及史記。與鷸蚌相持語正相類。蓋以規人之恃強而好勝。無益。終必自斃。徒為他人利耳。古人作畫。必具勸戒。龍眠拈此作圖。規切之意深矣。琅邪王澍。",
+      "author": "王澍"
+    },
+    {
+      "authorcid": 67185,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "琅邪王",
+          "cid": "unknow",
+          "name": "李沖",
+          "aid": "A019475"
+        }
+      ],
+      "sentence": "琅邪王澍",
+      "author": "王澍"
+    }
+  ]
+}

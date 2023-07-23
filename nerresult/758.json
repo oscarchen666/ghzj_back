@@ -2,33 +2,21 @@
   "filefroms": "758.json",
   "sentences": [
     {
-      "authorcid": 17693,
-      "authoraid": "A016805",
+      "authorcid": 101309,
+      "authoraid": "unknow",
       "output": [
         {
-          "type": "Time",
+          "type": "PersonName",
           "start": 0,
           "end": 4,
-          "span": "至正二年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一三四二年"
-        },
-        {
-          "type": "PersonName",
-          "start": 13,
-          "end": 15,
-          "span": "仲穆",
-          "cid": 17693,
-          "name": "趙雍",
+          "span": "孤雲處士",
+          "cid": 101309,
+          "name": "王振鵬",
           "aid": "unknow"
         }
       ],
-      "sentence": "至正二年（西元一三四二年）仲穆畫",
-      "author": "趙雍"
+      "sentence": "孤雲處士王振鵬畫",
+      "author": "王振鵬"
     }
   ]
 }

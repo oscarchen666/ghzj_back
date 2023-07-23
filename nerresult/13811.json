@@ -1,0 +1,149 @@
+{
+  "filefroms": "13811.json",
+  "sentences": [
+    {
+      "authorcid": 40618,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李從訓",
+          "cid": 40618,
+          "name": "李從訓",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "李從訓畫",
+      "author": "李從訓"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "李從訓",
+          "cid": 40618,
+          "name": "李從訓",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "樹石"
+        },
+        {
+          "type": "PersonName",
+          "start": 31,
+          "end": 33,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        },
+        {
+          "type": "PersonName",
+          "start": 45,
+          "end": 47,
+          "span": "李倜",
+          "cid": 102869,
+          "name": "李倜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "右李從訓樂志論一卷。人物樹石位置不凡。傅采精妙。高出流輩。加之子昂行楷。足稱二絕。集賢學士李倜。",
+      "author": "李倜"
+    },
+    {
+      "authorcid": 102869,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 6,
+          "span": "李倜",
+          "cid": 102869,
+          "name": "李倜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "集賢學士李倜",
+      "author": "李倜"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "李從訓",
+          "cid": 40618,
+          "name": "李從訓",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "李唐",
+          "cid": 102873,
+          "name": "李唐",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "仇遠",
+          "cid": 28342,
+          "name": "仇遠",
+          "aid": "A044127"
+        }
+      ],
+      "sentence": "李從訓樂志論全法李唐。而更得松雪翁書其後。良可寶也。南陽仇遠題。",
+      "author": "仇遠"
+    },
+    {
+      "authorcid": 28342,
+      "authoraid": "A044127",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "南陽",
+          "aid": "PL000000016686",
+          "cid": 17367
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "仇遠",
+          "cid": 28342,
+          "name": "仇遠",
+          "aid": "A044127"
+        }
+      ],
+      "sentence": "南陽仇遠題",
+      "author": "仇遠"
+    }
+  ]
+}

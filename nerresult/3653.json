@@ -2,48 +2,179 @@
   "filefroms": "3653.json",
   "sentences": [
     {
-      "authorcid": 101309,
-      "authoraid": "unknow",
+      "authorcid": 13711,
+      "authoraid": "A043346",
       "output": [
         {
-          "type": "Time",
-          "start": 1,
-          "end": 4,
-          "span": "大庚戌"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一三一０年"
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "禪院"
         },
         {
           "type": "PersonName",
-          "start": 14,
-          "end": 17,
-          "span": "王振鵬",
-          "cid": 101309,
-          "name": "王振鵬",
+          "start": 31,
+          "end": 34,
+          "span": "趙承旨",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "Person",
+          "start": 38,
+          "end": 41,
+          "span": "其子孫"
+        },
+        {
+          "type": "Thing",
+          "start": 43,
+          "end": 45,
+          "span": "書畫"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 66,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "人人"
+        },
+        {
+          "type": "Time",
+          "start": 83,
+          "end": 85,
+          "span": "少時"
+        },
+        {
+          "type": "PersonName",
+          "start": 99,
+          "end": 101,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
           "aid": "unknow"
         },
         {
+          "type": "Person",
+          "start": 103,
+          "end": 105,
+          "span": "名人"
+        },
+        {
+          "type": "Person",
+          "start": 113,
+          "end": 115,
+          "span": "人物"
+        },
+        {
+          "type": "Person",
+          "start": 123,
+          "end": 124,
+          "span": "僧"
+        },
+        {
+          "type": "Thing",
+          "start": 133,
+          "end": 135,
+          "span": "此卷"
+        },
+        {
+          "type": "LocationName",
+          "start": 140,
+          "end": 142,
+          "span": "京師",
+          "cid": 4342
+        },
+        {
           "type": "PersonName",
-          "start": 22,
-          "end": 24,
-          "span": "曹公",
-          "cid": 165017,
-          "name": "曹公",
+          "start": 145,
+          "end": 147,
+          "span": "太史",
+          "cid": 7111,
+          "name": "黃庭堅",
           "aid": "unknow"
         },
         {
           "type": "Location",
-          "start": 27,
-          "end": 30,
-          "span": "石欄下"
+          "start": 149,
+          "end": 151,
+          "span": "廟市"
+        },
+        {
+          "type": "PersonName",
+          "start": 165,
+          "end": 167,
+          "span": "張照",
+          "cid": 13711,
+          "name": "張照",
+          "aid": "A043346"
+        },
+        {
+          "type": "Time",
+          "start": 170,
+          "end": 177,
+          "span": "乾隆丙辰十二月"
         }
       ],
-      "sentence": "至大庚戌（西元一三一０年）。王振鵬為翰林承旨曹公作。（石欄下小字款。）",
-      "author": "王振鵬"
+      "sentence": "吾鄉本一禪院。中峰本和上道場也。中峰臨濟正支。詩文亦東南之美。趙承旨師事之。其子孫多以書畫作佛事。偶萍蓋其嗣之在啟禎間者也。今觀此卷。人人筆墨清妙可味。雅致亦足尚矣。少時聞本一禪（師字點去）院。藏松雪翁以下名人妙蹟猶殊夥。邇來人物渺然。琳宮蕪廢。僧散廚空。非復曩事。此卷不知何時入京師。晴嵐太史得之廟市。余因得寓目。為之慨然。雲間張照記。時乾隆丙辰十二月。",
+      "author": "張照"
+    },
+    {
+      "authorcid": 13711,
+      "authoraid": "A043346",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 8,
+          "span": "乾隆丙辰十二月"
+        }
+      ],
+      "sentence": "時乾隆丙辰十二月",
+      "author": "張照"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 1,
+          "end": 4,
+          "span": "翠駢珠"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 7,
+          "span": "明代"
+        },
+        {
+          "type": "Location",
+          "start": 7,
+          "end": 9,
+          "span": "雲間"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 17,
+          "span": "山水小幀"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 32,
+          "span": "水"
+        }
+      ],
+      "sentence": "集翠駢珠。明代雲間十一名流山水小幀。得天題籤。晴嵐珍玩。裝前隔水。",
+      "author": ""
     }
   ]
 }

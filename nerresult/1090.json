@@ -1,0 +1,40 @@
+{
+  "filefroms": "1090.json",
+  "sentences": [
+    {
+      "authorcid": 14334,
+      "authoraid": "A019562",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大四年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一三一一年"
+        },
+        {
+          "type": "Time",
+          "start": 15,
+          "end": 21,
+          "span": "辛亥子月乙丑"
+        },
+        {
+          "type": "PersonName",
+          "start": 23,
+          "end": 25,
+          "span": "陳琳",
+          "cid": 14334,
+          "name": "陳琳",
+          "aid": "A019562"
+        }
+      ],
+      "sentence": "至大四年（西元一三一一年）歲在辛亥子月乙丑錢唐陳琳寫",
+      "author": "陳琳"
+    }
+  ]
+}

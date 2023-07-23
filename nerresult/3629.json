@@ -1,0 +1,129 @@
+{
+  "filefroms": "3629.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "張僧繇",
+          "cid": "unknow",
+          "name": "張僧繇",
+          "aid": "A006972"
+        },
+        {
+          "type": "Location",
+          "start": 3,
+          "end": 6,
+          "span": "沒骨山"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 41,
+          "span": "董玄宰",
+          "cid": "unknow",
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "張僧繇沒骨山（疑落水字）余每每倣之。然獨以此卷為愜意。蓋緣神怡務閑時所作耳。董玄宰畫并識。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "古人"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 6,
+          "span": "筆"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 8,
+          "span": "墨"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 14,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 59,
+          "end": 61,
+          "span": "古人"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 63,
+          "span": "石"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "筆"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 74,
+          "span": "墨"
+        },
+        {
+          "type": "Time",
+          "start": 79,
+          "end": 81,
+          "span": "戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 82,
+          "end": 94,
+          "span": "西元一六二八年）孟秋十日"
+        },
+        {
+          "type": "Location",
+          "start": 98,
+          "end": 100,
+          "span": "湖莊"
+        },
+        {
+          "type": "PersonName",
+          "start": 101,
+          "end": 104,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "古人云。有筆有墨。筆墨二字人多不曉。畫豈有無筆墨者。但有輪廓而無皴法。即謂之無筆。有皴法。而不分輕重向背。即謂之無墨。古人云石分三面。此語是筆亦是墨。可參之。戊辰（西元一六二八年）孟秋十日畫并書於湖莊。董其昌。",
+      "author": "董其昌"
+    }
+  ]
+}

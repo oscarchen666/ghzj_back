@@ -2,39 +2,1773 @@
   "filefroms": "927.json",
   "sentences": [
     {
-      "authorcid": 450951,
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "嶂圖"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "嶂圖"
+        },
+        {
+          "type": "Time",
+          "start": 16,
+          "end": 20,
+          "span": "大德七年"
+        },
+        {
+          "type": "Time",
+          "start": 21,
+          "end": 33,
+          "span": "西元一三０三年）二月六日"
+        },
+        {
+          "type": "LocationName",
+          "start": 33,
+          "end": 35,
+          "span": "吳興",
+          "aid": "PL000000012949",
+          "cid": 9754
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 38,
+          "span": "趙孟頫",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A004030"
+        }
+      ],
+      "sentence": "嶂圖。（前方自題僅存嶂圖二字）。大德七年（西元一三０三年）二月六日吳興趙孟頫畫。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "昔者"
+        },
+        {
+          "type": "Time",
+          "start": 18,
+          "end": 20,
+          "span": "百年"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "僧寺"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "漁舟"
+        },
+        {
+          "type": "Thing",
+          "start": 46,
+          "end": 47,
+          "span": "樹"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "海潮"
+        }
+      ],
+      "sentence": "昔者長（生字點去）江險。能生白髮哀。百年經濟盡。一日畫圖開。僧寺依希在。漁舟浩蕩迴。蕭條數株樹。時有海潮來。虞集。",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 10801,
+      "authoraid": "A008211",
+      "output": [],
+      "sentence": "虞集",
+      "author": "虞集"
+    },
+    {
+      "authorcid": 38555,
+      "authoraid": "A023078",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 14,
+          "span": "衣冠"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "筆硯"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "虹月"
+        },
+        {
+          "type": "Thing",
+          "start": 30,
+          "end": 32,
+          "span": "鷗波"
+        },
+        {
+          "type": "Person",
+          "start": 38,
+          "end": 41,
+          "span": "帝都客"
+        },
+        {
+          "type": "PersonName",
+          "start": 48,
+          "end": 50,
+          "span": "石巖",
+          "cid": 38555,
+          "name": "石巖",
+          "aid": "A023078"
+        }
+      ],
+      "sentence": "藝事推三絕。交情到八哀。衣冠太平出。筆硯好懷開。虹月徒延佇。鷗波眇去回。同為帝都客。揮洒得看來。石巖次韻。",
+      "author": "石巖"
+    },
+    {
+      "authorcid": 38555,
+      "authoraid": "A023078",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 2,
+          "span": "石巖"
+        }
+      ],
+      "sentence": "石巖次韻",
+      "author": "石巖"
+    },
+    {
+      "authorcid": 28143,
+      "authoraid": "A008234",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 1,
+          "span": "君"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "王家",
+          "cid": 455589,
+          "name": "王家",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 13,
+          "span": "山川"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 29,
+          "span": "東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 42,
+          "span": "松雪"
+        },
+        {
+          "type": "Thing",
+          "start": 54,
+          "end": 56,
+          "span": "樓臺"
+        },
+        {
+          "type": "Location",
+          "start": 59,
+          "end": 61,
+          "span": "林坳"
+        },
+        {
+          "type": "Thing",
+          "start": 62,
+          "end": 64,
+          "span": "蘆葦"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "白雲"
+        },
+        {
+          "type": "Location",
+          "start": 83,
+          "end": 85,
+          "span": "樊口"
+        },
+        {
+          "type": "Thing",
+          "start": 86,
+          "end": 88,
+          "span": "墨光"
+        },
+        {
+          "type": "Person",
+          "start": 91,
+          "end": 92,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 94,
+          "end": 95,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 118,
+          "end": 119,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 174,
+          "end": 177,
+          "span": "楚山雲"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 180,
+          "span": "楚水"
+        },
+        {
+          "type": "Person",
+          "start": 200,
+          "end": 203,
+          "span": "曹劉斲"
+        },
+        {
+          "type": "Person",
+          "start": 208,
+          "end": 209,
+          "span": "我"
+        },
+        {
+          "type": "Person",
+          "start": 214,
+          "end": 218,
+          "span": "毛穎陶泓"
+        },
+        {
+          "type": "Time",
+          "start": 271,
+          "end": 281,
+          "span": "至順四年夏四月廿四日"
+        }
+      ],
+      "sentence": "君不見帝壻王家寶繪堂。山川發墨開鴻荒。重江叠嶂詩作畫。東坡留題雲錦光。又不見後身松雪齋中叟。伸紙臨摹筆鋒走。樓臺縹緲出林坳。蘆葦蕭騷藏澤藪。白雲飛不盡青冥。百丈牽江入樊口。墨光照几射我眸。我為搴芳歌遠游。胸中是物有元氣。世上何所無滄洲。我疑此叟猶未化。瞬息御風行九州。五山四溟一觴豆。瑣細弗遺囊褚收。故能援毫發天藻。不與俗工爭醜好。（披圖兩字點去）楚山雲歸楚水流。萬里秋光如電掃。拈來關董散花禪。別出曹劉斲輪巧。披圖我作如是觀。毛穎陶泓共聞道。鳴呼。相馬猶相人。駑駘豈得同翔麟。舍夫毛骨論形似。如此鑑賞焉能真。後來有問延祐腳。意索舉似吾方歅。至順四年夏四月廿四日東陽柳貫道傳鑑定并題。",
+      "author": "柳貫"
+    },
+    {
+      "authorcid": 28143,
+      "authoraid": "A008234",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "至順四年夏四月廿四日"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "東陽",
+          "cid": 18340
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 15,
+          "span": "貫道",
+          "cid": 117364,
+          "name": "文書海涯",
+          "aid": "A008621"
+        }
+      ],
+      "sentence": "至順四年夏四月廿四日東陽柳貫道傳鑑定并題",
+      "author": "柳貫"
+    },
+    {
+      "authorcid": 67161,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 10,
+          "span": "江山圖畫"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "遠樹"
+        },
+        {
+          "type": "Location",
+          "start": 26,
+          "end": 29,
+          "span": "崑崙外"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 38,
+          "span": "黃河"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "弱水"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 69,
+          "span": "龍"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 75,
+          "span": "鶴"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 77,
+          "span": "松"
+        },
+        {
+          "type": "Person",
+          "start": 98,
+          "end": 101,
+          "span": "水晶宮"
+        },
+        {
+          "type": "PersonName",
+          "start": 103,
+          "end": 106,
+          "span": "趙文敏",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 112,
+          "span": "重江叠嶂圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 117,
+          "end": 119,
+          "span": "啟明",
+          "cid": 128911,
+          "name": "周夢暘",
+          "aid": "A027470"
+        },
+        {
+          "type": "PersonName",
+          "start": 126,
+          "end": 128,
+          "span": "文子",
+          "cid": 18685,
+          "name": "戴栩",
+          "aid": "A010365"
+        },
+        {
+          "type": "PersonName",
+          "start": 130,
+          "end": 132,
+          "span": "士文",
+          "cid": 38238,
+          "name": "弓敏中",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 178,
+          "end": 180,
+          "span": "先子",
+          "cid": "unknow",
+          "name": "劉牧",
+          "aid": "A021906"
+        },
+        {
+          "type": "Location",
+          "start": 192,
+          "end": 195,
+          "span": "水晶宮"
+        },
+        {
+          "type": "PersonName",
+          "start": 197,
+          "end": 199,
+          "span": "文敏",
+          "cid": 339931,
+          "name": "文敏",
+          "aid": "A002429"
+        },
+        {
+          "type": "Time",
+          "start": 204,
+          "end": 211,
+          "span": "宣德九年春三月"
+        },
+        {
+          "type": "Time",
+          "start": 214,
+          "end": 216,
+          "span": "四明"
+        },
+        {
+          "type": "PersonName",
+          "start": 216,
+          "end": 219,
+          "span": "陳敬宗",
+          "cid": 67161,
+          "name": "陳敬宗",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "曠望不可極。江山圖畫中。晴空開浩蕩。元氣闢鴻濛。遠樹崑崙外。扶桑滄海東。黃河來萬里。弱水出三峰。帆影秋（江字點去）波棹。潮音曉寺鍾。雨收龍入壑。烟暝鶴歸松。妙墨真名筆。神機奪化工。古來精絕者。誰似水晶宮。右趙文敏公重江叠嶂圖。今為李昶啟明家藏。昶姑孰士文子也。士文以善醫鳴于時。昶先世其家業。且好讀書。能吟詩。善楷法。言溫氣和。進退有度。可嘉也。以予嘗交其先子。因持是圖求予題之。所謂水晶宮者。文敏公號也。時宣德九年春三月既望。四明陳敬宗題。",
+      "author": "陳敬宗"
+    },
+    {
+      "authorcid": 67161,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 8,
+          "span": "宣德九年春三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 13,
+          "end": 16,
+          "span": "陳敬宗",
+          "cid": 67161,
+          "name": "陳敬宗",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "時宣德九年春三月既望。四明陳敬宗題。",
+      "author": "陳敬宗"
+    },
+    {
+      "authorcid": 130989,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "趙松雪",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "此卷"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "柳公"
+        },
+        {
+          "type": "PersonName",
+          "start": 30,
+          "end": 31,
+          "span": "公",
+          "cid": 35180,
+          "name": "劉體仁",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 35,
+          "span": "虞邵菴"
+        },
+        {
+          "type": "PersonName",
+          "start": 56,
+          "end": 58,
+          "span": "啟明",
+          "cid": 128911,
+          "name": "周夢暘",
+          "aid": "A027470"
+        },
+        {
+          "type": "Time",
+          "start": 79,
+          "end": 90,
+          "span": "宣德九年甲寅秋八月初吉"
+        },
+        {
+          "type": "LocationName",
+          "start": 91,
+          "end": 93,
+          "span": "羊城",
+          "aid": "PL000000059430"
+        },
+        {
+          "type": "PersonName",
+          "start": 93,
+          "end": 95,
+          "span": "陳璉",
+          "cid": 130989,
+          "name": "陳璉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 97,
+          "end": 99,
+          "span": "鸞臺"
+        },
+        {
+          "type": "Location",
+          "start": 100,
+          "end": 102,
+          "span": "公署"
+        }
+      ],
+      "sentence": "趙松雪畫妙當世。若此卷極清潤可愛。不然何以見稱於道傳柳公耶。公與虞邵菴俱有詩。格調高古尤可愛。蓋三絕也。今為李昶啟明家藏故物。間求余題。因識此。俾其知所重云。宣德九年甲寅秋八月初吉。羊城陳璉書于鸞臺之公署。",
+      "author": "陳璉"
+    },
+    {
+      "authorcid": 130989,
       "authoraid": "unknow",
       "output": [
         {
           "type": "Time",
           "start": 0,
-          "end": 4,
-          "span": "天啟辛酉"
+          "end": 11,
+          "span": "宣德九年甲寅秋八月初吉"
         },
         {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一六二一年"
-        },
-        {
-          "type": "Time",
-          "start": 13,
-          "end": 15,
-          "span": "夏日"
+          "type": "LocationName",
+          "start": 12,
+          "end": 14,
+          "span": "羊城",
+          "aid": "PL000000059430"
         },
         {
           "type": "PersonName",
-          "start": 19,
-          "end": 21,
-          "span": "周龍",
-          "cid": 450951,
-          "name": "周龍",
+          "start": 14,
+          "end": 16,
+          "span": "陳璉",
+          "cid": 130989,
+          "name": "陳璉",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 18,
+          "end": 23,
+          "span": "鸞臺之公署"
+        }
+      ],
+      "sentence": "宣德九年甲寅秋八月初吉。羊城陳璉書于鸞臺之公署。",
+      "author": "陳璉"
+    },
+    {
+      "authorcid": 66891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "重江疊嶂"
+        },
+        {
+          "type": "Time",
+          "start": 4,
+          "end": 7,
+          "span": "暮秋時"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 20,
+          "span": "紅葉衡茅"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "白雲蕭寺"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "樹"
+        },
+        {
+          "type": "LocationName",
+          "start": 66,
+          "end": 68,
+          "span": "蕭山",
+          "aid": "PL000000011700",
+          "cid": 18351
+        },
+        {
+          "type": "PersonName",
+          "start": 68,
+          "end": 70,
+          "span": "魏驥",
+          "cid": 66891,
+          "name": "魏驥",
           "aid": "unknow"
         }
       ],
-      "sentence": "天啟辛酉（西元一六二一年）夏日寫。吳□周龍。",
-      "author": "周龍"
+      "sentence": "重江疊嶂暮秋時。景物宜人段段奇。紅葉衡茅通窅窕。白雲蕭寺入逶迤。風凄遠樹員聲急。日暝遙空鴈影遲。歷歷舊游今見畫。濡毫寧惜寄遐思。蕭山魏驥。",
+      "author": "魏驥"
+    },
+    {
+      "authorcid": 66891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "蕭山",
+          "aid": "PL000000011700",
+          "cid": 18351
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "魏驥",
+          "cid": 66891,
+          "name": "魏驥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "蕭山魏驥",
+      "author": "魏驥"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 2,
+          "span": "長江"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "扁舟"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 20,
+          "span": "慈悲閣前"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "浪花"
+        },
+        {
+          "type": "Location",
+          "start": 24,
+          "end": 26,
+          "span": "兩岸"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "青山"
+        },
+        {
+          "type": "Thing",
+          "start": 29,
+          "end": 31,
+          "span": "奔馬"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 37,
+          "span": "蒹葭楊柳風"
+        },
+        {
+          "type": "Time",
+          "start": 42,
+          "end": 44,
+          "span": "六月"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 58,
+          "span": "畫"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 65,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 66,
+          "end": 67,
+          "span": "樹"
+        },
+        {
+          "type": "Location",
+          "start": 74,
+          "end": 76,
+          "span": "山腰"
+        },
+        {
+          "type": "Location",
+          "start": 80,
+          "end": 84,
+          "span": "赤岸滄洲"
+        },
+        {
+          "type": "Thing",
+          "start": 96,
+          "end": 98,
+          "span": "苕溪"
+        },
+        {
+          "type": "Location",
+          "start": 100,
+          "end": 103,
+          "span": "鷗波亭"
+        },
+        {
+          "type": "PersonName",
+          "start": 104,
+          "end": 106,
+          "span": "王孫",
+          "cid": 335478,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "戎馬"
+        },
+        {
+          "type": "Location",
+          "start": 117,
+          "end": 119,
+          "span": "江滸"
+        },
+        {
+          "type": "PersonName",
+          "start": 130,
+          "end": 132,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        },
+        {
+          "type": "Person",
+          "start": 134,
+          "end": 137,
+          "span": "李兵曹"
+        }
+      ],
+      "sentence": "長江滔滔向東瀉。憶昔扁舟順流下。慈悲閣前浪花白。兩岸青山似奔馬。蒹葭楊柳風颼颼。江行六月疑深秋。歸來已是十年事。看畫偶然思舊游。水聲樹色非耶是。仍見山腰隱高寺。赤岸滄洲杳靄間。只尺悠然起愁思。苕溪影落鷗波亭。王孫弄筆何曾停。北來戎馬暗江滸。千古遺恨歸東溟。延陵吳寬觀。李兵曹所藏題。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "延陵",
+          "cid": 12705
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬"
+        },
+        {
+          "type": "Person",
+          "start": 6,
+          "end": 9,
+          "span": "李兵曹"
+        }
+      ],
+      "sentence": "延陵吳寬觀。李兵曹所藏題。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "萬曆丁丑六月廿又四日"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "大暑中"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 20,
+          "span": "弇山堂"
+        }
+      ],
+      "sentence": "萬曆丁丑六月廿又四日。大暑中披覽于弇山堂。真覺清風颯至也。六止生周天球記。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "萬曆丁丑六月廿又四日"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "大暑中"
+        },
+        {
+          "type": "Location",
+          "start": 17,
+          "end": 20,
+          "span": "弇山堂"
+        }
+      ],
+      "sentence": "萬曆丁丑六月廿又四日。大暑中披覽于弇山堂。真覺清風颯至也。六止生周天球記。",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "王孫",
+          "cid": 139245,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "Person",
+          "start": 5,
+          "end": 7,
+          "span": "英雄"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 12,
+          "span": "江山"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "舊物"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "涕淚"
+        },
+        {
+          "type": "Person",
+          "start": 33,
+          "end": 35,
+          "span": "牙禹"
+        },
+        {
+          "type": "PersonName",
+          "start": 50,
+          "end": 52,
+          "span": "劉岳",
+          "cid": 22912,
+          "name": "劉岳",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 64,
+          "end": 66,
+          "span": "王孫",
+          "cid": 139245,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "PersonName",
+          "start": 69,
+          "end": 71,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 76,
+          "end": 78,
+          "span": "營丘",
+          "cid": 24294,
+          "name": "李成",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "丹青"
+        },
+        {
+          "type": "LocationName",
+          "start": 101,
+          "end": 103,
+          "span": "巴蜀",
+          "aid": "PL000000034649"
+        },
+        {
+          "type": "Thing",
+          "start": 114,
+          "end": 116,
+          "span": "野馬"
+        },
+        {
+          "type": "Thing",
+          "start": 122,
+          "end": 124,
+          "span": "碧縠"
+        },
+        {
+          "type": "Thing",
+          "start": 125,
+          "end": 127,
+          "span": "秋風"
+        },
+        {
+          "type": "PersonName",
+          "start": 128,
+          "end": 130,
+          "span": "王孫",
+          "cid": 139245,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "Thing",
+          "start": 136,
+          "end": 138,
+          "span": "水晶"
+        },
+        {
+          "type": "Thing",
+          "start": 140,
+          "end": 143,
+          "span": "金芙蓉"
+        },
+        {
+          "type": "Thing",
+          "start": 152,
+          "end": 154,
+          "span": "黃鶴"
+        },
+        {
+          "type": "LocationName",
+          "start": 157,
+          "end": 159,
+          "span": "江東",
+          "aid": "PL000000000197",
+          "cid": 400071
+        },
+        {
+          "type": "PersonName",
+          "start": 162,
+          "end": 164,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "王孫無運開英雄。聊拾江山藏畫中。還從慘憺見舊物。似有涕淚含孤忠。聱牙禹貢未暇讀。一圖萬里知提封。張韓劉岳無其功。入關蕭相將無同。王孫本號松雪翁。能事錯認營丘公。丹青隱墨墨隱水。其妙貴淡不數濃。縈灘曲瀨導巴蜀。沓巘長巒連華嵩。空濛野馬軋雲日。浩蕩碧縠吹秋風。王孫隔此不可從。水晶雙闕金芙蓉。招之千年或一出。黃鶴豈不思江東。吳下沈周。",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 7323,
+      "authoraid": "A018691",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "沈周",
+          "cid": 7323,
+          "name": "沈周",
+          "aid": "A018691"
+        }
+      ],
+      "sentence": "吳下沈周",
+      "author": "沈周"
+    },
+    {
+      "authorcid": 131108,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "萬曆丁丑仲夏二日"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "華亭",
+          "cid": 5252
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "吳苑",
+          "aid": "PL000000008352"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 19,
+          "span": "徐天祐",
+          "cid": 46273,
+          "name": "徐天祐",
+          "aid": "A008255"
+        }
+      ],
+      "sentence": "萬曆丁丑仲夏二日。華亭莫雲卿吳苑徐天祐得共觀焉。",
+      "author": "莫是龍"
+    },
+    {
+      "authorcid": 131108,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 8,
+          "span": "萬曆丁丑仲夏二日"
+        },
+        {
+          "type": "LocationName",
+          "start": 9,
+          "end": 11,
+          "span": "華亭",
+          "cid": 5252
+        },
+        {
+          "type": "LocationName",
+          "start": 14,
+          "end": 16,
+          "span": "吳苑",
+          "aid": "PL000000008352"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 19,
+          "span": "徐天祐",
+          "cid": 46273,
+          "name": "徐天祐",
+          "aid": "A008255"
+        }
+      ],
+      "sentence": "萬曆丁丑仲夏二日。華亭莫雲卿吳苑徐天祐得共觀焉。",
+      "author": "莫是龍"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 3,
+          "span": "江"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 5,
+          "span": "山"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 10,
+          "span": "江上"
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 20,
+          "span": "雲中",
+          "aid": "PL000000018806",
+          "cid": 2946
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "煙樹"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "長風"
+        },
+        {
+          "type": "Thing",
+          "start": 69,
+          "end": 71,
+          "span": "泉石"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 73,
+          "span": "誰"
+        },
+        {
+          "type": "Thing",
+          "start": 74,
+          "end": 76,
+          "span": "丹青"
+        },
+        {
+          "type": "Person",
+          "start": 81,
+          "end": 82,
+          "span": "我"
+        },
+        {
+          "type": "Thing",
+          "start": 98,
+          "end": 100,
+          "span": "烟霞"
+        },
+        {
+          "type": "Location",
+          "start": 104,
+          "end": 106,
+          "span": "山凹"
+        },
+        {
+          "type": "Thing",
+          "start": 110,
+          "end": 111,
+          "span": "雲"
+        },
+        {
+          "type": "PersonName",
+          "start": 128,
+          "end": 130,
+          "span": "王孫",
+          "cid": 335478,
+          "name": "王孫",
+          "aid": "A002512"
+        },
+        {
+          "type": "PersonName",
+          "start": 139,
+          "end": 141,
+          "span": "畫師",
+          "cid": "unknow",
+          "name": "皎然",
+          "aid": "A008833"
+        },
+        {
+          "type": "PersonName",
+          "start": 154,
+          "end": 156,
+          "span": "金焦",
+          "cid": 128738,
+          "name": "金焦",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 158,
+          "end": 160,
+          "span": "老夫"
+        },
+        {
+          "type": "PersonName",
+          "start": 162,
+          "end": 164,
+          "span": "盧敖",
+          "cid": "unknow",
+          "name": "盧敖",
+          "aid": "A022703"
+        },
+        {
+          "type": "Thing",
+          "start": 164,
+          "end": 165,
+          "span": "杖"
+        },
+        {
+          "type": "PersonName",
+          "start": 190,
+          "end": 193,
+          "span": "趙文敏",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "LocationName",
+          "start": 211,
+          "end": 213,
+          "span": "營丘",
+          "cid": 4171
+        },
+        {
+          "type": "Location",
+          "start": 220,
+          "end": 222,
+          "span": "荊郭"
+        },
+        {
+          "type": "PersonName",
+          "start": 242,
+          "end": 244,
+          "span": "金焦",
+          "cid": 128738,
+          "name": "金焦",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 248,
+          "end": 250,
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 260,
+          "end": 262,
+          "span": "海門",
+          "aid": "PL000000048602",
+          "cid": 9745
+        },
+        {
+          "type": "Person",
+          "start": 263,
+          "end": 265,
+          "span": "揚子"
+        },
+        {
+          "type": "PersonName",
+          "start": 317,
+          "end": 320,
+          "span": "虞伯生",
+          "cid": "unknow",
+          "name": "虞集",
+          "aid": "A008211"
+        },
+        {
+          "type": "Person",
+          "start": 324,
+          "end": 328,
+          "span": "勝國名流"
+        },
+        {
+          "type": "PersonName",
+          "start": 329,
+          "end": 332,
+          "span": "陳敬宗",
+          "cid": 67161,
+          "name": "陳敬宗",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 337,
+          "end": 339,
+          "span": "學士",
+          "cid": 93349,
+          "name": "宋若莘",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 352,
+          "end": 354,
+          "span": "董狐",
+          "cid": "unknow",
+          "name": "董狐",
+          "aid": "A013817"
+        },
+        {
+          "type": "PersonName",
+          "start": 363,
+          "end": 366,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "昔登江上山。頗愛江上句。天際識歸舟。雲中辨煙樹。長風不起漁歌間。大鵠小鳧爭往還。坐身突兀峭蒨表。著眼莽蒼熹微間。歸來舉頭觸四壁。但覺膏肓有泉石。誰洗丹青開絹素。令我蒼翠流裀席。摩娑舊游亦如此。彷彿烟霞指端起。山凹那當別有雲。天低不辨誰（雲字點去）為水。吳興王孫妙自知。不諱前身為畫師。直將平遠苕霅趣。寫出滉瀁金焦奇。老夫手挈盧敖杖。更辦鴟夷五湖舫。欲作寰中汗漫游。即披此卷神先往。趙文敏公此圖。沖澹簡遠。意在筆外。不知於李營丘如何。駸駸欲度荊郭前矣。吾歌所云。直將清遠苕霅趣。寫出滉瀁金焦奇。公故吳興人。聊用為戲耳。其於海門吞揚子。浮天浴日。怒雷驚濤之狀。固少遜。至杳靄澹蕩。出有入無。潤氣在眉睫間。不至作公家大年朝京觀也。跋尾諸詩。虞伯生柳道傳。勝國名流。陳敬宗吳原博先朝學士。精八法者。而啟南尤畫史中董狐。言固足重也。吳郡王世貞。",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "王世貞",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        }
+      ],
+      "sentence": "吳郡王世貞",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 3,
+          "span": "吾嚮者"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 12,
+          "span": "吳興",
+          "cid": 209571,
+          "name": "吳興",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "苕霅間"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 21,
+          "span": "山水"
+        },
+        {
+          "type": "LocationName",
+          "start": 24,
+          "end": 26,
+          "span": "江中",
+          "aid": "PL000000000150"
+        },
+        {
+          "type": "Metric",
+          "start": 27,
+          "end": 29,
+          "span": "十日"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 32,
+          "span": "風"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 37,
+          "span": "席"
+        },
+        {
+          "type": "LocationName",
+          "start": 43,
+          "end": 47,
+          "span": "南北諸山",
+          "aid": "PL000000000197",
+          "cid": 303668
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 51,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 56,
+          "span": "芙蓉鏡"
+        },
+        {
+          "type": "PersonName",
+          "start": 57,
+          "end": 59,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 63,
+          "end": 65,
+          "span": "前輩"
+        },
+        {
+          "type": "PersonName",
+          "start": 71,
+          "end": 73,
+          "span": "世貞",
+          "cid": 66608,
+          "name": "瞿能",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "吾嚮者見公畫。以為公吳興人。故類苕霅間山水耳。大江中行十日不遇風。波平如席。病小間對江南北諸山。閱此卷便似芙蓉鏡中美人。以此知前輩之不易嘲也。世貞題。",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34717,
+      "authoraid": "A008120",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "世貞",
+          "cid": 66608,
+          "name": "瞿能",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "世貞題",
+      "author": "王世貞"
+    },
+    {
+      "authorcid": 34719,
+      "authoraid": "A045269",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "丙子夏日"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 9,
+          "span": "陽公署",
+          "cid": 379
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "此圖"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "楮墨"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 29,
+          "span": "王世懋",
+          "cid": 34719,
+          "name": "王世懋",
+          "aid": "A045269"
+        }
+      ],
+      "sentence": "丙子夏日於鄖陽公署雨中獲觀此圖。真覺楮墨間尚有餘潤。王世懋題。",
+      "author": "王世懋"
+    },
+    {
+      "authorcid": 34719,
+      "authoraid": "A045269",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王世懋",
+          "cid": 34719,
+          "name": "王世懋",
+          "aid": "A045269"
+        }
+      ],
+      "sentence": "王世懋題",
+      "author": "王世懋"
+    },
+    {
+      "authorcid": 130307,
+      "authoraid": "A009166",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 7,
+          "span": "九一九二"
+        }
+      ],
+      "sentence": "汝南張九一九二同觀。",
+      "author": "張九一"
+    },
+    {
+      "authorcid": 130307,
+      "authoraid": "A009166",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 7,
+          "span": "九一九二"
+        }
+      ],
+      "sentence": "汝南張九一九二同觀",
+      "author": "張九一"
+    },
+    {
+      "authorcid": 130962,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "大有",
+          "cid": 67646,
+          "name": "年富",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 16,
+          "span": "大江"
+        }
+      ],
+      "sentence": "潁川陳演同黃潤甫姚大有敬觀於大江之清谿。",
+      "author": "陳演"
+    },
+    {
+      "authorcid": 130962,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 11,
+          "span": "大有",
+          "cid": 67646,
+          "name": "年富",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 16,
+          "span": "大江"
+        }
+      ],
+      "sentence": "潁川陳演同黃潤甫姚大有敬觀於大江之清谿",
+      "author": "陳演"
+    },
+    {
+      "authorcid": 412662,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖癸亥秋月"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "湯傑",
+          "cid": 412662,
+          "name": "湯傑",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖癸亥秋月少林湯傑重裝。",
+      "author": "湯傑"
+    },
+    {
+      "authorcid": 412662,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "嘉靖癸亥秋月"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "湯傑",
+          "cid": 412662,
+          "name": "湯傑",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖癸亥秋月少林湯傑重裝",
+      "author": "湯傑"
+    },
+    {
+      "authorcid": 27863,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 4,
+          "span": "吏部郎中"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "程南雲",
+          "cid": 27863,
+          "name": "程南雲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "吏部郎中兼翰林侍書程南雲書",
+      "author": "程南雲"
     }
   ]
 }

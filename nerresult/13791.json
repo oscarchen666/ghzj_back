@@ -1,0 +1,145 @@
+{
+  "filefroms": "13791.json",
+  "sentences": [
+    {
+      "authorcid": 52001,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "端叔",
+          "cid": 3484,
+          "name": "李之儀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 8,
+          "span": "王晉卿",
+          "cid": 37950,
+          "name": "王晉卿",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 9,
+          "end": 12,
+          "span": "蘇東坡",
+          "cid": "unknow",
+          "name": "蘇軾",
+          "aid": "A003555"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "天啟",
+          "cid": 1648,
+          "name": "蔡肇",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 17,
+          "end": 20,
+          "span": "米元章",
+          "cid": "unknow",
+          "name": "米芾",
+          "aid": "A004610"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 24,
+          "span": "仲至",
+          "cid": 1767,
+          "name": "王欽臣",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 28,
+          "span": "蘇子由",
+          "cid": "unknow",
+          "name": "蘇轍",
+          "aid": "A007595"
+        },
+        {
+          "type": "PersonName",
+          "start": 29,
+          "end": 32,
+          "span": "晁無咎",
+          "cid": "unknow",
+          "name": "晁補之",
+          "aid": "A008918"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 36,
+          "span": "黃魯直",
+          "cid": "unknow",
+          "name": "黃庭堅",
+          "aid": "A008471"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 40,
+          "span": "李伯時",
+          "cid": 547642,
+          "name": "李伯時",
+          "aid": "A011507"
+        },
+        {
+          "type": "PersonName",
+          "start": 41,
+          "end": 44,
+          "span": "張文潛",
+          "cid": "unknow",
+          "name": "張耒",
+          "aid": "A045205"
+        },
+        {
+          "type": "PersonName",
+          "start": 45,
+          "end": 47,
+          "span": "鄭靖",
+          "cid": 535896,
+          "name": "鄭靖",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 49,
+          "end": 52,
+          "span": "劉巨濟",
+          "cid": "unknow",
+          "name": "劉巨鱗",
+          "aid": "A008787"
+        },
+        {
+          "type": "PersonName",
+          "start": 53,
+          "end": 57,
+          "span": "圓通大師",
+          "cid": "unknow",
+          "name": "鐵舟德濟",
+          "aid": "A001967"
+        },
+        {
+          "type": "Time",
+          "start": 59,
+          "end": 61,
+          "span": "松年"
+        }
+      ],
+      "sentence": "（李端叔。王晉卿。蘇東坡。蔡天啟。米元章。王仲至。蘇子由。晁無咎。黃魯直。李伯時。張文潛。鄭靖老。劉巨濟。圓通大師。）松年",
+      "author": "劉松年"
+    }
+  ]
+}

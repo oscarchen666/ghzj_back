@@ -1,0 +1,524 @@
+{
+  "filefroms": "5549.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "昭慶寺"
+        },
+        {
+          "type": "Thing",
+          "start": 4,
+          "end": 7,
+          "span": "錢唐門"
+        },
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 11,
+          "span": "寶叔塔"
+        },
+        {
+          "type": "Thing",
+          "start": 12,
+          "end": 15,
+          "span": "來鳳亭"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "蟾蜍山"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 23,
+          "span": "大佛寺"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 28,
+          "span": "斷橋殘雪"
+        },
+        {
+          "type": "Location",
+          "start": 29,
+          "end": 31,
+          "span": "葛嶺"
+        },
+        {
+          "type": "Thing",
+          "start": 32,
+          "end": 35,
+          "span": "初陽臺"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "錦帶橋"
+        },
+        {
+          "type": "Thing",
+          "start": 40,
+          "end": 43,
+          "span": "放鶴亭"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 48,
+          "span": "平湖秋月"
+        },
+        {
+          "type": "Thing",
+          "start": 49,
+          "end": 52,
+          "span": "四照亭"
+        },
+        {
+          "type": "Thing",
+          "start": 53,
+          "end": 56,
+          "span": "聖因寺"
+        },
+        {
+          "type": "Thing",
+          "start": 57,
+          "end": 59,
+          "span": "孤山"
+        },
+        {
+          "type": "Thing",
+          "start": 60,
+          "end": 63,
+          "span": "湖心亭"
+        },
+        {
+          "type": "Thing",
+          "start": 64,
+          "end": 67,
+          "span": "六一泉"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 71,
+          "span": "西泠橋"
+        },
+        {
+          "type": "Thing",
+          "start": 72,
+          "end": 75,
+          "span": "湧金門"
+        },
+        {
+          "type": "Thing",
+          "start": 76,
+          "end": 79,
+          "span": "問水亭"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 84,
+          "span": "曲院風荷"
+        },
+        {
+          "type": "Thing",
+          "start": 85,
+          "end": 89,
+          "span": "岳武穆祠"
+        },
+        {
+          "type": "Thing",
+          "start": 90,
+          "end": 94,
+          "span": "湖山神廟"
+        },
+        {
+          "type": "Thing",
+          "start": 95,
+          "end": 98,
+          "span": "跨虹橋"
+        },
+        {
+          "type": "Thing",
+          "start": 99,
+          "end": 102,
+          "span": "東浦橋"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 106,
+          "span": "玉帶橋"
+        },
+        {
+          "type": "Thing",
+          "start": 107,
+          "end": 110,
+          "span": "賢王祠"
+        },
+        {
+          "type": "Thing",
+          "start": 111,
+          "end": 115,
+          "span": "三潭印月"
+        },
+        {
+          "type": "Thing",
+          "start": 116,
+          "end": 119,
+          "span": "望山橋"
+        },
+        {
+          "type": "LocationName",
+          "start": 120,
+          "end": 122,
+          "span": "蘇堤",
+          "aid": "PL000000011539"
+        },
+        {
+          "type": "Thing",
+          "start": 125,
+          "end": 127,
+          "span": "柳浪"
+        },
+        {
+          "type": "Thing",
+          "start": 128,
+          "end": 129,
+          "span": "鶯"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 133,
+          "span": "壓隄橋"
+        },
+        {
+          "type": "Thing",
+          "start": 134,
+          "end": 137,
+          "span": "北高峰"
+        },
+        {
+          "type": "Thing",
+          "start": 138,
+          "end": 142,
+          "span": "雙峰插雲"
+        },
+        {
+          "type": "Thing",
+          "start": 143,
+          "end": 146,
+          "span": "九里松"
+        },
+        {
+          "type": "Thing",
+          "start": 147,
+          "end": 150,
+          "span": "鎖瀾橋"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 154,
+          "span": "蕉石山"
+        },
+        {
+          "type": "Thing",
+          "start": 155,
+          "end": 158,
+          "span": "清波門"
+        },
+        {
+          "type": "Thing",
+          "start": 159,
+          "end": 162,
+          "span": "映波橋"
+        },
+        {
+          "type": "Location",
+          "start": 163,
+          "end": 166,
+          "span": "學士港"
+        },
+        {
+          "type": "Location",
+          "start": 167,
+          "end": 169,
+          "span": "花港"
+        },
+        {
+          "type": "Thing",
+          "start": 170,
+          "end": 171,
+          "span": "魚"
+        },
+        {
+          "type": "LocationName",
+          "start": 172,
+          "end": 175,
+          "span": "雲林寺",
+          "aid": "PL000000011596"
+        },
+        {
+          "type": "Thing",
+          "start": 176,
+          "end": 178,
+          "span": "雷峰"
+        },
+        {
+          "type": "LocationName",
+          "start": 182,
+          "end": 184,
+          "span": "天竺",
+          "aid": "PL000000048207",
+          "cid": 500002
+        },
+        {
+          "type": "Thing",
+          "start": 185,
+          "end": 189,
+          "span": "南屏曉鐘"
+        },
+        {
+          "type": "LocationName",
+          "start": 190,
+          "end": 193,
+          "span": "淨慈寺",
+          "aid": "PL000000011683"
+        },
+        {
+          "type": "Thing",
+          "start": 194,
+          "end": 196,
+          "span": "長橋"
+        },
+        {
+          "type": "Thing",
+          "start": 197,
+          "end": 200,
+          "span": "南高峰"
+        },
+        {
+          "type": "Thing",
+          "start": 201,
+          "end": 204,
+          "span": "三台峰"
+        },
+        {
+          "type": "Location",
+          "start": 205,
+          "end": 209,
+          "span": "于忠肅祠"
+        },
+        {
+          "type": "LocationName",
+          "start": 210,
+          "end": 213,
+          "span": "萬松嶺",
+          "aid": "PL000000011458"
+        },
+        {
+          "type": "LocationName",
+          "start": 214,
+          "end": 217,
+          "span": "慈雲嶺",
+          "aid": "PL000000055959"
+        },
+        {
+          "type": "LocationName",
+          "start": 218,
+          "end": 221,
+          "span": "玉皇山",
+          "aid": "PL000000011368"
+        },
+        {
+          "type": "LocationName",
+          "start": 222,
+          "end": 226,
+          "span": "敷文書院",
+          "aid": "PL000000011432"
+        }
+      ],
+      "sentence": "昭慶寺。錢唐門。寶叔塔。來鳳亭。蟾蜍山。大佛寺。斷橋殘雪。葛嶺。初陽臺。錦帶橋。放鶴亭。平湖秋月。四照亭。聖因寺。孤山。湖心亭。六一泉。西泠橋。湧金門。問水亭。曲院風荷。岳武穆祠。湖山神廟。跨虹橋。東浦橋。玉帶橋。賢王祠。三潭印月。望山橋。蘇堤春曉。柳浪聞鶯。壓隄橋。北高峰。雙峰插雲。九里松。鎖瀾橋。蕉石山。清波門。映波橋。學士港。花港觀魚。雲林寺。雷峰西照。三天竺。南屏曉鐘。淨慈寺。長橋。南高峰。三台峰。于忠肅祠。萬松嶺。慈雲嶺。玉皇山。敷文書院。",
+      "author": ""
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 4,
+          "span": "西湖"
+        },
+        {
+          "type": "PersonName",
+          "start": 5,
+          "end": 7,
+          "span": "西子",
+          "cid": "unknow",
+          "name": "西施",
+          "aid": "A008915"
+        },
+        {
+          "type": "Person",
+          "start": 16,
+          "end": 18,
+          "span": "夷光"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "湖山"
+        },
+        {
+          "type": "LocationName",
+          "start": 54,
+          "end": 56,
+          "span": "湖山",
+          "aid": "PL000000026405"
+        },
+        {
+          "type": "PersonName",
+          "start": 62,
+          "end": 64,
+          "span": "髯翁",
+          "cid": 29754,
+          "name": "錢瑞徵",
+          "aid": "A023570"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 68,
+          "span": "吾"
+        },
+        {
+          "type": "Thing",
+          "start": 97,
+          "end": 99,
+          "span": "西湖"
+        },
+        {
+          "type": "Time",
+          "start": 110,
+          "end": 112,
+          "span": "二月"
+        },
+        {
+          "type": "Thing",
+          "start": 126,
+          "end": 128,
+          "span": "長卷"
+        },
+        {
+          "type": "Thing",
+          "start": 172,
+          "end": 175,
+          "span": "淀池水"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 179,
+          "span": "山"
+        },
+        {
+          "type": "LocationName",
+          "start": 180,
+          "end": 183,
+          "span": "田盤山",
+          "aid": "PL000000000750"
+        },
+        {
+          "type": "Thing",
+          "start": 186,
+          "end": 187,
+          "span": "水"
+        },
+        {
+          "type": "Thing",
+          "start": 198,
+          "end": 200,
+          "span": "明湖"
+        },
+        {
+          "type": "PersonName",
+          "start": 204,
+          "end": 208,
+          "span": "北門學士",
+          "cid": 26626,
+          "name": "范履冰",
+          "aid": "unknow"
+        },
+        {
+          "type": "LocationName",
+          "start": 209,
+          "end": 211,
+          "span": "臨安",
+          "cid": 9683
+        },
+        {
+          "type": "Thing",
+          "start": 230,
+          "end": 232,
+          "span": "湖山"
+        },
+        {
+          "type": "Time",
+          "start": 252,
+          "end": 256,
+          "span": "明年春月"
+        },
+        {
+          "type": "Location",
+          "start": 257,
+          "end": 259,
+          "span": "翠華"
+        },
+        {
+          "type": "Time",
+          "start": 268,
+          "end": 270,
+          "span": "庚午"
+        },
+        {
+          "type": "Time",
+          "start": 271,
+          "end": 284,
+          "span": "西元一七五０年）立夏前二日"
+        }
+      ],
+      "sentence": "昔傳西湖比西子。但聞其名知其美。夷光千古以上人。豈有真容遺後世。（小字。叶）未見顔色貴耳食。浪以湖山相比擬。湖山有知應不受。髯翁何以答吾語。（小字。叶）吁嗟吾因感世道。臧否雌黃率如此。豈如即景寫西湖。圖繪真形匪近似。歲維二月巡燕晉。留京結撰親承旨。歸來長卷已搆成。儼置餘杭在棐几。十景東西鬪奇列。兩峰南北争雄峙。晴光雨色無不宜。推敲好句難窮是。淀池水富惜無山。田盤山好詘於水。喜其便近每命遊。具美明湖輒遐企。北門學士家臨安。少長六一烟霞裏。既得其秀忘其筌。呼吸湖山傳神髓。此圖豈獨五合妙。絶妙真教抜萃矣。明年春月駐翠華。親印證之究所以。庚午（西元一七五０年）立夏前二日。御題。",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 7,
+          "span": "庚午立夏前二日"
+        }
+      ],
+      "sentence": "庚午立夏前二日御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

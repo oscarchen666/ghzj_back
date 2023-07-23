@@ -1,0 +1,75 @@
+{
+  "filefroms": "1782.json",
+  "sentences": [
+    {
+      "authorcid": 59688,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "乾隆十年"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 17,
+          "span": "西元一七四五年"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 25,
+          "span": "乙丑嘉平月"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 30,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬里乘風。乾隆十年（西元一七四五年）歲次乙丑嘉平月。臣吳應枚恭進。",
+      "author": "吳應枚"
+    },
+    {
+      "authorcid": 59688,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 9,
+          "span": "乾隆十年"
+        },
+        {
+          "type": "Time",
+          "start": 10,
+          "end": 17,
+          "span": "西元一七四五年"
+        },
+        {
+          "type": "Time",
+          "start": 20,
+          "end": 25,
+          "span": "乙丑嘉平月"
+        },
+        {
+          "type": "PersonName",
+          "start": 27,
+          "end": 30,
+          "span": "吳應枚",
+          "cid": 59688,
+          "name": "吳應枚",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "萬里乘風。乾隆十年（西元一七四五年）歲次乙丑嘉平月。臣吳應枚恭進。",
+      "author": "吳應枚"
+    }
+  ]
+}

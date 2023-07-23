@@ -2,70 +2,104 @@
   "filefroms": "5389.json",
   "sentences": [
     {
-      "authorcid": 442330,
+      "authorcid": 25045,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Time",
+          "type": "LocationName",
           "start": 0,
-          "end": 5,
-          "span": "乾隆十七年"
-        },
-        {
-          "type": "Time",
-          "start": 6,
-          "end": 16,
-          "span": "西元一七五二年）六月"
+          "end": 3,
+          "span": "九龍山",
+          "aid": "PL000000039047"
         },
         {
           "type": "PersonName",
-          "start": 18,
-          "end": 21,
-          "span": "姚文瀚",
-          "cid": 442330,
-          "name": "姚文瀚",
+          "start": 4,
+          "end": 6,
+          "span": "王紱",
+          "cid": 25045,
+          "name": "王紱",
           "aid": "unknow"
+        }
+      ],
+      "sentence": "九龍山人王紱",
+      "author": "王紱"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 1,
+          "end": 5,
+          "span": "乾隆己卯"
+        }
+      ],
+      "sentence": "（乾隆己卯御題。文不錄。）",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "己卯清和"
+        }
+      ],
+      "sentence": "己卯清和御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 13711,
+      "authoraid": "A043346",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "乾隆丁已八月"
         },
         {
-          "type": "Person",
-          "start": 25,
-          "end": 27,
-          "span": "宋人"
-        }
-      ],
-      "sentence": "乾隆十七年（西元一七五二年）六月，臣姚文瀚奉敕恭摹宋人筆意。",
-      "author": "姚文瀚"
-    },
-    {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
+          "type": "Metric",
+          "start": 8,
+          "end": 11,
+          "span": "二百文"
+        },
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "錢"
+        },
+        {
+          "type": "Location",
+          "start": 14,
+          "end": 16,
+          "span": "市儈"
+        },
         {
           "type": "PersonName",
-          "start": 5,
-          "end": 7,
-          "span": "褚亮",
-          "cid": 30936,
-          "name": "褚亮",
-          "aid": "A004993"
+          "start": 20,
+          "end": 24,
+          "span": "普賢菩薩",
+          "cid": "unknow",
+          "name": "普賢菩薩",
+          "aid": "A003079"
         }
       ],
-      "sentence": "（分段楷書褚亮贊。文不錄）",
-      "author": "稽璜"
+      "sentence": "乾隆丁已八月。以二百文錢購于市儈。真拾得普賢菩薩也。照。",
+      "author": "張照"
     },
     {
-      "authorcid": "unknow",
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Person",
-          "start": 0,
-          "end": 1,
-          "span": "臣"
-        }
-      ],
-      "sentence": "臣稽璜敬書",
-      "author": "稽璜"
+      "authorcid": 13711,
+      "authoraid": "A043346",
+      "output": [],
+      "sentence": "照",
+      "author": "張照"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "filefroms": "5527.json",
+  "sentences": [
+    {
+      "authorcid": 65886,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "秋江古樹"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 14,
+          "span": "烏目山人",
+          "cid": 65886,
+          "name": "王翬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "秋江古樹。（隸書）。烏目山人王翬。（行楷書）。",
+      "author": "王翬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "秋江老樹"
+        }
+      ],
+      "sentence": "秋江老樹",
+      "author": ""
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "filefroms": "3544.json",
+  "sentences": [
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "雲湖",
+          "cid": 61647,
+          "name": "但明倫",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 4,
+          "end": 6,
+          "span": "畫家"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "貓兔"
+        },
+        {
+          "type": "Thing",
+          "start": 17,
+          "end": 20,
+          "span": "群貓圖"
+        },
+        {
+          "type": "Thing",
+          "start": 25,
+          "end": 27,
+          "span": "此圖"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "絲毯"
+        },
+        {
+          "type": "Location",
+          "start": 47,
+          "end": 49,
+          "span": "西樓"
+        },
+        {
+          "type": "Person",
+          "start": 52,
+          "end": 54,
+          "span": "主人"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "白魚"
+        },
+        {
+          "type": "Metric",
+          "start": 58,
+          "end": 61,
+          "span": "三尺許"
+        },
+        {
+          "type": "Person",
+          "start": 64,
+          "end": 66,
+          "span": "享客"
+        },
+        {
+          "type": "Person",
+          "start": 69,
+          "end": 71,
+          "span": "眾客"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 81,
+          "span": "群貓"
+        },
+        {
+          "type": "Location",
+          "start": 92,
+          "end": 94,
+          "span": "雲湖"
+        },
+        {
+          "type": "Thing",
+          "start": 96,
+          "end": 101,
+          "span": "牡丹群貓圖"
+        },
+        {
+          "type": "Time",
+          "start": 110,
+          "end": 115,
+          "span": "隆慶丁卯（"
+        },
+        {
+          "type": "Time",
+          "start": 115,
+          "end": 125,
+          "span": "西元一五六七年）春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 131,
+          "end": 133,
+          "span": "敏道",
+          "cid": 10766,
+          "name": "包遜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "陶雲湖在畫家稱神品。然喜貌貓兔。顧群貓圖不四三見。此圖奇姿軼態。曲盡其玅。宛然戲紅絲毯上也。時西樓讌集。主人得白魚長三尺許。烹以享客。予謂眾客曰。無更披圖。恐群貓來噉之也。相對一大笑。雲湖又有牡丹群貓圖一。不知落于誰家。隆慶丁卯（西元一五六七年）春日。射陽畸人吳敏道跋。",
+      "author": "吳敏道"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "隆慶丁卯"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一五六七年）春日"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "敏道",
+          "cid": 10766,
+          "name": "包遜",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "隆慶丁卯（西元一五六七年）春日。射陽畸人吳敏道跋。",
+      "author": "吳敏道"
+    }
+  ]
+}

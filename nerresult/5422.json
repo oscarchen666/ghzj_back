@@ -1,0 +1,83 @@
+{
+  "filefroms": "5422.json",
+  "sentences": [
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "唐寶",
+          "cid": 34218,
+          "name": "唐寶",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "蘇臺唐寶",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "西園",
+          "aid": "PL000000009936"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "六如",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 24,
+          "span": "西園雅集圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 28,
+          "end": 30,
+          "span": "武伯",
+          "cid": 328590,
+          "name": "武伯",
+          "aid": "A013832"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "元章",
+          "cid": 72229,
+          "name": "元章",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 42,
+          "end": 44,
+          "span": "觀者"
+        }
+      ],
+      "sentence": "西園雅集圖記（文不錄）。適見六如先生臨西園雅集圖。真足追武伯時。輒敢錄元章原記於後。觀者勿以惡札見笑是幸。高陽許初。",
+      "author": "許初"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "高陽許初",
+      "author": "許初"
+    }
+  ]
+}

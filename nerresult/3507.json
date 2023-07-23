@@ -1,0 +1,106 @@
+{
+  "filefroms": "3507.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "北苑",
+          "aid": "PL000000042100"
+        }
+      ],
+      "sentence": "擬北苑秋林晚翠。玄宰。",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 6,
+          "span": "湖上"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "月"
+        },
+        {
+          "type": "Location",
+          "start": 12,
+          "end": 14,
+          "span": "湖上"
+        },
+        {
+          "type": "Thing",
+          "start": 14,
+          "end": 15,
+          "span": "山"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "眼前"
+        },
+        {
+          "type": "Person",
+          "start": 32,
+          "end": 34,
+          "span": "主人"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 36,
+          "span": "黍"
+        },
+        {
+          "type": "Metric",
+          "start": 36,
+          "end": 39,
+          "span": "百餘石"
+        },
+        {
+          "type": "Location",
+          "start": 64,
+          "end": 68,
+          "span": "茱萸灣頭"
+        },
+        {
+          "type": "Person",
+          "start": 73,
+          "end": 74,
+          "span": "君"
+        },
+        {
+          "type": "Location",
+          "start": 76,
+          "end": 79,
+          "span": "黃公家"
+        },
+        {
+          "type": "Person",
+          "start": 83,
+          "end": 85,
+          "span": "此人"
+        },
+        {
+          "type": "Thing",
+          "start": 92,
+          "end": 95,
+          "span": "東園花"
+        }
+      ],
+      "sentence": "夜坐不厭湖上月。晝行不厭湖上山。眼前一尊又長滿。心中萬事如等閑。主人有黍百餘石。濁醪數斗應不惜。即今相對不盡歡。別後相思復何益。茱萸灣頭歸路賒。願君且宿黃公家。風光若此人不醉。參差辜負東園花。其昌書。",
+      "author": "董其昌"
+    }
+  ]
+}

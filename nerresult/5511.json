@@ -1,0 +1,139 @@
+{
+  "filefroms": "5511.json",
+  "sentences": [
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        },
+        {
+          "type": "LocationName",
+          "start": 6,
+          "end": 8,
+          "span": "鼎齋",
+          "cid": 11930
+        }
+      ],
+      "sentence": "董其昌畫于寶鼎齋",
+      "author": "董其昌"
+    },
+    {
+      "authorcid": 35003,
+      "authoraid": "A004662",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 3,
+          "span": "黃蘆岸"
+        },
+        {
+          "type": "Location",
+          "start": 4,
+          "end": 8,
+          "span": "白蘋渡口"
+        },
+        {
+          "type": "Location",
+          "start": 9,
+          "end": 12,
+          "span": "綠楊堤"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 17,
+          "span": "紅蓼灘頭"
+        },
+        {
+          "type": "Location",
+          "start": 31,
+          "end": 33,
+          "span": "秋江"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 38,
+          "span": "白鷺沙鷗"
+        },
+        {
+          "type": "Person",
+          "start": 47,
+          "end": 48,
+          "span": "我"
+        },
+        {
+          "type": "PersonName",
+          "start": 54,
+          "end": 56,
+          "span": "釣叟",
+          "cid": 65915,
+          "name": "查繼佐",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 57,
+          "end": 61,
+          "span": "西塞山前"
+        },
+        {
+          "type": "Thing",
+          "start": 61,
+          "end": 63,
+          "span": "白鷺"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 69,
+          "span": "桃花流水"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "魚"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 76,
+          "span": "清蒻笠"
+        },
+        {
+          "type": "Thing",
+          "start": 77,
+          "end": 80,
+          "span": "綠蓑衣"
+        },
+        {
+          "type": "Thing",
+          "start": 81,
+          "end": 85,
+          "span": "斜風細雨"
+        },
+        {
+          "type": "PersonName",
+          "start": 89,
+          "end": 92,
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
+        }
+      ],
+      "sentence": "黃蘆岸。白蘋渡口。綠楊堤。紅蓼灘頭。雖無刎頸交。頗有忘機友。點秋江。白鷺沙鷗。傲教人間萬戶侯。我是不識字煙波釣叟。西塞山前白鷺飛。桃花流水鱖魚肥。清蒻笠。綠蓑衣。斜風細雨不須歸。董其昌書。",
+      "author": "董其昌"
+    }
+  ]
+}

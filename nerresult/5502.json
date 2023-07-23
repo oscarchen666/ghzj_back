@@ -1,0 +1,284 @@
+{
+  "filefroms": "5502.json",
+  "sentences": [
+    {
+      "authorcid": 23464,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "周之冕",
+          "cid": 23464,
+          "name": "周之冕",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "周之冕",
+      "author": "周之冕"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "筆端神化。",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 35040,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "王穉登",
+          "cid": 35040,
+          "name": "王穉登",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "王穉登書",
+      "author": "王穉登"
+    },
+    {
+      "authorcid": 74381,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "喬崇烈",
+          "cid": 74381,
+          "name": "喬崇烈",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "米南宮",
+          "cid": "unknow",
+          "name": "米芾",
+          "aid": "A004610"
+        },
+        {
+          "type": "Thing",
+          "start": 13,
+          "end": 15,
+          "span": "梅花"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 19,
+          "span": "海棠花"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "荷花"
+        },
+        {
+          "type": "Thing",
+          "start": 23,
+          "end": 26,
+          "span": "牡丹花"
+        },
+        {
+          "type": "Thing",
+          "start": 27,
+          "end": 30,
+          "span": "薔薇花"
+        },
+        {
+          "type": "Thing",
+          "start": 31,
+          "end": 34,
+          "span": "水仙花"
+        },
+        {
+          "type": "Thing",
+          "start": 35,
+          "end": 37,
+          "span": "桃花"
+        },
+        {
+          "type": "Thing",
+          "start": 38,
+          "end": 40,
+          "span": "菊花"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 43,
+          "span": "杏花"
+        },
+        {
+          "type": "Thing",
+          "start": 44,
+          "end": 46,
+          "span": "桂花"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "芍藥"
+        },
+        {
+          "type": "Thing",
+          "start": 50,
+          "end": 52,
+          "span": "蘭花"
+        },
+        {
+          "type": "Time",
+          "start": 58,
+          "end": 64,
+          "span": "康熙甲申三月"
+        },
+        {
+          "type": "Thing",
+          "start": 65,
+          "end": 66,
+          "span": "燕"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 69,
+          "span": "小卉"
+        },
+        {
+          "type": "Thing",
+          "start": 73,
+          "end": 75,
+          "span": "諸花"
+        },
+        {
+          "type": "PersonName",
+          "start": 80,
+          "end": 82,
+          "span": "服卿",
+          "cid": 561134,
+          "name": "周之冕",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 101,
+          "end": 103,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 106,
+          "end": 108,
+          "span": "詩人"
+        },
+        {
+          "type": "Person",
+          "start": 125,
+          "end": 127,
+          "span": "米老"
+        },
+        {
+          "type": "PersonName",
+          "start": 133,
+          "end": 136,
+          "span": "喬崇烈",
+          "cid": 74381,
+          "name": "喬崇烈",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "（喬崇烈楷書米南宮詩話帖。梅花。海棠花。荷花。牡丹花。薔薇花。水仙花。桃花。菊花。杏花。桂花。芍藥。蘭花。文不錄。）康熙甲申三月。燕坐小卉菴。砌下諸花盛開。閱周服卿此卷。景與境會。因以楷法錄米帖一過。覺畫家寫生。詩人體物。各盡其妙。愧余書不工。未可與米老並稱三絕也。喬崇烈識。",
+      "author": "喬崇烈"
+    },
+    {
+      "authorcid": 74381,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 6,
+          "span": "康熙甲申三月"
+        },
+        {
+          "type": "Thing",
+          "start": 7,
+          "end": 8,
+          "span": "燕"
+        },
+        {
+          "type": "Thing",
+          "start": 9,
+          "end": 11,
+          "span": "小卉"
+        },
+        {
+          "type": "Thing",
+          "start": 15,
+          "end": 17,
+          "span": "諸花"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 24,
+          "span": "服卿",
+          "cid": 561134,
+          "name": "周之冕",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 26,
+          "span": "此卷"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "錄米帖"
+        },
+        {
+          "type": "Person",
+          "start": 43,
+          "end": 45,
+          "span": "畫家"
+        },
+        {
+          "type": "Person",
+          "start": 48,
+          "end": 50,
+          "span": "詩人"
+        },
+        {
+          "type": "Person",
+          "start": 67,
+          "end": 69,
+          "span": "米老"
+        },
+        {
+          "type": "PersonName",
+          "start": 75,
+          "end": 78,
+          "span": "喬崇烈",
+          "cid": 74381,
+          "name": "喬崇烈",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "康熙甲申三月。燕坐小卉菴。砌下諸花盛開。閱周服卿此卷。景與境會。因以楷法錄米帖一過。覺畫家寫生。詩人體物。各盡其妙。愧余書不工。未可與米老並稱三絕也。喬崇烈識。",
+      "author": "喬崇烈"
+    }
+  ]
+}

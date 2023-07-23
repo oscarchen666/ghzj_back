@@ -2,53 +2,158 @@
   "filefroms": "5499.json",
   "sentences": [
     {
-      "authorcid": 17690,
-      "authoraid": "A004030",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "至大二年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 18,
-          "span": "西元一三０九年）二月廿六日"
-        },
-        {
-          "type": "Location",
-          "start": 21,
-          "end": 23,
-          "span": "舟中"
-        },
-        {
-          "type": "PersonName",
-          "start": 24,
-          "end": 26,
-          "span": "子昂",
-          "cid": 17690,
-          "name": "趙孟頫",
-          "aid": "A045743"
-        }
-      ],
-      "sentence": "至大二年（西元一三０九年）二月廿六日。寫于舟中。子昂。",
-      "author": "趙孟頫"
-    },
-    {
-      "authorcid": 55870,
-      "authoraid": "A006727",
+      "authorcid": 30607,
+      "authoraid": "A022759",
       "output": [
         {
           "type": "Thing",
-          "start": 0,
-          "end": 2,
-          "span": "柴桑"
+          "start": 4,
+          "end": 5,
+          "span": "雨"
+        },
+        {
+          "type": "Thing",
+          "start": 6,
+          "end": 7,
+          "span": "河"
+        },
+        {
+          "type": "Thing",
+          "start": 18,
+          "end": 20,
+          "span": "玄霜"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "寒葉"
+        },
+        {
+          "type": "Thing",
+          "start": 28,
+          "end": 30,
+          "span": "墨龍"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 36,
+          "span": "雨竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 38,
+          "span": "客",
+          "cid": 139689,
+          "name": "王郎",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "鹽虀"
+        },
+        {
+          "type": "Location",
+          "start": 45,
+          "end": 47,
+          "span": "家鄉"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 48,
+          "span": "笋"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 52,
+          "span": "柴"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "破塘"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "長涎"
+        },
+        {
+          "type": "Thing",
+          "start": 67,
+          "end": 68,
+          "span": "鞋"
+        },
+        {
+          "type": "Thing",
+          "start": 71,
+          "end": 73,
+          "span": "笋竹"
+        },
+        {
+          "type": "Thing",
+          "start": 87,
+          "end": 88,
+          "span": "竹"
+        },
+        {
+          "type": "PersonName",
+          "start": 100,
+          "end": 101,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 111,
+          "end": 115,
+          "span": "天池山人",
+          "cid": 130739,
+          "name": "陸釆",
+          "aid": "A022759"
         }
       ],
-      "sentence": "柴桑高韻。",
-      "author": "愛新覺羅弘曆"
+      "sentence": "齋中一夜雨成河。午榻無緣遣睡魔。急搗玄霜掃寒葉。濕淋淋地墨龍拖。右咏雨竹。客裡鹽虀無一寸。家鄉笋把束成柴。盡取破塘聊遣興。翻引長涎濕到鞋。右咏笋竹。積齋丈出卷索書。予書其半而竹其半。緣日來初習乏紙。借人箋素打稿故也。一笑。天池山人徐渭。",
+      "author": "徐渭"
+    },
+    {
+      "authorcid": 30607,
+      "authoraid": "A022759",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 1,
+          "span": "余",
+          "cid": 113101,
+          "name": "釋世愚",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 3,
+          "span": "竹"
+        },
+        {
+          "type": "Location",
+          "start": 11,
+          "end": 12,
+          "span": "京"
+        }
+      ],
+      "sentence": "余學竹於春。不踰月而至京。此抹掃乃京邸筆也。攜來重觀。可發一笑。渭。",
+      "author": "徐渭"
     }
   ]
 }

@@ -1,0 +1,99 @@
+{
+  "filefroms": "5583.json",
+  "sentences": [
+    {
+      "authorcid": 438091,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 4,
+          "span": "金廷標",
+          "cid": 438091,
+          "name": "金廷標",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "臣金廷標奉敕恭臨馬遠筆",
+      "author": "金廷標"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "西山",
+          "aid": "PL000000000404"
+        },
+        {
+          "type": "Person",
+          "start": 18,
+          "end": 20,
+          "span": "南軍"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "左袖"
+        },
+        {
+          "type": "Person",
+          "start": 26,
+          "end": 28,
+          "span": "劉滅"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 34,
+          "span": "丙戌"
+        },
+        {
+          "type": "Time",
+          "start": 35,
+          "end": 42,
+          "span": "西元一七六六年"
+        },
+        {
+          "type": "Time",
+          "start": 43,
+          "end": 46,
+          "span": "清和月"
+        }
+      ],
+      "sentence": "西山既學採其華。那管人間閒是非。待到南軍袒左袖。尔時劉滅已幾希。丙戌（西元一七六六年）清和月御題",
+      "author": "愛新覺羅弘曆"
+    },
+    {
+      "authorcid": 55870,
+      "authoraid": "A006727",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "丙戌"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一七六六年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 14,
+          "span": "清和月"
+        }
+      ],
+      "sentence": "丙戌（西元一七六六年）清和月御題",
+      "author": "愛新覺羅弘曆"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "filefroms": "13802.json",
+  "sentences": [
+    {
+      "authorcid": 16227,
+      "authoraid": "A041551",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "錢選",
+          "cid": 16227,
+          "name": "錢選",
+          "aid": "A041551"
+        }
+      ],
+      "sentence": "霅谿錢選畫",
+      "author": "錢選"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 2,
+          "end": 6,
+          "span": "旅貢獒圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 10,
+          "end": 13,
+          "span": "錢舜舉",
+          "cid": 429657,
+          "name": "錢舜舉",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "武王",
+          "cid": "unknow",
+          "name": "禿髮烏孤",
+          "aid": "A006560"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "太保",
+          "cid": "unknow",
+          "name": "周寶",
+          "aid": "A010572"
+        },
+        {
+          "type": "Thing",
+          "start": 39,
+          "end": 41,
+          "span": "旅獒"
+        },
+        {
+          "type": "PersonName",
+          "start": 44,
+          "end": 46,
+          "span": "武王",
+          "cid": "unknow",
+          "name": "禿髮烏孤",
+          "aid": "A006560"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "此圖"
+        },
+        {
+          "type": "Thing",
+          "start": 55,
+          "end": 57,
+          "span": "獒犬"
+        },
+        {
+          "type": "PersonName",
+          "start": 61,
+          "end": 62,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Metric",
+          "start": 67,
+          "end": 69,
+          "span": "四尺"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 71,
+          "span": "獒"
+        },
+        {
+          "type": "Thing",
+          "start": 75,
+          "end": 76,
+          "span": "獅"
+        },
+        {
+          "type": "Thing",
+          "start": 80,
+          "end": 82,
+          "span": "首尾"
+        },
+        {
+          "type": "Person",
+          "start": 86,
+          "end": 88,
+          "span": "使者"
+        },
+        {
+          "type": "Person",
+          "start": 89,
+          "end": 91,
+          "span": "八人"
+        },
+        {
+          "type": "Person",
+          "start": 93,
+          "end": 95,
+          "span": "前者"
+        },
+        {
+          "type": "Person",
+          "start": 102,
+          "end": 104,
+          "span": "王者"
+        },
+        {
+          "type": "Person",
+          "start": 105,
+          "end": 108,
+          "span": "餘七人"
+        },
+        {
+          "type": "PersonName",
+          "start": 115,
+          "end": 117,
+          "span": "舜舉",
+          "cid": 35513,
+          "name": "吳皋",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 126,
+          "end": 128,
+          "span": "閻立"
+        },
+        {
+          "type": "Thing",
+          "start": 130,
+          "end": 133,
+          "span": "貢獒圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 146,
+          "end": 148,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "右西旅貢獒圖。乃霅川錢舜舉作。昔武王克商。遂通道于九夷八蠻。西旅貢厥獒太保乃作旅獒。用訓武王。此圖蓋出於是。按獒犬類。能知人意。爾雅謂四尺為獒。今所畫獅青色。而首尾則犬類。使者共八人。其前者特偉麗。被服類王者。餘七人各有所執。不知舜舉何所本作。按古云。閻立本有貢獒圖。神妙莫比。豈其源流者歟。俞和。",
+      "author": "俞和"
+    },
+    {
+      "authorcid": 104511,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "俞和",
+          "cid": 104511,
+          "name": "俞和",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "俞和",
+      "author": "俞和"
+    }
+  ]
+}

@@ -2,607 +2,167 @@
   "filefroms": "15106.json",
   "sentences": [
     {
-      "authorcid": 202554,
+      "authorcid": 30328,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Location",
-          "start": 1,
-          "end": 6,
-          "span": "豐堂後隙地"
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "右瑞應圖"
         },
         {
-          "type": "Thing",
-          "start": 6,
-          "end": 8,
-          "span": "疊石"
-        },
-        {
-          "type": "Thing",
-          "start": 9,
+          "type": "PersonName",
+          "start": 8,
           "end": 11,
-          "span": "小山"
+          "span": "宋高宗",
+          "cid": "unknow",
+          "name": "趙構",
+          "aid": "A002088"
         },
         {
-          "type": "Thing",
-          "start": 12,
-          "end": 14,
-          "span": "碧溪"
+          "type": "Time",
+          "start": 17,
+          "end": 20,
+          "span": "淳熙間"
         },
         {
-          "type": "Thing",
-          "start": 19,
-          "end": 21,
-          "span": "泉石"
-        },
-        {
-          "type": "Thing",
+          "type": "PersonName",
           "start": 22,
           "end": 24,
-          "span": "谿山"
+          "span": "李嵩",
+          "cid": 60608,
+          "name": "李嵩",
+          "aid": "A006562"
         },
         {
-          "type": "Thing",
-          "start": 30,
-          "end": 32,
-          "span": "方壺"
+          "type": "Time",
+          "start": 36,
+          "end": 38,
+          "span": "元時"
         },
         {
-          "type": "Thing",
-          "start": 50,
-          "end": 51,
-          "span": "沙"
+          "type": "PersonName",
+          "start": 43,
+          "end": 45,
+          "span": "袁清",
+          "cid": 213248,
+          "name": "袁清",
+          "aid": "unknow"
         },
         {
-          "type": "Thing",
-          "start": 54,
-          "end": 55,
-          "span": "水"
+          "type": "Time",
+          "start": 51,
+          "end": 53,
+          "span": "國初"
         },
         {
-          "type": "Thing",
-          "start": 58,
-          "end": 60,
-          "span": "雲屏"
-        },
-        {
-          "type": "Thing",
-          "start": 69,
-          "end": 71,
-          "span": "風匣"
-        },
-        {
-          "type": "Thing",
-          "start": 91,
-          "end": 92,
-          "span": "雨"
-        },
-        {
-          "type": "Thing",
-          "start": 98,
-          "end": 100,
-          "span": "虎豹"
-        },
-        {
-          "type": "Thing",
-          "start": 109,
-          "end": 111,
-          "span": "猿猱"
-        },
-        {
-          "type": "Thing",
-          "start": 136,
-          "end": 138,
-          "span": "花竹"
+          "type": "Location",
+          "start": 55,
+          "end": 57,
+          "span": "魏府"
         },
         {
           "type": "Person",
-          "start": 147,
-          "end": 149,
-          "span": "賓朋"
+          "start": 61,
+          "end": 63,
+          "span": "大賈"
         },
         {
-          "type": "Thing",
-          "start": 193,
-          "end": 195,
-          "span": "堂額"
+          "type": "Time",
+          "start": 79,
+          "end": 81,
+          "span": "夏日"
         },
         {
-          "type": "Person",
-          "start": 204,
-          "end": 206,
-          "span": "主人"
+          "type": "Time",
+          "start": 90,
+          "end": 96,
+          "span": "嘉靖歲次辛丑"
+        },
+        {
+          "type": "Time",
+          "start": 97,
+          "end": 104,
+          "span": "西元一五四一年"
+        },
+        {
+          "type": "Time",
+          "start": 105,
+          "end": 107,
+          "span": "孟秋"
+        },
+        {
+          "type": "PersonName",
+          "start": 112,
+          "end": 116,
+          "span": "墨林山人",
+          "cid": 30328,
+          "name": "項元汴",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 121,
+          "end": 124,
+          "span": "天籟閣"
         }
       ],
-      "sentence": "願豐堂後隙地疊石作小山與碧溪聯句。旋分泉石作谿山（深）。圓嶠方壺在此間（鈇）。境遇奇時峰忽斷（鈇）。沙當急處水成灣。雲屏欲送秋容淡（深）。風匣初開夜月彎。一柱擎天高卓立（鈇）。四時含雨細潺湲。常疑虎豹穿群去（深）。更覺猿猱費力扳。人事化工相勝負（鈇）。酒尊詩卷日躋攀。料栽花竹多留地（深）。為速賓朋不設關。斜身單卻如垂舞袖（鈇）。娉婷復似綰雲鬟。幽懷乍對簾頻捲（深）。佳興堪乘屐未還。堂額詎宜標綠野（鈇）。主人正及詫紅顏。敢言夙有山林骨（深）。何事久違鵷鷺班。連絡九峰排小朵（鈇）。廉纖一雨長層斑。摩挲甲乙尋題品。深追逐風騷媿老孱。拄笏時臨窗裡岫（鈇）。掛冠期遠市中闤。孤高合有神僊伴（深）。蒼翠始知圖畫慳。安石東山非久計（鈇）。子期南郭偶偷閒（深）。翰林咳唾皆珠玉。野老蕪詞合見刪（鈇）。",
-      "author": "張鈇"
+      "sentence": "右瑞應圖一卷。迺宋高宗南渡時事也。淳熙間畫院李嵩寫圖進呈。以紀一時聖瑞。元時散落人間。袁清容物色得之。國初復入魏府。近楚黃大賈舉以示余。而題識割去。遂為易之。夏日重裝。因記歲月云。嘉靖歲次辛丑（西元一五四一年）孟秋上浣。檇李墨林山人項元汴書於天籟閣。",
+      "author": "項元汴"
     },
     {
-      "authorcid": 33841,
-      "authoraid": "A045258",
+      "authorcid": 35003,
+      "authoraid": "A004662",
       "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "嵩瑞",
+          "cid": 350065,
+          "name": "嵩瑞",
+          "aid": "unknow"
+        },
         {
           "type": "Person",
           "start": 13,
-          "end": 15,
-          "span": "群仙"
+          "end": 16,
+          "span": "賞鑒家"
         },
         {
-          "type": "Location",
-          "start": 24,
-          "end": 26,
-          "span": "湖上"
+          "type": "PersonName",
+          "start": 34,
+          "end": 36,
+          "span": "子京",
+          "cid": 30328,
+          "name": "項元汴",
+          "aid": "unknow"
         },
         {
-          "type": "Thing",
-          "start": 32,
-          "end": 33,
-          "span": "簾"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 44,
-          "span": "佩劍"
-        },
-        {
-          "type": "Thing",
-          "start": 51,
-          "end": 52,
-          "span": "笙"
-        },
-        {
-          "type": "Thing",
-          "start": 53,
-          "end": 54,
-          "span": "月"
-        },
-        {
-          "type": "Time",
-          "start": 56,
-          "end": 58,
-          "span": "後夜"
-        },
-        {
-          "type": "Location",
-          "start": 58,
+          "type": "Person",
+          "start": 59,
           "end": 61,
-          "span": "中庭頭"
+          "span": "古人"
         },
         {
           "type": "Thing",
-          "start": 86,
+          "start": 70,
+          "end": 72,
+          "span": "拱璧"
+        },
+        {
+          "type": "PersonName",
+          "start": 84,
           "end": 87,
-          "span": "花"
-        },
-        {
-          "type": "Thing",
-          "start": 90,
-          "end": 92,
-          "span": "松竹"
-        },
-        {
-          "type": "Thing",
-          "start": 98,
-          "end": 100,
-          "span": "黃花"
-        },
-        {
-          "type": "LocationName",
-          "start": 106,
-          "end": 108,
-          "span": "淮南",
-          "aid": "PL000000000142",
-          "cid": 20309
-        },
-        {
-          "type": "Thing",
-          "start": 112,
-          "end": 114,
-          "span": "水風"
-        },
-        {
-          "type": "Thing",
-          "start": 116,
-          "end": 119,
-          "span": "木犀香"
+          "span": "董其昌",
+          "cid": 35003,
+          "name": "董其昌",
+          "aid": "A004662"
         }
       ],
-      "sentence": "名山會仙作一首。群峰題品作群仙。浪跡虛名本偶然。湖上千年浮遠浪。簾開今日對高眠。忽看佩劍凌空碧。疑有吹笙向月圓。後夜中庭頭可點。欲將真訣問先天。（下註浪跡作幻跡五字。）\n栽花。先栽松竹映迴廊。更插黃花看晚霜。地接淮南秋信早。水風偏愛木犀香。深。",
-      "author": "陸深"
-    },
-    {
-      "authorcid": 33841,
-      "authoraid": "A045258",
-      "output": [],
-      "sentence": "深",
-      "author": "陸深"
-    },
-    {
-      "authorcid": 202554,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Location",
-          "start": 0,
-          "end": 3,
-          "span": "會僊山"
-        },
-        {
-          "type": "Thing",
-          "start": 5,
-          "end": 8,
-          "span": "會僊山"
-        },
-        {
-          "type": "Person",
-          "start": 17,
-          "end": 20,
-          "span": "陸先生"
-        },
-        {
-          "type": "Thing",
-          "start": 30,
-          "end": 32,
-          "span": "泉石"
-        },
-        {
-          "type": "Thing",
-          "start": 38,
-          "end": 40,
-          "span": "佳石"
-        },
-        {
-          "type": "Location",
-          "start": 45,
-          "end": 47,
-          "span": "北莊"
-        },
-        {
-          "type": "Thing",
-          "start": 56,
-          "end": 58,
-          "span": "小山"
-        },
-        {
-          "type": "PersonName",
-          "start": 83,
-          "end": 85,
-          "span": "呂公",
-          "cid": 394355,
-          "name": "呂公",
-          "aid": "A007770"
-        },
-        {
-          "type": "PersonName",
-          "start": 111,
-          "end": 113,
-          "span": "真人",
-          "cid": 128533,
-          "name": "邵元節",
-          "aid": "unknow"
-        },
-        {
-          "type": "Thing",
-          "start": 119,
-          "end": 121,
-          "span": "蓑衣"
-        },
-        {
-          "type": "Person",
-          "start": 128,
-          "end": 132,
-          "span": "三夆居士"
-        },
-        {
-          "type": "Thing",
-          "start": 156,
-          "end": 158,
-          "span": "蓑衣"
-        },
-        {
-          "type": "Thing",
-          "start": 165,
-          "end": 167,
-          "span": "湖石"
-        },
-        {
-          "type": "Thing",
-          "start": 190,
-          "end": 192,
-          "span": "群峰"
-        },
-        {
-          "type": "Thing",
-          "start": 198,
-          "end": 200,
-          "span": "小峰"
-        },
-        {
-          "type": "Person",
-          "start": 236,
-          "end": 238,
-          "span": "先生"
-        },
-        {
-          "type": "Person",
-          "start": 255,
-          "end": 257,
-          "span": "先生"
-        },
-        {
-          "type": "Person",
-          "start": 300,
-          "end": 302,
-          "span": "鄙人"
-        },
-        {
-          "type": "Thing",
-          "start": 303,
-          "end": 305,
-          "span": "泉石"
-        },
-        {
-          "type": "Thing",
-          "start": 310,
-          "end": 312,
-          "span": "砭藥"
-        },
-        {
-          "type": "Thing",
-          "start": 313,
-          "end": 317,
-          "span": "嘉山勝水"
-        },
-        {
-          "type": "Person",
-          "start": 327,
-          "end": 329,
-          "span": "名家"
-        },
-        {
-          "type": "Thing",
-          "start": 341,
-          "end": 343,
-          "span": "巨石"
-        },
-        {
-          "type": "Person",
-          "start": 363,
-          "end": 364,
-          "span": "吾"
-        },
-        {
-          "type": "Person",
-          "start": 373,
-          "end": 375,
-          "span": "先生"
-        },
-        {
-          "type": "Person",
-          "start": 453,
-          "end": 455,
-          "span": "先生"
-        },
-        {
-          "type": "Person",
-          "start": 473,
-          "end": 475,
-          "span": "先生"
-        },
-        {
-          "type": "Thing",
-          "start": 490,
-          "end": 492,
-          "span": "磐石"
-        },
-        {
-          "type": "PersonName",
-          "start": 510,
-          "end": 512,
-          "span": "子房",
-          "cid": 126773,
-          "name": "王漢",
-          "aid": "A003195"
-        },
-        {
-          "type": "Time",
-          "start": 539,
-          "end": 543,
-          "span": "正德乙亥"
-        },
-        {
-          "type": "Time",
-          "start": 544,
-          "end": 557,
-          "span": "西元一五一五年）秋八月朔旦"
-        }
-      ],
-      "sentence": "會僊山記。會僊山。以形似名也。雲間陸先生以翰林編修在告。雅愛泉石。親知以諸品佳石遺之。乃於北莊願豐堂之後庭。壘一小山。其中峰矻立。倍尋而高。中心二大竅。若兩口相沓。曰呂公。西一峰曰蔴衣道者。其紋皴斮。蔴衣似之。又一峰曰蓑衣真人。其紋襳襹。蓑衣似之。東一峰曰三夆居士。形骨昌侈。不受拘束。似邋遢也。合而名之曰會僊。蓑衣為武康。其三皆湖石。餘錦川武康諸小峰。不在是數。主峰虛中若受。而群峰離立環拱。諸小峰斷而復續。或趨而從。或去而顧。咸若有情。且風致蕭散。又出於靈秀之餘。余慕先生久。今茲款門。山適經始。不日而成。先生顧余曰。會僊山名。一時得於形似之偶然。方成而子適來。若有不偶然者。宜有文以紀之。余越之鄙人。泉石膏肓。不受砭藥。嘉山勝水。足跡\n殆半。而江左名家。凡有山者無所不到。廣地巨石。十百於此者有之。求其布置合宜如茲山者。吾目未之嘗經焉。蓋以先生胸中壑（點去）丘壑。得之天賦。近以使事。馳驅南北。凡有形勝。靡不收覽。故其巧思。有奪造化而為工者。郗超知謝玄於履屐之材。各得其任。因料淮淝之功必勝。余以是知先生奠安社稷之具矣。安石不出。如蒼生何。先生允宜蚤出。而大展設施。置社稷於磐石之固。然後乞身高蹈。以赴會仙之樂。為子房從赤松補舊案。未晚也。余雖老。尚當杖策相存。姑志以竢。正德乙亥（西元一五一五年）秋八月朔旦。張鈇識併摹。",
-      "author": "張鈇"
-    },
-    {
-      "authorcid": 202554,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Time",
-          "start": 0,
-          "end": 4,
-          "span": "正德乙亥"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 18,
-          "span": "西元一五一五年）秋八月朔旦"
-        },
-        {
-          "type": "PersonName",
-          "start": 19,
-          "end": 21,
-          "span": "張鈇",
-          "cid": 202554,
-          "name": "張鈇",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "正德乙亥（西元一五一五年）秋八月朔旦。張鈇識併摹。",
-      "author": "張鈇"
-    },
-    {
-      "authorcid": 277938,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 3,
-          "span": "會仙橋"
-        },
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 8,
-          "span": "碧玉欄干"
-        },
-        {
-          "type": "Metric",
-          "start": 8,
-          "end": 11,
-          "span": "三百尺"
-        },
-        {
-          "type": "Thing",
-          "start": 12,
-          "end": 14,
-          "span": "大江"
-        },
-        {
-          "type": "LocationName",
-          "start": 17,
-          "end": 19,
-          "span": "蓬瀛",
-          "aid": "PL000000055452"
-        },
-        {
-          "type": "Person",
-          "start": 20,
-          "end": 22,
-          "span": "群仙"
-        },
-        {
-          "type": "Person",
-          "start": 37,
-          "end": 39,
-          "span": "俗士"
-        },
-        {
-          "type": "PersonName",
-          "start": 41,
-          "end": 43,
-          "span": "沈雲",
-          "cid": 277938,
-          "name": "沈雲",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "會仙橋。碧玉欄干三百尺。大江東去是蓬瀛。群仙長日（一字殘損）來往。肯許人間俗士登。沈雲。",
-      "author": "沈雲"
-    },
-    {
-      "authorcid": 277938,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "PersonName",
-          "start": 0,
-          "end": 2,
-          "span": "沈雲",
-          "cid": 277938,
-          "name": "沈雲",
-          "aid": "unknow"
-        }
-      ],
-      "sentence": "沈雲",
-      "author": "沈雲"
-    },
-    {
-      "authorcid": 277938,
-      "authoraid": "unknow",
-      "output": [
-        {
-          "type": "Thing",
-          "start": 0,
-          "end": 3,
-          "span": "鼇頭石"
-        },
-        {
-          "type": "Thing",
-          "start": 4,
-          "end": 6,
-          "span": "玉堂"
-        },
-        {
-          "type": "Thing",
-          "start": 8,
-          "end": 9,
-          "span": "石"
-        },
-        {
-          "type": "Location",
-          "start": 19,
-          "end": 21,
-          "span": "湖海"
-        },
-        {
-          "type": "Thing",
-          "start": 28,
-          "end": 30,
-          "span": "雷風"
-        },
-        {
-          "type": "LocationName",
-          "start": 31,
-          "end": 33,
-          "span": "九州",
-          "aid": "PL000000000083"
-        },
-        {
-          "type": "Thing",
-          "start": 40,
-          "end": 41,
-          "span": "山"
-        },
-        {
-          "type": "Thing",
-          "start": 42,
-          "end": 44,
-          "span": "神丘"
-        },
-        {
-          "type": "Time",
-          "start": 45,
-          "end": 47,
-          "span": "百年"
-        },
-        {
-          "type": "LocationName",
-          "start": 49,
-          "end": 50,
-          "span": "臺",
-          "aid": "PL000000048155"
-        }
-      ],
-      "sentence": "鼇頭石。玉堂一卷石。元是鼇頭化。何年別湖海。來作群僊駕。雷風震九州。此地（點去）山如神丘。百年獨登臺。安坐無他憂。夢窩。",
-      "author": "沈雲"
-    },
-    {
-      "authorcid": 277938,
-      "authoraid": "unknow",
-      "output": [],
-      "sentence": "夢窩",
-      "author": "沈雲"
+      "sentence": "宋李嵩瑞應圖。為海內名物。賞鑒家莫不稱之。今觀其用筆設色高古不倫。項子京購得時已遺題識。茲復散軼八幀。余深為惋惜。雖然古人片楮尺幅。獲之已如拱璧。況此卷乎。宜善藏無斁。董其昌鑒定。",
+      "author": "董其昌"
     }
   ]
 }

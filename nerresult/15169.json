@@ -1,0 +1,19 @@
+{
+  "filefroms": "15169.json",
+  "sentences": [
+    {
+      "authorcid": 43819,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 3,
+          "span": "洪谷子"
+        }
+      ],
+      "sentence": "洪谷子荊浩",
+      "author": "荊浩"
+    }
+  ]
+}

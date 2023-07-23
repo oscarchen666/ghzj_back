@@ -1,0 +1,55 @@
+{
+  "filefroms": "5525.json",
+  "sentences": [
+    {
+      "authorcid": 65886,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 5,
+          "span": "秋江晚渚圖"
+        },
+        {
+          "type": "Time",
+          "start": 6,
+          "end": 8,
+          "span": "庚午"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 20,
+          "span": "西元一六九０年）春三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 23,
+          "span": "李晞",
+          "cid": 37068,
+          "name": "李晞",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 24,
+          "end": 25,
+          "span": "筆"
+        },
+        {
+          "type": "PersonName",
+          "start": 26,
+          "end": 30,
+          "span": "烏目山人",
+          "cid": 65886,
+          "name": "王翬",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "秋江晚渚圖。庚午（西元一六九０年）春三月臨李晞古筆。烏目山人石谷子王翬。",
+      "author": "王翬"
+    }
+  ]
+}

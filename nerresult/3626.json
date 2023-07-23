@@ -1,0 +1,40 @@
+{
+  "filefroms": "3626.json",
+  "sentences": [
+    {
+      "authorcid": 14563,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 2,
+          "span": "癸卯"
+        },
+        {
+          "type": "Time",
+          "start": 3,
+          "end": 10,
+          "span": "西元一六○三年"
+        },
+        {
+          "type": "Time",
+          "start": 11,
+          "end": 13,
+          "span": "秋日"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 17,
+          "span": "陳煥",
+          "cid": 14563,
+          "name": "陳煥",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "癸卯（西元一六○三年）秋日寫。陳煥。",
+      "author": "陳煥"
+    }
+  ]
+}

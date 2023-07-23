@@ -1,0 +1,274 @@
+{
+  "filefroms": "5391.json",
+  "sentences": [
+    {
+      "authorcid": 561100,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 1,
+          "end": 3,
+          "span": "郡邊",
+          "cid": 101138
+        }
+      ],
+      "sentence": "魏郡邊魯景昭製",
+      "author": "邊文進"
+    },
+    {
+      "authorcid": 12233,
+      "authoraid": "A018689",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 5,
+          "span": "花鳥"
+        },
+        {
+          "type": "PersonName",
+          "start": 8,
+          "end": 10,
+          "span": "趙昌",
+          "cid": 32098,
+          "name": "趙昌",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 12,
+          "end": 13,
+          "span": "吾"
+        },
+        {
+          "type": "PersonName",
+          "start": 14,
+          "end": 16,
+          "span": "景昭",
+          "cid": 140384,
+          "name": "楊璡",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 34,
+          "end": 37,
+          "span": "百爵圖"
+        },
+        {
+          "type": "Thing",
+          "start": 48,
+          "end": 50,
+          "span": "花鳥"
+        }
+      ],
+      "sentence": "繪事如花鳥稱徐熙趙昌。而吾朝景昭邊君。駸駸繼起之。更能超出三昧。茲卷百爵圖。筆法圓勁。氣韻生動。花鳥之間各含意態。足稱名筆矣。寶之秘之。瓜涇徐源。",
+      "author": "徐源"
+    },
+    {
+      "authorcid": 12233,
+      "authoraid": "A018689",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 4,
+          "span": "瓜涇徐源"
+        }
+      ],
+      "sentence": "瓜涇徐源",
+      "author": "徐源"
+    },
+    {
+      "authorcid": 34580,
+      "authoraid": "A045075",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 5,
+          "span": "二泉邵寶觀"
+        }
+      ],
+      "sentence": "二泉邵寶觀",
+      "author": "邵寶"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 11,
+          "span": "成化丙午春三月廿又二日"
+        },
+        {
+          "type": "Location",
+          "start": 13,
+          "end": 17,
+          "span": "許氏山莊"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "成化丙午春三月廿又二日偶遇許氏山莊。出以示余相賞。聊記歲月云。延陵吳寬。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "延陵",
+          "cid": 12705
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "延陵吳寬",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 1,
+          "end": 3,
+          "span": "昭先",
+          "cid": 47659,
+          "name": "陳瓊",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 7,
+          "span": "花鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 21,
+          "end": 23,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 35,
+          "end": 37,
+          "span": "趙昌",
+          "cid": 24404,
+          "name": "趙昌",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "景昭先生以花鳥名于世。凡有所作無不臻妙。而此卷尤為入神。展閱數四。便覺趙昌輩不足道也。高陽許初。",
+      "author": "許初"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "高陽許初",
+      "author": "許初"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "畫師",
+          "cid": "unknow",
+          "name": "皎然",
+          "aid": "A008833"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 18,
+          "span": "竹外"
+        },
+        {
+          "type": "Thing",
+          "start": 19,
+          "end": 23,
+          "span": "踈梅凍雪"
+        },
+        {
+          "type": "Thing",
+          "start": 26,
+          "end": 28,
+          "span": "寒雀"
+        },
+        {
+          "type": "Time",
+          "start": 32,
+          "end": 42,
+          "span": "嘉靖戊午秋八月十二日"
+        },
+        {
+          "type": "LocationName",
+          "start": 42,
+          "end": 44,
+          "span": "雁門",
+          "cid": 400610
+        }
+      ],
+      "sentence": "畫師筆法挽天成。揮灑無雙更逼真。竹外扶踈梅凍雪。紛紛寒雀自相爭。嘉靖戊午秋八月十二日雁門文彭。",
+      "author": "文彭"
+    },
+    {
+      "authorcid": 34677,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 10,
+          "span": "嘉靖戊午秋八月十二日"
+        },
+        {
+          "type": "LocationName",
+          "start": 10,
+          "end": 12,
+          "span": "雁門",
+          "cid": 400610
+        },
+        {
+          "type": "PersonName",
+          "start": 12,
+          "end": 14,
+          "span": "文彭",
+          "cid": 34677,
+          "name": "文彭",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "嘉靖戊午秋八月十二日雁門文彭",
+      "author": "文彭"
+    }
+  ]
+}

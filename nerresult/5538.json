@@ -1,0 +1,51 @@
+{
+  "filefroms": "5538.json",
+  "sentences": [
+    {
+      "authorcid": 72046,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Organization",
+          "start": 0,
+          "end": 3,
+          "span": "翰林院"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "王敬銘",
+          "cid": 72046,
+          "name": "王敬銘",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "翰林院修撰臣王敬銘恭畫。",
+      "author": "王敬銘"
+    },
+    {
+      "authorcid": 72046,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Organization",
+          "start": 0,
+          "end": 3,
+          "span": "翰林院"
+        },
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 9,
+          "span": "王敬銘",
+          "cid": 72046,
+          "name": "王敬銘",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "翰林院修撰臣王敬銘恭畫。",
+      "author": "王敬銘"
+    }
+  ]
+}

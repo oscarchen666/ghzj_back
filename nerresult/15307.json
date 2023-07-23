@@ -1,0 +1,28 @@
+{
+  "filefroms": "15307.json",
+  "sentences": [
+    {
+      "authorcid": 33891,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Person",
+          "start": 2,
+          "end": 4,
+          "span": "龍孫"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "道人",
+          "cid": 25176,
+          "name": "孫仲鰲",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "春到龍孫滿地生。未曾出土節先成。可憐無个伶倫眼。鎮日垂垂獨自清。梅道人戲作。",
+      "author": "吳鎮"
+    }
+  ]
+}

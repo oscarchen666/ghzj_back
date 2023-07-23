@@ -2,27 +2,261 @@
   "filefroms": "5416.json",
   "sentences": [
     {
-      "authorcid": 59688,
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "正德戊辰"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 12,
+          "span": "西元一五０八年"
+        },
+        {
+          "type": "Location",
+          "start": 16,
+          "end": 19,
+          "span": "學圃堂"
+        },
+        {
+          "type": "PersonName",
+          "start": 22,
+          "end": 24,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        }
+      ],
+      "sentence": "正德戊辰（西元一五０八年）。畫於學圃堂。晉昌唐寅。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 34868,
+      "authoraid": "A018140",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 2,
+          "span": "歐陽",
+          "cid": 12197,
+          "name": "歐陽",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 42,
+          "end": 44,
+          "span": "波濤"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "風雨"
+        },
+        {
+          "type": "Thing",
+          "start": 63,
+          "end": 65,
+          "span": "金鐵"
+        },
+        {
+          "type": "Person",
+          "start": 87,
+          "end": 89,
+          "span": "人馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 95,
+          "end": 97,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "PersonName",
+          "start": 108,
+          "end": 110,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "Thing",
+          "start": 112,
+          "end": 114,
+          "span": "星月"
+        },
+        {
+          "type": "Thing",
+          "start": 117,
+          "end": 119,
+          "span": "明河"
+        },
+        {
+          "type": "Location",
+          "start": 129,
+          "end": 131,
+          "span": "樹間"
+        },
+        {
+          "type": "Thing",
+          "start": 215,
+          "end": 217,
+          "span": "豐草"
+        },
+        {
+          "type": "Thing",
+          "start": 228,
+          "end": 230,
+          "span": "佳木"
+        },
+        {
+          "type": "Thing",
+          "start": 236,
+          "end": 237,
+          "span": "草"
+        },
+        {
+          "type": "Thing",
+          "start": 243,
+          "end": 244,
+          "span": "木"
+        },
+        {
+          "type": "Thing",
+          "start": 247,
+          "end": 248,
+          "span": "葉"
+        },
+        {
+          "type": "Person",
+          "start": 268,
+          "end": 270,
+          "span": "刑官"
+        },
+        {
+          "type": "Time",
+          "start": 330,
+          "end": 332,
+          "span": "七月"
+        },
+        {
+          "type": "Thing",
+          "start": 360,
+          "end": 362,
+          "span": "草木"
+        },
+        {
+          "type": "PersonName",
+          "start": 370,
+          "end": 371,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Thing",
+          "start": 372,
+          "end": 374,
+          "span": "動物"
+        },
+        {
+          "type": "Thing",
+          "start": 427,
+          "end": 429,
+          "span": "槁木"
+        },
+        {
+          "type": "Thing",
+          "start": 435,
+          "end": 437,
+          "span": "星星"
+        },
+        {
+          "type": "Thing",
+          "start": 441,
+          "end": 443,
+          "span": "金石"
+        },
+        {
+          "type": "Thing",
+          "start": 448,
+          "end": 450,
+          "span": "草木"
+        },
+        {
+          "type": "PersonName",
+          "start": 468,
+          "end": 470,
+          "span": "童子",
+          "cid": "unknow",
+          "name": "鳩摩羅多",
+          "aid": "A002857"
+        },
+        {
+          "type": "PersonName",
+          "start": 496,
+          "end": 498,
+          "span": "唐寅",
+          "cid": 34868,
+          "name": "唐寅",
+          "aid": "A018140"
+        },
+        {
+          "type": "Location",
+          "start": 500,
+          "end": 503,
+          "span": "學圃堂"
+        }
+      ],
+      "sentence": "歐陽子方夜讀書。聞有聲自西南來者。悚然而聽之曰。異哉。初淅瀝以蕭颯。忽奔騰而砰湃。如波濤夜驚。風雨驟至。其觸於物也。鏦鏦錚錚。金鐵皆鳴。又如赴敵之兵。銜枚疾走。不聞號令。但聞人馬之行聲。予謂童子。此何聲也。汝出視之。童子曰。星月皎潔。明河在天。四無人聲。聲在樹間。予曰。噫嘻悲哉。此秋聲也。胡為乎來哉。蓋夫秋之為狀也。其色慘澹。烟霏雲斂。其容清明。天高日晶。其氣懍冽。砭人肌骨。其意蕭條。山川寂寥。故其為聲也。淒淒切切。呼號奮發。豐草綠縟而爭先（點去）茂。佳木蔥蘢而可悅。草拂之而色變。木遭之而葉脫。其所以摧敗雲落者。乃一氣之餘烈。夫秋刑官也。於時為陰。又兵象也。於行為金。是謂天地之義氣。常以肅殺而為心。天之於物。春生秋實。故其在樂也。商聲主西方之音。夷則為七月之律商。傷也。物既老而悲傷。夷戮也。物過盛而當殺。嗟夫。草木無情。有時飄零。人為動物。惟物之靈。百憂感其心。萬事勞其形。有動乎中。必搖其精。而況思其力之所不及。憂其智之所不能。宜其渥然丹者為槁木。黟然黑者為星星。奈何非金石之質。欲與草木而爭榮。念誰為之戕賦。亦何恨乎秋聲。童子莫對。垂頭而睡。但聞四壁蟲聲唧唧。如助余之嘆息。蘇臺唐寅書於學圃堂。",
+      "author": "唐寅"
+    },
+    {
+      "authorcid": 128788,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Location",
+          "start": 2,
+          "end": 4,
+          "span": "樹間"
+        },
+        {
+          "type": "Thing",
+          "start": 5,
+          "end": 8,
+          "span": "周天球"
+        }
+      ],
+      "sentence": "聲在樹間。周天球",
+      "author": "周天球"
+    },
+    {
+      "authorcid": 128788,
       "authoraid": "unknow",
       "output": [
         {
           "type": "Thing",
-          "start": 2,
-          "end": 4,
-          "span": "香雪"
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 9,
-          "span": "吳應枚",
-          "cid": 59688,
-          "name": "吳應枚",
-          "aid": "unknow"
+          "start": 0,
+          "end": 3,
+          "span": "周天球"
         }
       ],
-      "sentence": "萬橫香雪。臣吳應枚。",
-      "author": "吳應枚"
+      "sentence": "周天球",
+      "author": "周天球"
     }
   ]
 }

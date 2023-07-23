@@ -1,0 +1,34 @@
+{
+  "filefroms": "3543.json",
+  "sentences": [
+    {
+      "authorcid": 260826,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "正統二年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 15,
+          "span": "西元一四三七年）四月"
+        },
+        {
+          "type": "PersonName",
+          "start": 19,
+          "end": 22,
+          "span": "劉仲賢",
+          "cid": 260826,
+          "name": "劉仲賢",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "正統二年（西元一四三七年）四月既望。臣劉仲賢謹寫。",
+      "author": "劉仲賢"
+    }
+  ]
+}

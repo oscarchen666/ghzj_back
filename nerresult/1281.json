@@ -2,60 +2,529 @@
   "filefroms": "1281.json",
   "sentences": [
     {
-      "authorcid": 250028,
+      "authorcid": 106931,
       "authoraid": "unknow",
       "output": [
         {
-          "type": "Time",
+          "type": "Person",
           "start": 0,
-          "end": 4,
-          "span": "乾隆三年"
-        },
-        {
-          "type": "Time",
-          "start": 5,
-          "end": 12,
-          "span": "西元一七三八年"
+          "end": 2,
+          "span": "麗人"
         },
         {
           "type": "PersonName",
-          "start": 14,
-          "end": 16,
-          "span": "金昆",
-          "cid": 250028,
-          "name": "金昆",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 18,
-          "end": 20,
-          "span": "盧湛",
-          "cid": 178705,
-          "name": "盧湛",
-          "aid": "unknow"
-        },
-        {
-          "type": "PersonName",
-          "start": 23,
-          "end": 25,
-          "span": "至道",
-          "cid": 206296,
-          "name": "閻邦",
-          "aid": "A022327"
-        },
-        {
-          "type": "PersonName",
-          "start": 27,
-          "end": 29,
-          "span": "吳桂",
-          "cid": 478186,
-          "name": "吳桂",
+          "start": 4,
+          "end": 7,
+          "span": "張文淵",
+          "cid": 106931,
+          "name": "張文淵",
           "aid": "unknow"
         }
       ],
-      "sentence": "乾隆三年（西元一七三八年）臣金昆。臣盧湛。臣程至道。臣吳桂。奉敕合筆恭畫。",
-      "author": "金昆"
+      "sentence": "麗人行。張文淵。",
+      "author": "張文淵"
+    },
+    {
+      "authorcid": 106931,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "張文淵",
+          "cid": 106931,
+          "name": "張文淵",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "張文淵",
+      "author": "張文淵"
+    },
+    {
+      "authorcid": 133126,
+      "authoraid": "A008288",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "麗人"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "杜子美",
+          "cid": "unknow",
+          "name": "杜甫",
+          "aid": "A005221"
+        },
+        {
+          "type": "Time",
+          "start": 9,
+          "end": 13,
+          "span": "三月三日"
+        },
+        {
+          "type": "LocationName",
+          "start": 18,
+          "end": 21,
+          "span": "安水邊",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "Person",
+          "start": 22,
+          "end": 24,
+          "span": "麗人"
+        },
+        {
+          "type": "Thing",
+          "start": 37,
+          "end": 39,
+          "span": "骨肉"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 45,
+          "span": "繡羅衣裳"
+        },
+        {
+          "type": "Thing",
+          "start": 51,
+          "end": 56,
+          "span": "孔雀銀麒麟"
+        },
+        {
+          "type": "Location",
+          "start": 57,
+          "end": 59,
+          "span": "頭上"
+        },
+        {
+          "type": "Thing",
+          "start": 68,
+          "end": 69,
+          "span": "葉"
+        },
+        {
+          "type": "Thing",
+          "start": 70,
+          "end": 72,
+          "span": "鬢脣"
+        },
+        {
+          "type": "Location",
+          "start": 73,
+          "end": 75,
+          "span": "背後"
+        },
+        {
+          "type": "Thing",
+          "start": 79,
+          "end": 80,
+          "span": "珠"
+        },
+        {
+          "type": "Thing",
+          "start": 103,
+          "end": 105,
+          "span": "紫駝"
+        },
+        {
+          "type": "Thing",
+          "start": 108,
+          "end": 110,
+          "span": "翠釜"
+        },
+        {
+          "type": "Thing",
+          "start": 119,
+          "end": 121,
+          "span": "犀筋"
+        },
+        {
+          "type": "Thing",
+          "start": 127,
+          "end": 129,
+          "span": "鑾刀"
+        },
+        {
+          "type": "Person",
+          "start": 143,
+          "end": 145,
+          "span": "御廚"
+        },
+        {
+          "type": "Thing",
+          "start": 151,
+          "end": 153,
+          "span": "簫鼓"
+        },
+        {
+          "type": "Thing",
+          "start": 169,
+          "end": 171,
+          "span": "鞍馬"
+        },
+        {
+          "type": "Thing",
+          "start": 178,
+          "end": 179,
+          "span": "馬"
+        },
+        {
+          "type": "Thing",
+          "start": 183,
+          "end": 186,
+          "span": "楊花雪"
+        },
+        {
+          "type": "Thing",
+          "start": 188,
+          "end": 190,
+          "span": "白蘋"
+        },
+        {
+          "type": "Thing",
+          "start": 191,
+          "end": 193,
+          "span": "青鳥"
+        },
+        {
+          "type": "Thing",
+          "start": 196,
+          "end": 198,
+          "span": "紅巾"
+        },
+        {
+          "type": "Person",
+          "start": 211,
+          "end": 213,
+          "span": "丞相"
+        }
+      ],
+      "sentence": "麗人行。杜子美作。三月三日天氣新。長安水邊多麗人。態濃意遠淑且真。肌理細膩骨肉勻。繡羅衣裳照暮春。蹙金孔雀銀麒麟。頭上何所有。翠微盍葉垂鬢脣。背後何所見。珠壓腰衱穩稱身。就中雲幕椒房親。賜名大國虢與秦。紫駝之峰出翠釜。水精之盤行素鱗。犀筋饜飫久未下。鑾刀縷切空紛綸。黃門飛鞚不動塵。御廚絲絡送八珍。簫鼓哀吟感鬼神。賓從雜遝實要津。後來鞍馬何逡巡。當軒下馬入錦裀。楊花雪落覆白蘋。青鳥飛去銜紅巾。炙手可熱勢絕倫。慎莫近前丞相嗔。",
+      "author": "錢溥"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 8,
+          "end": 10,
+          "span": "寶馬"
+        },
+        {
+          "type": "Thing",
+          "start": 16,
+          "end": 17,
+          "span": "雲"
+        },
+        {
+          "type": "LocationName",
+          "start": 19,
+          "end": 22,
+          "span": "安水邊",
+          "aid": "PL000000042492",
+          "cid": 5185
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 30,
+          "span": "麗人"
+        },
+        {
+          "type": "PersonName",
+          "start": 38,
+          "end": 40,
+          "span": "舜卿",
+          "cid": 23022,
+          "name": "李承",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 40,
+          "end": 43,
+          "span": "山亭上"
+        },
+        {
+          "type": "Time",
+          "start": 50,
+          "end": 54,
+          "span": "成化己亥"
+        },
+        {
+          "type": "Time",
+          "start": 56,
+          "end": 59,
+          "span": "後一日"
+        }
+      ],
+      "sentence": "圖中三國總傾城。寶馬春風百媚生。雲落長安水邊事。于今空寫麗人行。雲東逸史閱于舜卿山亭上。因為賦此。時成化己亥長至後一日。",
+      "author": "姚公綬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "舜卿",
+          "cid": 23022,
+          "name": "李承",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 8,
+          "end": 11,
+          "span": "山亭上"
+        },
+        {
+          "type": "Time",
+          "start": 18,
+          "end": 22,
+          "span": "成化己亥"
+        },
+        {
+          "type": "Time",
+          "start": 24,
+          "end": 27,
+          "span": "後一日"
+        }
+      ],
+      "sentence": "雲東逸史閱于舜卿山亭上。因為賦此。時成化己亥長至後一日。",
+      "author": "姚公綬"
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 6,
+          "end": 8,
+          "span": "三郎",
+          "cid": 19244,
+          "name": "李隆基（唐玄宗）",
+          "aid": "A024583"
+        },
+        {
+          "type": "LocationName",
+          "start": 16,
+          "end": 17,
+          "span": "蜀",
+          "aid": "PL000000034649",
+          "cid": 400070
+        },
+        {
+          "type": "Person",
+          "start": 20,
+          "end": 22,
+          "span": "麗人"
+        }
+      ],
+      "sentence": "三國傾人國。三郎久注情。不知西入蜀。曾見麗人行。應祥。",
+      "author": ""
+    },
+    {
+      "authorcid": "unknow",
+      "authoraid": "unknow",
+      "output": [],
+      "sentence": "應祥",
+      "author": ""
+    },
+    {
+      "authorcid": 39862,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 11,
+          "end": 12,
+          "span": "馬"
+        },
+        {
+          "type": "PersonName",
+          "start": 21,
+          "end": 22,
+          "span": "人",
+          "cid": 132663,
+          "name": "劉文耀",
+          "aid": "unknow"
+        },
+        {
+          "type": "Location",
+          "start": 28,
+          "end": 30,
+          "span": "水底"
+        },
+        {
+          "type": "PersonName",
+          "start": 33,
+          "end": 35,
+          "span": "宣子",
+          "cid": 11552,
+          "name": "劉達夫",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "賜名大國虢與秦。翩翩騎馬走清塵。如今看畫勞人意。只見當時水底春。沈宣子明賦。",
+      "author": "沈宣"
+    },
+    {
+      "authorcid": 39862,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "子明",
+          "cid": 924,
+          "name": "高旦",
+          "aid": "A008164"
+        }
+      ],
+      "sentence": "沈宣子明賦",
+      "author": "沈宣"
+    },
+    {
+      "authorcid": 10879,
+      "authoraid": "A004613",
+      "output": [
+        {
+          "type": "Person",
+          "start": 0,
+          "end": 2,
+          "span": "麗人"
+        },
+        {
+          "type": "PersonName",
+          "start": 4,
+          "end": 7,
+          "span": "杜子美",
+          "cid": "unknow",
+          "name": "杜甫",
+          "aid": "A005221"
+        },
+        {
+          "type": "Person",
+          "start": 8,
+          "end": 12,
+          "span": "秦虢夫人"
+        },
+        {
+          "type": "PersonName",
+          "start": 16,
+          "end": 18,
+          "span": "玉環",
+          "cid": 453080,
+          "name": "玉環",
+          "aid": "A043138"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 27,
+          "span": "周昉",
+          "cid": 476194,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "Person",
+          "start": 28,
+          "end": 30,
+          "span": "麗人"
+        },
+        {
+          "type": "PersonName",
+          "start": 37,
+          "end": 39,
+          "span": "元美",
+          "cid": 34717,
+          "name": "王世貞",
+          "aid": "A008120"
+        },
+        {
+          "type": "Thing",
+          "start": 41,
+          "end": 44,
+          "span": "調鸚圖"
+        },
+        {
+          "type": "Thing",
+          "start": 47,
+          "end": 49,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 60,
+          "end": 62,
+          "span": "虎頭",
+          "cid": 78170,
+          "name": "吳鼐",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 72,
+          "end": 74,
+          "span": "美人",
+          "cid": 56573,
+          "name": "柳是",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 77,
+          "end": 79,
+          "span": "周昉",
+          "cid": 476194,
+          "name": "周昉",
+          "aid": "A010757"
+        },
+        {
+          "type": "PersonName",
+          "start": 90,
+          "end": 93,
+          "span": "陳繼儒",
+          "cid": 10879,
+          "name": "陳繼儒",
+          "aid": "A004613"
+        }
+      ],
+      "sentence": "麗人行。杜子美刺秦虢夫人而作也。玉環肥婢得奇寵。故周昉圖麗人亦如之。余見王元美家藏調鸚圖。今見此卷。皆以姿媚勝。然實倣顧虎頭女史箴。洛神賦。龍眠美人。正與周昉同一筆意。觀此不虛也。陳繼儒題。",
+      "author": "陳繼儒"
+    },
+    {
+      "authorcid": 10879,
+      "authoraid": "A004613",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "陳繼儒",
+          "cid": 10879,
+          "name": "陳繼儒",
+          "aid": "A004613"
+        }
+      ],
+      "sentence": "陳繼儒題",
+      "author": "陳繼儒"
     }
   ]
 }

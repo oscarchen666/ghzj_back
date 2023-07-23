@@ -2,27 +2,435 @@
   "filefroms": "964.json",
   "sentences": [
     {
-      "authorcid": 59688,
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Location",
+          "start": 0,
+          "end": 4,
+          "span": "宣和內府"
+        },
+        {
+          "type": "Thing",
+          "start": 10,
+          "end": 13,
+          "span": "貢獒圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 15,
+          "end": 18,
+          "span": "柳諫議",
+          "cid": 33589,
+          "name": "柳公權",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 22,
+          "span": "楊少跋"
+        },
+        {
+          "type": "PersonName",
+          "start": 25,
+          "end": 28,
+          "span": "賈秋壑",
+          "cid": "unknow",
+          "name": "賈似道",
+          "aid": "A008217"
+        },
+        {
+          "type": "Time",
+          "start": 30,
+          "end": 32,
+          "span": "少時"
+        },
+        {
+          "type": "PersonName",
+          "start": 42,
+          "end": 44,
+          "span": "袁氏",
+          "cid": 105861,
+          "name": "袁氏",
+          "aid": "A022085"
+        },
+        {
+          "type": "Person",
+          "start": 66,
+          "end": 68,
+          "span": "古人"
+        },
+        {
+          "type": "Time",
+          "start": 70,
+          "end": 74,
+          "span": "至大三年"
+        },
+        {
+          "type": "Time",
+          "start": 75,
+          "end": 86,
+          "span": "西元一三一０年）春三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 88,
+          "end": 90,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "宣和內府所藏唐閻立本貢獒圖。有柳諫議及楊少跋。後歸賈秋壑。予少時曾一見之。近復從清容袁氏得此粉本。遂為摹此。稍具優孟衣冠。非敢云步武古人也。至大三年（西元一三一０年）春三月識。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 17690,
+      "authoraid": "A004030",
+      "output": [
+        {
+          "type": "Time",
+          "start": 0,
+          "end": 4,
+          "span": "至大三年"
+        },
+        {
+          "type": "Time",
+          "start": 5,
+          "end": 16,
+          "span": "西元一三一０年）春三月"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 20,
+          "span": "子昂",
+          "cid": 17690,
+          "name": "趙孟頫",
+          "aid": "A045743"
+        }
+      ],
+      "sentence": "至大三年（西元一三一０年）春三月識。子昂。",
+      "author": "趙孟頫"
+    },
+    {
+      "authorcid": 27965,
       "authoraid": "unknow",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "閻立本",
+          "cid": 94626,
+          "name": "閻立本",
+          "aid": "A009019"
+        },
+        {
+          "type": "Thing",
+          "start": 3,
+          "end": 6,
+          "span": "貢獒圖"
+        },
+        {
+          "type": "Thing",
+          "start": 20,
+          "end": 22,
+          "span": "此卷"
+        },
+        {
+          "type": "PersonName",
+          "start": 24,
+          "end": 26,
+          "span": "雪翁",
+          "cid": 48000,
+          "name": "陳虞之",
+          "aid": "unknow"
+        },
+        {
+          "type": "PersonName",
+          "start": 63,
+          "end": 66,
+          "span": "鄭元祐",
+          "cid": 27965,
+          "name": "鄭元祐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "閻立本貢獒圖為畫院名品。宣和譜載之詳矣。此卷乃松雪翁所摹。筆力高古。設色妍雅。宛見立本當年面目。真神品也。誰謂今不逮古哉。遂昌鄭元祐。",
+      "author": "鄭元祐"
+    },
+    {
+      "authorcid": 27965,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "遂昌",
+          "cid": 18376
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 5,
+          "span": "鄭元祐",
+          "cid": 27965,
+          "name": "鄭元祐",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "遂昌鄭元祐",
+      "author": "鄭元祐"
+    },
+    {
+      "authorcid": 33224,
+      "authoraid": "A015800",
+      "output": [
+        {
+          "type": "Person",
+          "start": 19,
+          "end": 21,
+          "span": "古人"
+        },
+        {
+          "type": "PersonName",
+          "start": 39,
+          "end": 42,
+          "span": "吳全節",
+          "cid": 33224,
+          "name": "吳全節",
+          "aid": "A015800"
+        },
+        {
+          "type": "Location",
+          "start": 44,
+          "end": 47,
+          "span": "荊茂堂"
+        }
+      ],
+      "sentence": "承旨肖物之妙。無不各極其致。況此迺臨摹古人之作。尤出神入化。非時流所能企及也。吳全節題于荊茂堂。",
+      "author": "吳全節"
+    },
+    {
+      "authorcid": 33224,
+      "authoraid": "A015800",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 3,
+          "span": "吳全節",
+          "cid": 33224,
+          "name": "吳全節",
+          "aid": "A015800"
+        },
+        {
+          "type": "Location",
+          "start": 5,
+          "end": 8,
+          "span": "荊茂堂"
+        }
+      ],
+      "sentence": "吳全節題于荊茂堂",
+      "author": "吳全節"
+    },
+    {
+      "authorcid": 129646,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "袁芳",
+          "cid": 129646,
+          "name": "袁芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "汝南袁芳拜觀。",
+      "author": "袁芳"
+    },
+    {
+      "authorcid": 129646,
+      "authoraid": "unknow",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "汝南",
+          "cid": 10061
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "袁芳",
+          "cid": 129646,
+          "name": "袁芳",
+          "aid": "unknow"
+        }
+      ],
+      "sentence": "汝南袁芳拜觀",
+      "author": "袁芳"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "金粟道人",
+          "cid": 113490,
+          "name": "顧德輝",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "金粟道人鑒藏。",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 33436,
+      "authoraid": "A018684",
+      "output": [
+        {
+          "type": "PersonName",
+          "start": 0,
+          "end": 4,
+          "span": "金粟道人",
+          "cid": 113490,
+          "name": "顧德輝",
+          "aid": "A018684"
+        }
+      ],
+      "sentence": "金粟道人鑒藏",
+      "author": "顧瑛"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "Time",
+          "start": 12,
+          "end": 14,
+          "span": "唐宋"
+        },
+        {
+          "type": "PersonName",
+          "start": 18,
+          "end": 21,
+          "span": "趙文敏",
+          "cid": "unknow",
+          "name": "趙孟頫",
+          "aid": "A004030"
+        },
+        {
+          "type": "Thing",
+          "start": 36,
+          "end": 39,
+          "span": "貢獒圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 66,
+          "end": 69,
+          "span": "陳居中",
+          "cid": 47873,
+          "name": "陳居中",
+          "aid": "unknow"
+        },
+        {
+          "type": "Person",
+          "start": 72,
+          "end": 73,
+          "span": "予"
+        },
+        {
+          "type": "Thing",
+          "start": 78,
+          "end": 81,
+          "span": "獵騎圖"
+        },
+        {
+          "type": "PersonName",
+          "start": 97,
+          "end": 99,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "畫至元室。別具生趣。絕去唐宋積習。惟趙文敏則猶守而不變。蓋去宋去遠耳。此貢獒圖謂倣閻立本。閻畫余未及見。故不欲臆斷。至細玩筆法則酷似陳居中。蓋與予家所藏居中獵騎圖絕類也。偶得展閱。爰筆記之。延陵吳寬。",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 33465,
+      "authoraid": "A016096",
+      "output": [
+        {
+          "type": "LocationName",
+          "start": 0,
+          "end": 2,
+          "span": "延陵",
+          "cid": 12705
+        },
+        {
+          "type": "PersonName",
+          "start": 2,
+          "end": 4,
+          "span": "吳寬",
+          "cid": 33465,
+          "name": "吳寬",
+          "aid": "A016096"
+        }
+      ],
+      "sentence": "延陵吳寬",
+      "author": "吳寬"
+    },
+    {
+      "authorcid": 34601,
+      "authoraid": "A044382",
       "output": [
         {
           "type": "Thing",
           "start": 0,
           "end": 4,
-          "span": "萬樹楓丹"
-        },
-        {
-          "type": "PersonName",
-          "start": 6,
-          "end": 9,
-          "span": "吳應枚",
-          "cid": 59688,
-          "name": "吳應枚",
-          "aid": "unknow"
+          "span": "松陵史鑑"
         }
       ],
-      "sentence": "萬樹楓丹。臣吳應枚。",
-      "author": "吳應枚"
+      "sentence": "松陵史鑑明古氏珍藏。",
+      "author": "史鑑"
+    },
+    {
+      "authorcid": 34601,
+      "authoraid": "A044382",
+      "output": [
+        {
+          "type": "Thing",
+          "start": 0,
+          "end": 4,
+          "span": "松陵史鑑"
+        }
+      ],
+      "sentence": "松陵史鑑明古氏珍藏",
+      "author": "史鑑"
     }
   ]
 }
