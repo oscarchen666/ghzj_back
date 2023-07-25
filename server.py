@@ -281,28 +281,33 @@ def yinzhang(pid):
     # print(yzlist[:10])
     return yzlist
 
-def changeyz(pid, yinzhang_imgs, topxs):
+def changeyz(pid, yinzhang_imgs, change_yzids):
     # 修改印章匹配结果
     dfyz = pd.read_excel("authorinfo/yzres.xlsx")
+    dfpp = pd.read_excel("data/印章信息表.xlsx")
+    # print(dfpp[dfpp["ID"]==change_yzids[0]])
+    # exit()
+    ppidlist = dfpp["ID"].tolist()
     yzidlist = dfyz["yinzhang_img"].tolist()
     for yinzhang_img in yinzhang_imgs:
         if yinzhang_img not in yzidlist:
             return f"{yinzhang_img}印章序号不正确"
-    for yinzhang_img, topx in zip(yinzhang_imgs, topxs):
+    for change_yzid in change_yzids:
+        change_yzid=int(change_yzid)
+        if change_yzid not in ppidlist:
+            return f"{change_yzid}匹配序号不正确"
+    for yinzhang_img, change_yzid in zip(yinzhang_imgs, change_yzids):
+        change_yzid=int(change_yzid)
         dfthis = dfyz[dfyz["yinzhang_img"]==yinzhang_img]
+        dfppthis = dfpp[dfpp["ID"]==change_yzid]
         # print(dfthis["pid"].values[0])
         if str(dfthis["pid"].values[0])!=pid:
-             return f"{yinzhang_img}印章序号不属于画作{pid}"
-        top1new = dfthis[topx]
-        top1_zznew = dfthis[topx+"_作者"]
-        top1_nrnew = dfthis[topx+"_印章内容"]
-        dfyz.loc[dfthis.index, topx] = dfthis["top1"]  
-        dfyz.loc[dfthis.index, topx+"_作者"] = dfthis["top1_作者"]  
-        dfyz.loc[dfthis.index, topx+"_印章内容"] = dfthis["top1_印章内容"]  
-        dfyz.loc[dfthis.index, "top1"] = top1new  
-        dfyz.loc[dfthis.index, "top1_作者"] = top1_zznew  
-        dfyz.loc[dfthis.index, "top1_印章内容"] = top1_nrnew
-        print(f"{pid}画作{yinzhang_img}印章top1和{topx}交换成功！")
+            return f"{yinzhang_img}印章序号不属于画作{pid}"
+        dfyz.loc[dfthis.index, "top1"] = str(change_yzid)
+        # dfyz.loc[dfthis.index, "top1"] = dfyz.loc[dfthis.index, "top1"].astype(int)   
+        dfyz.loc[dfthis.index, "top1_作者"] = dfppthis["名字"].values[0].rstrip()   
+        dfyz.loc[dfthis.index, "top1_印章内容"] = dfppthis["左侧印章释文"].values[0].rstrip()  
+        print(f"{pid}画作{yinzhang_img}印章top1修改成功！")
 
     # 将修改后的DataFrame写回到CSV文件  
     dfyz.to_excel("authorinfo/yzres.xlsx", index=False, encoding="UTF8")
@@ -322,15 +327,15 @@ def image(imgid,imgtype):
     # hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{}"
     # hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
     jtpath = "../../data/ChinesePainting/yinzhang/{}"
-    pppath = "../../data/ChinesePainting/seals/{}"
+    pppath = "../../../../data/zw_12121193/seals/seal_koutu/{}"
     hxpath = "../../data/ChinesePainting/seals_sslib_qiepian/{}"
-    hzpath = "../../data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
+    hzpath = "../../data/ChinesePainting/juan_changtu_yuantu/{}"
     if imgtype=="截图" :fullpath = jtpath.format(imgid)
     elif imgtype=="匹配":fullpath = pppath.format(imgid)
     elif imgtype=="画作":
         # 根据pid找paintingID
-        yzdf=pd.read_excel("authorinfo/yzres.xlsx")
-        ppid = yzdf[yzdf["pid"]==int(imgid)]["paintingID"].values[0]
+        yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
+        ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
         fullpath = hzpath.format(ppid)
     elif imgtype=="画心":fullpath = hxpath.format(imgid)
     print(fullpath)
@@ -636,7 +641,7 @@ def trytry():
     
 
 if __name__ == '__main__':
-    print(changeyz("101",["101_12__0","101_13__0"],["top2","top3"]))
+    print(changeyz("101",["101_12__0"],[523]))
     # trytry()
     # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))

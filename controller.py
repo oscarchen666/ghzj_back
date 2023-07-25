@@ -114,12 +114,9 @@ def changeyinzhang():
     # 更改印章匹配结果
     pid = request.args.get("pid")
     yinzhang_imgs = request.args.get("yzids").split(",")
-    topxs = request.args.get("topxs").split(",")
-    for topx in topxs:
-        if topx not in ["top2","top3","top4","top5"]:
-            return R.erro2()
-    if len(yinzhang_imgs)==len(topxs) and os.path.exists(f"nerresult/{pid}.json"):
-        result = changeyz(pid, yinzhang_imgs, topxs)
+    ppids = request.args.get("ppids").split(",")
+    if len(yinzhang_imgs)==len(ppids) and os.path.exists(f"nerresult/{pid}.json"):
+        result = changeyz(pid, yinzhang_imgs, ppids)
         return R.ok(result)
     return R.erro2()
 
