@@ -94,6 +94,7 @@ def getgaoliang(pid,name,type):
 @cross_origin(allow_headers="*")
 def getauinfoscore(pid):
     # 作者生卒年和得分
+    # 废弃
     resultnerfile = "authorinfo/"+pid+".json"
     if os.path.exists(resultnerfile):
         result = auinfoscore(pid)
@@ -106,6 +107,21 @@ def getyinzhanglist(pid):
     # 印章列表
     result = yinzhang(pid)
     return R.ok(result)
+
+@app.route("/changeyinzhang", methods=['GET'])
+@cross_origin(allow_headers="*")
+def changeyinzhang():
+    # 更改印章匹配结果
+    pid = request.args.get("pid")
+    yinzhang_imgs = request.args.get("yzids").split(",")
+    topxs = request.args.get("topxs").split(",")
+    for topx in topxs:
+        if topx not in ["top2","top3","top4","top5"]:
+            return R.erro2()
+    if len(yinzhang_imgs)==len(topxs) and os.path.exists(f"nerresult/{pid}.json"):
+        result = changeyz(pid, yinzhang_imgs, topxs)
+        return R.ok(result)
+    return R.erro2()
 
 @app.route("/getimg",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
@@ -149,12 +165,15 @@ def getpersonmatrix():
     addnames=request.args.get("addnames").split(",")
     addcids=request.args.get("addcids").split(",")
     
+    if os.path.exists("nerresult/"+pid+".json") and not os.path.exists("authorinfo/"+pid+".json"):
+        # 没生成作者列表，现场生成
+        authorlist(pid)    
     if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
         # 得有作者列表并且参数长度一致
         cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理
         result=personmatrix(pid,cname2id)
         return R.ok(result)
-    return R.erro2(msg ="请先请求/getauthorlist/")
+    return R.erro2()
 
 @app.route("/getpersonscore", methods=["GET"])
 @cross_origin(allow_headers="*")
@@ -163,6 +182,10 @@ def getpersonscore():
     pid=request.args.get("pid")
     addnames=request.args.get("addnames").split(",")
     addcids=request.args.get("addcids").split(",")
+    
+    if os.path.exists("nerresult/"+pid+".json") and not os.path.exists("authorinfo/"+pid+".json"):
+        # 没生成作者列表，现场生成
+        authorlist(pid)  
     if os.path.exists("authorinfo/"+pid+".json") and len(addnames)==len(addcids):
         # 得有作者列表并且参数长度一致
         cname2id = makecname2id(addnames,addcids)# 新增人物列表预处理

@@ -105,13 +105,13 @@ def aullistbydy(oldres):
     
 def authorlist(pid):
     # 印章作者列表
-    save_path = "authorinfo/"+pid+".json"
+    save_path = "authorinfo/"+str(pid)+".json"
     if os.path.exists(save_path):
         with open(save_path,"r",encoding="UTF8")as f:
             result = json.load(f)
         return aullistbydy(result)
     
-    yzdf = pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
+    yzdf = pd.read_excel("authorinfo/yzres.xlsx")
     with open("data/画作鉴藏统计5.json","r",encoding="UTF8") as f:
         jcdata = json.load(f)
     alist = list(yzdf[yzdf["pid"]==int(pid)]["top1_作者"].values)
@@ -242,7 +242,7 @@ def auinfoscore(pid):
 
 def yinzhang(pid):
     # 获取该画作的印章列表
-    yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
+    yzdf=pd.read_excel("authorinfo/yzres.xlsx")
 
     df_this = yzdf[yzdf["pid"]==int(pid)]
     yzaulist=list(set(df_this["top1_作者"].values))
@@ -281,6 +281,39 @@ def yinzhang(pid):
     # print(yzlist[:10])
     return yzlist
 
+def changeyz(pid, yinzhang_imgs, topxs):
+    # 修改印章匹配结果
+    dfyz = pd.read_excel("authorinfo/yzres.xlsx")
+    yzidlist = dfyz["yinzhang_img"].tolist()
+    for yinzhang_img in yinzhang_imgs:
+        if yinzhang_img not in yzidlist:
+            return f"{yinzhang_img}印章序号不正确"
+    for yinzhang_img, topx in zip(yinzhang_imgs, topxs):
+        dfthis = dfyz[dfyz["yinzhang_img"]==yinzhang_img]
+        # print(dfthis["pid"].values[0])
+        if str(dfthis["pid"].values[0])!=pid:
+             return f"{yinzhang_img}印章序号不属于画作{pid}"
+        top1new = dfthis[topx]
+        top1_zznew = dfthis[topx+"_作者"]
+        top1_nrnew = dfthis[topx+"_印章内容"]
+        dfyz.loc[dfthis.index, topx] = dfthis["top1"]  
+        dfyz.loc[dfthis.index, topx+"_作者"] = dfthis["top1_作者"]  
+        dfyz.loc[dfthis.index, topx+"_印章内容"] = dfthis["top1_印章内容"]  
+        dfyz.loc[dfthis.index, "top1"] = top1new  
+        dfyz.loc[dfthis.index, "top1_作者"] = top1_zznew  
+        dfyz.loc[dfthis.index, "top1_印章内容"] = top1_nrnew
+        print(f"{pid}画作{yinzhang_img}印章top1和{topx}交换成功！")
+
+    # 将修改后的DataFrame写回到CSV文件  
+    dfyz.to_excel("authorinfo/yzres.xlsx", index=False, encoding="UTF8")
+    # 修改作者列表文件
+    save_path = "authorinfo/"+pid+".json"
+    if os.path.exists(save_path):
+        os.remove(save_path)  
+        print(f"文件 {save_path} 已成功删除")
+    authorlist(pid)
+    return f"{pid}画作修改成功！"
+
 def image(imgid,imgtype):
     # 返回对应的图
     # 印章截图地址和印章匹配图地址
@@ -296,7 +329,7 @@ def image(imgid,imgtype):
     elif imgtype=="匹配":fullpath = pppath.format(imgid)
     elif imgtype=="画作":
         # 根据pid找paintingID
-        yzdf=pd.read_csv("authorinfo/yzres.csv",encoding="UTF8")
+        yzdf=pd.read_excel("authorinfo/yzres.xlsx")
         ppid = yzdf[yzdf["pid"]==int(imgid)]["paintingID"].values[0]
         fullpath = hzpath.format(ppid)
     elif imgtype=="画心":fullpath = hxpath.format(imgid)
@@ -573,37 +606,38 @@ def cid2name(cid):
     return out[0]["c_name_chn"]
 
 def trytry():
-    df1 = pd.read_excel("data/paintinglist.xlsx")
-    personlist = []
-    for index,row in df1.iterrows():
-        personlist.extend(row["全部人"].split(","))
-    personlist = list(set(personlist))
-    print(len(personlist))
-    spersonlist = []
-    for person in personlist:
-        sql = f"select c_birthyear,c_deathyear from biog_main where c_name_chn = '{person}'"
-        out=select("",sql)
-        if out:
-            if out[0]["c_birthyear"] or out[0]["c_deathyear"]:
-                 spersonlist.append(person)
-    print(len(spersonlist))
-    df2 = pd.read_excel("data\古籍讨论度new.xlsx")
-    hplist = df2["题跋人"].tolist()
-    for person in spersonlist:
-        if person not in hplist:
-            newrow= {"题跋人":person}
-            df2 = df2.append(newrow, ignore_index=True)
-    df2.to_excel("data\古籍讨论度newnew.xlsx")         
+    # df1 = pd.read_excel("data/paintinglist.xlsx")
+    # personlist = []
+    # for index,row in df1.iterrows():
+    #     personlist.extend(row["全部人"].split(","))
+    # personlist = list(set(personlist))
+    # print(len(personlist))
+    # spersonlist = []
+    # for person in personlist:
+    #     sql = f"select c_birthyear,c_deathyear from biog_main where c_name_chn = '{person}'"
+    #     out=select("",sql)
+    #     if out:
+    #         if out[0]["c_birthyear"] or out[0]["c_deathyear"]:
+    #              spersonlist.append(person)
+    # print(len(spersonlist))
+    # df2 = pd.read_excel("data\古籍讨论度new.xlsx")
+    # hplist = df2["题跋人"].tolist()
+    # for person in spersonlist:
+    #     if person not in hplist:
+    #         newrow= {"题跋人":person}
+    #         df2 = df2.append(newrow, ignore_index=True)
+    # df2.to_excel("data\古籍讨论度newnew.xlsx")         
 
         
-    # sql = "select * from biog_main where c_name_chn = '盧鴻'"
-    # out=select("",sql)
-    # print(out)
+    sql = "select * from biog_main where c_name_chn = '盧鴻'"
+    out=select("",sql)
+    print(out)
           
     
 
 if __name__ == '__main__':
-    trytry()
+    print(changeyz("101",["101_12__0","101_13__0"],["top2","top3"]))
+    # trytry()
     # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))
 
