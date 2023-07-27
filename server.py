@@ -32,13 +32,36 @@ def ner_search(pid):
 
 def paintinglist():
     # 获取全部画作列表
-    df = pd.read_excel("data/paintinglist.xlsx")
+    df1 = pd.read_excel("data/paintinglist.xlsx")
+    df2 = pd.read_excel("authorinfo/pid_author.xlsx")
     plist = []
-    for index,row in df.iterrows():
+    for _,row in df1.iterrows():
+        pid = row["pid"]
+        thisdf2 = df2[df2["ID"]==pid]
+        author = thisdf2["作者"].values[0]
+        if pd.notna(author):
+            author = str(author).split(",")[0]
+            author = delauname(author)
+        else:
+            author = "unknow"
+        cid = thisdf2["cid"].values[0]
+        ## 查询cid
+        # sql = f"select c_personid from biog_main where \
+        #         c_name_chn = '{author}'"
+        # out = select("",sql)
+        # if out:
+        #     cid = out[0]["c_personid"]
+        #     df2.at[thisdf2.index,"cid"] = cid
+        # else:
+        #     cid = "unknow"
+        #     df2.at[thisdf2.index,"cid"] = "unknow"
         plist.append({
             "paintingname":row["品名"],
-            "pid":row["pid"]
+            "pid":row["pid"],
+            "author":author,
+            "cid":cid
         })
+    # df2.to_excel("authorinfo/pid_author2.xlsx",index=False)
     return plist
 
 
@@ -651,7 +674,7 @@ def trytry():
 
 if __name__ == '__main__':
     # print(changeyz("101",["101_12__0"],[523]))
-    print(authorlist("894"))
+    paintinglist()
     # trytry()
     # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))
