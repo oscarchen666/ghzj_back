@@ -58,6 +58,7 @@ def paintinglist():
         plist.append({
             "paintingname":row["品名"],
             "pid":row["pid"],
+            "id":row["work_id"],
             "author":author,
             "cid":cid
         })
