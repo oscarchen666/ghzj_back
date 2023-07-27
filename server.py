@@ -32,7 +32,7 @@ def ner_search(pid):
 
 def paintinglist():
     # 获取全部画作列表
-    df = pd.read_excel("data\paintinglist.xlsx")
+    df = pd.read_excel("data/paintinglist.xlsx")
     plist = []
     for index,row in df.iterrows():
         plist.append({
@@ -84,21 +84,30 @@ def ciyun(pid):
     }
     return cyres
 
-def aullistbydy(oldres):
-    # 把作者列表转为按朝代分类
+def aullistbydy(oldres,pid):
+    # 把作者列表转为按朝代分类并添加印章坐标信息
     dylist=list(set([oldres[au]["朝代"] for au in oldres]))
     newres={
         "dylist":dylist,
         "aulist":{dy:[] for dy in dylist}
     }
+    yzaudf = pd.read_excel("authorinfo/yzres.xlsx")
+    yzaudf = yzaudf[yzaudf["pid"]==int(pid)]
+    yzaudf['处理人名'] = yzaudf['top1_作者'].apply(delauname) 
     for au in oldres:
+        yzdf = yzaudf[yzaudf["处理人名"]==au]
+        yzlist=[
+            {"file": row["yinzhang_img"],"indx":row["indx"],"indy":row["indy"]}
+            for _,row in yzdf.iterrows()
+        ]
         info={
             "姓名":au,
             "本幅": int(oldres[au]["本幅"]),
             "总数": int(oldres[au]["总数"]),
             "cid":str(oldres[au]["cid"]),
             "aid":oldres[au]["aid"],
-            "作者": oldres[au]["作者"]
+            "作者": oldres[au]["作者"],
+            "印章列表":yzlist 
         }
         newres["aulist"][oldres[au]["朝代"]].append(info)
     return newres
@@ -109,7 +118,7 @@ def authorlist(pid):
     if os.path.exists(save_path):
         with open(save_path,"r",encoding="UTF8")as f:
             result = json.load(f)
-        return aullistbydy(result)
+        return aullistbydy(result,pid)
     
     yzdf = pd.read_excel("authorinfo/yzres.xlsx")
     with open("data/画作鉴藏统计5.json","r",encoding="UTF8") as f:
@@ -176,7 +185,7 @@ def authorlist(pid):
         
     # 按朝代归类
 
-    return aullistbydy(result)
+    return aullistbydy(result,pid)
 
 def lianxian(pid,name):
     # 作者和词云、图像连线
@@ -641,7 +650,8 @@ def trytry():
     
 
 if __name__ == '__main__':
-    print(changeyz("101",["101_12__0"],[523]))
+    # print(changeyz("101",["101_12__0"],[523]))
+    print(authorlist("894"))
     # trytry()
     # print(yinzhang("894"))
     # print(onepernameinfo("孟頫",stype="aid"))
