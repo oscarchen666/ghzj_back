@@ -363,6 +363,7 @@ def image(imgid,imgtype):
     pppath = "../../../../data/zw_12121193/seals/seal_koutu/{}"
     hxpath = "../../data/ChinesePainting/seals_sslib_qiepian/{}"
     hzpath = "../../data/ChinesePainting/juan_changtu_yuantu/{}"
+    xtpath = "../../data/ChinesePainting/juan_seamcarving_changtu_seamcarving_4500x2_1000_fenge/{}"
     if imgtype=="截图" :fullpath = jtpath.format(imgid)
     elif imgtype=="匹配":fullpath = pppath.format(imgid)
     elif imgtype=="画作":
@@ -371,6 +372,10 @@ def image(imgid,imgtype):
         ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
         fullpath = hzpath.format(ppid)
     elif imgtype=="画心":fullpath = hxpath.format(imgid)
+    elif imgtype=="新图":
+        yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
+        ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
+        fullpath = xtpath.format(imgid)
     print(fullpath)
     img = imgexists(fullpath)
     return img
