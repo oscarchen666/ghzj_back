@@ -364,20 +364,37 @@ def image(imgid,imgtype):
     hxpath = "../../data/ChinesePainting/seals_sslib_qiepian/{}"
     hzpath = "../../data/ChinesePainting/juan_changtu_yuantu/{}"
     xtpath = "../../data/ChinesePainting/juan_seamcarving_changtu_seamcarving_4500x2_1000_fenge/{}"
-    if imgtype=="截图" :fullpath = jtpath.format(imgid)
-    elif imgtype=="匹配":fullpath = pppath.format(imgid)
+    if imgtype=="截图" :
+        fullpath = jtpath.format(imgid)
+        print(fullpath)
+        img = imgexists(fullpath)
+    elif imgtype=="匹配":
+        fullpath = pppath.format(imgid)
+        print(fullpath)
+        img = imgexists(fullpath)
     elif imgtype=="画作":
         # 根据pid找paintingID
         yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
         ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
         fullpath = hzpath.format(ppid)
-    elif imgtype=="画心":fullpath = hxpath.format(imgid)
+        print(fullpath)
+        img = imgexists(fullpath)
+    elif imgtype=="画心":
+        fullpath = hxpath.format(imgid)
+        print(fullpath)
+        img = imgexists(fullpath)
     elif imgtype=="新图":
         yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
         ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
-        fullpath = xtpath.format(imgid)
-    print(fullpath)
-    img = imgexists(fullpath)
+        ppid1 = str(ppid)+"_1"
+        fullpath1 = xtpath.format(ppid1)
+        print(fullpath1)
+        img1 = imgexists(fullpath1)
+        ppid2 = str(ppid)+"_2"
+        fullpath2 = xtpath.format(ppid2)
+        print(fullpath2)
+        img2 = imgexists(fullpath2)
+        img = [img1,img2]
     return img
 
 def coor(x,y):
