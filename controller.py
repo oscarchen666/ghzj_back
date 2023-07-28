@@ -1,5 +1,6 @@
 from flask import Flask,url_for, redirect,request
 from flask_cors import CORS, cross_origin
+from prometheus_flask_exporter import PrometheusMetrics
 import json
 import os
 
@@ -13,6 +14,7 @@ from tool import makecname2id
 app = Flask("ghzj_backend")
 app.config['JSON_AS_ASCII'] = False
 CORS(app)
+metrics = PrometheusMetrics(app) 
  
 @app.route('/')
 @cross_origin(allow_headers="*")
@@ -213,4 +215,4 @@ def getcid2name():
 
  
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=28081, debug = True)
+    app.run(host="0.0.0.0", port=28081, debug = True)    
