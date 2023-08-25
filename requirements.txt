@@ -5,5 +5,4 @@ opencc
 openpyxl
 torch 
 torchvision 
-torchaudio
-prometheus-flask-exporter  
+torchaudio 

@@ -1,6 +1,5 @@
 from flask import Flask,url_for, redirect,request
 from flask_cors import CORS, cross_origin
-from prometheus_flask_exporter import PrometheusMetrics
 import json
 import os
 
@@ -14,7 +13,7 @@ from tool import makecname2id
 app = Flask("ghzj_backend")
 app.config['JSON_AS_ASCII'] = False
 CORS(app)
-metrics = PrometheusMetrics(app) 
+# metrics = PrometheusMetrics(app) 
  
 @app.route('/')
 @cross_origin(allow_headers="*")
