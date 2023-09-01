@@ -359,11 +359,11 @@ def image(imgid,imgtype):
     # pppath = "../../../jiaailing/data/ChinesePainting/seals/{}"
     # hxpath = "../../../jiaailing/data/ChinesePainting/seals_sslib_qiepian/{}"
     # hzpath = "../../../jiaailing/data/ChinesePainting/juan_changtu_height1000_chang9000yishang/{}"
-    jtpath = "../../data/ChinesePainting/yinzhang/{}"
-    pppath = "../../../../data/zw_12121193/seals/seal_koutu/{}"
-    hxpath = "../../data/ChinesePainting/seals_sslib_qiepian/{}"
-    hzpath = "../../data/ChinesePainting/juan_changtu_yuantu/{}"
-    xtpath = "../../data/ChinesePainting/juan_seamcarving_changtu_seamcarving_4500x2_1000_fenge/{}"
+    jtpath = "../data/ChinesePainting/yinzhang/{}"
+    pppath = "../data/Chinese_Painting/seal_128/{}"
+    hxpath = "../data/ChinesePainting/seals_sslib_qiepian_300/{}"
+    hzpath = "../data/ChinesePainting/juan_changtu_yuantu/{}"
+    xtpath = "../data/ChinesePainting/juan_seamcarving_changtu_seamcarving_4500x2_1000_fenge/{}"
     if imgtype=="截图" :
         fullpath = jtpath.format(imgid)
         print(fullpath)
