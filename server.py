@@ -362,7 +362,7 @@ def image(imgid,imgtype):
     jtpath = "/home/ecs-user/data/Chinese_Painting/yinzhang/{}"
     pppath = "/home/ecs-user/data/Chinese_Painting/seal_128/{}"
     hxpath = "/home/ecs-user/data/Chinese_Painting/seals_sslib_qiepian_300/{}"
-    hzpath = "/home/ecs-user/data/Chinese_Painting/juan_changtu_yuantu{}"
+    hzpath = "/home/ecs-user/data/Chinese_Painting/juan_changtu_yuantu/{}"
     xtpath = "/home/ecs-user/data/Chinese_Painting/juan_seamcarving_changtu_seamcarving_4500x2_1000_fenge/{}"
     if imgtype=="截图" :
         fullpath = jtpath.format(imgid)
