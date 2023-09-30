@@ -1,4 +1,4 @@
-from flask import Flask,url_for, redirect,request
+from flask import Flask,url_for, redirect,request,Blueprint
 from flask_cors import CORS, cross_origin
 import json
 import os
@@ -11,16 +11,17 @@ from tool import makecname2id
 # from ner.findperson import searchfen
 
 app = Flask("ghzj_backend")
-app.config['JSON_AS_ASCII'] = False
-CORS(app)
+backend_bp = Blueprint('backend', __name__, url_prefix='/backend')      
+app.config['JSON_AS_ASCII'] = False  
+CORS(app)  
 # metrics = PrometheusMetrics(app) 
  
-@app.route('/')
+@backend_bp.route('/')
 @cross_origin(allow_headers="*")
 def hello():
     return "<p>Hello, World!</p>"
 
-@app.route('/resultner/<pid>', methods=['GET'])
+@backend_bp.route('/resultner/<pid>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def resultner(pid):
     # 根据画作id直接取生成好的ner结果
@@ -33,7 +34,7 @@ def resultner(pid):
     
     return redirect(url_for('newner',pid=pid))
 
-@app.route('/newner/<pid>', methods=['GET'])
+@backend_bp.route('/newner/<pid>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def newner(pid):
     # 根据画作id生成ner结果
@@ -44,14 +45,14 @@ def newner(pid):
         return R.ok(data["sentences"])
     return R.erro2()
 
-@app.route('/getpaintinglist', methods=['GET'])
+@backend_bp.route('/getpaintinglist', methods=['GET'])
 @cross_origin(allow_headers="*")
 def getpaintinglist():
     # 获取全部画作列表（画作名+pid）
     plist = paintinglist()
     return R.ok(plist)
 
-@app.route('/getciyun/<pid>', methods=['GET'])
+@backend_bp.route('/getciyun/<pid>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def getciyun(pid):
     # 词云数据
@@ -61,7 +62,7 @@ def getciyun(pid):
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getauthorlist/<pid>", methods=['GET'])
+@backend_bp.route("/getauthorlist/<pid>", methods=['GET'])
 @cross_origin(allow_headers="*")
 def getauthorlist(pid):
     # 印章题跋作者列表
@@ -71,7 +72,7 @@ def getauthorlist(pid):
         return R.ok(result)
     return R.erro2()
 
-@app.route('/getlines/<pid>/<name>', methods=['GET'])
+@backend_bp.route('/getlines/<pid>/<name>', methods=['GET'])
 @cross_origin(allow_headers="*")
 def getlines(pid,name):
     #作者和词云、图像连线数据
@@ -81,7 +82,7 @@ def getlines(pid,name):
         return R.ok(result)
     return R.erro2()
 
-@app.route('/getgaoliang/<pid>/<name>/<type>', methods=['GET','POST'])
+@backend_bp.route('/getgaoliang/<pid>/<name>/<type>', methods=['GET','POST'])
 @cross_origin(allow_headers="*")
 def getgaoliang(pid,name,type):
     # 词云和题跋之间高亮关联
@@ -91,7 +92,7 @@ def getgaoliang(pid,name,type):
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getauinfoscore/<pid>", methods=['GET'])
+@backend_bp.route("/getauinfoscore/<pid>", methods=['GET'])
 @cross_origin(allow_headers="*")
 def getauinfoscore(pid):
     # 作者生卒年和得分
@@ -102,14 +103,14 @@ def getauinfoscore(pid):
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getyinzhanglist/<pid>", methods=['GET'])
+@backend_bp.route("/getyinzhanglist/<pid>", methods=['GET'])
 @cross_origin(allow_headers="*")
 def getyinzhanglist(pid):
     # 印章列表
     result = yinzhang(pid)
     return R.ok(result)
 
-@app.route("/changeyinzhang", methods=['GET'])
+@backend_bp.route("/changeyinzhang", methods=['GET'])
 @cross_origin(allow_headers="*")
 def changeyinzhang():
     # 更改印章匹配结果
@@ -121,7 +122,7 @@ def changeyinzhang():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getimg",methods=['GET',"POST"])
+@backend_bp.route("/getimg",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
 def getimg():
     imgid = request.args.get("imgid")
@@ -131,7 +132,7 @@ def getimg():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getcoor",methods=['GET',"POST"])
+@backend_bp.route("/getcoor",methods=['GET',"POST"])
 @cross_origin(allow_headers="*")
 def getcoor():
     x=int(request.args.get("x"))
@@ -141,13 +142,13 @@ def getcoor():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/gethuaxin/<pid>",methods=['GET'])
+@backend_bp.route("/gethuaxin/<pid>",methods=['GET'])
 @cross_origin(allow_headers="*")
 def gethuaxin(pid):
     result=huaxininfo(pid)
     return R.ok(result)
 
-@app.route("/getpersonnet", methods=['GET'])
+@backend_bp.route("/getpersonnet", methods=['GET'])
 @cross_origin(allow_headers="*")
 def getpersonnet():
     # 查询和该人物相关的关系图谱
@@ -155,7 +156,7 @@ def getpersonnet():
     result = personnet(cid)
     return R.ok(result)
 
-@app.route("/getpersonmatrix",methods=['GET'])
+@backend_bp.route("/getpersonmatrix",methods=['GET'])
 @cross_origin(allow_headers="*")
 def getpersonmatrix():
     # 查询人物列表之间的关系以及人物信息
@@ -173,7 +174,7 @@ def getpersonmatrix():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getpersonscore", methods=["GET"])
+@backend_bp.route("/getpersonscore", methods=["GET"])
 @cross_origin(allow_headers="*")
 def getpersonscore():
     # 查询人物关系计算得分
@@ -191,7 +192,7 @@ def getpersonscore():
         return R.ok(result)
     return R.erro2(msg ="请先请求/getauthorlist/")
 
-@app.route("/getonestringinfo", methods=["GET"])
+@backend_bp.route("/getonestringinfo", methods=["GET"])
 @cross_origin(allow_headers="*")
 def getonestringinfo():
     # 用名字查询可能的人物
@@ -202,7 +203,7 @@ def getonestringinfo():
         return R.ok(result)
     return R.erro2()
 
-@app.route("/getcid2name", methods=["GET"])
+@backend_bp.route("/getcid2name", methods=["GET"])
 @cross_origin(allow_headers="*")
 def getcid2name():
     # cid查询人名
@@ -214,4 +215,6 @@ def getcid2name():
 
  
 if __name__ == '__main__':
+    # 蓝图注册需要写在视图函数之后
+    app.register_blueprint(backend_bp)
     app.run(host="0.0.0.0", port=28081, debug = True)    
