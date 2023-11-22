@@ -1,0 +1,575 @@
+{
+  "filefroms": "30000.json",
+  "sentences": [
+    {
+      "author": "文徵明",
+      "output": [
+        {
+          "end": 1,
+          "span": "君",
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 13,
+          "span": "中洲",
+          "start": 11,
+          "type": "Location"
+        },
+        {
+          "end": 27,
+          "span": "桂舟",
+          "start": 25,
+          "type": "Thing"
+        },
+        {
+          "end": 38,
+          "span": "江水",
+          "start": 36,
+          "type": "Thing"
+        },
+        {
+          "end": 45,
+          "span": "夫君",
+          "start": 43,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "span": "飞龙",
+          "start": 57,
+          "type": "Thing"
+        },
+        {
+          "end": 69,
+          "span": "洞庭",
+          "start": 67,
+          "type": "Location"
+        },
+        {
+          "end": 73,
+          "span": "荔柏",
+          "start": 71,
+          "type": "Thing"
+        },
+        {
+          "end": 76,
+          "span": "蕙绸",
+          "start": 74,
+          "type": "Thing"
+        },
+        {
+          "end": 82,
+          "span": "兰旌",
+          "start": 80,
+          "type": "Thing"
+        },
+        {
+          "end": 86,
+          "span": "涔阳",
+          "start": 84,
+          "type": "Location"
+        },
+        {
+          "end": 93,
+          "span": "大江",
+          "start": 91,
+          "type": "Thing"
+        },
+        {
+          "end": 106,
+          "span": "女婵媛",
+          "start": 103,
+          "type": "Person"
+        },
+        {
+          "end": 122,
+          "span": "君",
+          "start": 121,
+          "type": "Person"
+        },
+        {
+          "end": 128,
+          "span": "桂棹",
+          "start": 126,
+          "type": "Thing"
+        },
+        {
+          "end": 134,
+          "span": "冰",
+          "start": 133,
+          "type": "Thing"
+        },
+        {
+          "end": 137,
+          "span": "积雪",
+          "start": 135,
+          "type": "Thing"
+        },
+        {
+          "end": 141,
+          "span": "薜荔",
+          "start": 139,
+          "type": "Thing"
+        },
+        {
+          "end": 144,
+          "span": "水中",
+          "start": 142,
+          "type": "Location"
+        },
+        {
+          "end": 148,
+          "span": "芙蓉",
+          "start": 146,
+          "type": "Thing"
+        },
+        {
+          "end": 151,
+          "span": "木末",
+          "start": 149,
+          "type": "Thing"
+        },
+        {
+          "end": 168,
+          "span": "石濑",
+          "start": 166,
+          "type": "Thing"
+        },
+        {
+          "end": 174,
+          "span": "飞龙",
+          "start": 172,
+          "type": "Thing"
+        },
+        {
+          "end": 201,
+          "span": "江皋",
+          "start": 199,
+          "type": "Location"
+        },
+        {
+          "end": 210,
+          "span": "鸟",
+          "start": 209,
+          "type": "Thing"
+        },
+        {
+          "end": 214,
+          "span": "屋上",
+          "start": 212,
+          "type": "Location"
+        },
+        {
+          "end": 216,
+          "span": "水",
+          "start": 215,
+          "type": "Thing"
+        },
+        {
+          "end": 220,
+          "span": "堂下",
+          "start": 218,
+          "type": "Location"
+        },
+        {
+          "end": 227,
+          "span": "江中",
+          "start": 225,
+          "type": "Location"
+        },
+        {
+          "end": 234,
+          "span": "醴浦",
+          "start": 232,
+          "type": "Location"
+        }
+      ],
+      "sentence": "君不行兮夷犹，蹇谁留兮中洲？美要眇兮宜修，沛吾乘兮桂舟。令沅湘兮无波，使江水兮安流。望夫君兮未来，吹参差兮谁思？驾飞龙兮北征，邅吾道兮洞庭。薜荔柏兮蕙绸，荪桡兮兰旌。望涔阳兮极浦，横大江兮扬灵。扬灵兮未极，女婵媛兮为余太息。横流涕兮潺湲，隐思君兮陫侧。桂棹兮兰枻，斵冰兮积雪。采薜荔兮水中，搴芙蓉兮木末。心不同兮媒劳，恩不甚兮轻绝。石濑兮浅浅，飞龙兮翩翩。交不忠兮怨长，期不信兮告余以不闲。朝骋骛兮江皋，夕弭节兮北渚。鸟次兮屋上，水周兮堂下。捐余玦兮江中，遗余佩兮醴浦。采芳洲兮杜若，将以遗兮下女。时不可兮再得，聊逍遥兮容与。"
+    },
+    {
+      "author": "文徵明",
+      "output": [
+        {
+          "end": 2,
+          "span": "帝子",
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 6,
+          "span": "北渚",
+          "start": 4,
+          "type": "Location"
+        },
+        {
+          "end": 19,
+          "span": "秋风",
+          "start": 17,
+          "type": "Thing"
+        },
+        {
+          "end": 23,
+          "span": "洞庭波",
+          "start": 20,
+          "type": "Thing"
+        },
+        {
+          "end": 26,
+          "span": "木叶",
+          "start": 24,
+          "type": "Thing"
+        },
+        {
+          "end": 31,
+          "span": "白薠",
+          "start": 29,
+          "type": "Thing"
+        },
+        {
+          "end": 43,
+          "span": "鸟",
+          "start": 42,
+          "type": "Thing"
+        },
+        {
+          "end": 50,
+          "span": "罾",
+          "start": 49,
+          "type": "Thing"
+        },
+        {
+          "end": 55,
+          "span": "木上",
+          "start": 53,
+          "type": "Location"
+        },
+        {
+          "end": 57,
+          "span": "沅",
+          "start": 56,
+          "type": "Thing"
+        },
+        {
+          "end": 59,
+          "span": "芷",
+          "start": 58,
+          "type": "Thing"
+        },
+        {
+          "end": 63,
+          "span": "兰",
+          "start": 62,
+          "type": "Thing"
+        },
+        {
+          "end": 67,
+          "span": "公子",
+          "start": 65,
+          "type": "Person"
+        },
+        {
+          "end": 81,
+          "span": "流水",
+          "start": 79,
+          "type": "Thing"
+        },
+        {
+          "end": 86,
+          "span": "麋",
+          "start": 85,
+          "type": "Thing"
+        },
+        {
+          "end": 91,
+          "span": "庭中",
+          "start": 89,
+          "type": "Location"
+        },
+        {
+          "end": 93,
+          "span": "蛟",
+          "start": 92,
+          "type": "Thing"
+        },
+        {
+          "end": 103,
+          "span": "余马",
+          "start": 101,
+          "type": "Thing"
+        },
+        {
+          "end": 116,
+          "span": "佳人",
+          "start": 114,
+          "type": "Person"
+        },
+        {
+          "end": 132,
+          "span": "水中",
+          "start": 130,
+          "type": "Location"
+        },
+        {
+          "end": 138,
+          "span": "荷盖",
+          "start": 136,
+          "type": "Thing"
+        },
+        {
+          "end": 141,
+          "span": "荪壁",
+          "start": 139,
+          "type": "Thing"
+        },
+        {
+          "end": 144,
+          "span": "紫坛",
+          "start": 142,
+          "type": "Thing"
+        },
+        {
+          "end": 148,
+          "span": "芳椒",
+          "start": 146,
+          "type": "Thing"
+        },
+        {
+          "end": 154,
+          "span": "桂栋",
+          "start": 152,
+          "type": "Thing"
+        },
+        {
+          "end": 157,
+          "span": "兰橑",
+          "start": 155,
+          "type": "Thing"
+        },
+        {
+          "end": 161,
+          "span": "辛夷楣",
+          "start": 158,
+          "type": "Thing"
+        },
+        {
+          "end": 164,
+          "span": "药房",
+          "start": 162,
+          "type": "Thing"
+        },
+        {
+          "end": 181,
+          "span": "白玉",
+          "start": 179,
+          "type": "Thing"
+        },
+        {
+          "end": 188,
+          "span": "疏石兰",
+          "start": 185,
+          "type": "Thing"
+        },
+        {
+          "end": 197,
+          "span": "荷屋",
+          "start": 195,
+          "type": "Thing"
+        },
+        {
+          "end": 207,
+          "span": "百草",
+          "start": 205,
+          "type": "Thing"
+        },
+        {
+          "end": 231,
+          "span": "云",
+          "start": 230,
+          "type": "Thing"
+        },
+        {
+          "end": 238,
+          "span": "江中",
+          "start": 236,
+          "type": "Location"
+        },
+        {
+          "end": 245,
+          "span": "澧浦",
+          "start": 243,
+          "type": "Location"
+        },
+        {
+          "end": 249,
+          "span": "汀洲",
+          "start": 247,
+          "type": "Location"
+        }
+      ],
+      "sentence": "帝子降兮北渚，目眇眇兮愁予。嫋嫋兮秋风，洞庭波兮木叶下。登白薠兮骋望，与佳期兮夕张。鸟何萃兮蘋中，罾何为兮木上？沅有芷兮澧有兰，思公子兮未敢言。荒忽兮远望，观流水兮潺湲。麋何食兮庭中？蛟何为兮水裔？朝驰余马兮江皋，夕济兮西澨。闻佳人兮召予，将腾驾兮偕逝。筑室兮水中，葺之兮荷盖。荪壁兮紫坛，播芳椒兮成堂。桂栋兮兰橑，辛夷楣兮药房。罔薜荔兮为帷，擗蕙櫋兮既张。白玉兮为镇，疏石兰兮为芳。芷葺兮荷屋，缭之兮杜衡。合百草兮实庭，建芳馨兮庑门。九嶷缤兮并迎，灵之来兮如云。捐余袂兮江中，遗余褋兮澧浦。搴汀洲兮杜若，将以遗兮远者。时不可兮骤得，聊逍遥兮容与。"
+    },
+    {
+      "author": "文徵明",
+      "output": [
+        {
+          "end": 3,
+          "span": "少时",
+          "start": 1,
+          "type": "Time"
+        },
+        {
+          "end": 7,
+          "span": "赵魏公",
+          "start": 4,
+          "type": "Person"
+        },
+        {
+          "end": 11,
+          "span": "湘君",
+          "start": 9,
+          "type": "Person"
+        },
+        {
+          "end": 15,
+          "span": "湘夫人",
+          "start": 12,
+          "type": "Person"
+        },
+        {
+          "end": 30,
+          "span": "石田先生",
+          "start": 26,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "span": "二十年",
+          "start": 41,
+          "type": "Time"
+        },
+        {
+          "end": 51,
+          "span": "娥皇",
+          "start": 49,
+          "type": "Person"
+        },
+        {
+          "end": 54,
+          "span": "女英",
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 78,
+          "span": "赵工",
+          "start": 76,
+          "type": "Person"
+        },
+        {
+          "end": 89,
+          "span": "钱舜举",
+          "start": 86,
+          "type": "Person"
+        },
+        {
+          "end": 93,
+          "span": "石翁",
+          "start": 91,
+          "type": "Person"
+        }
+      ],
+      "sentence": "余少时阅赵魏公所画湘君、湘夫人，行墨设色，皆极高古。石田先生命余临之。余谢不敢。今二十年矣，偶见画娥皇、女英者，顾作唐妆，虽极精古工，而古意略尽。因仿佛赵工为此，而设色则师钱舜举，惜石翁不存，无从请益也。衡山文徵明记。"
+    },
+    {
+      "author": "文嘉",
+      "output": [
+        {
+          "end": 2,
+          "span": "先君",
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 10,
+          "span": "四十八岁",
+          "start": 6,
+          "type": "Metric"
+        },
+        {
+          "end": 32,
+          "span": "六十",
+          "start": 30,
+          "type": "Metric"
+        },
+        {
+          "end": 39,
+          "span": "藏者",
+          "start": 37,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "span": "万历六年七月",
+          "start": 44,
+          "type": "Time"
+        },
+        {
+          "end": 53,
+          "span": "子嘉",
+          "start": 51,
+          "type": "Person"
+        }
+      ],
+      "sentence": "先君写此时甫四十八岁，故用笔设色之精。非他幅可拟。追数当时已六十二寒暑矣，藏者其宝惜之。万历六年七月仲子嘉题"
+    },
+    {
+      "author": "王稺登",
+      "output": [
+        {
+          "end": 6,
+          "span": "侍文太史",
+          "start": 2,
+          "type": "Person"
+        },
+        {
+          "end": 17,
+          "span": "仇实父",
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 23,
+          "span": "纸",
+          "start": 22,
+          "type": "Thing"
+        },
+        {
+          "end": 39,
+          "span": "王履吉先生",
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 45,
+          "span": "三十年",
+          "start": 42,
+          "type": "Time"
+        },
+        {
+          "end": 63,
+          "span": "仇英辈",
+          "start": 60,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "span": "王稺登",
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "sentence": "少尝侍文太史，谈及此图云，使仇实父设色，两易纸皆不满意，乃自设之以赠王履吉先生，今更三十年始独观此真迹，诚然笔力扛鼎，非仇英辈所得梦见也。王稺登题。"
+    }
+  ]
+}

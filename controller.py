@@ -127,8 +127,9 @@ def changeyinzhang():
 def getimg():
     imgid = request.args.get("imgid")
     imgtype = request.args.get("imgtype")
+    quality = request.args.get("quality")
     if imgtype in ["截图","匹配","画作","画心","新图"]:
-        result = image(imgid,imgtype)
+        result = image(imgid,imgtype,quality)
         return R.ok(result)
     return R.erro2()
 

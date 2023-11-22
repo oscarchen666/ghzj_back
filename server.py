@@ -352,7 +352,7 @@ def changeyz(pid, yinzhang_imgs, change_yzids):
     authorlist(pid)
     return f"{pid}画作修改成功！"
 
-def image(imgid,imgtype):
+def image(imgid,imgtype,quality):
     # 返回对应的图
     # 印章截图地址和印章匹配图地址
     # jtpath = "../../../jiaailing/data/ChinesePainting/yinzhang/{}"
@@ -367,33 +367,33 @@ def image(imgid,imgtype):
     if imgtype=="截图" :
         fullpath = jtpath.format(imgid)
         print(fullpath)
-        img = imgexists(fullpath)
+        img = imgexists(fullpath,quality)
     elif imgtype=="匹配":
         fullpath = pppath.format(imgid)
         print(fullpath)
-        img = imgexists(fullpath)
+        img = imgexists(fullpath,quality)
     elif imgtype=="画作":
         # 根据pid找paintingID
         yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
         ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
         fullpath = hzpath.format(ppid)
         print(fullpath)
-        img = imgexists(fullpath)
+        img = imgexists(fullpath,quality)
     elif imgtype=="画心":
         fullpath = hxpath.format(imgid)
         print(fullpath)
-        img = imgexists(fullpath)
+        img = imgexists(fullpath,quality)
     elif imgtype=="新图":
         yzdf=pd.read_excel("authorinfo/pid_author.xlsx")
         ppid = yzdf[yzdf["ID"]==int(imgid)]["PaintingId"].values[0]
         ppid1 = str(ppid)+"_1"
         fullpath1 = xtpath.format(ppid1)
         print(fullpath1)
-        img1 = imgexists(fullpath1)
+        img1 = imgexists(fullpath1,quality)
         ppid2 = str(ppid)+"_2"
         fullpath2 = xtpath.format(ppid2)
         print(fullpath2)
-        img2 = imgexists(fullpath2)
+        img2 = imgexists(fullpath2,quality)
         img = [img1,img2]
     return img
 
@@ -475,7 +475,14 @@ def huaxininfo(pid):
     
 def personnet(cid):
     # 查询和该人物相关的关系图谱
-    result= reladto.select_one_person(cid)
+    resultfile = f"data/personnet/{cid}.json"
+    if os.path.exists(resultfile):
+        with open(resultfile, "r",encoding="UTF8") as f:
+            result = json.load(f)
+    else:
+        result= reladto.select_one_person(cid)
+        with open(resultfile, "w",encoding="UTF8") as f:
+             json.dump(result, f,indent=2, ensure_ascii=False)
     return result
 
 def personmatrix(pid,cname2id):

@@ -164,10 +164,12 @@ if __name__ == '__main__':
     # 单文件预处理
     # filefroms = ["1035.json"]
     # filefroms = ["25.json", "91.json"]
+    filelist = ["30000.json"]
 
-    df = pd.read_excel("data/paintinglist.xlsx")
-    pidlist = df["pid"].tolist()
-    filelist = [str(pid)+".json" for pid in pidlist]
+    # 批量处理
+    # df = pd.read_excel("data/paintinglist.xlsx")
+    # pidlist = df["pid"].tolist()
+    # filelist = [str(pid)+".json" for pid in pidlist]
     filefroms = []
     # 提取文件
     for file in filelist:

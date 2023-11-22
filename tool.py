@@ -1,11 +1,14 @@
 import os
+import io
 import re
 import sqlite3
 import json
 import numpy as np
 import pandas as pd
 import opencc
+from PIL import Image 
 cc = opencc.OpenCC("s2t")
+
 # ddb数据
 with open("data/ddbc/ddbc_name2aid.json","r",encoding="utf8") as f:
     ddbc_name2aid = json.load(f)
@@ -40,7 +43,7 @@ def select(dbpath,sql_str):
     output = c.fetchall()
     return output
 
-def return_img_stream(img_local_path):
+def return_img_stream(img_local_path,quality):
     """
     工具函数:
     获取本地图片流
@@ -48,20 +51,28 @@ def return_img_stream(img_local_path):
     :return: 图片流
     """
     import base64
-    img_stream = ''
-    with open(img_local_path, 'rb') as img_f:
-        img_stream = img_f.read()
-        img_stream = base64.b64encode(img_stream).decode()
+    if quality is not None:  
+        img = Image.open(img_local_path)  
+        img_byte_array = io.BytesIO()  
+        img.save(img_byte_array, format='PNG', quality=quality)  
+        img_stream = base64.b64encode(img_byte_array.getvalue()).decode()  
+    else:    
+        img_stream = ''
+        with open(img_local_path, 'rb') as img_f:
+            img_stream = img_f.read()
+            # 创建一个字节流  
+            img_stream = base64.b64encode(img_stream).decode()
     return img_stream
 
-def imgexists(fullpath):
+def imgexists(fullpath,quality):
     # 图片找不到时用空白图替代
     if os.path.exists(fullpath+".png"):
-        return {"note":"png","streamimg":return_img_stream(fullpath+".png")}
+        return {"note":"png","streamimg":return_img_stream(fullpath+".png",quality)}
     elif os.path.exists(fullpath+".jpg"):
-        return {"note":"jpg","streamimg":return_img_stream(fullpath+".jpg")}
+        return {"note":"jpg","streamimg":return_img_stream(fullpath+".jpg",quality)}
     # return "这里是图片"
-    return {"note":fullpath+"暂缺","streamimg":return_img_stream("data/暂缺.png")}
+    return {"note":fullpath+"暂缺","streamimg":return_img_stream("1.jpg",quality)}
+    # return {"note":fullpath+"暂缺","streamimg":return_img_stream("data/暂缺.png")}
 
 def makecname2id(addnames,addcids):
     # 新增人物列表预处理
