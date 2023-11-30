@@ -72,7 +72,7 @@ def imgexists(fullpath,quality):
         return {"note":"jpg","streamimg":return_img_stream(fullpath+".jpg",quality)}
     # return "这里是图片"
     # return {"note":fullpath+"暂缺","streamimg":return_img_stream("1.jpg",quality)}
-    return {"note":fullpath+"暂缺","streamimg":return_img_stream("data/暂缺.png")}
+    return {"note":fullpath+"暂缺","streamimg":return_img_stream("data/暂缺.png",quality)}
 
 def makecname2id(addnames,addcids):
     # 新增人物列表预处理
